@@ -66,19 +66,19 @@ https://warm-waters-56641.herokuapp.com/hls/2a3469fcd2ce57ad8b6be50497f081b4/150
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/www.rokuchannels.tv/wp-content/uploads/2013/12/ae.jpg" group-title="USA",A+E [Off]
 http://46.105.82.149/hls/7fef9fed14bdb8b61c53dddd2f0aa368/1504869424/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3138302e31352e38392f7032702f62623338643930343862376239313730363236343136396130333166333261342e6d3375383f73743d49492d4462344253537372456c55386962787844337726653d31353034383833383234.m3u8?time=1504840848110
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="USA",AMC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="USA",AMC [Off]
 https://freeeucache3.streamlive.to/live/z4cxm7zlfyqs65m/index.m3u8?st=glktrb96CMVtq_w95RJ5mA&expires=1505449340
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" group-title="USA",Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0059141.jpeg" group-title="USA",BET
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0059141.jpeg" group-title="USA",BET [Off]
 https://freeeucache3.streamlive.to/live/kexkxje3nqi6dtl/index.m3u8?st=iDBL5J7CFdhD9sL6Ig8Z7Q&expires=1505447532
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/2000px-Bravo_TV.svg.png" group-title="USA",Bravo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/2000px-Bravo_TV.svg.png" group-title="USA",Bravo [Off]
 https://freeeucache3.streamlive.to/live/uw433ikqnrj501l/index.m3u8?st=l8r8aHoVsTAUpwvgSDoYgg&expires=1505448553
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" group-title="USA",Discovery Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" group-title="USA",Discovery Channel [Off]
 https://freeeucache3.streamlive.to/live/ishyd3sopok3p27/index.m3u8?st=lvB7kwQj6yCmAH-WlUhoUA&expires=1505449257
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png" group-title="USA",Disney Channel [Off]
