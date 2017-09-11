@@ -210,7 +210,7 @@ http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-xiyVh-oNzJE/AAAAAAAAAAI/AAAAAAAAAAA/5FaR9rGW-F4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="USA",NBC News Live
 http://msnbclive-lh.akamaihd.net/i/msnbc_live01@180610/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/09/FNC2.jpg" group-title="USA",Fox News Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/09/FNC2.jpg" group-title="USA",Fox News Channel [Off]
 https://freeeucache3.streamlive.to/live/ohn58e97er36vjr/index.m3u8?st=7PIqLbTEGt81aZsCST9yLA&expires=1505448996
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg" group-title="USA",Bloomberg TV
