@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="LABEL",< Please Donate
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Sep.08.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Sep.11.2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="LABEL",> Like Us!
@@ -51,10 +51,10 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA TV ~
 http://www.lengua.com/anthems/USA.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cimg.tvgcdn.net/i/2015/05/06/91d45e54-ce5c-40c4-beb3-616b40706f54/47bf7d2f874199d49d328973cd5e9e28/150506-logo-abc-hp-lg.jpg" group-title="USA",ABC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cimg.tvgcdn.net/i/2015/05/06/91d45e54-ce5c-40c4-beb3-616b40706f54/47bf7d2f874199d49d328973cd5e9e28/150506-logo-abc-hp-lg.jpg" group-title="USA",ABC [Off]
 https://freeeucache3.streamlive.to/live/nz7l9vc5nv1og7b/index.m3u8?st=e2DhgteWfHjP-iIt0cHlLw&expires=1505447798
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i1.wp.com/www.mangaforever.net/wp-content/uploads/2017/05/Upfronts2017_CBS.jpg" group-title="USA",CBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i1.wp.com/www.mangaforever.net/wp-content/uploads/2017/05/Upfronts2017_CBS.jpg" group-title="USA",CBS [Off]
 https://freeeucache3.streamlive.to/live/vp4q2gonwzh2dku/index.m3u8?st=fYDtUrWkcizW6nHlZxrnJw&expires=1505448629
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.comcast.com/images/nbc-logo-thumbnail.jpg" group-title="USA",NBC
@@ -81,58 +81,58 @@ https://freeeucache3.streamlive.to/live/uw433ikqnrj501l/index.m3u8?st=l8r8aHoVsT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" group-title="USA",Discovery Channel
 https://freeeucache3.streamlive.to/live/ishyd3sopok3p27/index.m3u8?st=lvB7kwQj6yCmAH-WlUhoUA&expires=1505449257
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png" group-title="USA",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png" group-title="USA",Disney Channel [Off]
 https://freeeucache3.streamlive.to/live/2tag4dzgwof5ma2/index.m3u8?st=QGWnwMiW8q1GWyUXuiXg3Q&expires=1505449216
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yousenditcc.s3.amazonaws.com/networks/Hallmark%20Channel.svg.png" group-title="USA",Hallmark Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yousenditcc.s3.amazonaws.com/networks/Hallmark%20Channel.svg.png" group-title="USA",Hallmark Channel [Off]
 https://freeeucache3.streamlive.to/live/v4ynnryunsoxzbq/index.m3u8?st=LdLv2knq3lJ2p7K-gTqEmw&expires=1505448861
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/HGTV.png" group-title="USA",HGTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/HGTV.png" group-title="USA",HGTV [Off]
 https://freeeucache3.streamlive.to/live/gj65q2rg18tpmut/index.m3u8?st=RhgbO3OuUnPgT70i1K0umA&expires=1505447888
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/07/investigation-discovery-logo.jpg" group-title="USA",Investigation Discovery
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/07/investigation-discovery-logo.jpg" group-title="USA",Investigation Discovery [Off]
 https://freeeucache3.streamlive.to/live/yjma618cibkqxeo/index.m3u8?st=OlJSWiQDPaB0NN6qcEnpbw&expires=1505446838
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="USA",Lifetime
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="USA",Lifetime [Off]
 https://freeeucache3.streamlive.to/live/7b2gr554gyyth8e/index.m3u8?st=GEkTUqouj6Uu0I1VQuddcw&expires=1505446740
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="USA",National Geographic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="USA",National Geographic [Off]
 https://freeeucache3.streamlive.to/live/qzsfigd1y3bgbhs/index.m3u8?st=BAlaezq1SAoMWN_Xwr81Bw&expires=1505448919
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/www.criticalhit.net/images/2017/06/Nick.jpg" group-title="USA",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/www.criticalhit.net/images/2017/06/Nick.jpg" group-title="USA",Nickelodeon [Off]
 https://freeeucache3.streamlive.to/live/64jaber5pjqj2cr/index.m3u8?st=_xmACQ8tsVhgwR_p_b5NEA&expires=1505446614
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part2pictures.com/wp-content/themes/instumedia/img/OWN_Logo_Color.png" group-title="USA",OWN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part2pictures.com/wp-content/themes/instumedia/img/OWN_Logo_Color.png" group-title="USA",OWN [Off]
 https://freeeucache3.streamlive.to/live/uehgy5htiasffj3/index.m3u8?st=L7h7OF9PhOYlGvYokL_0Ng&expires=1505447449
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yousenditcc.s3.amazonaws.com/networks/Spike_logo_2015_w.svg.png" group-title="USA",Spike TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yousenditcc.s3.amazonaws.com/networks/Spike_logo_2015_w.svg.png" group-title="USA",Spike TV [Off]
 https://freeeucache3.streamlive.to/live/sax2mq2alpirnww/index.m3u8?st=EB89w7Zeluo39iLriHfQgw&expires=1505449038
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.starz.com/assets/images/sz-logo-2x.png" group-title="USA",Starz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.starz.com/assets/images/sz-logo-2x.png" group-title="USA",Starz [Off]
 https://freeeucache3.streamlive.to/live/c3qth0qbmnqvya9/index.m3u8?st=1g2Bhe-LOFEvVsaEjdIuPA&expires=1505449096
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2014/01/sundancetv_logo_535x320.jpg" group-title="USA",Sundance TV [Off]
 http://46.105.82.149/hls/74a403330c42a59de527ecb74de039fa/1504869445/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3130322e3231392e3133352f7032702f63353665386338653130393964656132623639636430646335346564376336342e6d3375383f73743d514f544e6567435a3152684a6c53576165346c686a4126653d31353034383833383435.m3u8?time=1504840964514
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="USA",Syfy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="USA",Syfy [Off]
 https://freeeucache3.streamlive.to/live/x7uii7mll2b7lh4/index.m3u8?st=xvttfF5SdeuNLcm4u_NqLw&expires=1505448754
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://legacy.shadowandact.com/wp-content/uploads/2017/05/TBS_logo_2016.svg_.png" group-title="USA",TBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://legacy.shadowandact.com/wp-content/uploads/2017/05/TBS_logo_2016.svg_.png" group-title="USA",TBS [Off]
 https://freeeucache3.streamlive.to/live/eg5v0vdj33ls27r/index.m3u8?st=46FcVHr7z6iSWkavnqOEFg&expires=1505448957
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="USA",TLC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="USA",TLC [Off]
 st=KEJBqu1aPlyEZUH2UKaJJQ&expires=1505448512
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ferroconcrete.com/ferro/assets/uploads/2015/04/tnt_02_logo-1.jpg" group-title="USA",TNT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ferroconcrete.com/ferro/assets/uploads/2015/04/tnt_02_logo-1.jpg" group-title="USA",TNT [Off]
 https://freeeucache3.streamlive.to/live/7uz4als3nigi0j3/index.m3u8?st=PdPwjgmDhCl2K-HVfuuijA&expires=1505446875
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/03/travel-channel-logo-2017.jpg" group-title="USA",Travel Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/03/travel-channel-logo-2017.jpg" group-title="USA",Travel Channel [Off]
 https://freeeucache3.streamlive.to/live/4aiufk0o430qt0d/index.m3u8?st=NmvB0WPYnJHPhDQV6hyumQ&expires=1505447493
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/trutv.jpg" group-title="USA",truTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/trutv.jpg" group-title="USA",truTV [Off]
 https://freeeucache3.streamlive.to/live/uhnr4161ybioa5w/index.m3u8?st=8RjN8IFakzjUuz0GkzVzZw&expires=1505447396
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/usa.png" group-title="USA",USA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/usa.png" group-title="USA",USA [Off]
 https://freeeucache3.streamlive.to/live/h5eovaj1jeegluq/index.m3u8?st=7oJVQKuu6jl-BzYQj1A0NQ&expires=1505448589
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4547.jpg" group-title="USA",D23 TV
