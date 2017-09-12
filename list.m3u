@@ -1624,9 +1624,6 @@ http://62.210.96.18:1935/esteponatv/esteponatv/chunklist_w1331861602.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-Grt64gpUA1w/UZH6VNoXDZI/AAAAAAAAXK4/aOHkzPorWAQ/s1600/etb-sat.png" group-title="SPAIN",ETB Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cepymeweb.com/wp-content/uploads/2016/03/fuengirolatvlogo-1-300x273-1.jpg" group-title="SPAIN",Fuengirola TV
-http://cls2.todostreaming.eu/nerja/livestream/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.catosfera.cat/2016/images/logos/tvgirona.jpg" group-title="SPAIN",Girona TV
 http://tvgirona.dnssw.net:1935/live/Icontouch/playlist.m3u8
 
@@ -1651,7 +1648,7 @@ http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Intereconom%C3%ADa-TV.png" group-title="SPAIN",Intereconomia TV
 http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canalsur.es/resources/archivos_offline/2016/10/5/1475662643049La_Banda_TV_310x226.svg" group-title="SPAIN",La Banda TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sevillaactualidad.com/images/stories/imagen/comunicacion/rtva/labanda-logo-canalsur.jpg" group-title="SPAIN",La Banda TV
 http://cast.streamingconnect.com:1935/cslabanda/cslabanda/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.panoramaaudiovisual.com/wp-content/uploads/2016/04/laSexta_NuevoLogo-325x289.jpg" group-title="SPAIN",La Sexta
