@@ -3552,7 +3552,7 @@ http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i68.tinypic.com/29n9sg4.png" group-title="UAE",Al Dafrah TV
 http://live.aldafrah.tv:1935/live/myStream3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/CNBC_Arabiya.svg/588px-CNBC_Arabiya.svg.png" group-title="UAE",CNBC Arabiya [Off]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/CNBC_Arabiya.svg/588px-CNBC_Arabiya.svg.png" group-title="UAE",CNBC Arabiya
 http://199.167.151.237:1935/live/sp15_37.stream/gmswf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" group-title="UAE",Emarat TV
@@ -3605,15 +3605,6 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teles-live.com/uploads/thumbs/0924ddc86-1.jpg" group-title="UAE",Abu Dhabi Drama
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png" group-title="UAE",MBC 2
-http://selevision9882-i.akamaihd.net/hls/live/219193/98820/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.creativeworldtrade.com/Watch%20&%20Listen%20CWT%27s%20Main%20Middle%20Eastern%20TVs%20Live%20Online%2024%20Hours%20Main%20Page/CWT%27s%20MBC%20Action%20Movies%20TV%20Channel%20Logos/CWT%27s%20MBC%20Action%20Movies%20TV%20Channel%20Logo1.png" group-title="UAE",MBC Action
-http://selevision9888-i.akamaihd.net/hls/live/219296/98880/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.creativeworldtrade.com/Watch%20&%20Listen%20CWT%27s%20Main%20Middle%20Eastern%20TVs%20Live%20Online%2024%20Hours%20Main%20Page/CWT%27s%20MBC%20MAX%20Movies%20TV%20Channel%20Logos/CWT%27s%20MBC%20MAX%20Movies%20TV%20Channel%20Logo2.png" group-title="UAE",MBC Max
-http://selevision9887-i.akamaihd.net/hls/live/219292/98876/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="UAE",National Geographic
 http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
