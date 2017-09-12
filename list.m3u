@@ -273,12 +273,11 @@ https://freeeucache3.streamlive.to/live/svsgthhwl6djj5h/index.m3u8?st=SqF2wjR7WW
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg" group-title="USA",NBC Golf [NoRoku]
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mannymerchan.com/wp-content/uploads/2016/01/nflnetwork_1.png" group-title="USA",NFL Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mannymerchan.com/wp-content/uploads/2016/01/nflnetwork_1.png" group-title="USA",NFL Network [Off]
 http://185.142.239.164:3135/NFL/Network/index.m3u8
-https://freeeucache3.streamlive.to/live/rgyus7ao2ullmbt/index.m3u8?st=RM5XixqQg9hpnjiwHVyOzg&expires=1505448179
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/9095.png" group-title="USA",NFL Now
-http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5249.jpg" group-title="USA",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
