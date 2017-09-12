@@ -1615,11 +1615,29 @@ http://cls.elitehd-audiovisuales.com:80/luztv/livestream/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/el-correo-de-andaluc-C3-ADa-tv-logo.png" group-title="SPAIN",El Correo TV*
 http://cloud1.cdnstreamserver.com/luztv/livestream/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/458883988203917312/4QS-I2Nr_400x400.png" group-title="SPAIN",El Punt Avui TV
+http://cdns724ste1010.shooowit.net/puntavuitvlive/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal10.cat/img/logofacebook_400x400.jpg" group-title="SPAIN",Emporda TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/1200px-Esport3.svg.png" group-title="SPAIN",Esport3
+http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://television.estepona.es/wp-content/uploads/2016/04/logortvs.png" group-title="SPAIN",Estepona TV
+http://62.210.96.18:1935/esteponatv/esteponatv/chunklist_w1331861602.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-Grt64gpUA1w/UZH6VNoXDZI/AAAAAAAAXK4/aOHkzPorWAQ/s1600/etb-sat.png" group-title="SPAIN",ETB Sat
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cepymeweb.com/wp-content/uploads/2016/03/fuengirolatvlogo-1-300x273-1.jpg" group-title="SPAIN",Fuengirola TV
+http://cls2.todostreaming.eu/nerja/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.catosfera.cat/2016/images/logos/tvgirona.jpg" group-title="SPAIN",Girona TV
+http://tvgirona.dnssw.net:1935/live/Icontouch/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png" group-title="SPAIN",Hit TV
-http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.revistasenal.com/wp-content/uploads/2016/09/HOLA.jpg" group-title="SPAIN",Hola TV
 http://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.m3u8
