@@ -1846,6 +1846,12 @@ http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.revistasenal.com/wp-content/uploads/2016/09/HOLA.jpg" group-title="LATINO",Hola TV
 http://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/deTBL0Q.png" group-title="LATINO",Latin Angels
+http://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master2500k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.prensario.net/Multimedios/imgs/23738_468.jpg" group-title="LATINO",Show Business
+http://vivoplay-i.akamaihd.net/hls/live/255331/canal2/master2500k.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/320350553/ANimeTV_logo_copy22.jpg" group-title="LATINO",Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
@@ -1861,14 +1867,11 @@ http://cdnh8.iblups.com/hls/33hssQ13ID.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="LATINO",Univision TDN
 https://eventos1.dreamsmx.com/EVENTOS/UNIVICION_TDN15_153_hd/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thematv.us/medias/channels/latin-american-sports/logo.png" group-title="LATINO",Latin American Sports
+http://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://l.b5z.net/i/u/10085468/i/Logo_Px_sports_negro_y__rojo.png" group-title="LATINO",PX Sports
 https://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/deTBL0Q.png" group-title="LATINO",Latin Angels
-http://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master2500k.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.prensario.net/Multimedios/imgs/23738_468.jpg" group-title="LATINO",Show Business
-http://vivoplay-i.akamaihd.net/hls/live/255331/canal2/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvquisqueya.com/images/2017/07/14/logoweb.fw.png" group-title="LATINO",TV Quisqueya
 http://vivoplay-i.akamaihd.net/hls/live/255341/canal4/master2500k.m3u8
@@ -2061,21 +2064,6 @@ http://api.new.livestream.com/accounts/12380647/events/3843134/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410940185.jpg" group-title="MEXICO",Teleritmo
 http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hendrickmotorsports.com/content/hendrickmotorsports.com/news/5318.jpg" group-title="MEXICO",Fox Sports 1
-http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://actv.tv/wp-content/uploads/freshizer/e9074200fdfb4ffb6c933c4f0f698e09_fox-sports-2-770-480-c.jpg" group-title="MEXICO",Fox Sports 2
-http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://visionperuanatv.com/wp-content/uploads/2017/01/fox-sports-3-online.png" group-title="MEXICO",Fox Sports 3
-http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/image/237123622527/medium/100/1478017795700b084b1cdf4ad10dc7ff9ddc91abba.jpg" group-title="MEXICO",AYM Sports
-http://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master2500k.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thematv.us/medias/channels/latin-american-sports/logo.png" group-title="MEXICO",Latin American Sports
-http://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/mx/XHGJG.png" group-title="MEXICO",C7 Jalisco
 http://198.255.112.18:1935/c7cultura/videoc7cultura/chunklist.m3u8
