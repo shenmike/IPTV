@@ -9,7 +9,7 @@ http://149.56.23.7:20082/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="LABEL",< Please Donate
 http://149.56.23.7:20082/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Sep.11.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Sep.12.2017
 http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="LABEL",> Like Us!
@@ -33,8 +33,14 @@ https://archive.org/download/FiftyShadesDarker2017720pYTS.AG/Fifty.Shades.Darker
 #EXTINF:-1 tvg-logo="https://i.imgbox.com/CEFrgVi9.jpg" group-title="MOVIES",King Arthur - Legend of the Sword (2017)
 https://archive.org/download/KingArthurLegendOfTheSword2017720pBRripX265HEVC10bitPoOlLa/King%20Arthur%20Legend%20of%20the%20Sword%202017%20720p%20BRrip%20x265%20HEVC%2010bit%20PoOlLa.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgbox.com/CEFrgVi9.jpg" group-title="MOVIES",King Arthur - Legend of the Sword (2017)*
+http://dl.movieo.ir/dlha/files/2017/King.Arthur.Legend.of.the.Sword.2017.720p_(wWw.Movieo.IR).mkv.mp4
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VkEOtTI.jpg" group-title="MOVIES",Life (2017) [AR-Subs]
 https://archive.org/download/Life2017/Life%202017.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/Logan_2017_poster.jpg" group-title="MOVIES",Logan (2017) [MKV]
+http://media.bia4music.com/movie/2017/Film/5/Logan.2017.DVDRip.mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/Logan_2017_poster.jpg" group-title="MOVIES",Logan (2017) [AR-Subs]
 https://archive.org/download/Logan2017/Logan%202017.mp4
