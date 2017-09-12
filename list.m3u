@@ -51,14 +51,14 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA TV ~
 http://www.lengua.com/anthems/USA.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cimg.tvgcdn.net/i/2015/05/06/91d45e54-ce5c-40c4-beb3-616b40706f54/47bf7d2f874199d49d328973cd5e9e28/150506-logo-abc-hp-lg.jpg" group-title="USA",ABC [Off]
-https://freeeucache3.streamlive.to/live/nz7l9vc5nv1og7b/index.m3u8?st=e2DhgteWfHjP-iIt0cHlLw&expires=1505447798
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cimg.tvgcdn.net/i/2015/05/06/91d45e54-ce5c-40c4-beb3-616b40706f54/47bf7d2f874199d49d328973cd5e9e28/150506-logo-abc-hp-lg.jpg" group-title="USA",ABC
+https://warm-waters-56641.herokuapp.com/hls/6662508e58a10d536eb6dfa88840f973/1505225122/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3130322e3231392e3133372f7032702f39303031353039383363643234666230643639363366376432386531376637322e6d3375383f73743d6b4674474b694e6d6f696d71384e537633485269755126653d31353035323339353232.m3u8?time=1505196474701
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i1.wp.com/www.mangaforever.net/wp-content/uploads/2017/05/Upfronts2017_CBS.jpg" group-title="USA",CBS [Off]
 https://freeeucache3.streamlive.to/live/vp4q2gonwzh2dku/index.m3u8?st=fYDtUrWkcizW6nHlZxrnJw&expires=1505448629
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.comcast.com/images/nbc-logo-thumbnail.jpg" group-title="USA",NBC [Off]
-https://freeeucache3.streamlive.to/live/kjgkefh6la1di6g/index.m3u8?st=az4joS2VBHPMGhTT8vijBg&expires=1505448667
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.comcast.com/images/nbc-logo-thumbnail.jpg" group-title="USA",NBC
+https://thawing-harbor-75428.herokuapp.com/hls/c8e4b888bbb1a350492f5dd0237a3f65/1505226407/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e35392e3232312e3135342f7032702f38396237616261636265306365666261646636616435633563636234616531352e6d3375383f73743d394e566c66394856344a79535448376a7135796d464126653d31353035323430383037.m3u8?time=1505197788114
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cordcuttersnews.com/wp-content/uploads/2016/01/the-cw__130916234421.jpg" group-title="USA",The CW
 http://137.74.151.158/hls/6e786b12b7750f7a8c86472ec9c484b2/1505213099/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e35392e3232322e3232382f7032702f32393665353663363638626338626436623030343464336534663033343135332e6d3375383f73743d4456586b476a434a6a4f58647569333246352d66636726653d31353035323237343939.m3u8?time=1505184382518
@@ -66,8 +66,8 @@ http://137.74.151.158/hls/6e786b12b7750f7a8c86472ec9c484b2/1505213099/7b22697022
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/www.rokuchannels.tv/wp-content/uploads/2013/12/ae.jpg" group-title="USA",A+E
 http://137.74.151.158/hls/e9eec2541d6176727afcbd93e64b8355/1505213108/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e35392e3232312e3135362f7032702f62623338643930343862376239313730363236343136396130333166333261342e6d3375383f73743d71706d33753069417451316b5f686c456853556c6f6726653d31353035323237353038.m3u8?time=1505184482604
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="USA",AMC [Off]
-https://freeeucache3.streamlive.to/live/z4cxm7zlfyqs65m/index.m3u8?st=glktrb96CMVtq_w95RJ5mA&expires=1505449340
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="USA",AMC
+https://infinite-cove-26732.herokuapp.com/hls/b7cbb55d2d4b2e0c2e7c9b28381bf381/1505227720/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3130322e3231392e3132332f7032702f63303337316533356132623332343466356564646137393437313732643935342e6d3375383f73743d65413634325a73656e4a6371755366507773587a545126653d31353035323432313230.m3u8?time=1505198965945
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" group-title="USA",Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
@@ -78,8 +78,8 @@ https://freeeucache3.streamlive.to/live/kexkxje3nqi6dtl/index.m3u8?st=iDBL5J7CFd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/2000px-Bravo_TV.svg.png" group-title="USA",Bravo [Off]
 https://freeeucache3.streamlive.to/live/uw433ikqnrj501l/index.m3u8?st=l8r8aHoVsTAUpwvgSDoYgg&expires=1505448553
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" group-title="USA",Discovery Channel [Off]
-https://freeeucache3.streamlive.to/live/ishyd3sopok3p27/index.m3u8?st=lvB7kwQj6yCmAH-WlUhoUA&expires=1505449257
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Discovery_logo_2013.png" group-title="USA",Discovery Channel
+https://infinite-cove-26732.herokuapp.com/hls/d5f282ad447a11e857e23ada6f9d72d6/1505227717/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3130322e3231392e3133372f7032702f61343930616537356133656332616366313663396635393265383839656234632e6d3375383f73743d36373462677158684665374d504f505255704a38475126653d31353035323432313137.m3u8?time=1505199008089
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/disney/images/c/c5/Disney-channel-new2015.png" group-title="USA",Disney Channel [Off]
 https://freeeucache3.streamlive.to/live/2tag4dzgwof5ma2/index.m3u8?st=QGWnwMiW8q1GWyUXuiXg3Q&expires=1505449216
@@ -87,8 +87,8 @@ https://freeeucache3.streamlive.to/live/2tag4dzgwof5ma2/index.m3u8?st=QGWnwMiW8q
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yousenditcc.s3.amazonaws.com/networks/Hallmark%20Channel.svg.png" group-title="USA",Hallmark Channel [Off]
 https://freeeucache3.streamlive.to/live/v4ynnryunsoxzbq/index.m3u8?st=LdLv2knq3lJ2p7K-gTqEmw&expires=1505448861
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/HGTV.png" group-title="USA",HGTV [Off]
-https://freeeucache3.streamlive.to/live/gj65q2rg18tpmut/index.m3u8?st=RhgbO3OuUnPgT70i1K0umA&expires=1505447888
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/HGTV.png" group-title="USA",HGTV
+https://warm-waters-56641.herokuapp.com/hls/8706eb8270704bc55328121bdcf5583d/1505225132/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e35392e3232322e3232392f7032702f37643930303063303936376363343931396630376563626532373336633935612e6d3375383f73743d6c716c51745a7673626a6e6768544c6a43636145676726653d31353035323339353332.m3u8?time=1505196542331
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/07/investigation-discovery-logo.jpg" group-title="USA",Investigation Discovery [Off]
 https://freeeucache3.streamlive.to/live/yjma618cibkqxeo/index.m3u8?st=OlJSWiQDPaB0NN6qcEnpbw&expires=1505446838
@@ -96,8 +96,8 @@ https://freeeucache3.streamlive.to/live/yjma618cibkqxeo/index.m3u8?st=OlJSWiQDPa
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="USA",Lifetime [Off]
 https://freeeucache3.streamlive.to/live/7b2gr554gyyth8e/index.m3u8?st=GEkTUqouj6Uu0I1VQuddcw&expires=1505446740
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="USA",National Geographic [Off]
-https://freeeucache3.streamlive.to/live/qzsfigd1y3bgbhs/index.m3u8?st=BAlaezq1SAoMWN_Xwr81Bw&expires=1505448919
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="USA",National Geographic
+https://murmuring-dawn-28471.herokuapp.com/hls/a4cb5a1ac7b2df43a728909af1ce69e1/1505226913/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e35392e3232312e3135342f7032702f62653266613335386534663163396130656538333361613135663832396638312e6d3375383f73743d374c576f38684a68444c5f334856324671732d6e504126653d31353035323431333133.m3u8?time=1505198324704
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/www.criticalhit.net/images/2017/06/Nick.jpg" group-title="USA",Nickelodeon [Off]
 https://freeeucache3.streamlive.to/live/64jaber5pjqj2cr/index.m3u8?st=_xmACQ8tsVhgwR_p_b5NEA&expires=1505446614
@@ -105,26 +105,26 @@ https://freeeucache3.streamlive.to/live/64jaber5pjqj2cr/index.m3u8?st=_xmACQ8tsV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part2pictures.com/wp-content/themes/instumedia/img/OWN_Logo_Color.png" group-title="USA",OWN [Off]
 https://freeeucache3.streamlive.to/live/uehgy5htiasffj3/index.m3u8?st=L7h7OF9PhOYlGvYokL_0Ng&expires=1505447449
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yousenditcc.s3.amazonaws.com/networks/Spike_logo_2015_w.svg.png" group-title="USA",Spike TV [Off]
-https://freeeucache3.streamlive.to/live/sax2mq2alpirnww/index.m3u8?st=EB89w7Zeluo39iLriHfQgw&expires=1505449038
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yousenditcc.s3.amazonaws.com/networks/Spike_logo_2015_w.svg.png" group-title="USA",Spike TV
+http://137.74.151.158/hls/fc14c7f5b0aa52e6dc9aee95a1ee767f/1505227366/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3130322e3231392e3133352f7032702f37343461326536643633386566353939363339343731376539653837313731372e6d3375383f73743d473448616c6f2d366a6a426846343134534c5255694126653d31353035323431373636.m3u8?time=1505198825038
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.starz.com/assets/images/sz-logo-2x.png" group-title="USA",Starz
-https://infinite-cove-26732.herokuapp.com/hls/c9aa101fb11b409c097271fdcc2c530c/1505190628/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3130322e3231392e3133372f7032702f66636131363538616665363535353531343839333130633838326139623863362e6d3375383f73743d6572326a6b366168657774527a69334747555963676726653d31353035323035303238.m3u8?time=1505161930750
+https://infinite-cove-26732.herokuapp.com/hls/9384c5771c6fabd7c271f89cc7a91d3f/1505227345/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e35392e3232312e3135352f7032702f66636131363538616665363535353531343839333130633838326139623863362e6d3375383f73743d65477a6464486e77424e6336364a346357616359567726653d31353035323431373435.m3u8?time=1505198687553
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2014/01/sundancetv_logo_535x320.jpg" group-title="USA",Sundance TV
 http://46.105.82.149/hls/2532d4ce835894069bcba706f06b1f60/1505213913/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3130322e3231392e39342f7032702f63353665386338653130393964656132623639636430646335346564376336342e6d3375383f73743d64654e44364b434330397a4f3448373174617a5a507726653d31353035323238333133.m3u8?time=1505185196047
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="USA",Syfy [Off]
-https://freeeucache3.streamlive.to/live/x7uii7mll2b7lh4/index.m3u8?st=xvttfF5SdeuNLcm4u_NqLw&expires=1505448754
+https://thawing-harbor-75428.herokuapp.com/hls/10bf42064bacfb8232a31cf819735a3b/1505226893/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3130322e3231392e3133352f7032702f31356262316536613765626639343562383562383334623263383463663966312e6d3375383f73743d74746147584f797765664c6b44474467546f2d38784126653d31353035323431323933.m3u8?time=1505198210318
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://legacy.shadowandact.com/wp-content/uploads/2017/05/TBS_logo_2016.svg_.png" group-title="USA",TBS [Off]
-https://freeeucache3.streamlive.to/live/eg5v0vdj33ls27r/index.m3u8?st=46FcVHr7z6iSWkavnqOEFg&expires=1505448957
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://legacy.shadowandact.com/wp-content/uploads/2017/05/TBS_logo_2016.svg_.png" group-title="USA",TBS
+https://murmuring-dawn-28471.herokuapp.com/hls/d9352be28035eb858a9f849d311d7929/1505226930/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3130322e3231392e39342f7032702f63333730646361353731613865396565623438313034323336383038666538642e6d3375383f73743d6c74454739537843543848694169435733584857315126653d31353035323431333330.m3u8?time=1505198428620
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="USA",TLC [Off]
-st=KEJBqu1aPlyEZUH2UKaJJQ&expires=1505448512
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="USA",TLC
+http://137.74.151.158/hls/25d014000b135c2c25d744392758d299/1505226380/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3130322e3231392e36372f7032702f31653834356463623437376531336630306235623230326133646266666264652e6d3375383f73743d30534745514e5a4d2d356c5946315f6c485a4371537726653d31353035323430373830.m3u8?time=1505197666119
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ferroconcrete.com/ferro/assets/uploads/2015/04/tnt_02_logo-1.jpg" group-title="USA",TNT [Off]
-https://freeeucache3.streamlive.to/live/7uz4als3nigi0j3/index.m3u8?st=PdPwjgmDhCl2K-HVfuuijA&expires=1505446875
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ferroconcrete.com/ferro/assets/uploads/2015/04/tnt_02_logo-1.jpg" group-title="USA",TNT
+https://warm-waters-56641.herokuapp.com/hls/645ab5417008a4444a1a959846e4f163/1505225104/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3130322e3231392e3132332f7032702f62356533396662333539393735636536613638626538613639333564346437652e6d3375383f73743d6e4a4a505a42625377793575314b4b5872545a76637726653d31353035323339353034.m3u8?time=1505196436977
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/03/travel-channel-logo-2017.jpg" group-title="USA",Travel Channel [Off]
 https://freeeucache3.streamlive.to/live/4aiufk0o430qt0d/index.m3u8?st=NmvB0WPYnJHPhDQV6hyumQ&expires=1505447493
@@ -261,11 +261,11 @@ http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2013/04/nbc-sports-logo.png" group-title="USA",NBC Sports [Off]
 https://freeeucache3.streamlive.to/live/0fm1lstybe4a0j4/index.m3u8?st=tz1G9AiPWWqbUxfiTN9yfA&expires=1505447657
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="USA",ESPN [Off]
-https://freeeucache3.streamlive.to/live/xoaaohmeuajfeyf/index.m3u8?st=_S7DsqIETravuAi7J1EbTg&expires=1505448221
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="USA",ESPN
+http://46.105.82.149/hls/dea06b798bc29efc0644d860f70d24b4/1505225144/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3130322e3231392e3133372f7032702f37623065663834326136613132333361386138366138353333303633613161312e6d3375383f73743d4c5947684a336c41326b2d6f6177317758633074386726653d31353035323339353434.m3u8?time=1505196609902
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-zfWmwT9TWQA/VO_8EqdcFwI/AAAAAAAABgc/F4ZIp0AfzXU/w1200-h630-p-k-no-nu/ESPN%2B2%2B%2Ben%2Bvivo%2Bonline%2Bon%2Bline.png" group-title="USA",ESPN 2 [Off]
-https://freeeucache3.streamlive.to/live/rgyus7ao2ullmbt/index.m3u8?st=RM5XixqQg9hpnjiwHVyOzg&expires=1505448179
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-zfWmwT9TWQA/VO_8EqdcFwI/AAAAAAAABgc/F4ZIp0AfzXU/w1200-h630-p-k-no-nu/ESPN%2B2%2B%2Ben%2Bvivo%2Bonline%2Bon%2Bline.png" group-title="USA",ESPN 2
+https://warm-waters-56641.herokuapp.com/hls/7a473d3d897d1725f6d733c5b7a646f6/1505225140/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e35392e3232312e3135332f7032702f37613339623131623961663234373035336562643633376666316361396462382e6d3375383f73743d4b6a6953326e5944442d61715865754e48634572477726653d31353035323339353430.m3u8?time=1505196578315
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/200px-2015_Fox_Sports_1_logo.svg.png" group-title="USA",Fox Sports 1 [Off]
 https://freeeucache3.streamlive.to/live/svsgthhwl6djj5h/index.m3u8?st=SqF2wjR7WWYo612OUgpNSQ&expires=1505447731
