@@ -1648,17 +1648,20 @@ http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Intereconom%C3%ADa-TV.png" group-title="SPAIN",Intereconomia TV
 http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sevillaactualidad.com/images/stories/imagen/comunicacion/rtva/labanda-logo-canalsur.jpg" group-title="SPAIN",La Banda TV
-http://cast.streamingconnect.com:1935/cslabanda/cslabanda/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.panoramaaudiovisual.com/wp-content/uploads/2016/04/laSexta_NuevoLogo-325x289.jpg" group-title="SPAIN",La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lancelot.tv/lancelot.jpg" group-title="SPAIN",Lancelot TV
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cablevisionguadalquivir.com/wp-content/uploads/2014/11/laotra-455x250.jpg" group-title="SPAIN",La Otra
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.extradigital.es/wp-content/uploads/2016/10/LaTELETV2.jpg" group-title="SPAIN",La Tele TV
+http://cls2.todostreaming.eu/generaltv/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ca/b/bc/COMR%C3%A0dio_logo_2012.jpg" group-title="SPAIN",La Xarxa
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lancelot.tv/lancelot.jpg" group-title="SPAIN",Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lebrija.tv/wp-content/uploads/2016/06/logo-web-2.png" group-title="SPAIN",Lebrija TV
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
@@ -1666,11 +1669,32 @@ http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.levantetv.es/elementosWeb/version6_20100407/mediaweb/images/logoLevanteTv.jpg" group-title="SPAIN",Levante TV
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://admin2.compsaonline.com/img4/20120620113608116elecson.jpg" group-title="SPAIN",Lleida TV
+http://cdns724ste0010.shooowit.net/lleidatvlive/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/3151765776/5dae8254e490f9b8e14143b3175497af_400x400.jpeg" group-title="SPAIN",Lucena TV
+http://78.136.66.6:1935/live/liveStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hernandezpsicologos.es/wp-content/uploads/colaboraciones-radio-television-marbella-alejandra-hernandez-psicologos-marbella-fuengirola-malaga.jpg" group-title="SPAIN",Marbella TV
+http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14839.jpg" group-title="SPAIN",Mega
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.tvalacarta.info/canales/256x256/tvmelilla.png" group-title="SPAIN",Melilla TV
+http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.vimeocdn.com/portrait/2838028_300x300" group-title="SPAIN",Mirame TV
+http://controlstreams.com:1935/mirametv/mirametv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/657174095382106112/CCEPbIKi.jpg" group-title="SPAIN",Mogan TV
+http://teledifusion.tv:1935/mogan/moganlive/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sergioalvarezweb.hol.es/img/navarratv.png" group-title="SPAIN",Navarra TV
 http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sergioalvarezweb.hol.es/img/navarratv.png" group-title="SPAIN",Navarra TV*
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://srv00.epimg.net/m/programacion-tv/iconos/canales/neox.png" group-title="SPAIN",Neox
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
@@ -1678,8 +1702,47 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png" group-title="SPAIN",Nova
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/459282803549413376/JoWuNky2.jpeg" group-title="SPAIN",Onda Azul
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/434338680979730432/T3j8qrtx_400x400.jpeg" group-title="SPAIN",Olot TV
+http://cdns724ste1010.shooowit.net/olottvlive/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ondaalgecirastv.com/wp-content/uploads/2015/11/logooatv.png" group-title="SPAIN",Onda Algeciras
+http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/459282803549413376/JoWuNky2.jpeg" group-title="SPAIN",Onda Azul Malaga
 http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/oc-directo-portada.jpg" group-title="SPAIN",Onda Cadiz
+http://195.55.74.208/adc/live-hls/chunklist_b1065536.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jaenfs.com/wp-content/uploads/2015/11/ondajaen.gif" group-title="SPAIN",Onda Jaen
+http://46.39.192.63:1935/jaen/jaen1.stream_origp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://andaluciainformacion.es/media/213886/460/382/nace-ondaluz-en-sevilla.jpg" group-title="SPAIN",Ondaluz Cadiz
+http://cloud1.cdnstreamserver.com/olcadiz/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://andaluciainformacion.es/media/213886/460/382/nace-ondaluz-en-sevilla.jpg" group-title="SPAIN",Ondaluz Costa del Sol
+http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://andaluciainformacion.es/media/213886/460/382/nace-ondaluz-en-sevilla.jpg" group-title="SPAIN",Ondaluz Costa Noroeste
+http://cloud1.cdnstreamserver.com/olcosta/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://andaluciainformacion.es/media/213886/460/382/nace-ondaluz-en-sevilla.jpg" group-title="SPAIN",Ondaluz Jerez
+http://cloud1.cdnstreamserver.com/oljerez/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://andaluciainformacion.es/media/213886/460/382/nace-ondaluz-en-sevilla.jpg" group-title="SPAIN",Ondaluz Marbella
+http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://andaluciainformacion.es/media/213886/460/382/nace-ondaluz-en-sevilla.jpg" group-title="SPAIN",Ondaluz Sevilla
+http://cloud1.cdnstreamserver.com/olsevilla/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sotodelamarina.com/Logos/Populartv_Cantabria.jpg" group-title="SPAIN",Popular TV
+http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/824584001096679425/vKVIOvEs.jpg" group-title="SPAIN",PTV Cordoba
+http://149.91.98.146:1935/cordoba/stream/chunklist_w334374467.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/831540301160411137/NIDUk9Rt.jpg" group-title="SPAIN",PTV Malaga
+http://149.91.98.146:1935/live/stream/chunklist_w1286291698.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-twjWLzywppo/VnBHIEtqgRI/AAAAAAAABOY/ZiwcFOt-rcg/s1600/rtvce.jpeg" group-title="SPAIN",Radio Television de Ceuta
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
