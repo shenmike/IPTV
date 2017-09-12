@@ -2376,8 +2376,56 @@ https://archive.org/download/AmericanGigolo19801080pHevcSciencefunEncoding/Ameri
 #EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/spanish/img/apple-touch-icon@2.png" group-title="LABEL",~ SPANISH
 http://149.56.23.7:20082/stream
 
+#EXTINF:-1 tvg-logo="http://www.descargatelocorp.com/wp-content/uploads/2017/08/3-idiotas-2017-HD-1080p-Latino.jpg" group-title="SPANISH",3 Idiotas (2017)
+http://www.cinevall.info/videos/3_idiotas.m4v
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/teaser-trailer.com/wp-content/uploads/Richard-the-Stork-Movie-Poster-1.jpg" group-title="SPANISH",A Stork's Journey (2017)
+http://www.cinevall.info/videos/una_ciguena_en_apuros.m4v
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Baywatch_poster.jpg" group-title="SPANISH",Baywatch (2017)
+http://www.cinevall.info/videos/los_guardianes_de_la_bahia.m4v
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1K6h5Pa.jpg" group-title="SPANISH",Beatriz at Dinner (2017)
+https://c23.vidlox.tv/hls/oudvgttcjftk2yixv7k6gabxivo6n6vdmz2ztlpd5jknycbvmbn2ue43pkfa/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Captain_Underpants_The_First_Epic_Movie_poster.jpg" group-title="SPANISH",Captain Underpants: The First Epic Movie (2017)
+http://www.cinevall.info/videos/capitan_calzoncillos.m4v
+
+#EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid17467.jpg" group-title="SPANISH",Diary of a Wimpy Kid: The Long Haul (2017)
+http://cinevall.info/videos/el_diario_de_greg_4.m4v
+
+#EXTINF:-1 tvg-logo="http://sorok-kozott.hu/wp-content/uploads/2017/03/minden-minden-2.jpg" group-title="SPANISH",Everything Everything (2017)
+http://www.cinevall.info/videos/todo_todo.m4v
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C_lPZRMWsAAtFXJ.jpg" group-title="SPANISH",Guardians of the Galaxy Vol. 2 (2017)
+http://www.cinevall.info/videos/guardianes_de_la_galaxia_2.m4v
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Naked_%282017_film%29_poster.jpg" group-title="SPANISH",Naked (2017)
+https://dl.dropbox.com/s/xarr3zpeapgo91l/sinropa.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iSyed9t.jpg" group-title="SPANISH",Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+http://www.cinevall.info/videos/piratas_del_caribe_5.m4v
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/Rough_Night.png" group-title="SPANISH",Rough Night (2017)
+http://www.cinevall.info/videos/hasta_que_el_cuerpo_aguante.m4v
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/a2c9f948212043.58de332fba412.jpg" group-title="SPANISH",Savage Dog (2017)
+http://www.cinevall.info/videos/savage_dog.m4v
+
+#EXTINF:-1 tvg-logo="https://solarmoviefree.me/media/imagesv2/2017/07/snatched-2017.jpg" group-title="SPANISH",Snatched (2017)
+http://cinevall.info/videos/viaje_salvaje.m4v
+
+#EXTINF:-1 tvg-logo="http://www.draven.ch/wp-content/uploads/2017/04/the-bride_poster.jpg" group-title="SPANISH",The Bride (2017)
+http://www.cinevall.info/videos/la_novia.m4v
+
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/03/29/15/04/446080.jpg" group-title="SPANISH",The Circle (2017)
+http://cinevall.info/videos/el_circulo.m4v
+
 #EXTINF:-1 tvg-logo="http://www.mygoldenchoice.com/wp-content/uploads/FA-2.jpg" group-title="SPANISH",The Fate of the Furious (2017)
 https://archive.org/download/RapidosYFuriosos82017TSHQ/R%C3%A1pidos%20y%20Furiosos%208%202017%20-%20TSHQ.mp4
+
+#EXTINF:-1 tvg-logo="https://bufffer.net/media/movie/img/poster/7ppfumav4DTw.jpg" group-title="SPANISH",The Ottoman Lieutenant (2017)
+http://cinevall.info/videos/el_teniente_otomano.m4v
 
 #EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="SPANISH",Bad Santa 2 (2016)
 https://archive.org/download/BadSanta22016UNRATED1080p60FPS/Bad%20Santa%202%20(2016)%20UNRATED%201080p%2060%20FPS.mp4
@@ -2388,13 +2436,34 @@ https://archive.org/download/BadSanta22016UNRATED1080pSinFranjas/Bad%20Santa%202
 #EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="SPANISH",Bad Santa 2 (2016)**
 https://archive.org/download/BadSanta22016UNRATED1080pFULLHD/Bad%20Santa%202%20(2016)%20UNRATED%201080p%20FULL%20HD.mp4
 
-#EXTINF:-1 tvg-logo="http://michaelmccague.com/wp-content/uploads/2016/08/The-Offering-2016-Front-Cover-109125.jpg" group-title="SPANISH",El Exorcismo de Anna Waters (2016)
+#EXTINF:-1 tvg-logo="http://direkizle1.com/wp-content/uploads1/2017/06/otoban.jpg" group-title="SPANISH",Collide (2016)
+http://www.cinevall.info/videos/persecucion_al_limite.m4v
+
+#EXTINF:-1 tvg-logo="http://cityonfire.com/wp-content/uploads/2016/12/A1R8zkwGt-L._SL1500_.jpg" group-title="SPANISH",Eliminators (2016)
+http://www.cinevall.info/videos/aniquiladores.m4v
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Tb7uJ9ocKN0/movieposter.jpg" group-title="SPANISH",Incarnate (2016)
+http://cinevall.info/videos/la_reencarnacion.m4v
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gozmXxv.jpg" group-title="SPANISH",Opening Night (2016)
+http://www.cinevall.info/videos/opening_night.m4v
+
+#EXTINF:-1 tvg-logo="http://images4.static-bluray.com/products/20/54260_1_large.jpg" group-title="SPANISH",Spark - A Space Tail (2016)
+http://cinevall.info/videos/un_mono_espacial.m4v
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b7/af/1c/b7af1c890b028b2ceb795c9b715a3484.jpg" group-title="SPANISH",The Autopsy of Jane Doe (2016)
+http://www.cinevall.info/videos/la_autopsia_de_jane_doe.m4v
+
+#EXTINF:-1 tvg-logo="http://michaelmccague.com/wp-content/uploads/2016/08/The-Offering-2016-Front-Cover-109125.jpg" group-title="SPANISH",The Offering (2016)
 https://archive.org/download/Independence.Day.Resurgence.2016.1080p.HDRip/3X0S1M04NN4%20exor%7D.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sXu9J1R5H8M/movieposter.jpg" group-title="SPANISH",Hasta el Ultimo Hombre (2016)
+#EXTINF:-1 tvg-logo="http://trailers.apple.com/trailers/independent/47-meters-down/images/poster-large.jpg" group-title="SPANISH",The Shallows (2016)
+http://www.cinevall.info/videos/miedo_profundo.m4v
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sXu9J1R5H8M/movieposter.jpg" group-title="SPANISH",Hacksaw Ridge (2016)
 https://archive.org/download/VerHastaElUltimoHombre2016OnlineCastellanoLatinoHD/Ver%20Hasta%20el%20%C3%BAltimo%20hombre%20(2016)%20Online%20Castellano%2C%20Latino%20HD.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/iW_jgCYd7bY/movieposter.jpg" group-title="SPANISH",Los Ilusionistas 2 (2016)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/iW_jgCYd7bY/movieposter.jpg" group-title="SPANISH",Now You See Me 2 (2016)
 https://archive.org/download/Independence.Day.Resurgence.2016.1080p.HDRip/Ahora%20Me%20Ves%202%20[BluRay%20Screener%20LINE][www.newpct1.com].mp4
 
 #EXTINF:-1 tvg-logo="http://hdpopcorns.com/wp-content/uploads/2017/02/Cover_image-Moana-2016-720p-free-movie-download.jpg" group-title="SPANISH",Moana (2016)
@@ -2424,7 +2493,7 @@ https://archive.org/download/FastFurious72015WebHD1080pX264LATINOEngHDLatino4U/F
 #EXTINF:-1 tvg-logo="http://i.imgur.com/og0G3ua.jpg" group-title="SPANISH",Las Bestias (2015)
 https://archive.org/download/LasBestias2015H2641080p4mbps/Las%20Bestias%20(2015)%20H264%201080p%204mbps.mp4
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-4f3D7kOQC7I/VxqNpC8YCjI/AAAAAAAAmdc/UJ2TKtyzHYAWOyGHrnauAo_HMcgS52ykgCLcB/s1600/afiche.jpg" group-title="SPANISH",La Ultima Ola (2015) [ES-Subs]
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-4f3D7kOQC7I/VxqNpC8YCjI/AAAAAAAAmdc/UJ2TKtyzHYAWOyGHrnauAo_HMcgS52ykgCLcB/s1600/afiche.jpg" group-title="SPANISH",Bølgen (2015) [ES-Subs]
 https://archive.org/download/Independence.Day.Resurgence.2016.1080p.HDRip/ULTIM4.0L4%20(1).mp4
 
 #EXTINF:-1 tvg-logo="https://sarahblogger94.files.wordpress.com/2016/08/purge_poster.jpg" group-title="SPANISH",The Purge (2013)
@@ -2451,16 +2520,16 @@ https://archive.org/download/U0011080pDual/U-001-1080p%20Dual.mp4
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/zombieland-2009/large_yKXt47xzRS7oZwmIWLH1QbWAEcY.jpg" group-title="SPANISH",Zombieland (2009)
 https://archive.org/download/Zombieland.DVDRip.Latino/Zombieland.DVDRip.Latino.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/b_zFDzI1ImA/movieposter.jpg" group-title="SPANISH",El Transportador 3 (2008)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/b_zFDzI1ImA/movieposter.jpg" group-title="SPANISH",Transporter 3 (2008)
 https://archive.org/download/ElTransportador3_201703/El%20Transportador%203.mp4
 
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/the-bourne-ultimatum-2007/large_fHho6JYYY0nRcETWSoeI19iZsNF.jpg" group-title="SPANISH",The Bourne Ultimatum (2007)
 https://archive.org/download/The.Bourne.Ultimatum.2007.1080p.Latino/The.Bourne.Ultimatum.2007.1080p.Latino.www.peliculashdmega.com.mp4
 
-#EXTINF:-1 tvg-logo="https://film.geourdu.com/wp-content/uploads/2015/02/Transporter-2-2005.jpg" group-title="SPANISH",El Transportador 2 (2005)
+#EXTINF:-1 tvg-logo="https://film.geourdu.com/wp-content/uploads/2015/02/Transporter-2-2005.jpg" group-title="SPANISH",Transporter 2 (2005)
 https://archive.org/download/ElTransportador2/El%20Transportador%202.mp4
 
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/2b/a3/1e/2ba31e87f9222dd1404ba0c00de6401c.jpg" group-title="SPANISH",La Chica de al Lado (2004)
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/2b/a3/1e/2ba31e87f9222dd1404ba0c00de6401c.jpg" group-title="SPANISH",The Girl Next Door (2004)
 https://archive.org/download/LaChicaDeAlLado1080pEspaolLatino/La%20Chica%20De%20Al%20Lado%201080p%20espa%C3%B1ol%20latino.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Thepassionposterface-1-.jpg" group-title="SPANISH",The Passion of the Christ (2004)
@@ -2469,7 +2538,7 @@ https://archive.org/download/LaPasionDeCristoEnHDPeliculaCompletaEnEspanolLatino
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/the-day-after-tomorrow-2004/large_wOwT5GpuMEzCIBY8b5hd9PRX0fu.jpg" group-title="SPANISH",The Day After Tomorrow (2004)
 https://archive.org/download/ElDiaDespuesDeMananaAudioLatino/El%20Dia%20Despues%20De%20Ma%C3%B1ana%20-%20Audio%20Latino.mp4
 
-#EXTINF:-1 tvg-logo="https://www.cinematerial.com/media/posters/md/lm/lminzh9e.jpg" group-title="SPANISH",El Transportador (2002)
+#EXTINF:-1 tvg-logo="https://www.cinematerial.com/media/posters/md/lm/lminzh9e.jpg" group-title="SPANISH",The Transporter (2002)
 https://archive.org/download/El.Transportador1/El.Transportador1.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/15_Minutes_%28movie_poster%29.jpg" group-title="SPANISH",15 Minutes (2001)
