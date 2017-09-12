@@ -1630,9 +1630,6 @@ http://tvgirona.dnssw.net:1935/live/Icontouch/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png" group-title="SPAIN",Hit TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.revistasenal.com/wp-content/uploads/2016/09/HOLA.jpg" group-title="SPAIN",Hola TV
-http://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/645349922103889920/JGbRJMxo.jpg" group-title="SPAIN",HTV Huelva
 http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
 
@@ -1791,6 +1788,9 @@ http://tecnotv.xyz/media/futurama2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097598137.jpg" group-title="LATINO",24/7 Los Simpson
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.revistasenal.com/wp-content/uploads/2016/09/HOLA.jpg" group-title="LATINO",Hola TV
+http://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/320350553/ANimeTV_logo_copy22.jpg" group-title="LATINO",Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
