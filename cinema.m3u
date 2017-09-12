@@ -93,9 +93,6 @@ http://dl.movieo.ir/dlha/files/2017/The.Circle.2017.720p.WEBrip_(wWw.Movieo.IR).
 #EXTINF:-1 tvg-logo="https://teaser-trailer.com/wp-content/uploads/The-Gracefield-Incident-movie-poster-1.jpg" group-title="MOVIES",The Gracefield Incident (2017)
 http://dl.movieo.ir/dlha/New%20folder/The.Gracefield.Incident.2017.720p_(wWw.Movieo.IR).mkv.mp4
 
-#EXTINF:-1 tvg-logo="http://gorillawire.com/wp-content/uploads/2016/08/Russian_superhero-movie-Guardians-poster.jpg" group-title="MOVIES",The Guardians (2017)
-http://dl.movieo.ir/dlha/files/2017/The.Guardians.2017.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
-
 #EXTINF:-1 tvg-logo="http://88razzi.com/sites/default/files/styles/large/public/images/2017/05/22/node-1112/the-mummy-poster-2-988842.jpg" group-title="MOVIES",The Mummy (2017)
 http://dl.movieo.ir/dlha/files/2017/The.Mummy.2017.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
 
@@ -3329,6 +3326,12 @@ https://archive.org/download/AMascaraDeFuManchu1932Dubl/A%20Mascara%20De%20Fu%20
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/The_Mummy_1932_film_poster.jpg" group-title="PORTUGUESE",A Mumia (1932)
 https://archive.org/download/AMmia1932Dubl/A%20M%C3%BAmia%201932%20Dubl.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/russian/img/apple-touch-icon.png" group-title="LABEL",~ RUSSIAN
+http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="http://gorillawire.com/wp-content/uploads/2016/08/Russian_superhero-movie-Guardians-poster.jpg" group-title="RUSSIAN",The Guardians (2017)
+http://dl.movieo.ir/dlha/files/2017/The.Guardians.2017.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/arabic/img/apple-touch-icon%402.png" group-title="LABEL",~ ARABIC
 http://149.56.23.7:20082/stream
