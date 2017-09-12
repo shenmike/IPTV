@@ -1504,17 +1504,29 @@ http://194.158.80.31:443/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sc01.alicdn.com/kf/HTB17w1pHXXXXXXrXXXX760XFXXXg.png" group-title="LABEL",~ Spain TV ~
 http://www.lengua.com/anthems/Spain.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://statics.ccma.cat/multimedia/jpg/7/9/1466521666097.jpg" group-title="SPAIN",3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fotosdigitalesgratis.com/noticias/fotos/101TV-Malaga-Logo.jpg" group-title="SPAIN",101 TV Malaga
 http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7tvregiondemurcia.es/wp-content/uploads/2015/04/LOGO.jpg" group-title="SPAIN",7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/25-tv-barcelona-en-directo-online.png" group-title="SPAIN",25 Televisio
+http://cdnlive.shooowit.net/25televisiolive/amlst:25tv/chunklist_b300000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://files.ondalitoralcadiz.webnode.es/200000217-c70eac80a6/DJUETRYUERT.jpg" group-title="SPAIN",8 Cadiz TV
+http://cls.todostreaming.eu/unatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.focusmedia.es/wp-content/uploads/2014/10/8tv.jpg" group-title="SPAIN",8 TV
 http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.focusmedia.es/wp-content/uploads/2014/10/8tv.jpg" group-title="SPAIN",8 TV*
+http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.axartel.es/assets/img/sliders/tv-canales/tv-13tv.jpg" group-title="SPAIN",13 TV
 http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://statics.ccma.cat/multimedia/jpg/7/9/1466521666097.jpg" group-title="SPAIN",324
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-xcZovqoAtbQ/AAAAAAAAAAI/AAAAAAAAAAA/LPU5B24VR4w/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SPAIN",A1 TV
 http://109.236.91.150:8080/a1espanmahiryahsattv/playlist.m3u8
