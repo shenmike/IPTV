@@ -180,18 +180,6 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/ae82e725706942f08c4feabaf6f7da2d-hd.jpg" group-title="USA",TWiT.TV
 http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2013/04/nbc-sports-logo.png" group-title="USA",NBC Sports [Off]
-https://freeeucache3.streamlive.to/live/0fm1lstybe4a0j4/index.m3u8?st=tz1G9AiPWWqbUxfiTN9yfA&expires=1505447657
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="USA",ESPN
-http://79.137.106.229/hls/2126104940e8dd9659f8d16a9d81fa0e/1505286677/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3130322e3231392e3132332f7032702f37623065663834326136613132333361386138366138353333303633613161312e6d3375383f73743d6a336e46746744626e76543571645778506d6331466726653d31353035333031303737.m3u8?time=1505258161324
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-zfWmwT9TWQA/VO_8EqdcFwI/AAAAAAAABgc/F4ZIp0AfzXU/w1200-h630-p-k-no-nu/ESPN%2B2%2B%2Ben%2Bvivo%2Bonline%2Bon%2Bline.png" group-title="USA",ESPN 2
-http://79.137.106.229/hls/f20fc1acdbf10d99f78b17f53556c866/1505286671/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3130322e3231392e39342f7032702f37613339623131623961663234373035336562643633376666316361396462382e6d3375383f73743d4e63306e343177476c716e72735238325f6b4270474126653d31353035333031303731.m3u8?time=1505258119842
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/200px-2015_Fox_Sports_1_logo.svg.png" group-title="USA",Fox Sports 1 [Off]
-https://freeeucache3.streamlive.to/live/svsgthhwl6djj5h/index.m3u8?st=SqF2wjR7WWYo612OUgpNSQ&expires=1505447731
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg" group-title="USA",NBC Golf [NoRoku]
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
