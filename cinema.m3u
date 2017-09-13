@@ -198,9 +198,6 @@ https://archive.org/download/Bridge.of.Spies.2015.1080p.BluRay.x264SPARKS/Bridge
 #EXTINF:-1 tvg-logo="https://s.movie.as/images/p/600/281842_m1450752645.jpg" group-title="MOVIES",Diablo (2015)
 http://dl.movieo.ir/dlha/files/Diablo.2015.720p.WEB-DL_(wWw.Movieo.IR).mkv
 
-#EXTINF:-1 tvg-logo="https://www.assignmentx.com/wp-content/uploads/2015/09/DRAGON-BLADE-poster-1.jpg" group-title="MOVIES",Dragon Blade (2015)
-http://dl.movieo.ir/dlha/files/Dragon.Blade.2015.720p.BluRay_(wWw.Movieo.IR).mkv
-
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/home-2015.35899.jpg" group-title="MOVIES",Home (2015)
 https://archive.org/download/Home.2015.720p.YIFYTopArchive.IR/Home.2015.720p.YIFY_TopArchive.IR.mp4
 
@@ -3603,6 +3600,12 @@ https://archive.org/download/PAESESSpiritedAway2001HDTV1080pHi10AAC/[PAESES]%20S
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aalTziefHGUVLg44iyWS8B7ee5u.jpg" group-title="JAPANESE",Pokemon - The First Movie - Mewtwo Strikes Back (1998)
 https://archive.org/download/PokemonMovie1Japanese/Pocket%20Monsters%20Movie%2001%20-%20Mewtwo%20no%20Gyakushuu%20(1998%20Theatrical%20Version)%20[LD]%20[h264%2C%20AC3%2C%20Dual-Audio].mp4
+
+#EXTINF:-1 tvg-logo="https://www.minnetonkaschools.org/uploaded/photos/02/chinese.png" group-title="LABEL",~ CHINESE
+http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="https://www.assignmentx.com/wp-content/uploads/2015/09/DRAGON-BLADE-poster-1.jpg" group-title="CHINESE",Dragon Blade (2015)
+http://dl.movieo.ir/dlha/files/Dragon.Blade.2015.720p.BluRay_(wWw.Movieo.IR).mkv
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/a3ZeYFO.jpg" group-title="DOCUMENTARIES",BBC Horizon - Clean Eating - The Dirty Truth (2017)
 https://archive.org/download/BBCHorizonCleanEatingTheDirtyTruthFullDocumentary/BBC%20Horizon%20-%20Clean%20Eating%20The%20Dirty%20Truth%20-%20Full%20Documentary.mp4
