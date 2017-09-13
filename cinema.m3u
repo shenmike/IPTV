@@ -3565,7 +3565,7 @@ http://149.56.23.7:20082/stream
 #EXTINF:-1 tvg-logo="http://www.liveforfilm.com/wp-content/uploads/2017/06/SECURITY-Poster.jpg" group-title="FARSI",Security (2017)
 http://media.bia4music.com/movie/2017/Film/8/Security_2017_720p_Farsi_Dubbed.mkv
 
-#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/arabic/img/apple-touch-icon%402.png" group-title="LABEL",~ ARABIC
+#EXTINF:-1 tvg-logo="http://www.kl-forum.org/images/flags/arabic.png" group-title="LABEL",~ ARABIC
 http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BURHLXq.jpg" group-title="ARABIC",Oshan 14 (2016)
