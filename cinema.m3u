@@ -3616,7 +3616,7 @@ http://149.56.23.7:20082/stream
 #EXTINF:-1 tvg-logo="http://www.liveforfilm.com/wp-content/uploads/2017/06/SECURITY-Poster.jpg" group-title="FARSI",Security (2017)
 http://media.bia4music.com/movie/2017/Film/8/Security_2017_720p_Farsi_Dubbed.mkv
 
-#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/ex-machina-2015/large_btbRB7BrD887j5NrvjxceRDmaot.jpg" group-title="MOVIES",Ex Machina (2014)
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/ex-machina-2015/large_btbRB7BrD887j5NrvjxceRDmaot.jpg" group-title="FARSI",Ex Machina (2014)
 http://dl.hastimovie.net/films/Ex.Machina.2015.720p.Farsi.Dubbed.%28HastiMovie.Ir%29.mkv
 
 #EXTINF:-1 tvg-logo="http://www.kl-forum.org/images/flags/arabic.png" group-title="LABEL",~ ARABIC
