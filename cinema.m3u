@@ -402,6 +402,9 @@ https://archive.org/download/Scarface.1983.1080p.BRrip.x264.YIFY/Cooties.2014.BR
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51SdwSNUH4L.jpg" group-title="MOVIES",Endless Love (2014) [AR-Subs]
 https://archive.org/download/EndlessLove20141080p/Endless%20Love%20(2014)%201080p.mp4
 
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/ex-machina-2015/large_btbRB7BrD887j5NrvjxceRDmaot.jpg" group-title="MOVIES",Ex Machina (2014)
+http://dl.hastimovie.net/films/Ex.Machina.2015.720p.Farsi.Dubbed.%28HastiMovie.Ir%29.mkv
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mXKkuCn.jpg" group-title="MOVIES",Free Fall (2014)
 https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
 
@@ -3876,9 +3879,6 @@ http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://www.liveforfilm.com/wp-content/uploads/2017/06/SECURITY-Poster.jpg" group-title="FARSI",Security (2017)
 http://media.bia4music.com/movie/2017/Film/8/Security_2017_720p_Farsi_Dubbed.mkv
-
-#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/ex-machina-2015/large_btbRB7BrD887j5NrvjxceRDmaot.jpg" group-title="FARSI",Ex Machina (2014)
-http://dl.hastimovie.net/films/Ex.Machina.2015.720p.Farsi.Dubbed.%28HastiMovie.Ir%29.mkv
 
 #EXTINF:-1 tvg-logo="http://www.kl-forum.org/images/flags/arabic.png" group-title="LABEL",~ ARABIC
 http://149.56.23.7:20082/stream
