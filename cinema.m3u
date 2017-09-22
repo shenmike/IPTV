@@ -9,7 +9,7 @@ http://149.56.23.7:20082/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="LABEL",< Please Donate
 http://149.56.23.7:20082/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Sep.14.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Sep.22.2017
 http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="LABEL",> Like Us!
@@ -17,6 +17,9 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/EN_language_symbol_in_blue_letters_in_a_blue_square.svg/2000px-EN_language_symbol_in_blue_letters_in_a_blue_square.svg.png" group-title="LABEL",~ MOVIES
 http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/6-days-2017.87073.jpg" group-title="MOVIES",6 Days (2017)
+http://dl.movieo.ir/dlha/files/2017/6.Days.2017.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://dailydead.com/wp-content/uploads/2017/05/7-Witches-poster.jpg" group-title="MOVIES",7 Witches (2017)
 http://dl.movieo.ir/dlha/files/2017/7.Witches.2017.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
@@ -27,8 +30,32 @@ https://archive.org/download/Agent_2017/Agent%202017.mp4
 #EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/05/Alien-Covenant-2.jpg" group-title="MOVIES",Alien - Covenant (2017)
 http://dl.movieo.ir/dlha/files/2017/Alien.Covenant.2017.V2.HC.720p.HDrip._(wWw.Movieo.IR).mkv.mp4
 
+#EXTINF:-1 tvg-logo="http://www.chuksmobile.com/tv_series/media/movie-small-Altitude-2017-Full-English-Movie-Download-BrRip_50.jpg" group-title="MOVIES",Altitude (2017)
+http://dl.movieo.ir/dlha/files/2017/Altitude.2017.DVDrip_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yxvApvJ.jpg" group-title="MOVIES",Amelia 2.0 (2017)
+http://dl.movieo.ir/dlha/files/2017/Amelia.2.0.2017.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ln2fAwfVPJ0/movieposter.jpg" group-title="MOVIES",American Violence (2017)
+http://dl.movieo.ir/dlha/files/2017/American.Violence.2017.720p%20_(wWw.Movieo.IR).mkv.mp4
+
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/amityville-exorcism.63073.jpg" group-title="MOVIES",Amityville Exorcism (2017)
 http://dl.movieo.ir/dlha/files/2017/Amityville.Exorcism.2017.720p.WEB-DL.550MB_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/t2rjm09w79I/movieposter.jpg" group-title="MOVIES",Armed Response (2017)
+http://dl.movieo.ir/dlha/files/2017/Armed.Response.2017.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp
+
+#EXTINF:-1 tvg-logo="https://www.writerswrite.com/watcherswatch/2016pics/arsenal-poster.jpg" group-title="MOVIES",Arsenal (2017)
+http://dl.movieo.ir/dlha/files/Arsenal.2017.720p.WEB-DL.650MB_(wWw.Movieo.IR).mkv
+
+#EXTINF:-1 tvg-logo="http://www.scifi-movies.com/images/contenu/data/0001915/affiche-attraction-2017-3.jpg" group-title="MOVIES",Attraction (2017)
+http://dl.movieo.ir/dlha/files/2017/Attraction.2017.WEB-DL.720p_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="http://horror.wpengine.netdna-cdn.com/wp-content/uploads/2017/06/shadowman-poster.jpg" group-title="MOVIES",Awaken the Shadowman (2017)
+http://dl.movieo.ir/dlha/files/2017/Awaken.the.Shadowman.2017.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="http://horrorbuzz.com/wp-content/uploads/2017/05/AwakeningTheZodiac_Poster.jpg" group-title="MOVIES",Awakening the Zodiac (2017)
+http://dl.movieo.ir/dlha/files/2017/Awakening.the.Zodiac.2017.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="http://horrorbuzz.com/wp-content/uploads/2017/05/AwakeningTheZodiac_Poster.jpg" group-title="MOVIES",Awakening the Zodiac (2017) [AR-Subs]
 https://archive.org/download/AwakeningTheZodiac2017/Awakening%20the%20Zodiac%202017.mp4
@@ -39,11 +66,35 @@ http://dl.hastimovie.net/film/Baby_Driver_2017_HDCAM_p30movies.ir.mkv
 #EXTINF:-1 tvg-logo="http://legionofleia.com/wp-content/uploads/screen-shot-2017-04-19-at-9-32-34-am-copy.jpg" group-title="MOVIES",Baywatch (2017)
 http://dl.my-film.in/s1/Movie/Baywatch.2017/Baywatch.2017.UNRATED.720p.MkvCage-[My-Film].mkv
 
+#EXTINF:-1 tvg-logo="http://fr.web.img4.acsta.net/pictures/17/06/21/16/56/040207.jpg" group-title="MOVIES",Bad Frank (2017)
+http://dl.movieo.ir/dlha/files/2017/Bad.Frank.2017.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_38014.jpg" group-title="MOVIES",Bad Kids of Crestview Academy (2017)
+http://dl.movieo.ir/dlha/files/2017/Bad.Kids.of.Crestview.Academy.2017.720p_(wWw.Movieo.IR).mkv.mp4
+
 #EXTINF:-1 tvg-logo="https://usercontent2.hubstatic.com/13466999.jpg" group-title="MOVIES",Beauty and the Beast (2017)
 http://media.bia4music.com/movie/2017/Film/6/Beauty%20and%20the%20Beast%202017%20720p%20Farsi%20Dubbed.mkv
 
+#EXTINF:-1 tvg-logo="http://static3.aintitcool.com/assets2012/aicncomics/bethany1.jpg" group-title="MOVIES",Bethany (2016)
+http://dl.movieo.ir/dlha/files/2017/Bethany.2017.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/bitter-harvest-2017/large_bitter_harvest.jpg" group-title="MOVIES",Bitter Harvest (2017)
+http://dl.movieo.ir/dlha/files/2017/Bitter.Harvest.2017.720p_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="https://in.bmscdn.com/iedb/movies/images/website/poster/large/black-butterfly-et00055143-24-03-2017-01-15-36.jpg" group-title="MOVIES",Black Butterfly (2017)
+http://dl.movieo.ir/dlha/files/2017/Black%20Butterfly%20(2017)_(wWw.Movieo.IR).mkv.mp4
+
 #EXTINF:-1 tvg-logo="http://www.mongrelmedia.com/MongrelMedia/files/04/0411c9ac-89a8-4ad8-a476-989284573e57.jpg" group-title="MOVIES",Black Site Delta (2017) [AR-Subs]
 https://archive.org/download/BlackSiteDelta2017/Black%20Site%20Delta%202017.mp4
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/blood-sand-and-gold.70162.jpg" group-title="MOVIES",Blood Sand and Gold (2017)
+http://dl.movieo.ir/dlha/files/2017/Blood.Sand.and.Gold.2017.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="http://horrornews.net/wp-content/uploads/2016/12/Bloodrunners-2017-MOVIE-POSTER.jpg" group-title="MOVIES",Bloodrunners (2017)
+http://dl.movieo.ir/dlha/files/2017/Bloodrunners.2017.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="http://fr.web.img6.acsta.net/c_215_290/pictures/14/11/27/17/46/583911.jpg" group-title="MOVIES",Blowtorch (2017)
+http://dl.movieo.ir/dlha/files/2017/Blowtorch.2017.720p.WEB-DL%20_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1lpVxCD.jpg" group-title="MOVIES",By Any Means (2017)
 http://dl.movieo.ir/dlha/New%20folder/By.Any.Means.2017.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
@@ -3918,6 +3969,9 @@ https://archive.org/download/PokemonMovie1Japanese/Pocket%20Monsters%20Movie%200
 
 #EXTINF:-1 tvg-logo="https://www.minnetonkaschools.org/uploaded/photos/02/chinese.png" group-title="LABEL",~ CHINESE
 http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/9f/20e9705ccf030e9c14d14546199916f9_500x735.jpg" group-title="CHINESE",29+1 (2017)
+http://dl.movieo.ir/dlha/files/2017/29.plus.1.2017.720p_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://www.assignmentx.com/wp-content/uploads/2015/09/DRAGON-BLADE-poster-1.jpg" group-title="CHINESE",Dragon Blade (2015)
 http://dl.movieo.ir/dlha/files/Dragon.Blade.2015.720p.BluRay_(wWw.Movieo.IR).mkv
