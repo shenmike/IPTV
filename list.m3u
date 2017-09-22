@@ -96,12 +96,6 @@ http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/right
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png" group-title="USA",Hunt Channel
 http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgur.com/YYj8IAu.png" group-title="USA",Red Bull TV
-http://tecnotv.xyz/media/redbull
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn1-www.wrestlezone.com/assets/uploads/2014/01/WWE-Network-300x204.jpg" group-title="USA",WWE Network
-http://ww3.cast2.cricket/channels/1080.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Biz_LOGO.PNG" group-title="USA",Biz TV
 http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
 
@@ -152,9 +146,6 @@ http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-xiyVh-oNzJE/AAAAAAAAAAI/AAAAAAAAAAA/5FaR9rGW-F4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="USA",NBC News Live
 http://msnbclive-lh.akamaihd.net/i/msnbc_live01@180610/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/09/FNC2.jpg" group-title="USA",Fox News Channel [Off]
-https://freeeucache3.streamlive.to/live/ohn58e97er36vjr/index.m3u8?st=7PIqLbTEGt81aZsCST9yLA&expires=1505448996
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg" group-title="USA",Bloomberg TV
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
