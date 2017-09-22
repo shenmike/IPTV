@@ -54,9 +54,6 @@ http://www.lengua.com/anthems/USA.mp3
 #EXTINF:-1 tvg-logo="http://channels.roku.com/images/0de6234f963e4bcca75b550147e8ff03-hd.jpg" group-title="USA",Comedy Central
 http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RJ1bM5E3ZNI/hqdefault.jpg" group-title="USA",FXX
-http://216.31.255.235/hlsl/4/beSteSTamE5uFXX/beSteSTamE5uFXX.m3u8
-
 #EXTINF:-1 tvg-logo="http://tvruckus.com/wp-content/uploads/2015/06/Investigation-Discovery.jpg" group-title="USA",Investigation Discovery
 http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
 
