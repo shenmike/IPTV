@@ -3271,11 +3271,23 @@ https://archive.org/download/1080pLaVendedoraDeRosas1998PeliculaColombianaComple
 #EXTINF:-1 tvg-logo="http://museumweek2015.org/wp-content/uploads/2015/06/Saving-Private-Ryan-1998-cover.jpg" group-title="SPANISH",Saving Private Ryan (1998)
 https://archive.org/download/RescatandoAlSoldadoRyan/Rescatando%20Al%20Soldado%20Ryan.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wTvuMi6YlO6bVe2Ax5mEL1dbVYv.jpg" group-title="SPANISH",George of the Jungle (1997)
+https://ia601507.us.archive.org/21/items/1960196004.mkv/1960-196004.mkv.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Striptease_movie_poster.jpg" group-title="SPANISH",Striptease (1996)
+https://ia601508.us.archive.org/14/items/Cheverefans0032017.mkv/Cheverefans%200032017.mkv.mp4
+
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/the-lion-king.12693.jpg" group-title="SPANISH",The Lion King (1994)
 https://ia801603.us.archive.org/7/items/MRAQC28042017DIDI280417/28042017.mp4
 
 #EXTINF:-1 tvg-logo="http://images2.static-bluray.com/products/20/8213_2_large.jpg" group-title="SPANISH",Dennis the Menace (1993)
 https://ia600605.us.archive.org/3/items/31052017_201705678678687687/31052017.mkv
+
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/aladdin/images/8/8c/Poster_aladdin.png" group-title="SPANISH",Aladdin (1992)
+https://ia601508.us.archive.org/15/items/19700000000004.mkv/19700000000004.mkv.mp4
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/beauty-and-the-beast-1991/large_jvlalnqhCxQfuBhPQKAuWuzvTe1.jpg" group-title="SPANISH",Beauty and the Beast (1991)
+https://archive.org/download/06052017MYO5MYO06052017/06052017_MYO5.mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Back_to_the_Future_Part_III.jpg" group-title="SPANISH",Back to the Future Part III (1990)
 https://ia801303.us.archive.org/35/items/84CK.70/84CK.70.FU7U93.2-ES-720.mp4?disco
@@ -3297,6 +3309,9 @@ https://ia801603.us.archive.org/6/items/06052017AQC06052017/06052017_AQC.avi
 
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/childs-play-1988/large_6r9MOdGpOpSTH4jCQemyhPOHbZn.jpg" group-title="SPANISH",Child's Play (1988)
 https://ia800604.us.archive.org/29/items/080520712070508aCh/08052071.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Dirty_Dancing.jpg" group-title="SPANISH",Dirty Dancing (1987)
+https://ia601505.us.archive.org/10/items/19700000000003.mkv/19700000000003.mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/back-to-the-future.12448.jpg" group-title="SPANISH",Back to the Future (1985)
 https://ia801303.us.archive.org/35/items/84CK.70/84CK.70.FU7U93-ES-720.mp4?disco
@@ -3502,6 +3517,9 @@ https://archive.org/download/TeSigoEsperando1952/Te%20Sigo%20Esperando%201952.mp
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Acapulco-409105311-large.jpg" group-title="SPANISH",Acapulco (1951)
 https://archive.org/download/Acapulco_1951/Acapulco_1951.mp4
 
+#EXTINF:-1 tvg-logo="https://s1.thcdn.com/productimg/480/480/10998386-2084425776830023.jpg " group-title="SPANISH",Alice in Wonderland (1951)
+https://ia601508.us.archive.org/33/items/MilOchoMil001/MilOchoMil_001.mp4
+
 #EXTINF:-1 tvg-logo="http://www.doctormacro.com/Images/Posters/R/Poster%20-%20Royal%20Wedding_01.jpg" group-title="SPANISH",Bodas Reales (1951)
 https://archive.org/download/Bodas_Reales_1951/Bodas_Reales_1951.mp4
 
@@ -3613,8 +3631,14 @@ https://archive.org/download/EclipseDeSol1943/Eclipse%20de%20Sol%201943.mp4
 #EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/516R6SD5WEL.jpg" group-title="SPANISH",La Feria de las Flores (1943)
 https://archive.org/download/LaFeriaDeLasFlores1943/La%20Feria%20de%20Las%20Flores%201943.mp4
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/7f/0b/ae/7f0baedfb57021585a76e9890917b95a.jpg" group-title="SPANISH",Bambi (1942)
+https://ia601509.us.archive.org/9/items/MilOchoMil004/MilOchoMil_004.mp4
+
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-6j0FR1y_aAg/UZEELt5a15I/AAAAAAAAdCQ/WvqQnQCHq0c/s1600/1942+angel+negro.jpg" group-title="SPANISH",El Angel Negro (1942)
 https://archive.org/download/ElAngelNegro1942/El%20Angel%20Negro%201942.mp4
+
+#EXTINF:-1 tvg-logo="http://img.soundtrackcollector.com/movie/large/Dumbo.jpg" group-title="SPANISH",Dumbo (1941)
+https://ia601505.us.archive.org/5/items/1960196003/1960-196003.mp4?null=
 
 #EXTINF:-1 tvg-logo="https://monstergirl.files.wordpress.com/2012/11/ladies-in-retirement-movie-poster-1941.jpg" group-title="SPANISH",El Misterio de Fiske Manor (1941)
 https://archive.org/download/El_misterio_de_Fiske_Manor_1941/El_misterio_de_Fiske_Manor_1941.mp4
