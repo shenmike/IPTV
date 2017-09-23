@@ -4138,25 +4138,28 @@ https://archive.org/download/PAESESSpiritedAway2001HDTV1080pHi10AAC/[PAESES]%20S
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aalTziefHGUVLg44iyWS8B7ee5u.jpg" group-title="JAPANESE",Pokemon - The First Movie - Mewtwo Strikes Back (1998)
 https://archive.org/download/PokemonMovie1Japanese/Pocket%20Monsters%20Movie%2001%20-%20Mewtwo%20no%20Gyakushuu%20(1998%20Theatrical%20Version)%20[LD]%20[h264%2C%20AC3%2C%20Dual-Audio].mp4
 
-#EXTINF:-1 tvg-logo="https://www.minnetonkaschools.org/uploaded/photos/02/chinese.png" group-title="LABEL",~ MANDARIN
+#EXTINF:-1 tvg-logo="https://www.minnetonkaschools.org/uploaded/photos/02/chinese.png" group-title="LABEL",~ CHINESE
 http://149.56.23.7:20082/stream
 
-#EXTINF:-1 tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/9f/20e9705ccf030e9c14d14546199916f9_500x735.jpg" group-title="MANDARIN",29+1 (2017)
+#EXTINF:-1 tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/9f/20e9705ccf030e9c14d14546199916f9_500x735.jpg" group-title="CHINESE",29+1 (2017)
 http://dl.movieo.ir/dlha/files/2017/29.plus.1.2017.720p_(wWw.Movieo.IR).mkv.mp4
 
-#EXTINF:-1 tvg-logo="http://i.viewasian.com/poster/580/dealer-healer-hong-kong-2017.jpg" group-title="MANDARIN",Dealer - Healer (2017)
+#EXTINF:-1 tvg-logo="http://i.viewasian.com/poster/580/dealer-healer-hong-kong-2017.jpg" group-title="CHINESE",Dealer - Healer (2017)
 http://dl.movieo.ir/dlha/files/2017/Dealer_Healer_2017_720p_(wWw.Movieo.IR).mkv.mp4
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/tiffanyyong.com/wp-content/uploads/2017/04/Extraordinary-Mission-Poster.jpg" group-title="MANDARIN",Extraordinary Mission (2017)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tiffanyyong.com/wp-content/uploads/2017/04/Extraordinary-Mission-Poster.jpg" group-title="CHINESE",Extraordinary Mission (2017)
 http://dl.movieo.ir/dlha/files/2017/Extraordinary.Mission.2017.HC.720p.WEBrip_(wWw.Movieo.IR).mkv.mp4
 
-#EXTINF:-1 tvg-logo="http://movizland.com/wp-content/uploads/4dceac62c21baa6fs-490x640.jpg" group-title="MANDARIN",Journey to the West - The Demons Strike Back (2017)
+#EXTINF:-1 tvg-logo="http://movizland.com/wp-content/uploads/4dceac62c21baa6fs-490x640.jpg" group-title="CHINESE",Journey to the West - The Demons Strike Back (2017)
 http://dl.movieo.ir/dlha/files/2017/Journey.to.the.West.Demon.Chapter.2017.720p.WEB-DL.x264_(wWw.Movieo.IR).mkv.mp4
 
-#EXTINF:-1 tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/5c/89dd017dd05f422e9854168dbf52a431_500x735.jpg" group-title="MANDARIN",Kung Fu Yoga (2017)
+#EXTINF:-1 tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/5c/89dd017dd05f422e9854168dbf52a431_500x735.jpg" group-title="CHINESE",Kung Fu Yoga (2017)
 http://dl.movieo.ir/dlha/files/2017/Kung.Fu.Yoga.2017.HC.720p.WEBrip_(wWw.Movieo.IR).mkv.mp4
 
-#EXTINF:-1 tvg-logo="https://www.assignmentx.com/wp-content/uploads/2015/09/DRAGON-BLADE-poster-1.jpg" group-title="MANDARIN",Dragon Blade (2015)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/ShockWave.jpg/220px-ShockWave.jpg" group-title="CHINESE",Shock Wave
+http://dl.movieo.ir/dlha/files/2017/Shock.Wave.2017.720p_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="https://www.assignmentx.com/wp-content/uploads/2015/09/DRAGON-BLADE-poster-1.jpg" group-title="CHINESE",Dragon Blade (2015)
 http://dl.movieo.ir/dlha/files/Dragon.Blade.2015.720p.BluRay_(wWw.Movieo.IR).mkv
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/a3ZeYFO.jpg" group-title="DOCUMENTARIES",BBC Horizon - Clean Eating - The Dirty Truth (2017)
