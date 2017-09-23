@@ -1284,6 +1284,9 @@ https://archive.org/download/Bugs_Bunny_Collection/Daffy%20Duck%27s%20Quackbuste
 #EXTINF:-1 tvg-logo="http://images.moviepostershop.com/escape-from-sobibor-tv-movie-poster-1987-1020469008.jpg" group-title="MOVIES",Escape From Sobibor (1987)
 https://archive.org/download/Escape_From_Sobibor.avi/Escape_from_Sobibor_512kb.mp4
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Dirty_Dancing.jpg" group-title="MOVIES",Dirty Dancing (1987)
+https://ia601505.us.archive.org/10/items/19700000000003.mkv/19700000000003.mkv.mp4
+
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/cobra_nero-284208881-large.jpg" group-title="MOVIES",The Black Cobra (1987)
 https://archive.org/download/BlackCobra_133/BlackCobra.mp4
 
@@ -3309,9 +3312,6 @@ https://ia801603.us.archive.org/6/items/06052017AQC06052017/06052017_AQC.avi
 
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/childs-play-1988/large_6r9MOdGpOpSTH4jCQemyhPOHbZn.jpg" group-title="SPANISH",Child's Play (1988)
 https://ia800604.us.archive.org/29/items/080520712070508aCh/08052071.mkv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Dirty_Dancing.jpg" group-title="SPANISH",Dirty Dancing (1987)
-https://ia601505.us.archive.org/10/items/19700000000003.mkv/19700000000003.mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/back-to-the-future.12448.jpg" group-title="SPANISH",Back to the Future (1985)
 https://ia801303.us.archive.org/35/items/84CK.70/84CK.70.FU7U93-ES-720.mp4?disco
