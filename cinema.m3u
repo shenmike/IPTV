@@ -30,6 +30,9 @@ https://archive.org/download/Agent_2017/Agent%202017.mp4
 #EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/05/Alien-Covenant-2.jpg" group-title="MOVIES",Alien - Covenant (2017)
 http://dl.movieo.ir/dlha/files/2017/Alien.Covenant.2017.V2.HC.720p.HDrip._(wWw.Movieo.IR).mkv.mp4
 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/05/Alien-Covenant-2.jpg" group-title="MOVIES",Alien - Covenant (2017)*
+https://ia601505.us.archive.org/27/items/Cheverefans0022017.mkv/Cheverefans%200022017.mkv.mp4
+
 #EXTINF:-1 tvg-logo="http://www.chuksmobile.com/tv_series/media/movie-small-Altitude-2017-Full-English-Movie-Download-BrRip_50.jpg" group-title="MOVIES",Altitude (2017)
 http://dl.movieo.ir/dlha/files/2017/Altitude.2017.DVDrip_(wWw.Movieo.IR).mkv.mp4
 
@@ -290,6 +293,9 @@ https://archive.org/download/T2.Trainspotting.2017.1080p.BluRay.AVC.DTSHD.MA.5.1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/At8HD3Y.jpg" group-title="MOVIES",Taken Heart (2017)
 http://dl.movieo.ir/dlha/files/2017/Taken.Heart.2017.720p.WEB-DL%20_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="https://assets.voxcinemas.com/posters/P_HO00004718.jpg" group-title="MOVIES",The Big Sick (2017)
+https://ia601502.us.archive.org/33/items/chayoterodance_Track066/chayoterodance_Track066.mp4?CONEXION?null=?mkv
 
 #EXTINF:-1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2017/08/THE-BASEMENT-200x300.jpg" group-title="MOVIES",The Basement (2017)
 http://dl.movieo.ir/dlha/files/2017/Besetment.2017.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
@@ -2904,9 +2910,6 @@ https://archive.org/download/AmericanGigolo19801080pHevcSciencefunEncoding/Ameri
 #EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/spanish/img/apple-touch-icon@2.png" group-title="LABEL",~ SPANISH
 http://149.56.23.7:20082/stream
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/05/Alien-Covenant-2.jpg" group-title="SPANISH",Alien - Covenant (2017)
-https://ia601505.us.archive.org/27/items/Cheverefans0022017.mkv/Cheverefans%200022017.mkv.mp4
-
 #EXTINF:-1 tvg-logo="https://usercontent2.hubstatic.com/13466999.jpg" group-title="SPANISH",Beauty and the Beast (2017)
 https://ia800603.us.archive.org/29/items/06052017MYO5MYO06052017/06052017_MYO5.mkv
 
@@ -2948,12 +2951,6 @@ https://ia800605.us.archive.org/27/items/04052017AQMCMA04052017AQC/04052017AQMCM
 
 #EXTINF:-1 tvg-logo="https://movieposters2.com/images/1466578-b.jpg" group-title="SPANISH",Sleepless (2017)
 http://www.cinevall.com/videos/noche_de_venganza.m4v
-
-#EXTINF:-1 tvg-logo="https://assets.voxcinemas.com/posters/P_HO00004718.jpg" group-title="SPANISH",The Big Sick (2017)
-https://ia601502.us.archive.org/33/items/chayoterodance_Track066/chayoterodance_Track066.mp4?CONEXION?null=?mkv
-
-#EXTINF:-1 tvg-logo="http://www.mygoldenchoice.com/wp-content/uploads/FA-2.jpg" group-title="SPANISH",The Fate of the Furious (2017)
-https://archive.org/download/RapidosYFuriosos82017TSHQ/R%C3%A1pidos%20y%20Furiosos%208%202017%20-%20TSHQ.mp4
 
 #EXTINF:-1 tvg-logo="http://88razzi.com/sites/default/files/styles/large/public/images/2017/05/22/node-1112/the-mummy-poster-2-988842.jpg" group-title="SPANISH",The Mummy (2017)
 https://ia801500.us.archive.org/30/items/CalaveraTieneHambre/calavera%20tiene%20hambre.mp4
