@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="LABEL",< Please Donate
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Sep.13.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Sep.23.2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="LABEL",> Like Us!
@@ -1764,6 +1764,9 @@ http://tecnotv.xyz/media/futurama2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097598137.jpg" group-title="LATINO",24/7 Los Simpson
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.comicbook.com/2016/12/dragon-ball-z-220357.jpg" group-title="LATINO",24/7 Dragon Ball Z
+https://hls-ord-3a.vaughnsoft.net/ams/live/live_dragonballenvivo/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.revistasenal.com/wp-content/uploads/2016/09/HOLA.jpg" group-title="LATINO",Hola TV
 http://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.m3u8
 
@@ -1775,12 +1778,6 @@ http://vivoplay-i.akamaihd.net/hls/live/255331/canal2/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/320350553/ANimeTV_logo_copy22.jpg" group-title="LATINO",Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/16s6jAH.jpg" group-title="LATINO",Locomotion
-http://tecnotv.xyz/media/locomotion
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgur.com/X6PgEpo.png" group-title="LATINO",Telemundo
-http://tecnotv.xyz/media/telemundo
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/2000px-Logo_Univision_2013.svg.png" group-title="LATINO",Univision
 http://cdnh8.iblups.com/hls/33hssQ13ID.m3u8
@@ -1937,9 +1934,6 @@ http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/C80nB1RU0AENG1S.png" group-title="MEXICO",A+
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/hn_azteca-7_m.png" group-title="MEXICO",Azteca 7
-http://tecnotv.xyz/media/azteca7
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gruposalinas.com/images/nv/Azteca_04.png" group-title="MEXICO",Azteca Trece
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
