@@ -57,6 +57,9 @@ http://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jrescatolicos.org/wp-content/uploads/2016/06/alogo.png" group-title="CATHOLICISM",JRES TV (USA) [ES]
 http://teleredmcp.com:1935/jrestv/jrestv/chunklist_w1193494329.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://libreria.elsembradorministries.com//img/cms/esne-logo-small-01.png" group-title="CATHOLICISM",Television ESNE - El Sembrador (USA) [ES]
+http://198.154.228.82:1935/esne-live/smil:esnetv.smil/chunklist_w431608397_b1298000_sleng.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lwctt.org/wp-content/uploads/2016/05/trinitty3-150x115.jpg" group-title="CATHOLICISM",TCN (Trinidad and Tobago)
 http://1-fss29-s0.streamhoster.com/lv_trinitytv/_definst_/broadcast1/playlist.m3u8
 
@@ -77,9 +80,6 @@ https://5905415e30c74.streamlock.net:8443/live/_jcn_/amlst:Mariavision/chunklist
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://montemaria.org/web/web2/img/logo6.png" group-title="CATHOLICISM",Monte Maria (Mexico)
 http://162.212.176.51:1935/live/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://libreria.elsembradorministries.com//img/cms/esne-logo-small-01.png" group-title="CATHOLICISM",Television ESNE - El Sembrador (El Salvador)
-http://198.154.228.82:1935/esne-live/smil:esnetv.smil/chunklist_w431608397_b1298000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-39-sv.png" group-title="CATHOLICISM",TVCA (El Salvador)
 http://streamserver3.us:1935/tvcaelsalvador/live/playlist.m3u8
