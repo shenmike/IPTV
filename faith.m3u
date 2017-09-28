@@ -3,13 +3,13 @@
 #EXTINF:-1 tvg-logo="http://i.imgur.com/K4a3EoW.png" group-title="LABEL",* Fluxus Faith
 http://191.252.102.161:8040/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="LABEL",+ Free Spiritual IPTV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="LABEL",+ Free Religious IPTV
 http://191.252.102.161:8040/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="LABEL",< Please Donate
 http://191.252.102.161:8040/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Sep.07.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Sep.28.2017
 http://191.252.102.161:8040/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="LABEL",> Like Us!
@@ -77,6 +77,9 @@ https://5905415e30c74.streamlock.net:8443/live/_jcn_/amlst:Mariavision/chunklist
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://montemaria.org/web/web2/img/logo6.png" group-title="CATHOLICISM",Monte Maria (Mexico)
 http://162.212.176.51:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://libreria.elsembradorministries.com//img/cms/esne-logo-small-01.png" group-title="CATHOLICISM",Television ESNE - El Sembrador (El Salvador)
+http://198.154.228.82:1935/esne-live/smil:esnetv.smil/chunklist_w431608397_b1298000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-39-sv.png" group-title="CATHOLICISM",TVCA (El Salvador)
 http://streamserver3.us:1935/tvcaelsalvador/live/playlist.m3u8
