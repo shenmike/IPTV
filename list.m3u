@@ -1851,15 +1851,6 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdnsp.tvpublica.com.ar/wp-content/uploads/2016/04/12204727/encuentro.jpg" group-title="ARGENTINA",Encuentro
 http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/bEAp2uX.jpg" group-title="ARGENTINA",ESPN
-http://tecnotv.xyz/media/espn
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/tV84D2Q.jpg" group-title="ARGENTINA",ESPN 2
-http://tecnotv.xyz/media/espn2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/9uOhMOc.jpg" group-title="ARGENTINA",ESPN 3
-http://tecnotv.xyz/media/espn3
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000469137087/0d9032e1e3a7e6b29742ea8e3f679af4_400x400.png" group-title="ARGENTINA",ESPN Radio 107.9
 http://espnsslarugby-i.akamaihd.net/hls/live/225068/rugbytest/64/64.m3u8
 
