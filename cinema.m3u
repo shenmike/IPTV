@@ -3003,9 +3003,6 @@ https://ia801601.us.archive.org/7/items/04052017AQCGH04052017298746/04052017AQCG
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/X3ngYTRUo1Y/movieposter.jpg" group-title="SPANISH",How to Be a Latin Lover (2017)
 https://ia601505.us.archive.org/13/items/9700000000006.mkv/9700000000006.mkv.mp4?earMy.mp4
 
-#EXTINF:-1 tvg-logo="http://www.expotoons.com/home11/web/resources/screenings/lamaquina.jpg" group-title="SPANISH",La Maquina que Hace Estrellas (2012)
-https://ia801500.us.archive.org/12/items/RegalanosElClicDiarioSrRegio/La.Maquina.Que.Hace.Estrellas.SrRegio.mp4
-
 #EXTINF:-1 tvg-logo="http://is3.mzstatic.com/image/thumb/Video127/v4/85/ba/08/85ba0876-0c0f-23b2-18c2-6b615333a76d/source/400x400-75.jpg" group-title="SPANISH",Lego Scooby-Doo! Blowout Beach Bash (2017)
 https://ia601507.us.archive.org/34/items/19700000000002.mkv/19700000000002.mkv.mp4
 
@@ -3251,6 +3248,9 @@ https://ia601507.us.archive.org/28/items/chayoterodance_Track04/chayoterodance_T
 
 #EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid7975.jpg" group-title="SPANISH",Jack Reacher (2012)
 http://www.cinevall.es/videos/jack_reacher.m4v
+
+#EXTINF:-1 tvg-logo="http://www.expotoons.com/home11/web/resources/screenings/lamaquina.jpg" group-title="SPANISH",La Maquina que Hace Estrellas (2012)
+https://ia801500.us.archive.org/12/items/RegalanosElClicDiarioSrRegio/La.Maquina.Que.Hace.Estrellas.SrRegio.mp4
 
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/cars-2-2011/large_7WILDjnJggB3bIioS3LRvtvmu1X.jpg" group-title="SPANISH",Cars 2 (2011)
 https://ia601509.us.archive.org/31/items/MilOchoMil005/MilOchoMil_005.mp4
