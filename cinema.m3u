@@ -588,6 +588,9 @@ http://dl.movieo.ir/dlha/files/Warcraft.2016.720p.Ganool.mkv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Q34J3SVgpIM/movieposter.jpg" group-title="MOVIES",X-Men - Apocalypse (2016)
 http://dl.movieo.ir/dlha/files/X-Men.Apocalypse.2016.720p.TC.Ganool.mkv
 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-RZO66b7CMVo/Vt55OCcyIKI/AAAAAAAAJTE/4eFGJvYTyIk/s1600/zootopia.jpg" group-title="MOVIES",Zootopia (2016)
+http://dl.movieo.ir/dlha/files/Zootopia.2016.720p.HDrip.Farsi.Dubbed.mkv
+
 #EXTINF:-1 tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/all-creatures-big-and-small-post.jpg" group-title="MOVIES",All Creatures Big and Small (2015)
 https://archive.org/download/Ooops.Noah.Is.Gone.2015.BluRay.1080p.5.1CH.x264.Ganool.Video/Ooops.Noah.Is.Gone.2015.BluRay.1080p.5.1CH.x264.Ganool.Video.mp4
 
@@ -4464,9 +4467,6 @@ http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://www.liveforfilm.com/wp-content/uploads/2017/06/SECURITY-Poster.jpg" group-title="FARSI",Security (2017)
 http://media.bia4music.com/movie/2017/Film/8/Security_2017_720p_Farsi_Dubbed.mkv
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-RZO66b7CMVo/Vt55OCcyIKI/AAAAAAAAJTE/4eFGJvYTyIk/s1600/zootopia.jpg" group-title="FARSI",Zootopia (2016) [?]
-http://dl.movieo.ir/dlha/files/Zootopia.2016.720p.HDrip.Farsi.Dubbed.mkv
 
 #EXTINF:-1 tvg-logo="http://www.kl-forum.org/images/flags/arabic.png" group-title="LABEL",~ ARABIC
 http://149.56.23.7:20082/stream
