@@ -48,6 +48,9 @@ http://dl.movieo.ir/dlha/files/2017/American.Violence.2017.720p%20_(wWw.Movieo.I
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/amityville-exorcism.63073.jpg" group-title="MOVIES",Amityville Exorcism (2017)
 http://dl.movieo.ir/dlha/files/2017/Amityville.Exorcism.2017.720p.WEB-DL.550MB_(wWw.Movieo.IR).mkv.mp4
 
+#EXTINF:-1 tvg-logo="https://blogs-images.forbes.com/scottmendelson/files/2017/06/ANNABELLE_CREATION_POSTER-1200x1778.jpg" group-title="MOVIES",Annabelle - Creation (2017) [ES-Subs]
+http://www.cinevall.com/videos/annabelle_2.m4v
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/t2rjm09w79I/movieposter.jpg" group-title="MOVIES",Armed Response (2017)
 http://dl.movieo.ir/dlha/files/2017/Armed.Response.2017.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
 
@@ -2969,9 +2972,6 @@ https://archive.org/download/AmericanGigolo19801080pHevcSciencefunEncoding/Ameri
 
 #EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/spanish/img/apple-touch-icon@2.png" group-title="LABEL",~ SPANISH
 http://149.56.23.7:20082/stream
-
-#EXTINF:-1 tvg-logo="https://blogs-images.forbes.com/scottmendelson/files/2017/06/ANNABELLE_CREATION_POSTER-1200x1778.jpg" group-title="SPANISH",Annabelle - Creation (2017)
-http://www.cinevall.com/videos/annabelle_2.m4v
 
 #EXTINF:-1 tvg-logo="https://68.media.tumblr.com/bbcb45cde7af687086e27b4e773134f6/tumblr_orseygPo3c1r3sj53o1_1280.png" group-title="SPANISH",Baby Driver (2017)
 http://www.cinevall.com/videos/baby_driver.m4v
