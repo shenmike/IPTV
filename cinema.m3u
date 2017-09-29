@@ -576,6 +576,9 @@ https://archive.org/download/Trolls2016BluRayX264.by.nemr23/Trolls%202016%20BluR
 #EXTINF:-1 tvg-logo="https://www.cinemaclock.com/html/images/posters/1000x1500/68/uss-indianapolis-men-of-courage-2016-poster.jpg" group-title="MOVIES",USS Indianapolis - Men of Courage (2016)
 http://dl.movieo.ir/dlha/files/2016/film/USS.Indianapolis.Men.of.Courage.2016.720p_(wWw.Movieo.IR).mkv.mp4
 
+#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/V/Viral-2016-movie-poster.jpg" group-title="MOVIES",Viral (2016) [Dual-ES]
+https://ia801507.us.archive.org/18/items/viral_201709/viral.mp4
+
 #EXTINF:-1 tvg-logo="http://www.fatmovieguy.com/wp-content/uploads/2015/11/Warcraft-Movie-Poster.jpg" group-title="MOVIES",Warcraft (2016)
 http://dl.movieo.ir/dlha/files/Warcraft.2016.720p.Ganool.mkv
 
@@ -3195,9 +3198,6 @@ http://www.cinevall.es/videos/trolls.m4v
 #EXTINF:-1 tvg-logo="https://cdn.traileraddict.com/content/dreamworks-animation/trolls2016-9.jpg" group-title="SPANISH",Trolls (2016)*
 https://ia601506.us.archive.org/8/items/Family1960196001/Family_1960-196001.mp4
 
-#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/V/Viral-2016-movie-poster.jpg" group-title="SPANISH",Viral (2016)
-https://ia801507.us.archive.org/18/items/viral_201709/viral.mp4
-
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/war-dogs-2016/large_war_dogs_ver2.jpg" group-title="SPANISH",War Dogs (2016)
 http://www.cinevall.es/videos/juego_de_armas.m4v
 
@@ -3218,9 +3218,6 @@ https://archive.org/download/LasBestias2015H2641080p4mbps/Las%20Bestias%20(2015)
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-4f3D7kOQC7I/VxqNpC8YCjI/AAAAAAAAmdc/UJ2TKtyzHYAWOyGHrnauAo_HMcgS52ykgCLcB/s1600/afiche.jpg" group-title="SPANISH",La Ultima Ola (2015) [ES-Subs]
 https://archive.org/download/Independence.Day.Resurgence.2016.1080p.HDRip/ULTIM4.0L4%20(1).mp4
-
-#EXTINF:-1 tvg-logo="https://sarahblogger94.files.wordpress.com/2016/08/purge_poster.jpg" group-title="SPANISH",The Purge (2013)
-https://archive.org/download/The.Purge.1080p.latino/The.Purge.1080p.latino.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Blended_%282014%29_Poster.jpg" group-title="SPANISH",Blended (2014)
 https://ia601601.us.archive.org/35/items/17052017Aqc54646456456/17052017_aqc.mkv
@@ -3248,6 +3245,9 @@ https://dl.dropbox.com/s/rfxlxf1qq8nv6vs/Elysium%20%282013%29.mkv
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Bx5D7v-px_s/movieposter.jpg" group-title="SPANISH",The Call (2013)
 https://archive.org/download/LneaDeEmergencia/L%C3%ADnea%20de%20emergencia.mp4
+
+#EXTINF:-1 tvg-logo="https://sarahblogger94.files.wordpress.com/2016/08/purge_poster.jpg" group-title="SPANISH",The Purge (2013)
+https://archive.org/download/The.Purge.1080p.latino/The.Purge.1080p.latino.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5uzppQk.jpg" group-title="SPANISH",Turbo (2013)
 https://archive.org/download/TurboLatino/Turbo%20latino.mp4
