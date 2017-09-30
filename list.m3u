@@ -9,11 +9,50 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="LABEL",< Please Donate
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Sep.28.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Sep.30.2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="LABEL",> Like Us!
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
+
+#EXTINF:-1 tvg-logo="http://www.epson.com.au/products/projector_G_Series/img/ProGassets/24_7_logo.png" group-title="LABEL",~ 24/7 TV ~
+http://www.lengua.com/anthems/USA.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ckN1OW4.jpg" group-title="24/7",Batman Animated
+https://videoserver1.org/live/ClyFRFewvwAwYdCLdTz4hw/1506794153/1af6ac5d4bbdfc67cdb8240079659ee6.m
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Si9Q0Bh.jpg" group-title="24/7",Batman Live Action
+https://videoserver1.org/live/a3B6sZBNnEbK87yfsR3e9w/1506793733/2c26054f8ae1cee38e89b1983bbf1c63.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VNiPDx4.png" group-title="24/7",Beavis and Butthead
+https://videoserver2.org/live/7RF0z8nBy7QgRg5p_6poqA/1506794153/d61aab1489b27a5cffd192451d68f8b2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="http://channelpear.com/images/media/1565.jpg" tvg-logo="" group-title="24/7",24/7 Cops
+https://videoserver1.org/live/5DZS4hjHtPliWhlGCppjOw/1506795713/b9c73e563c9be2c9830b3920a7f5d3a3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Gua4q1m.jpg" group-title="24/7",24/7 Disney Classics [Beta]
+https://manifest.googlevideo.com/api/manifest/hls_variant/gcr/ch/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Cexpire/itag/0/key/yt6/ipbits/0/source/yt_live_broadcast/go/1/requiressl/yes/maudio/1/ip/179.43.188.182/expire/1506806914/playlist_type/DVR/signature/1FEE47EEE03983250785993FE0BDB81D75D4AD6E.4FB195DA01B57894BA465D808BECD9BFCF232D2C/id/lP9QVkU6LvY.1/file/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Tb6tz75.jpg" group-title="24/7",How I Met Your Mother
+https://videoserver2.org/live/zTTt8mOKRDX05DCf9XRDuw/1506794153/5031da4369c54eb69986a0521decd1dc.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/104530/1490975566463.jpg" group-title="24/7",24/7 Mafia Movies
+https://videoserver2.org/live/ejny73sWGKCvuuNuXXmxkw/1506795953/e24cc804755b8bdedb516e1a1739300f.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JtzkArC.jpg" group-title="24/7",Reno 911
+https://videoserver2.org/live/vgvFKelIV5_8ADzuWJTzNA/1506794093/f5adfc4dc8788c60c1fa63e8529d1d17.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1287.JPG" group-title="24/7",Seinfeld
+https://videoserver2.org/live/GqsK6z1FIN37CHUz8Gj6fg/1506795593/af1f8d9839dd6ffefedebab89761ee7e.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1533.jpg" group-title="24/7",The Big Bang Theory
+https://videoserver1.org/live/NXu6FTg1OzE0uwWyClVd5Q/1506795713/d3517d7d92455b3cf3eb3e774acb4406.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-yvofsWT_qQU/U8belt6-4NI/AAAAAAAAMcM/QeKVDIc_01o/s1600/Golden+Girls.png" group-title="24/7",The Golden Girls
+https://videoserver1.org/live/aezv4iYfAGEb_Fow1dWJNg/1506794153/591dbd3b809a29a2eac0e7fd36317d85.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/The_Musketeers_titlecard.jpg" group-title="24/7",24/7 The Musketeers
+https://videoserver2.org/live/8OmXhgBQHHcP0ulCL01Naw/1506795893/547ec0808af5da4e91c23fcd43738efe.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.easternrefinishing.com/wp-content/uploads/2016/02/117380-matte-blue-and-white-square-icon-culture-world1-150x150.png" group-title="LABEL",~ World News ~
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
@@ -68,6 +107,9 @@ http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
 
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/373.jpg" group-title="USA",Velocity
 http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wiki.suptv.org/images/f/fc/Poster.png" group-title="USA",SupTV
+http://91.134.238.137/live/alpha/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4547.jpg" group-title="USA",D23 TV
 http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
@@ -1494,6 +1536,9 @@ https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="SPAIN",Canal 7
 http://163.172.15.219:1935/live/vivatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kLzKyaA.jpg" group-title="SPAIN",Canal 24 Horas
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal25tv.es/images/template-content/untitled.png" group-title="SPAIN",Canal 25
 http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
 
@@ -1760,6 +1805,9 @@ http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.comicbook.com/2016/12/dragon-ball-z-220357.jpg" group-title="LATINO",24/7 Dragon Ball Z
 https://hls-ord-3a.vaughnsoft.net/ams/live/live_dragonballenvivo/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/América_Tevé_Logo.png" group-title="LATINO",America Teve
+http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.revistasenal.com/wp-content/uploads/2016/09/HOLA.jpg" group-title="LATINO",Hola TV
 http://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.m3u8
@@ -3035,6 +3083,9 @@ http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://georgianlive.com/wp-content/uploads/2013/02/sportstv.jpg" group-title="TURKEY",SportsTV
 http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvizle.net/logo/teve2.png" group-title="TURKEY",Teve2
+http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/06/Trt1_2012.png" group-title="TURKEY",TRT 1
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
