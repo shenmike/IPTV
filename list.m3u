@@ -18,7 +18,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://hostelmango.cz/wp-content/uploads/2014/10/icon2a.png" group-title="LABEL",~ 24/7 TV ~
 http://www.lengua.com/anthems/USA.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ckN1OW4.jpg" group-title="24/7",Batman Animated
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/2q8sgg7.png" group-title="24/7",Batman Animated
 https://videoserver1.org/live/ClyFRFewvwAwYdCLdTz4hw/1506794153/1af6ac5d4bbdfc67cdb8240079659ee6.m
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Si9Q0Bh.jpg" group-title="24/7",Batman Live Action
@@ -42,13 +42,13 @@ https://videoserver2.org/live/ejny73sWGKCvuuNuXXmxkw/1506795953/e24cc804755b8bde
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JtzkArC.jpg" group-title="24/7",Reno 911
 https://videoserver2.org/live/vgvFKelIV5_8ADzuWJTzNA/1506794093/f5adfc4dc8788c60c1fa63e8529d1d17.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1287.JPG" group-title="24/7",Seinfeld
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/seinfeld/images/2/2d/Seinfeld_logo.png" group-title="24/7",Seinfeld
 https://videoserver2.org/live/GqsK6z1FIN37CHUz8Gj6fg/1506795593/af1f8d9839dd6ffefedebab89761ee7e.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1533.jpg" group-title="24/7",The Big Bang Theory
 https://videoserver1.org/live/NXu6FTg1OzE0uwWyClVd5Q/1506795713/d3517d7d92455b3cf3eb3e774acb4406.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-yvofsWT_qQU/U8belt6-4NI/AAAAAAAAMcM/QeKVDIc_01o/s1600/Golden+Girls.png" group-title="24/7",The Golden Girls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://seniorcitylocal.com/wp-content/uploads/2015/05/the-golden-girlsblogs.indiewire.jpg" group-title="24/7",The Golden Girls
 https://videoserver1.org/live/aezv4iYfAGEb_Fow1dWJNg/1506794153/591dbd3b809a29a2eac0e7fd36317d85.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.amcnetworks.com/bbcamerica.com/wp-content/uploads/2013/07/TheMusketeer_s1thumbnail_01_web_NEW.jpg" group-title="24/7",24/7 The Musketeers
