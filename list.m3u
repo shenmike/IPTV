@@ -42,8 +42,8 @@ https://videoserver2.org/live/ejny73sWGKCvuuNuXXmxkw/1506795953/e24cc804755b8bde
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JtzkArC.jpg" group-title="24/7",Reno 911
 https://videoserver2.org/live/vgvFKelIV5_8ADzuWJTzNA/1506794093/f5adfc4dc8788c60c1fa63e8529d1d17.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/seinfeld/images/2/2d/Seinfeld_logo.png" group-title="24/7",Seinfeld
-https://videoserver2.org/live/GqsK6z1FIN37CHUz8Gj6fg/1506795593/af1f8d9839dd6ffefedebab89761ee7e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/seinfeld/images/2/2d/Seinfeld_logo.png" group-title="24/7",Seinfeld {Test}
+https://videoserver2.org/live/hk4BD34Oc17rZ84MUTFtFg/1506798173/af1f8d9839dd6ffefedebab89761ee7e.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1533.jpg" group-title="24/7",The Big Bang Theory
 https://videoserver1.org/live/NXu6FTg1OzE0uwWyClVd5Q/1506795713/d3517d7d92455b3cf3eb3e774acb4406.m3u8
