@@ -18,34 +18,34 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://www.easternrefinishing.com/wp-content/uploads/2016/02/117380-matte-blue-and-white-square-icon-culture-world1-150x150.png" group-title="LABEL",~ World News ~
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://drjasonjohnson.files.wordpress.com/2016/05/08-al-jazeera-e1336473401965.gif" group-title="WORLD NEWS",Al Jazeera
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="WORLD NEWS",Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3130.png" group-title="WORLD NEWS",BBC World News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BH4tuYc.png" group-title="WORLD NEWS",BBC World News
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg" group-title="WORLD NEWS",Bloomberg TV Europe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="WORLD NEWS",Bloomberg TV Europe
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://singapore.mfa.gov.ua/mediafiles/sites/singapore/images/articles/tmbs/CNA_logo-tmb-270x180.jpg" group-title="WORLD NEWS",Channel NewsAsia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EP482zT.png" group-title="WORLD NEWS",Channel NewsAsia
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pumamedia.com.au/DW_English.jpg" group-title="WORLD NEWS",Deutsche Welle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="WORLD NEWS",Deutsche Welle
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-7Xjq8QzxxS0/WTEG5Ex_DII/AAAAAAAAAws/htyaTT4c7JcaDLXUFVrpOulxk2dyym46QCLcB/s1600/earthtv.png" group-title="WORLD NEWS",earthTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WLTxAdR.png" group-title="WORLD NEWS",earthTV
 http://cdn.liveonearth.com//cdnedge//smil:TWL-en.smil//playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isetnews.com/wp-content/plugins/mediabox/TvLogos/France24TV.jpg" group-title="WORLD NEWS",France 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="WORLD NEWS",France 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/80.jpg" group-title="WORLD NEWS",NHK World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="WORLD NEWS",NHK World
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UjIHTlp.jpg" group-title="WORLD NEWS",Press TV [Off]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oLu1566.png" group-title="WORLD NEWS",Press TV [Off]
 http://efusion1-i.akamaihd.net/hls/live/252882/ptven/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.televizyondizisi.com/wp-content/uploads/2015/10/TRTWORLDHABER.png" group-title="WORLD NEWS",TRT World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="WORLD NEWS",TRT World
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA TV ~
