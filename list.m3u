@@ -354,143 +354,143 @@ http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m
 #EXTINF:-1 tvg-logo="https://desdelapelouse.files.wordpress.com/2012/06/canada.png" group-title="LABEL",~ Canada TV ~
 http://www.lengua.com/anthems/Canada.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Assemblée_nationale_du_Québec.svg/1200px-Assemblée_nationale_du_Québec.svg.png" group-title="CANADA",Assemblee Nationale du Quebec (French)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8i171Ju.png" group-title="CANADA",Assemblee Nationale du Quebec
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.douglas.qc.ca/uploads/Image/images_site/1377_logo_canal_savoir_retaille/canevas-canal-savoir.jpg" group-title="CANADA",Canal Savoir (French)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cWKg7ub.png" group-title="CANADA",Canal Savoir
 http://stream.canalsavoir.tv/livestream/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbc.ca/labradormorning/CBC_RadioOne_Gen_4c.jpg" group-title="CANADA",CBC Radio One
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4o2OvYh.png" group-title="CANADA",CBC Radio One
 http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.theisabel.ca/sites/default/files/uploads/content/cbc_radio_two.jpeg" group-title="CANADA",CBC Radio 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5bPcylP.png" group-title="CANADA",CBC Radio Two
 http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/CHCH_HD.PNG" group-title="CANADA",CHCH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UyQ9pH4.png" group-title="CANADA",CHCH
 http://52.86.189.59:1935/live/news/chunklist_w479079800.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://20549-presscdn.pagely.netdna-cdn.com/wp-content/uploads/cpac_social_seo_logo_bil_1200x630.jpg" group-title="CANADA",CPAC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HaIKVj0.png" group-title="CANADA",CPAC
 http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/261m6it.jpg" group-title="CANADA",CTV News Live Events 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6XYQtyN.png" group-title="CANADA",CTV News Live 1
 http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/261m6it.jpg" group-title="CANADA",CTV News Live Events 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6XYQtyN.png" group-title="CANADA",CTV News Live 2
 http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/261m6it.jpg" group-title="CANADA",CTV News Live Events 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6XYQtyN.png" group-title="CANADA",CTV News Live 3
 http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/261m6it.jpg" group-title="CANADA",CTV News Live Events 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6XYQtyN.png" group-title="CANADA",CTV News Live 4
 http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ebosscanada.com/wp-content/uploads/2016/10/The-Weather-Network_01.jpg" group-title="CANADA",The Weather Network
-http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.iphoneincanada.ca/wp-content/uploads/2015/07/the-shopping-channel-logo.jpg" group-title="CANADA",The Shopping Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AMYIUUl.png" group-title="CANADA",The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BnSfbEk.png" group-title="CANADA",The Weather Network
+http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/gb.png" group-title="LABEL",~ UK TV ~
 http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK",BBC Radio One
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="UK",BBC Radio Two
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="UK",BBC Radio Four
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/hUma1JP.jpg" group-title="UK",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/hUma1JP.jpg" group-title="UK",Sky News*
-http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitaltveurope.net/wp-content/uploads/2014/12/Arise-News.png" group-title="UK",Arise News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PKF0ejC.png" group-title="UK",Arise News
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-rYFeIFqsCxg/AAAAAAAAAAI/AAAAAAAAAAA/lSsBZ4jxgsg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="UK",Russia Today UK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RH6Nqfv.png" group-title="UK",BBC Radio One
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2Ll2RSs.png" group-title="UK",BBC Radio Two
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/n1OXex4.png" group-title="UK",BBC Radio Four
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News*
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XCBnJzR.png" group-title="UK",RT UK
 https://secure-streams.akamaized.net/rt-uk/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.londonlive.co.uk/assets/images/logo-white.png" group-title="UK",London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uYEvE4q.png" group-title="UK",Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/h_Sldf6XZ1c/maxresdefault.jpg" group-title="UK",Insight
-http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.popbucket.co.uk/wp-content/uploads/2012/10/Capital-TV-logo.jpg" group-title="UK",Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/11526.jpg" group-title="UK",Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/zuwB_9MtCL0/hqdefault.jpg" group-title="UK",Kool London Radio
-http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kompitv.com/images/chelsea-tv.jpg" group-title="UK",Chelsea TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cOSePHo.png" group-title="UK",Chelsea TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg" group-title="UK",BT Sport 1
-http://wowza2.mysoltv.com:1992/BT_Sports_1_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2j8tsJq.png" group-title="UK",Heart
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg" group-title="UK",BT Sport 1*
-http://185.53.163.205:2700
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wCN0Llv.png" group-title="UK",IdealWorld
+http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg" group-title="UK",BT Sport 2
-http://wowza2.mysoltv.com:1992/BT_Sports_2_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Hvshq0m.png" group-title="UK",Insight
+http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg" group-title="UK",BT Sport 2*
-http://185.53.163.205:2506
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg" group-title="UK",BT Sport 3
-http://wowza2.mysoltv.com:1992/BT_Sports_3_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg" group-title="UK",BT Sport 3*
-http://185.142.239.164:3135/BT/3/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg" group-title="UK",BT Sport 3**
-http://185.53.163.205:2701
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/seenit.co.uk/wp-content/uploads/BT-ESPN.png" group-title="UK",BT Sport ESPN
-http://185.53.163.205:2507
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/stxpwq1433361453.png" group-title="UK",BT Sport Extra 1
-http://185.53.163.205:2707
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/stxpwq1433361453.png" group-title="UK",BT Sport Extra 2
-http://185.53.163.205:2500
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/stxpwq1433361453.png" group-title="UK",BT Sport Extra 3
-http://185.53.163.205:2501
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/stxpwq1433361453.png" group-title="UK",BT Sport Extra 4
-http://185.53.163.205:2502
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/stxpwq1433361453.png" group-title="UK",BT Sport Extra 5
-http://185.53.163.205:2503
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/stxpwq1433361453.png" group-title="UK",BT Sport Extra 6
-http://185.53.163.205:2504
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s12.postimg.org/h48arrsp9/jewellerymaker_logo2.jpg" group-title="UK",Jewellery Maker
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lhHx6by.png" group-title="UK",Jewellery Maker
 http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="UK",QVC Style
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OiZowUH.png" group-title="UK",Kool London Radio
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HCOqABQ.png" group-title="UK",London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FSukyxY.png" group-title="UK",QVC 1
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="UK",QVC Beauty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FSukyxY.png" group-title="UK",QVC 2
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="UK",QVC 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FSukyxY.png" group-title="UK",QVC 3
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="UK",QVC 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FSukyxY.png" group-title="UK",QVC 4
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Ideal_World_logo.png" group-title="UK",IdealWorld
-http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YPjTwox.png" group-title="UK",BT Sport ESPN
+http://185.53.163.205:2507
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZfjAIix.png" group-title="UK",BT Sport 1
+http://wowza2.mysoltv.com:1992/BT_Sports_1_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZfjAIix.png" group-title="UK",BT Sport 1*
+http://185.53.163.205:2700
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZfjAIix.png" group-title="UK",BT Sport 2
+http://wowza2.mysoltv.com:1992/BT_Sports_2_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZfjAIix.png" group-title="UK",BT Sport 2*
+http://185.53.163.205:2506
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZfjAIix.png" group-title="UK",BT Sport 3
+http://wowza2.mysoltv.com:1992/BT_Sports_3_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZfjAIix.png" group-title="UK",BT Sport 3*
+http://185.142.239.164:3135/BT/3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZfjAIix.png" group-title="UK",BT Sport 3**
+http://185.53.163.205:2701
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bEU0WS9.png" group-title="UK",BT Sport Extra 1
+http://185.53.163.205:2707
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bEU0WS9.png" group-title="UK",BT Sport Extra 2
+http://185.53.163.205:2500
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bEU0WS9.png" group-title="UK",BT Sport Extra 3
+http://185.53.163.205:2501
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bEU0WS9.png" group-title="UK",BT Sport Extra 4
+http://185.53.163.205:2502
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bEU0WS9.png" group-title="UK",BT Sport Extra 5
+http://185.53.163.205:2503
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bEU0WS9.png" group-title="UK",BT Sport Extra 6
+http://185.53.163.205:2504
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Ireland-01.png" group-title="LABEL",~ Ireland TV ~
 http://www.lengua.com/anthems/Ireland.mp3
