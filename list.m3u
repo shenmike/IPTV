@@ -1755,65 +1755,65 @@ http://media3.crtvg.es/live/_definst_/infantilCires/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png" group-title="LABEL",~ Latino TV ~
 http://50.7.56.2:8016
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097598137.jpg" group-title="LATINO",24/7 Los Simpson
-http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.comicbook.com/2016/12/dragon-ball-z-220357.jpg" group-title="LATINO",24/7 Dragon Ball Z
-https://hls-ord-3a.vaughnsoft.net/ams/live/live_dragonballenvivo/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/América_Tevé_Logo.png" group-title="LATINO",America Teve
-http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.revistasenal.com/wp-content/uploads/2016/09/HOLA.jpg" group-title="LATINO",Hola TV
-http://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/deTBL0Q.png" group-title="LATINO",Latin Angels
-http://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master2500k.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.prensario.net/Multimedios/imgs/23738_468.jpg" group-title="LATINO",Show Business
-http://vivoplay-i.akamaihd.net/hls/live/255331/canal2/master2500k.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/320350553/ANimeTV_logo_copy22.jpg" group-title="LATINO",Anime TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aEMDxaG.png" group-title="LATINO",24/7 Anime
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thematv.us/medias/channels/latin-american-sports/logo.png" group-title="LATINO",Latin American Sports
-http://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sehAJzZ.png" group-title="LATINO",24/7 Dragon Ball Z
+https://hls-ord-3a.vaughnsoft.net/ams/live/live_dragonballenvivo/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://l.b5z.net/i/u/10085468/i/Logo_Px_sports_negro_y__rojo.png" group-title="LATINO",PX Sports
-https://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3g8RTz1.png" group-title="LATINO",24/7 Los Simpson
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvquisqueya.com/images/2017/07/14/logoweb.fw.png" group-title="LATINO",TV Quisqueya
-http://vivoplay-i.akamaihd.net/hls/live/255341/canal4/master2500k.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="LATINO",Ready HD
-http://ss6.domint.net:2016/rtv_str/readytv/chunklist_w1642827167.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/2dm9jzc.jpg" group-title="LATINO",HispanTV
-http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/lamegamundial.png" group-title="LATINO",La Mega Mundial
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i66.tinypic.com/2wlzn21.jpg" group-title="LATINO",La Semana
-http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i63.tinypic.com/2a0002c.png" group-title="LATINO",Melody Channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-s34GmWRgv5Y/V5pqBm5f28I/AAAAAAAADZE/SgHwxhgJB9kW4sRZO-fStdyVyDUcDVSjQCLcB/s1600/Telemusica%2BSeries%2By%2BAnimes%2Bde%2BTv.jpeg" group-title="LATINO",Telemusica
-http://186.155.200.118:1935/live/telemusica/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dominicanyorktv.com/logo.png" group-title="LATINO",Dominicanyork TV
-http://stream.dominicanyork.tv:1935/dominicanyorktv/DMYTV/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bbgwatch.com/bbgwatch/wp-content/uploads/2013/08/Marti-150x150.png" group-title="LATINO",TV Marti
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/770289655795286016/yx04qWjm.jpg" group-title="LATINO",Deutsche Welle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="LATINO",Deutsche Welle
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.alertamundial.com/wp-content/uploads/2015/04/RT-en-Espa%C3%B1ol.jpg" group-title="LATINO",Russia Today Espanol
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OFvdVlA.png" group-title="LATINO",RT
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Edteuws.png" group-title="LATINO",Latin American Sports
+http://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wpRdk4r.png" group-title="LATINO",PX Sports
+https://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xE51fHv.png" group-title="LATINO",America Teve
+http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uXp0iUW.png" group-title="LATINO",Cuenca Vision
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FsYuSEI.png" group-title="LATINO",DMYTV
+http://stream.dominicanyork.tv:1935/dominicanyorktv/DMYTV/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lnRYeBB.png" group-title="LATINO",HispanTV
+http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zBt9gkX.png" group-title="LATINO",Hola TV
+http://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ssLTUMT.png" group-title="LATINO",Latin Angels
+http://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master2500k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xsxgroC.png" group-title="LATINO",La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K52brqr.png" group-title="LATINO",Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PPdw3VR.png" group-title="LATINO",Ready HD
+http://ss6.domint.net:2016/rtv_str/readytv/chunklist_w1642827167.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nSgReLY.png" group-title="LATINO",Show Business
+http://vivoplay-i.akamaihd.net/hls/live/255331/canal2/master2500k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tHGr6ns.png" group-title="LATINO",Telemusica
+http://186.155.200.118:1935/live/telemusica/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VICta82.png" group-title="LATINO",TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fg3ZC2G.png" group-title="LATINO",TV Quisqueya
+http://vivoplay-i.akamaihd.net/hls/live/255341/canal4/master2500k.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Argentina-01.png" group-title="LABEL",~ Argentina TV ~
 http://www.lengua.com/anthems/Argentina.mp3
