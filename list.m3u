@@ -129,6 +129,9 @@ http://xrxs.net/video/live-p12ariz-2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6mkThNQ.png" group-title="USA",Pac-12 Mountain
 http://xrxs.net/video/live-p12moun-2328.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="USA",Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyP1fmt.png" group-title="USA",Comedy Central
 http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
 
@@ -1758,8 +1761,17 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sehAJzZ.png" group-title="LATINO",24/7 Dragon Ball Z
 https://hls-ord-3a.vaughnsoft.net/ams/live/live_dragonballenvivo/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nQoFljD.png" group-title="LATINO",24/7 El Chavo
+https://goo.gl/8W1wKL
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5eJd5M6.png" group-title="LATINO",24/7 Futurama
+https://goo.gl/MDqvhz
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3g8RTz1.png" group-title="LATINO",24/7 Los Simpson
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IYAUy9V.png" group-title="LATINO",Locomotion
+http://locomotiontv.com/envivo/loco_app/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="LATINO",Deutsche Welle
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
