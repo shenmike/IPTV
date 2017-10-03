@@ -1803,7 +1803,7 @@ http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PPdw3VR.png" group-title="LATINO",Ready HD
 http://ss6.domint.net:2016/rtv_str/readytv/chunklist_w1642827167.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nSgReLY.png" group-title="LATINO",Show Business
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nSgReLY.png" group-title="LATINO",Show Business TV
 http://vivoplay-i.akamaihd.net/hls/live/255331/canal2/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tHGr6ns.png" group-title="LATINO",Telemusica
