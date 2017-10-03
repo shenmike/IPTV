@@ -153,6 +153,9 @@ http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NZRzJUa.png" group-title="USA",USA Network
 https://freecacache.streamlive.to/live/h5eovaj1jeegluq_720.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NZRzJUa.png" group-title="USA",USA Network*
+https://freecacache.streamlive.to/live/h5eovaj1jeegluq_360.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RQdfZe6.png" group-title="USA",Velocity
 http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
 
