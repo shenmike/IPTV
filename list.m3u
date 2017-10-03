@@ -1776,12 +1776,6 @@ http://vivoplay-i.akamaihd.net/hls/live/255331/canal2/master2500k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/320350553/ANimeTV_logo_copy22.jpg" group-title="LATINO",Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/2000px-Logo_Univision_2013.svg.png" group-title="LATINO",Univision
-http://cdnh8.iblups.com/hls/33hssQ13ID.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="LATINO",Univision TDN
-https://eventos1.dreamsmx.com/EVENTOS/UNIVICION_TDN15_153_hd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thematv.us/medias/channels/latin-american-sports/logo.png" group-title="LATINO",Latin American Sports
 http://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8
 
