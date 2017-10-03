@@ -177,7 +177,7 @@ http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manife
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b8prEVt.png" group-title="USA",Rev'n
 http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zgKclrq.png" group-title="USA",SupTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zgKclrq.png" group-title="USA",SupTV [Off]
 http://91.134.238.137/live/alpha/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="USA",TBD
