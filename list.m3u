@@ -1263,8 +1263,8 @@ http://wsemedia.com:1935/cn01/cn01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2016/02/combate.jpg" group-title="BRAZIL",Combate
 http://95.211.149.215:8081/look/combate/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://aovivonatv.com/fotos/aa65acc1369813386f529a4e5eaa89ab.jpg" group-title="BRAZIL",ESPN
-http://158.58.172.5:8081/look/espnbr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3-ap-southeast-1.amazonaws.com/foxplus-prod/attachments/contents/000/000/025/original/FM_Description.png" group-title="BRAZIL",Fox Movies
+http://2.15.79.67:9985/play/a03s?.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-voiBAis2qfU/VbFIxV5TzdI/AAAAAAAAEvk/qbBPmj8aAVY/s1600/123.jpg" group-title="BRAZIL",Esporte Interativo
 http://enlsso9vfh.singularcdn.net.br/live/canal_12/playlist-720p.m3u8
@@ -1307,6 +1307,9 @@ http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.portalimprensa.com.br/content_file_storage/2015/03/19/SBT.jpg" group-title="BRAZIL",SBT Sao Paulo
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="BRAZIL",TLC
+http://2.15.79.67:9985/play/a03r?.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://180graus.com/res/imagens/portal/2013/06/29/fdf-300x250e.jpg" group-title="BRAZIL",TV Antares
 http://srv3.zoeweb.tv:1935/z99-live/stream/livestream.m3u8
@@ -1685,6 +1688,9 @@ http://cdnlive.shooowit.net/badalonatvlive/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.karpinabentura.com/images/Karpin/imagenes_web_karpin/medios_amigos/logo_tbilbao.jpg" group-title="SPAIN",TeleBilbao
 http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.20m.es/img2/recortes/2016/05/11/280771-644-351.jpg" group-title="SPAIN",Telecinco
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teleelx.es/eniusimg/enius2/2016/01/adj_569e704973b6d.jpg" group-title="SPAIN",TeleElx
 http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
