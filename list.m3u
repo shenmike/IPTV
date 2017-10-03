@@ -1767,11 +1767,11 @@ https://goo.gl/8W1wKL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5eJd5M6.png" group-title="LATINO",24/7 Futurama
 https://goo.gl/MDqvhz
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IYAUy9V.png" group-title="LATINO",24/7 Locomotion
+http://locomotiontv.com/envivo/loco_app/stream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3g8RTz1.png" group-title="LATINO",24/7 Los Simpson
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IYAUy9V.png" group-title="LATINO",Locomotion
-http://locomotiontv.com/envivo/loco_app/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="LATINO",Deutsche Welle
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
