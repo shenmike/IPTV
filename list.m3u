@@ -135,7 +135,7 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyP1fmt.png" group-title="USA",Comedy Central
 http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dH3RDp6.png" group-title="USA",FreeForm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dH3RDp6.png" group-title="USA",FreeForm [NoKodi]
 https://videoserver2.org/live/mHwxt8kU2oOl862qOFE58w/1507031391/654bc354612eeefee71cd611b175730c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uPvJzrz.png" group-title="USA",Investigation Discovery
