@@ -3351,22 +3351,22 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/09/55/lebanon-156291_960_720.png" group-title="LABEL",~ Lebanon TV ~
 http://www.lengua.com/anthems/Lebanon.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.musicnation.me/musicnation-uploads//2012/11/lbc.jpg" group-title="LEBANON",LBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/S2saULa.png" group-title="LEBANON",LBCi
 http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-06mS0mwhzno/AAAAAAAAAAI/AAAAAAAAAAA/6K-Wn_N0h98/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LEBANON",Future TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ukQifg6.png" group-title="LEBANON",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.arablive-tv.com/2016/02/arabica-tv-logo.jpg" group-title="LEBANON",Arabica TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/spdDjET.png" group-title="LEBANON",Arabica TV
 https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anastasiaklauser.ulango.tv/uploads/channels/24653/logo_hawacom.png" group-title="LEBANON",Hawacom TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rZ2Knn8.png" group-title="LEBANON",Hawacom TV
 http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mayadeen.blob.core.windows.net/store/archive/_shared/mayadeen-logo.png" group-title="LEBANON",Al Mayadeen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Lpmub25.png" group-title="LEBANON",Al Mayadeen
 http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.aljazeera.com/mritems/images/2006/11/23/1_202119_1_5.jpg" group-title="LEBANON",Al Manar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/I1vyjS1.png" group-title="LEBANON",Al Manar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/syria/flag-button-square-250.png" group-title="LABEL",~ Syria TV ~
