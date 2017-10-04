@@ -630,9 +630,6 @@ http://dl2.downloado.site/dl2/Movie/Collateral.Beauty.2016.720p.Ganool-%5BDownlo
 #EXTINF:-1 tvg-logo="https://i2.wp.com/teaser-trailer.com/wp-content/uploads/Colossal-new-poster-1.jpg" group-title="MOVIES",Colossal (2016)
 https://ia601501.us.archive.org/22/items/LaMaravillasDeLaVida201702/LaMaravillasDeLaVida2017_02.mp4
 
-#EXTINF:-1 tvg-logo="http://images.static-bluray.com/products/20/48005_2_large.jpg" group-title="MOVIES",Compadres (2016) [EN-Subs]
-http://dl.movieo.ir/dlha/files/2016/film/Compadres.2016.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
-
 #EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/complete-unknown-2016/large_complete_unknown.jpg" group-title="MOVIES",Complete Unknown (2016)
 http://dl.movieo.ir/dlha/files/Complete.Unknown.2016.720p.WEB-DL.ShAaNiG_(wWw.Movieo.IR).mkv
 
@@ -3917,6 +3914,9 @@ http://www.cinevall.es/videos/ben_hur.m4v
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Bridget_Jones%27s_Baby_poster.jpg" group-title="SPANISH",Bridget Jones's Baby (2016)
 http://www.cinevall.es/videos/bebe_de_bridget.m4v
+
+#EXTINF:-1 tvg-logo="http://images.static-bluray.com/products/20/48005_2_large.jpg" group-title="SPANISH",Compadres (2016) [EN-Subs]
+http://dl.movieo.ir/dlha/files/2016/film/Compadres.2016.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://www.cinepremiere.com.mx/assets/images/trailers/2017/03-marzo/Contratiempo-poster.jpg" group-title="SPANISH",Contratiempo (2016)
 http://dl.movieo.ir/dlha/files/2016/film/The.Invisible.Guest.2016.720p_(wWw.Movieo.IR).mkv.mp4
