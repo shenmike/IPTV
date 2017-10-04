@@ -3498,8 +3498,20 @@ http://149.56.23.7:20082/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E4Rs3LR.jpg" group-title="NORWEGIAN",Birkebeinerne (2016)
 http://dl.movieo.ir/dlha/files/The.Last.King.2016.720p.mkv
 
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/yYDCNSj25ToGfrAWA6KeVU7r67Q.jpg" group-title="NORWEGIAN",Borning 2 (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Borning.2.2016.720p_(wWw.Movieo.IR).mkv.mp4
+
 #EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/french/img/apple-touch-icon.png" group-title="LABEL",~ FRENCH
 http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Juste_la_fin_du_monde_poster.jpg" group-title="FRENCH",Juste la Fin du Monde (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Its.Only.the.End.of.the.World.2016.720p_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="http://fr.web.img5.acsta.net/r_1280_720/pictures/16/06/30/14/31/358852.jpg" group-title="FRENCH",La Fille Inconnue (2016)
+http://dl.movieo.ir/dlha/files/2016/film/The.Unknown.Girl.2016.720p_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="http://fr.web.img6.acsta.net/pictures/16/11/04/20/15/426558.jpg" group-title="FRENCH",La Mecanique de L’Ombre (2016)
+http://dl.movieo.ir/dlha/files/2016/film/The.Eavesdropper.2016.720p_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://secure.netflix.com/us/boxshots/ghd/70024092.jpg" group-title="FRENCH",March of the Penguins (2005)
 https://archive.org/download/March.of.the.Penguins.2005.x264.720p.DualAudio.ENFR/March.of.the.Penguins.2005.x264.720p.DualAudio.EN-FR.mp4
@@ -3800,6 +3812,9 @@ http://www.cinevall.es/videos/ben_hur.m4v
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Bridget_Jones%27s_Baby_poster.jpg" group-title="SPANISH",Bridget Jones's Baby (2016)
 http://www.cinevall.es/videos/bebe_de_bridget.m4v
+
+#EXTINF:-1 tvg-logo="https://www.cinepremiere.com.mx/assets/images/trailers/2017/03-marzo/Contratiempo-poster.jpg" group-title="SPANISH",Contratiempo (2016)
+http://dl.movieo.ir/dlha/files/2016/film/The.Invisible.Guest.2016.720p_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RGSNWMLe13g/movieposter.jpg" group-title="SPANISH",Deepwater Horizon (2016)
 http://www.cinevall.es/videos/horizonte_profundo.m4v
@@ -5092,17 +5107,29 @@ http://dl.movieo.ir/dlha/files/Kollektor.2016.BluRay.720p.600MB_(wWw.Movieo.IR).
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HGFKwTf.jpg" group-title="RUSSIAN",Mafia - Survival Game (2016)
 http://dl.movieo.ir/dlha/files/Mafia.The.Game.of.Survival.2016.720p.Ganool.mkv
 
+#EXTINF:-1 tvg-logo="https://st.kp.yandex.net/images/film_big/764465.jpg" group-title="RUSSIAN",Panfilov's 28 (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Panfilovs.28.Men.2016.720p_(wWw.Movieo.IR).mkv.mp4
+
 #EXTINF:-1 tvg-logo="http://sheepandwolvesmovie.com/upload/iblock/527/52796c3d7259703ed3a06d9018d757b0.jpg" group-title="RUSSIAN",Sheep & Wolves (2016)
 http://dl.movieo.ir/dlha/files/Sheep.and.Wolves.2016.720p.WEB-DL.Ganool.mkv
 
 #EXTINF:-1 tvg-logo="http://www.hdclub.ua/files/film/big/bigi56f14a64d854a.jpg" group-title="RUSSIAN",The Champions - Faster. Higher. Stronger (2016)
 http://dl.movieo.ir/dlha/files/The.Champions.Faster.Higher.Stronger.2016.720p_(wWw.Movieo.IR).mkv
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cc/b6/3d/ccb63df1e4b67f2f82b30d2ca2410361.jpg" group-title="RUSSIAN",The Icebreaker (2016)
+http://dl.movieo.ir/dlha/files/2016/film/The.Icebreaker.2016.720p.WEB-DL%20_(wWw.Movieo.IR).mkv.mp4
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/59107433/polish_icon_400x400.png" group-title="LABEL",~ POLISH
 http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://ecsmedia.pl/c/pokot-p-iext49998663.jpg" group-title="POLISH",Pokot (2017)
 http://dl.movieo.ir/dlha/files/2017/Spoor.2017.720p.x265_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="http://1.fwcdn.pl/po/38/79/733879/7720258.3.jpg" group-title="POLISH",Na Granicy (2016)
+http://dl.movieo.ir/dlha/files/2016/film/The.High.Frontier.2016.720p_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="https://i1.kwejk.pl/k/obrazki/2016/10/093b45f5e40a0733c1838e72633fdf26.jpg" group-title="POLISH",Pitbull. Niebezpieczne Kobiety (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Pitbull.Tough.Women.2016.720p_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/8oOvhEoRwhr202sy4UwdhlmgZoY.jpg" group-title="POLISH",Pitbull. Nowe Porzadki  (2016)
 http://dl.movieo.ir/dlha/files/Pitbull.new.Orders.2016.720p.Ganool.mkv
@@ -5143,11 +5170,17 @@ http://dl.movieo.ir/dlha/files/Dishoom.2016.720p.DVDScr.ShAaNiG.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/Fan-First-Look.jpg" group-title="HINDI",Fan (2016)
 http://dl.movieo.ir/dlha/files/Fan.2016.DVDSCR_(wWw.Movieo.IR).mkv
 
+#EXTINF:-1 tvg-logo="http://media2.bollywoodhungama.in/wp-content/uploads/2016/11/Force-2.jpg" group-title="HINDI",Force 2 (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Force.2.2016.720p.HDrip_(wWw.Movieo.IR).mkv.mp4
+
 #EXTINF:-1 tvg-logo="http://www.bollywoodlife.com/wp-content/uploads/2016/01/647408.jpg" group-title="HINDI",Ghayal Once Again (2016)
 http://dl.movieo.ir/dlha/files/Ghayal.Once.Again.2016.720p.DVDrip.ShAaNiG.mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Akshay_Kumar%27s_Housefull_3.jpg" group-title="HINDI",Housefull 3 (2016)
 http://dl.movieo.ir/dlha/files/Housefull.3.2016.DVDScr.Ganool.mkv
+
+#EXTINF:-1 tvg-logo="http://www.dhakamovie.com/wp-content/uploads/2017/06/Iru-Mugan-2016-Hindi-DD-1080p-HDRip.jpg" group-title="HINDI",Iru Mugan (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Iru.Mugan.2016.720p.WEBrip_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Jil_Jung_Juk.jpg" group-title="HINDI",Jil Jung Juk (2016) [Tamil]
 http://dl.movieo.ir/dlha/files/Jil.Jung.Juk.2016.720p.WEB-DL_(wWw.Movieo.IR).mkv
@@ -5157,6 +5190,9 @@ http://dl.movieo.ir/dlha/files/Kabali.2016.720p.WEB-DL_(wWw.Movieo.IR).mkv
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Mh0bsJQdV1E/VvuqqgOxJhI/AAAAAAAAHYg/ecQQsYwGjPsofJytScUHkq3kiPrSvvMIg/s1600/laal_rang_randeep_hooda_upcoming_movie_first_look_poster_mtwiki_2016.jpg" group-title="HINDI",Laal Rang (2016)
 http://dl.movieo.ir/dlha/files/Laal.Rang.2016.720p.DVDrip.NBY.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Moh_Maya_Money.jpg" group-title="HINDI",Moh Maya Money (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Moh.Maya.Money.2016.720p.DVDrip_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/M.S._Dhoni_-_The_Untold_Story_poster.jpg" group-title="HINDI",M.S. Dhoni - The Untold Story (2016)
 http://dl.movieo.ir/dlha/files/M.S.Dhoni.The.Untold.Story.2016.DVDScr.NBY.mkv
@@ -5185,8 +5221,14 @@ http://dl.movieo.ir/dlha/files/Raman.Raghav.2.0.2016.720p.ShAaNiG.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Akshay_Kumar%27s-Rustom_poster.jpg" group-title="HINDI",Rustom (2016)
 http://dl.movieo.ir/dlha/files/Rustom.2016.720p.WEBrip.NBY.mkv
 
+#EXTINF:-1 tvg-logo="http://oakshow.in/pics/Films/Saala%20Khadoos/1.jpg" group-title="HINDI",Saala Khadoos (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Saala.Khadoos.2016.720p_(wWw.Movieo.IR).mkv.mp4
+
 #EXTINF:-1 tvg-logo="https://www.psagmeno.com/wp-content/uploads/2016/10/sardaar-gabbar-singh.jpg" group-title="HINDI",Sardaar Gabbar Singh (2016)
 http://dl.movieo.ir/dlha/files/Sardaar.Gabbar.Singh.2016.720p.WEB-DL.Ozlem.mp4
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-i7bPB_mTPVk/V0KbjX3iRXI/AAAAAAAAH9k/DWQpXsO_my87JoZ3hqSrbrBs8NVzjnAkACLcB/s1600/shivaay-teaser-poster-first-look-upcoming-movie-ajay-devgun-mtwki-2016-release-date.jpg" group-title="HINDI",Shivaay (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Shivaay.2016.720p.HDrip_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="http://www.bollywoodcinema.ch/wp-content/uploads/2016/06/Sultaan-Highres-poster.jpg" group-title="HINDI",Sultan (2016)
 http://dl.movieo.ir/dlha/files/Sultan.2016.720p.BluRay.mkv
@@ -5239,14 +5281,26 @@ http://dl.movieo.ir/dlha/files/Destruction.Babies.2016.BluRay.720p.800MB_(wWw.Mo
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/a2gxEENKrnRHXYGnK8tbybssRv4.jpg" group-title="JAPANESE",Detective Mitarai's Casebook - The Clockwork Current (2016)
 http://dl.movieo.ir/dlha/files/Detective%20Mitarai%E2%80%99s%20Casebook%20The%20Clockwork%20Current%20(2016)%20BluRay%20720p%20850MB_(wWw.Movieo.IR).mp4
 
+#EXTINF:-1 tvg-logo="https://art-s.nflximg.net/cf335/71e47341e1abfe273e5049ce5b882813bebcf335.jpg" group-title="JAPANESE",Gantz O (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Gantz.O.2016.BluRay.720p.700MB_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="http://images.static-bluray.com/products/20/43951_1_large.jpg" group-title="JAPANESE",Godzilla Resurgence (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Godzilla.Resurgence.2016.HC.720p.HDRip._(wWw.Movieo.IR).mkv.mp4
+
 #EXTINF:-1 tvg-logo="https://68.media.tumblr.com/fd56b5ce7283b4aabf9070a284710e44/tumblr_nxe3i1KA2o1uurxfno1_500.jpg" group-title="JAPANESE",Maniac Hero (2016)
 http://dl.movieo.ir/dlha/files/Maniac.Hero.2016.BluRay.720p.800MB_(wWw.Movieo.IR).mkv
+
+#EXTINF:-1 tvg-logo="https://stat.ameba.jp/user_images/20161201/01/horiko45/44/bc/j/o0640092913810786897.jpg" group-title="JAPANESE",Museum (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Museum.2016.BluRay.720p.950MB_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DRa3SUJ.jpg" group-title="JAPANESE",One Piece Film - Gold (2016)
 https://archive.org/download/OnePieceFilmGold2016JAP1080pBluRayX264DTSJYK/One%20Piece%20Film%20Gold%202016%20JAP%201080p%20BluRay%20x264%20DTS-JYK.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HetQEvd.jpg" group-title="JAPANESE",Sadako vs. Kayako (2016)
 http://dl.movieo.ir/dlha/files/Sadako.vs.Kayako.2016.720p.HDRip.650MB_(wWw.Movieo.IR).mkv
+
+#EXTINF:-1 tvg-logo="http://wx4.sinaimg.cn/large/ed5e6a1dly1fdu692u9poj20go0nj414.jpg" group-title="JAPANESE",Sanada 10 Braves (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Sanada.Ten.Braves.2016.BluRay.720p.1.10GB.x264_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Bleach_-_The_DiamondDust_Rebellion.jpg" group-title="JAPANESE",Bleach - The DiamondDust Rebellion (2007)
 https://archive.org/download/BleachMovie2-TheDiamondDustRebellionBluray720P8BitSoftsub/BLM02_Al3asq_Upload_Team_MODy92.mp4
@@ -5272,14 +5326,26 @@ http://dl.movieo.ir/dlha/files/A.Violent.Prosecutor.2016.720p.mkv
 #EXTINF:-1 tvg-logo="https://tube.hk/images/titles_cache/750x1097_movie14483postersasura-hk.jpg" group-title="KOREAN",Asura (2016)
 http://dl.movieo.ir/dlha/files/Asura.The.City.of.Madness.2016.720p.HDRip.950MB_(wWw.Movieo.IR).mkv
 
+#EXTINF:-1 tvg-logo="https://tube.hk/images/titles_cache/750x1097_movie14483postersasura-hk.jpg" group-title="KOREAN",Asura (2016)*
+http://dl.movieo.ir/dlha/files/2016/film/Asura.The.City.of.Madness.2016.HC.720p.HDrip_(wWw.Movieo.IR).mkv.mp4
+
 #EXTINF:-1 tvg-logo="http://images.en.koreaportal.com/data/images/full/20680/promotional-poster-for-the-south-korean-movie-love-lies-slated-for-release-on-april-13.png" group-title="KOREAN",Love - Lies (2016)
 http://dl.movieo.ir/dlha/files/Love.Lies.2016.DVDrip.Ganool.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Luck_Key-poster.jpg" group-title="KOREAN",Luck-Key (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Luck-Key.2016.720p.HDrip_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://media-cache.cinematerial.com/p/500x/keg0y6cy/missing-sarajin-yeoja-south-korean-movie-poster.jpg" group-title="KOREAN",Missing Woman (2016)
 http://dl.movieo.ir/dlha/files/Missing.2016.720p.HDRip.700MB_(wWw.Movieo.IR).mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Operation_Chromite_%28film%29_poster.jpeg" group-title="KOREAN",Operation Chromite (2016)
 http://dl.movieo.ir/dlha/files/Operation.Chromite.2016.HC.720p.WEBrip.mkv
+
+#EXTINF:-1 tvg-logo="https://mediafiles.cineplex.com/Central/Film/Posters/24964_320_470.jpg" group-title="KOREAN",Phantom Detective (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Phantom.Detective.2016.720p_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWOVDqL.jpg" group-title="KOREAN",The Age of Shadows (2016)
+http://dl.movieo.ir/dlha/files/2016/film/The.Age.of.Shadows.2016.720p.HDrip_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://mediafiles.cineplex.com/Central/Film/Posters/25025_320_470.jpg" group-title="KOREAN",The Wailing (2016)
 http://dl.movieo.ir/dlha/files/The.Wailing.2016.720p.mkv
@@ -5302,6 +5368,12 @@ http://149.56.23.7:20082/stream
 #EXTINF:-1 tvg-logo="http://bloghorror.com/wp-content/uploads/2017/01/Take-Me-Home_poster_goldposter_com_2s.jpg" group-title="THAI",Take Me Home (2016)
 http://dl.movieo.ir/dlha/files/Take.Me.Home.2016.DVDRip.450MB_(wWw.Movieo.IR).mkv
 
+#EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/round_icon/indonesia/indonesia_640.png" group-title="LABEL",~ INDONESIAN
+http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="http://fr.web.img4.acsta.net/c_215_290/pictures/17/05/31/11/12/096022.jpg" group-title="INDONESIAN",Headshot (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Headshot.2016.720p_(wWw.Movieo.IR).mkv.mp4
+
 #EXTINF:-1 tvg-logo="https://www.minnetonkaschools.org/uploaded/photos/02/chinese.png" group-title="LABEL",~ CHINESE
 http://149.56.23.7:20082/stream
 
@@ -5317,7 +5389,7 @@ http://dl.movieo.ir/dlha/files/2017/Extraordinary.Mission.2017.HC.720p.WEBrip_(w
 #EXTINF:-1 tvg-logo="http://movizland.com/wp-content/uploads/4dceac62c21baa6fs-490x640.jpg" group-title="CHINESE",Journey to the West - The Demons Strike Back (2017)
 http://dl.movieo.ir/dlha/files/2017/Journey.to.the.West.Demon.Chapter.2017.720p.WEB-DL.x264_(wWw.Movieo.IR).mkv.mp4
 
-#EXTINF:-1 tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/5c/89dd017dd05f422e9854168dbf52a431_500x735.jpg" group-title="CHINESE",Kung Fu Yoga (2017)
+#EXTINF:-1 tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/5c/89dd017dd05f422e9854168dbf52a431_500x735.jpg" group-title="CHINESE",Kung Fu Yoga (2017) [EN-Subs]
 http://dl.movieo.ir/dlha/files/2017/Kung.Fu.Yoga.2017.HC.720p.WEBrip_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/ShockWave.jpg/220px-ShockWave.jpg" group-title="CHINESE",Shock Wave (2017)
@@ -5329,7 +5401,7 @@ http://dl.movieo.ir/dlha/files/2017/Who.Killed._.Robin.2017.720p_(wWw.Movieo.IR)
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/A_Chinese_Odyssey_Part_Three_poster.jpeg" group-title="CHINESE",A Chinese Odyssey - Part Three (2016)
 http://dl.movieo.ir/dlha/files/A.Chinese.Odyssey.Part.Three.2016.720p.HDRip_(wWw.Movieo.IR).mkv
 
-#EXTINF:-1 tvg-logo="https://www.tiffanyyong.com/wp-content/uploads/2016/07/Bounty-Hunters-movie-poster.jpg" group-title="CHINESE",Bounty Hunters (2016) [?]
+#EXTINF:-1 tvg-logo="https://www.tiffanyyong.com/wp-content/uploads/2016/07/Bounty-Hunters-movie-poster.jpg" group-title="CHINESE",Bounty Hunters (2016)
 http://dl.movieo.ir/dlha/files/Bounty.Hunters.2016.720p.Ganool.mkv
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/call-of-heroes.54141.jpg" group-title="CHINESE",Call of Heroes (2016) [Cantonese]
@@ -5356,11 +5428,23 @@ http://dl.movieo.ir/dlha/files/Line.Walker.2016.HC.720p.WEBrip.mkv
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tiffanyyong.com/wp-content/uploads/2016/08/Line-Walker-Movie-Poster.jpg" group-title="MOVIES",Line Walker (2016) [Cantonese]*
 http://dl.movieo.ir/dlha/files/Line.Walker.2016.720p.WEB-DL_(wWw.Movieo.IR).mkv
 
+#EXTINF:-1 tvg-logo="http://sino-cinema.com/wp-content/uploads/2017/04/onenightonlychina.jpg" group-title="CHINESE",One Night Only (2016)
+http://dl.movieo.ir/dlha/files/2016/film/One.Night.Only.2016.720p_(wWw.Movieo.IR).mkv.mp4
+
 #EXTINF:-1 tvg-logo="https://pxhst.co/avaxhome/57/c0/0042c057.jpg" group-title="CHINESE",Operation Mekong (2016)
 http://dl.movieo.ir/dlha/files/Operation.Mekong.2016.720p.WEB-DL.900MB_(wWw.Movieo.IR).mkv
 
+#EXTINF:-1 tvg-logo="http://thecriticalcritics.com/review/wp-content/images/railroad-tigers-movie-poster.jpg" group-title="CHINESE",Railroad Tigers (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Railroad.Tigers.2016.HC.720p.WEBrip_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="http://fr.web.img5.acsta.net/pictures/17/04/27/21/48/177037.jpg" group-title="CHINESE",Sword Master (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Sword.Master.2016.BluRay.720p.800MB_(wWw.Movieo.IR).mkv.mp4
+
 #EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_38723.jpg" group-title="CHINESE",The Bodyguard (2016)
 http://dl.movieo.ir/dlha/files/The.Bodyguard.2016.720p.WEBrip.Ganool_(wWw.Movieo.IR).mkv
+
+#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_38723.jpg" group-title="CHINESE",The Bodyguard (2016)*
+http://dl.movieo.ir/dlha/files/2016/film/My.Beloved.Bodyguard.2016.720p_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/26/%E9%81%B8%E8%80%81%E9%A0%82.jpg" group-title="CHINESE",The Mobfathers (2016) [Cantonese]
 http://dl.movieo.ir/dlha/files/The.Mobfathers.2016.720p.Ganool.mkv
