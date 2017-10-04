@@ -9,7 +9,7 @@ http://191.252.102.161:8040/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="LABEL",< Please Donate
 http://191.252.102.161:8040/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Sep.28.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Oct.04.2017
 http://191.252.102.161:8040/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="LABEL",> Like Us!
@@ -146,6 +146,9 @@ http://edge2.tikilive.com:1935/unrestricted_tikilive/36008/amlst:amKEQ2Y2gYN4/pl
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/742438d2db584d6b93a617eacf0ad1f8-hd.jpg" group-title="CHRISTIANITY",SafeTV
 http://live.ipointcable.com/safetv/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Smile_TV.jpg" group-title="CHRISTIANITY",Smile TV (USA)
+http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery%40186242/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.wacxtv.com/Portals/18/Skins/WACX/images/SuperChannel_logo.png" group-title="CHRISTIANITY",Super Channel (USA)
 http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-128/mp4:wacx/playlist.m3u8
