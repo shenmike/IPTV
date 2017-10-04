@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="LABEL",< Please Donate
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Oct.03.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Oct.04.2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="LABEL",> Like Us!
@@ -4062,7 +4062,7 @@ http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-1/settv574-1.m3u
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/metalocalypse/images/c/cd/Adult-swim-logo.png" group-title="LABEL",~ Adult Swim ~
 http://stream.dubstep.fm:80/256mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14060.jpg" group-title="ADULT SWIM",Animation
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14060.jpg" group-title="ADULT SWIM",Animation [Off]
 http://amd.cdn.turner.com/adultswim/big/streams/playlists/animated-marathon.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://when-will.net/images/artikel/2015/september/Black-Jesus.jpg" group-title="ADULT SWIM",Black Jesus
@@ -4071,7 +4071,7 @@ http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png" group-title="ADULT SWIM",The Eric Andre Show
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14061.jpg" group-title="ADULT SWIM",Live Action
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14061.jpg" group-title="ADULT SWIM",Live Action [Off]
 http://amd.cdn.turner.com/adultswim/big/streams/playlists/live-action-marathon.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.cdn.turner.com/adultswim/big/video/mainstream/liveStream.jpg" group-title="ADULT SWIM",Live Stream
@@ -4109,6 +4109,84 @@ http://www.djing.com/tv/d-05.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wikibox.eu/wp-content/uploads/2015/09/DJing-Underground.jpg" group-title="DJing",Underground
 http://www.djing.com/tv/u-05.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="LABEL",~ Music Choice ~
+http://37.97.160.125:9128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Alternative
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Brits + Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Dance/EDM
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Hip Hop/R+B
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Hit List
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Indie
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Metal
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Pop + Country
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Pop Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - R+B/Soul
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Rap
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Rap 2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Today's Country
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - 90s
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Throwback Jamz
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Y2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Mexicana
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Musica Urbana
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Pop Latino
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Tropicales
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Teen Beats
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Kidz Only!
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Music Choice - Toddler Tunes
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://wingsdomain.com/_shared/icons/wingsdomain-subscribe-icon.png" group-title="LABEL",~ USA Local News ~
 http://167.88.154.169/wnycfm-tunein
