@@ -463,24 +463,12 @@ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_inde
 http://185.53.163.205:2507
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZfjAIix.png" group-title="UK",BT Sport 1
-http://wowza2.mysoltv.com:1992/BT_Sports_1_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZfjAIix.png" group-title="UK",BT Sport 1*
 http://185.53.163.205:2700
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZfjAIix.png" group-title="UK",BT Sport 2
-http://wowza2.mysoltv.com:1992/BT_Sports_2_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZfjAIix.png" group-title="UK",BT Sport 2*
 http://185.53.163.205:2506
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZfjAIix.png" group-title="UK",BT Sport 3
-http://wowza2.mysoltv.com:1992/BT_Sports_3_HD/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZfjAIix.png" group-title="UK",BT Sport 3*
-http://185.142.239.164:3135/BT/3/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZfjAIix.png" group-title="UK",BT Sport 3**
 http://185.53.163.205:2701
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bEU0WS9.png" group-title="UK",BT Sport Extra 1
