@@ -9,7 +9,7 @@ http://149.56.23.7:20082/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="LABEL",< Please Donate
 http://149.56.23.7:20082/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Oct.03.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Oct.04.2017
 http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="LABEL",> Like Us!
@@ -420,8 +420,14 @@ http://dl.movieo.ir/dlha/files/37.2016.720p.WEB-DL.ShAaNiG.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71TCRM916WL._AC_UL320_SR224%2C320_.jpg" group-title="MOVIES",48 Hours to Live (2016)
 https://archive.org/download/48HoursToLive2016WatchOnlineFullMovieWatchOnlinePRO/48%20Hours%20to%20Live%202016%20Watch%20Online%20Full%20Movie%20%20%20WatchOnlinePRO.mp4
 
+#EXTINF:-1 tvg-logo="https://cdn.traileraddict.com/content/vertigo-films/100-streets-poster.jpg" group-title="MOVIES",100 Streets (2016)
+http://dl.movieo.ir/dlha/files/2016/film/100%20Streets%20(2016)%20BluRay%20720p%20700MB_(wWw.Movieo.IR).mkv.mp4
+
 #EXTINF:-1 tvg-logo="https://s6.postimg.org/mgxdmntox/64a098bc5e2babfc81e5c3e032ddc28b.md.jpg" group-title="MOVIES",A Better Place (2016)
 http://dl.movieo.ir/dlha/files/A.Better.Place.2016.DVDRip.400MB_(wWw.Movieo.IR).mkv
+
+#EXTINF:-1 tvg-logo="https://alienationmentale.files.wordpress.com/2017/01/monster_calls.jpg" group-title="MOVIES",A Monster Calls (2016)
+http://dl.movieo.ir/dlha/files/2016/film/A%20Monster%20Calls%20(2016)%20720p%20WEB-DL%20750MB_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://www.zoom.co.uk/assets/images/site/product/cdr8574_1.jpg" group-title="MOVIES",A Street Cat Named Bob (2016)
 http://dl.movieo.ir/dlha/files/A%20Street%20Cat%20Named%20Bob%20(2016)%20720p%20WEB-DL%20750MB_(wWw.Movieo.IR).mp4
@@ -435,11 +441,23 @@ http://dl.movieo.ir/dlha/files/Abattoir.2016.HDrip.avi
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pk6tYsbpwUY/movieposter.jpg" group-title="MOVIES",Abducted (2016)
 http://dl.movieo.ir/dlha/files/Abducted.2016.720p.HDTV_(wWw.Movieo.IR).mkv
 
+#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/ali-and-nino-2016/large_Ali-and-Nino-poster.jpg" group-title="MOVIES",Ali and Nino (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Ali.and.Nino.2016.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/filmpulse.net/wp-content/uploads/2015/06/all-i-need-2015-horror-movie-poster.jpg" group-title="MOVIES",All I Need (2016)
+http://dl.movieo.ir/dlha/files/2016/film/All.I.Need.2016.720p.WEB-DL%20_(wWw.Movieo.IR).mkv.mp4
+
 #EXTINF:-1 tvg-logo="http://milversite.me/slike/All-the-Way_a54b4c90.jpg" group-title="MOVIES",All The Way (2016)
 http://dl.movieo.ir/dlha/files/All.the.Way.2016.720p.WEBrip.mkv
 
 #EXTINF:-1 tvg-logo="http://milversite.me/slike/All-the-Way_a54b4c90.jpg" group-title="MOVIES",All The Way (2016)*
 https://archive.org/download/AllTheWay20161080pYTS.AG/All.The.Way.2016.1080p.BluRay.x264-[YTS.AG].mp4
+
+#EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid15622.jpg" group-title="MOVIES",Allegiant (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Allegiant.2016.720p.x265_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="https://m.aceshowbiz.com/webimages/still/alleycats-poster01.jpg" group-title="MOVIES",Alleycats (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Alleycats.2016.720p_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Allied_%28film%29.png/220px-Allied_%28film%29.png" group-title="MOVIES",Allied (2016) [Dual-EN]
 https://ia601508.us.archive.org/26/items/9700000000005.mkv/9700000000005.mkv.mp4
@@ -456,6 +474,9 @@ http://dl.movieo.ir/dlha/files/2016/film/Alone%20in%20Berlin%20(2016)%20BluRay%2
 #EXTINF:-1 tvg-logo="https://cdn.traileraddict.com/content/netflix/amanda-knox-poster.jpg" group-title="MOVIES",Amanda Knox (2016)
 http://dl.movieo.ir/dlha/files/Amanda.Knox.2016.720p.WEBrip.Ganool.mkv
 
+#EXTINF:-1 tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5537/5537203_sa.jpg" group-title="MOVIES",AmeriGeddon (2016)
+http://dl.movieo.ir/dlha/files/2016/film/AmeriGeddon.2016.720p_(wWw.Movieo.IR).mkv.mp4
+
 #EXTINF:-1 tvg-logo="https://zapodaj.net/images/c25c2d5584bf4.jpg" group-title="MOVIES",Angry Birds (2016)
 http://dl.movieo.ir/dlha/files/Angry.Birds.2016.720p.Ganool.mkv
 
@@ -470,6 +491,12 @@ https://archive.org/download/A001.2016.1080pDualLat_201608/A-001-.2016.1080p-dua
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-kyMn2jQmosk/V7X8KsEpvDI/AAAAAAAAJDc/ygYEkXaz39U77pjJWR48MGL1e7Py5Ul7QCLcB/s1600/anthropoid-poster.jpg" group-title="MOVIES",Anthropoid (2016)
 http://dl.movieo.ir/dlha/files/Anthropoid.2016.720p.BluRay_(wWw.Movieo.IR).mkv
+
+#EXTINF:-1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2016/08/antibirth-600x885.jpg" group-title="MOVIES",Antibirth (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Antibirth.2016.720p%20_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Apprentice_2016.jpg/220px-Apprentice_2016.jpg" group-title="MOVIES",Apprentice (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Apprentice.2016.DVDrip_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="http://fr.web.img5.acsta.net/r_1280_720/pictures/16/05/02/09/17/373633.jpg" group-title="MOVIES",Approaching the Unknown (2016)
 http://dl.movieo.ir/dlha/files/Approaching.the.Unknown.2016.720p.WEB-DL.Ganool.mkv
@@ -496,13 +523,22 @@ http://dl.movieo.ir/dlha/files/Back.in.the.Day.2016.720p.WEB-DL.ShAaNiG.mkv
 http://dl.movieo.ir/dlha/files/Bad.People.2016.720p.WEB-DL.600MB_(wWw.Movieo.IR).mkv
 
 #EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="MOVIES",Bad Santa 2 (2016)
-https://archive.org/download/BadSanta22016UNRATED1080pRemux/Bad%20Santa%202%20(2016)%20UNRATED%201080p%20Remux.mp4
+http://dl.movieo.ir/dlha/files/2016/film/Bad.Santa.2.2016.UNRATED.720p.x265_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="MOVIES",Bad Santa 2 (2016)*
+https://archive.org/download/BadSanta22016UNRATED1080pRemux/Bad%20Santa%202%20(2016)%20UNRATED%201080p%20Remux.mp4
+
+#EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="MOVIES",Bad Santa 2 (2016)**
 http://dl2.downloado.site/dl2/Movie/Bad.Santa.2.2016.UNRATED.720p.ShAaNiG-%5BDownloado1.info%5D.mkv
 
 #EXTINF:-1 tvg-logo="http://shrani.si/f/14/cT/3y0N37C0/banking-on-bitcoin.jpg" group-title="MOVIES",Banking on Bitcoin (2016)
 http://dl.movieo.ir/dlha/files/Banking.on.Bitcoin.2016.720p.WEB-Dl.600MB_(wWw.Movieo.IR).mkv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Bastille_Day_%28film%29.png" group-title="MOVIES",Bastille Day (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Bastille.Day.2016.720p_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/B/Batman-The-Killing-Joke-2016-movie-poster.jpg" group-title="MOVIES",Batman - The Killing Joke (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Batman.The.Killing.Joke.2016.720p_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/37/93/ce/3793ceb2327983a8046b8977a5f46d0f.jpg" group-title="MOVIES",Batman vs Superman - Dawn of Justice (2016)
 http://media.bia4music.com/movie/20166666/film/7/Batman.v.Superman.Dawn.of.Justice.2016.720p.Exclusive.Farsi.Dubbed.mkv
@@ -519,6 +555,9 @@ http://dl.movieo.ir/dlha/files/Beyond%20the%20Tryline%20(2016)%20BluRay%20720p%2
 #EXTINF:-1 tvg-logo="https://thedullwoodexperiment.files.wordpress.com/2017/03/0932f27c2a3937ffcb37061dd1ec69af.jpg" group-title="MOVIES",Billy Lynn's Long Halftime Walk (2016)
 http://dl.movieo.ir/dlha/files/Billy.Lynns.Long.Halftime.Walk.2016.HDTC.450MB_(wWw.Movieo.IR).mkv
 
+#EXTINF:-1 tvg-logo="https://thedullwoodexperiment.files.wordpress.com/2017/03/0932f27c2a3937ffcb37061dd1ec69af.jpg" group-title="MOVIES",Billy Lynn's Long Halftime Walk (2016)*
+http://dl.movieo.ir/dlha/files/2016/film/Billy%20Lynn%E2%80%99s%20Long%20Halftime%20Walk%20(2016)%20BluRay%20720p%20850MB%20_(wWw.Movieo.IR).mkv.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OxLjWLTw5ZI/movieposter.jpg" group-title="MOVIES",Blood Father (2016)
 http://dl.movieo.ir/dlha/files/Blood.Father.2016.720p.mkv
 
@@ -527,6 +566,12 @@ http://dl.movieo.ir/dlha/files/Blood.Father.2016.720p.WEB-DL.ShAaNiG.mkv
 
 #EXTINF:-1 tvg-logo="http://i.myegy.to/images/ccb87b96d7d6.original.png" group-title="MOVIES",Boost (2016)
 http://dl.movieo.ir/dlha/files/Boost.2016.720p.WEB-DL_(wWw.Movieo.IR).mkv
+
+#EXTINF:-1 tvg-logo="https://horrorpediadotcom.files.wordpress.com/2017/01/bornless-ones-2016-horror-movie-alt-poster.jpg" group-title="MOVIES",Bornless Ones (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Bornless.Ones.2016.720p.WEB-DL%20_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cc/80/de/cc80ded1ebae7e01d79482f871c73935.jpg" group-title="MOVIES",Boyka - Undisputed (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Boyka.Undisputed.2016.720p.WEBrip_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Breakdown2015.jpg/220px-Breakdown2015.jpg" group-title="MOVIES",Breakdown (2016)
 http://dl.movieo.ir/dlha/files/Breakdown_2016_HDrip_(wWw.Movieo.IR).mkv
