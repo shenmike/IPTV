@@ -1422,7 +1422,10 @@ http://dl.movieo.ir/dlha/files/The.Veil.2016.720p.WEB-DL_(wWw.Movieo.IR).mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/nH1YZAL8IeIQEOm2ewi5ncpuPQG.jpg" group-title="MOVIES",The Void (2016)
 http://dl.movieo.ir/dlha/files/2016/film/The.Void.2016.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
 
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w342/rCD1wyzdAM2NzoMNn0cgTmnA32Q.jpg" group-title="MOVIES",The Warriors Gate (2016) [?]
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w342/rCD1wyzdAM2NzoMNn0cgTmnA32Q.jpg" group-title="MOVIES",The Warriors Gate (2016)
+http://dl.movieo.ir/dlha/files/2016/film/Warriors.Gate.2016.720p_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w342/rCD1wyzdAM2NzoMNn0cgTmnA32Q.jpg" group-title="MOVIES",The Warriors Gate (2016)*
 http://dl.movieo.ir/dlha/files/Warriors.Gate.2016.720p.WEBRip.MkvCage_(wWw.Movieo.IR).mkv
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VZ8_2b5pbHI/movieposter.jpg" group-title="MOVIES",The Whole Truth (2016)
@@ -1484,6 +1487,9 @@ http://dl.movieo.ir/dlha/files/Warcraft.2016.720p.Ganool.mkv
 
 #EXTINF:-1 tvg-logo="http://www.fatmovieguy.com/wp-content/uploads/2015/11/Warcraft-Movie-Poster.jpg" group-title="MOVIES",Warcraft (2016)*
 http://dl.movieo.ir/dlha/files/Warcraft.2016.720p.TC.Ganool.mkv
+
+#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_39277.jpg" group-title="MOVIES",We Go On (2016)
+http://dl.movieo.ir/dlha/files/2016/film/We.Go.On.2016.720p.WEBrip_(wWw.Movieo.IR).mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9NhtQhLpAGU/movieposter.jpg" group-title="MOVIES",WEAPONiZED (2016)
 http://dl.movieo.ir/dlha/files/WEAPONiZED.2016.720p_(wWw.Movieo.IR).mkv
