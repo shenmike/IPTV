@@ -1764,10 +1764,10 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sehAJzZ.png" group-title="LATINO",24/7 Dragon Ball Z [Off]
 https://hls-ord-3a.vaughnsoft.net/ams/live/live_dragonballenvivo/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nQoFljD.png" group-title="LATINO",24/7 El Chavo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nQoFljD.png" group-title="LATINO",24/7 El Chavo [NoRoku]
 https://goo.gl/8W1wKL
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5eJd5M6.png" group-title="LATINO",24/7 Futurama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5eJd5M6.png" group-title="LATINO",24/7 Futurama [NoRoku]
 https://goo.gl/MDqvhz
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IYAUy9V.png" group-title="LATINO",24/7 Locomotion
