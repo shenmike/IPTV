@@ -1997,6 +1997,9 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9ggyiEM.png" group-title="MEXICO",Canal 26 Aguascalientes
 http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="https://i.imgur.com/JTswbtA.png" group-title="MEXICO",Gala TV Cancun
+http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="https://i.imgur.com/JTswbtA.png" group-title="MEXICO",Gala TV Merida
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
 
@@ -2024,6 +2027,9 @@ http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/H1AFRJh.png" group-title="MEXICO",RTQ Queretaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3orwGcy.png" group-title="MEXICO",Telemar Campeche
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DsVc3rO.png" group-title="MEXICO",Tlaxcala TV
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 
@@ -2039,20 +2045,8 @@ http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w152129917
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/mx/XHGJG.png" group-title="MEXICO",C7 Jalisco [Off]
 http://198.255.112.18:1935/c7cultura/videoc7cultura/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://telemarcampeche.com/wp-content/uploads/2017/05/logo-TELEMAR-big-110.png" group-title="MEXICO",Telemar [Off]
-http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAdIAAAAJGUzNGY2YmI4LTgyNWQtNGE2NS1hMmZmLTJmYmQyNDdiZDI2ZQ.png" group-title="MEXICO",Banda Ancha TV [Off]
-https://d3tqt20u0qzspi.cloudfront.net/live/ngrp:bandaancha_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://i.imgur.com/3t5Cz1e.jpg" group-title="MEXICO",Gala TV Cancun [Off]
-http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
-
 #EXTINF:-1 tvg-id="multimedios-monterrey" tvg-name="multimedios monterrey" tvg-logo="https://i.ytimg.com/vi/x3J94Nlydq0/maxresdefault.jpg" group-title="MEXICO",Multimedios [Off]
 http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dbf5dbbfc8f16bb63ce1/publish/media_1200.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fmonterrey&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486350658770
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/819651361960669184/kiW1_Jcg.jpg" group-title="MEXICO",Canal 7 [Off]
-http://187.188.159.113:1935/live/web.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_10806_7_36148.png" group-title="MEXICO",Trecevision [Off]
 http://198.255.112.18:1935/trecevision/videotrecevision/playlist.m3u8
