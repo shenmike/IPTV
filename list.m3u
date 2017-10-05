@@ -2024,6 +2024,9 @@ http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/H1AFRJh.png" group-title="MEXICO",RTQ Queretaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DsVc3rO.png" group-title="MEXICO",Tlaxcala TV
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AfSXooZ.png" group-title="MEXICO",TvAcapulco
 http://stream.duplika.com:1935/tvacapulco/tvacapulco/playlist.m3u8
 
@@ -2032,9 +2035,6 @@ http://50.7.98.234:1935/rtv/videortv/playlist.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="MEXICO",TVP Culiacan
 http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w1521299175_b1428000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/reydddd/images2012/tdt_tv_de_tlaxcala_mx.jpg" group-title="MEXICO",TDT
-http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/mx/XHGJG.png" group-title="MEXICO",C7 Jalisco [Off]
 http://198.255.112.18:1935/c7cultura/videoc7cultura/chunklist.m3u8
