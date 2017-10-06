@@ -3109,8 +3109,17 @@ http://www.lengua.com/anthems/Turkey.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.parsatv.com/index_files/channels/aspor.png" group-title="TURKEY",A Spor HD
 http://85.132.71.6/turk/aspor/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/o3G9ddv.png" group-title="TURKEY",AKSU TV
+http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://haber.sol.org.tr/sites/default/files/bengu.png" group-title="TURKEY",Benguturk TV
+http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8?wowzasessionid=379483538
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teksas.org/haber/resim/detay/bursasportv-yayinina-digiturkte-basladi_2.jpg" group-title="TURKEY",Bursapor TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.siyred.com/uploads/thumbs/8808168ff-1.jpg" group-title="TURKEY",Cay TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mirzaturizm.com.tr/site/assets/files/1118/cnnturk-logo2.jpg" group-title="TURKEY",CNN Turk
 http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
@@ -3118,20 +3127,59 @@ http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/795977867008077824/YLp6rTAL.jpg" group-title="TURKEY",Dream TV
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/864443317437702145/Ggcrwoln.jpg" group-title="TURKEY",Dreamturk TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tivigi.com/img/kanallar/dost-tv.png" group-title="TURKEY",Dost TV
+http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.guneytv.com.tr/img/logo.png" group-title="TURKEY",Guney TV Tarsus
+rtmp://stream.taksimbilisim.com:1935/tarsusguneytv/bant1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xcrRa9Y.png" group-title="TURKEY",IBB TV
+rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sentezyapi.com/Files/referanskanal242794433.jpg" group-title="TURKEY",Kanal 24
 http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/tr/KANAL_A.png" group-title="TURKEY",Kanal A
+http://stream.n3.noc.com.tr/kanala/kanala/chunklist_w1082384770.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D*
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eIGYTkv.png" group-title="TURKEY",Kanal V
+rtmp://stream2.taksimbilisim.com/kanalvip/bant1
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tamtvizle.com/wp-content/uploads/2016/01/meclis-tv.jpg" group-title="TURKEY",Meclis TV
 http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/S/semerkand-logo-0D9C64B470-seeklogo.com.png" group-title="TURKEY",Semerkand SD
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/S/semerkand-logo-0D9C64B470-seeklogo.com.png" group-title="TURKEY",Semerkand HD
+http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sunlifeturkiye.com/images/habergaleri/6722400.jpg" group-title="TURKEY",Show Max
+http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://georgianlive.com/wp-content/uploads/2013/02/sportstv.jpg" group-title="TURKEY",SportsTV
 http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wUPmhTk.png" group-title="TURKEY",Sun TV Mersin
+rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvizle.net/logo/teve2.png" group-title="TURKEY",Teve2
 http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/458666982905098240/Ef3T7N7P.png" group-title="TURKEY",TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iblog.milliyet.com.tr/imgroot/blogv7/Blog333/2014/03/12/05/452667-3-4-60de4.jpg" group-title="TURKEY",TJK TV
+http://tjktv.ercdn.net/tjktv_576p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/06/Trt1_2012.png" group-title="TURKEY",TRT 1
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
@@ -3159,6 +3207,27 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Trt_turk.png" group-title="TURKEY",TRT Turk
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.esmedya.com.tr/assets/img/source/png/tv4.png" group-title="TURKEY",TV 4
+http://mn-l.mncdn.com:1935/r_karamel/karamel/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kurtcetvizle.com/wp-content/uploads/2014/03/tv-10-canli-zindi-izle.jpg" group-title="TURKEY",TV 10
+rtmp://5.135.142.60:1935/tv10/xetero
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1448989903.png" group-title="TURKEY",TV 41
+rtmp://stream.taksimbilisim.com/tv41/bant1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/L6GE7ZG.png" group-title="TURKEY",TV 52
+rtmp://stream.taksimbilisim.com/tv52/bant1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.frocus.net/images/logotv/original/TV2000-Turkey.jpg" group-title="TURKEY",TV 2000
+rtmp://stream.taksimbilisim.com/tv2000/bant1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvnet.com.tr/dist/img/index-image.jpg" group-title="TURKEY",TVNET
+http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b850000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canlitv.world/images/channels/vuslat-tv.png" group-title="TURKEY",Vulsat TV
+http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/world-flag-icons/256/Flag_of_Kurdistan_Nation.png" group-title="LABEL",~ Kurdistan TV ~
 http://www.lengua.com/anthems/Kurdistan.mp3
