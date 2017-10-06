@@ -186,7 +186,7 @@ http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ksUrDyw.png" group-title="USA",Ditty TV
 http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NVkkcWK.png" group-title="USA",Evine
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NVkkcWK.png" group-title="USA",Evine [Off]
 http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/t3EgjfU.png" group-title="USA",Home Shopping Network
@@ -606,6 +606,9 @@ http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blizztv.png" group-title="GERMANY",Blizz TV
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-p6SxYHWfzPA/AAAAAAAAAAI/AAAAAAAAAAA/v8ceLuwU1Qg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="GERMANY",Campus TV Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="GERMANY",Deutsche Welle
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
 
@@ -618,11 +621,11 @@ http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w11465644
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/eotvhd.png" group-title="GERMANY",EOTV
 http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="GERMANY",Eurosport 1
-http://user:asdqwe@rel4.european-iptv.com:81/8328
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png" group-title="GERMANY",Franken Fernsehen
 http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/07/Folx-TV.jpg" group-title="GERMANY",Folx TV
+http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://programm.ard.de/files/265/2007/2778/28108.jpg" group-title="GERMANY",HR Fernsehen
 http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
@@ -630,11 +633,17 @@ http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/intv.png" group-title="GERMANY",INTV
 https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Isar_TV.png" group-title="GERMANY",Isar TV
+http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LS89GC9.png" group-title="GERMANY",MagentaMusik 360
 http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_1/magentamusik1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LS89GC9.png" group-title="GERMANY",MagentaMusik 360 [AudioOnly]
 http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_7/magentamusik1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hms-dev.com/images/logos/references/mdf1_rbw.png" group-title="GERMANY",MDF.1
+http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/580346447574503424/CxEQwneb.png" group-title="GERMANY",Munchen TV
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
@@ -647,6 +656,15 @@ http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" group-title="GERMANY",Noa 4 Hamburg
 http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.otv.de/wp-content/themes/otv/img/logo.png" group-title="GERMANY",Oberpfalz TV
+http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ok-magdeburg.de/wp-content/themes/okm/images/logo-offener-kanal-magdeburg.png" group-title="GERMANY",Offener Kanal Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.youngspeech.de/wp-content/gallery/pop10-konzert/d-logode.jpg" group-title="GERMANY",pop10
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png" group-title="GERMANY",RFO
 http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
@@ -989,6 +1007,9 @@ http://stream-09.dc3.dailymotion.com/15/dm/1/xl1km0/live.isml/events(live-149762
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/TV5MODE-540x370.jpg" group-title="FRANCE",TV5 Monde
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/TV5MODE-540x370.jpg" group-title="FRANCE",TV5 Monde*
+https://api-asia.tv5monde.com/Live/250600/4792245510001-5/tv5plusinfo/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nordbretagne.fr/photo/art/default/1736504-2352454.jpg" group-title="FRANCE",Tebeo
 http://live2.awedia.com/hls/tebeo.m3u8
@@ -1527,7 +1548,7 @@ http://cls2.todostreaming.eu/azahara/uSCQc5ky/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://files.antenista.webnode.es/200002504-5844f5c19b/costa%20del%20sol%20tv%20abm%20antenista%20en%20malaga.png" group-title="SPAIN",Costa del Sol TV
 http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-QvLEg1hDXyQ/UJlHJfAq60I/AAAAAAAASgA/TtFfgHhsCBU/s1600/cuatro.jpg" group-title="SPAIN",Cuatro
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-QvLEg1hDXyQ/UJlHJfAq60I/AAAAAAAASgA/TtFfgHhsCBU/s1600/cuatro.jpg" group-title="SPAIN",Cuatro [Off]
 http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/el-correo-de-andaluc-C3-ADa-tv-logo.png" group-title="SPAIN",El Correo TV
@@ -3715,20 +3736,26 @@ http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://akamai.dittotv.vidz.zeecdn.com/secure/draco/Shows/Dittotv-new-logos/ZeeAflam300x248.jpg" group-title="UAE",Zee Aflam (Hindi)
 http://hls.alwhdat.net/ios/zee_aflam_t.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 1 HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports SD
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports SD*
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 2
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 2 SD
 http://adtv.ercdn.net/adsport2/adsport2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 2 SD*
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
