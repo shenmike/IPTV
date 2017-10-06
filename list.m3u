@@ -2983,11 +2983,55 @@ http://mtvam.ru/hlsam/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/ro.png" group-title="LABEL",~ Romania TV ~
 http://www.lengua.com/anthems/Romania.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvalphamedia.ro/wp-content/uploads/2015/07/alpha-media-icon-logo-559847ccv1_site_icon-256x256.png" group-title="ROMANIA",Alfa Media
+http://188.173.22.231:8080/video/emisie.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img00.deviantart.net/473b/i/2016/214/9/8/catali2016_s_logo_remake__alfa_omega_tv_2016_by_catali2016-dace34w.png" group-title="ROMANIA",Alfa Omega TV
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/c/c4/Antena1_ro.png" group-title="ROMANIA",Antena 1
+http://89.43.138.29/live/playlist13.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mywebtv.info/img/tvicons/560870.png" group-title="ROMANIA",Atomic TV
 http://5.154.185.153/hls/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/2016/03/BanatTVlogo_718-150x120.png" group-title="ROMANIA",Banat TV
+http://81.18.66.155:1935/live/banat-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/15710/logo_casa%20mia%20tv.png" group-title="ROMANIA",Casa Mia TV
+http://adv-video-cache.distinct.ro/live_playlist/_definst_/casamia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-48n8Ahbntvc/AAAAAAAAAAI/AAAAAAAAAAA/PudXnVCofrI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ROMANIA",Cromtel TV
+http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/_oZDHDGTCY8/maxresdefault.jpg" group-title="ROMANIA",Digi 24
 http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://24secunde.ro/wp-content/uploads/2014/09/digisport.png" group-title="ROMANIA",Digisport 2
+http://smart-iptv.ro:8880/live/walti/valtiger/12.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://24secunde.ro/wp-content/uploads/2014/09/digisport.png" group-title="ROMANIA",Digisport 3
+http://smart-iptv.ro:8880/live/walti/valtiger/13.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://24secunde.ro/wp-content/uploads/2014/09/digisport.png" group-title="ROMANIA",Digisport 4
+http://smart-iptv.ro:8880/live/walti/valtiger/14.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.irishexaminer.com/remote/media.central.ie/media/images/e/eurosportLogo_large.jpg" group-title="ROMANIA",Eurosport
+http://smart-iptv.ro:8880/live/walti/valtiger/29.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.irishexaminer.com/remote/media.central.ie/media/images/e/eurosportLogo_large.jpg" group-title="ROMANIA",Eurosport 2
+http://smart-iptv.ro:8880/live/walti/valtiger/30.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.moldova9.com/wp-content/uploads/iasi-tv-life.png" group-title="ROMANIA",Iasi TV Life
+http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dw13f98.jpg" group-title="ROMANIA",IDA TVhttp://83.166.203.14:1935/ida/ida_1000k.stream/chunklist.m3u8?wowzasessionid=1144202524
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mandmglobal.com/wp-content/uploads/2016/06/inTV-logo-600x460.jpg" group-title="ROMANIA",inTV
+http://80.91.115.211:1935/live/livestream/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4e/Kanal_D.png" group-title="ROMANIA",Kanal D
+http://80.86.107.169/iphone/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.forbes.ro/wp-content/uploads/2013/06/51b066754e457.jpg" group-title="ROMANIA",Realitatea TV
 http://realitatea.m247.ro/hls/live.m3u8
