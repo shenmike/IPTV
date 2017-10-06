@@ -2846,8 +2846,6 @@ http://141.136.14.18/kanal1/kanal1.m3u8
 #EXTINF:-1 tvg-logo="http://www.olimpikbeograd.com/wp-content/uploads/2013/06/serbia0.png" group-title="LABEL",~ Serbia TV ~
 http://www.lengua.com/anthems/Serbia.mp3
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rtvas.rs/images/logo-as.png" group-title="SERBIA",As Sabac
 http://as.multimediaiptv.net:8080/as/assabac/index.m3u8
 
@@ -3004,7 +3002,7 @@ http://mtvam.ru/hlsam/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/ro.png" group-title="LABEL",~ Romania TV ~
 http://www.lengua.com/anthems/Romania.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvalphamedia.ro/wp-content/uploads/2015/07/alpha-media-icon-logo-559847ccv1_site_icon-256x256.png" group-title="ROMANIA",Alfa Media
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://accenttv.ro/wp-content/uploads/2017/06/logoaccenttv-3-Copy-1-300x145.jpg" group-title="ROMANIA",Accent TV
 http://188.173.22.231:8080/video/emisie.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img00.deviantart.net/473b/i/2016/214/9/8/catali2016_s_logo_remake__alfa_omega_tv_2016_by_catali2016-dace34w.png" group-title="ROMANIA",Alfa Omega TV
