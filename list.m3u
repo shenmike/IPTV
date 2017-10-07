@@ -4193,6 +4193,15 @@ http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/cn.png" group-title="LABEL",~ China TV ~
 http://www.lengua.com/anthems/China.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn3.thr.com/sites/default/files/2016/12/upcoming_animated_movies_split.jpg" group-title="CHINA",24/7 Animated Movies
+http://live-tx-hdl.huomaotv.cn/live/4bgtCR24082.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://42works.net/wp-content/uploads/2017/01/iStock_000038870628Large2.jpg" group-title="CHINA",24/7 Blockbuster Movies
+http://live-tx-hdl.huomaotv.cn/live/buxKMY24084.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://digitalspyuk.cdnds.net/17/24/980x490/landscape-1497630992-superhero-movies.jpg" group-title="CHINA",24/7 Superhero Movies
+http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="CHINA",CGTN
 http://live.cgtn.com/500/prog_index.m3u8
 
@@ -4282,15 +4291,6 @@ http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-1/settv574-1.m3u
 
 #EXTINF:-1 tvg-logo="https://www.ezshield.com/wp-content/uploads/images/differentiators/24-7-icon.png" group-title="LABEL",~ 24/7 ~
 http://stream.dubstep.fm:80/256mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn3.thr.com/sites/default/files/2016/12/upcoming_animated_movies_split.jpg" group-title="24/7",Animated Movies
-http://live-tx-hdl.huomaotv.cn/live/4bgtCR24082.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://42works.net/wp-content/uploads/2017/01/iStock_000038870628Large2.jpg" group-title="24/7",Blockbuster Movies
-http://live-tx-hdl.huomaotv.cn/live/buxKMY24084.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://digitalspyuk.cdnds.net/17/24/980x490/landscape-1497630992-superhero-movies.jpg" group-title="24/7",Superhero Movies
-http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.cdn.turner.com/adultswim/big/video/mainstream/liveStream.jpg" group-title="24/7",Adult Swim Live
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
