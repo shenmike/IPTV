@@ -3971,6 +3971,12 @@ http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://qes.com.my/wp-content/uploads/QES-projects-bernama.png" group-title="MALAYSIA",Bernama
 http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rtm-images.gluempsapp.com/1024x768/live_stream/1-TV1.jpg" group-title="MALAYSIA",TV1
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" group-title="MALAYSIA",TV2
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Indonesia-01.png" group-title="LABEL",~ Indonesia TV ~
 http://www.lengua.com/anthems/Indonesia.mp3
 
