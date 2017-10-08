@@ -1761,20 +1761,17 @@ http://50.7.56.2:8016
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aEMDxaG.png" group-title="LATINO",24/7 Anime
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sehAJzZ.png" group-title="LATINO",24/7 Dragon Ball Z [Off]
-https://hls-ord-3a.vaughnsoft.net/ams/live/live_dragonballenvivo/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nQoFljD.png" group-title="LATINO",24/7 El Chavo [NoRoku]
-https://goo.gl/8W1wKL
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5eJd5M6.png" group-title="LATINO",24/7 Futurama [NoRoku]
-https://goo.gl/MDqvhz
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IYAUy9V.png" group-title="LATINO",24/7 Locomotion
 http://locomotiontv.com/envivo/loco_app/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3g8RTz1.png" group-title="LATINO",24/7 Los Simpson
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nQoFljD.png" group-title="LATINO",VOD El Chavo [NoRoku]
+https://goo.gl/8W1wKL
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5eJd5M6.png" group-title="LATINO",VOD Futurama [NoRoku]
+https://goo.gl/MDqvhz
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="LATINO",Deutsche Welle
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
@@ -4315,9 +4312,6 @@ http://173.208.216.114:8082/live/fringe/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blog.cyrildason.com/wp-content/uploads/2016/11/House-MD.png" group-title="24/7",House M.D.
 http://173.208.216.114:8082/live/house/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/nicktoons-united/images/5/5d/Johnny_bravo_logo.png" group-title="24/7",Johnny Bravo
-https://raw.githubusercontent.com/fluxustv/Channels/master/J_Bravo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.wbkidsgo.com/portals/4/Images/Content/Properties/Looney%20Tunes/show-logo-looneyTunes.png?ver=2015-12-03-184959-977" group-title="24/7",Looney Tunes
 http://173.208.216.114:8082/live/looney/chunks.m3u8
