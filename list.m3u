@@ -4307,6 +4307,12 @@ http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://az616578.vo.msecnd.net/files/responsive/cover/main/desktop/2016/02/04/635902157570767435-1810430449_buffy-vampire-slayer.jpg" group-title="24/7",Buffy the Vampire Slayer
 http://173.208.216.114:8082/live/buffy/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Cheers_intro_logo.jpg" group-title="24/7",Cheers
+http://173.208.216.114:8082/live/cheers/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Fireflyopeninglogo.JPG" group-title="24/7",Firefly
+http://173.208.216.114:8082/live/firefly/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://graphic-engine.swarthmore.edu/wp-content/uploads/2008/09/fringe_apple.jpg" group-title="24/7",Fringe
 http://173.208.216.114:8082/live/fringe/chunks.m3u8
 
@@ -4354,6 +4360,9 @@ http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.amcnetworks.com/amc.com/wp-content/uploads/2010/12/the-walking-dead-logo-white-C.png" group-title="24/7",The Walking Dead
 http://173.208.216.114:8082/live/twd/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/The_West_Wing_season_7_DVD.jpg" group-title="24/7",The West Wing
+http://173.208.216.114:8082/live/westwing/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4874.png" group-title="24/7",Tim and Eric
 http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
