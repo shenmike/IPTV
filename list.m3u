@@ -4355,6 +4355,9 @@ http://173.208.216.114:8082/live/twd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jpjam.files.wordpress.com/2013/09/the-west-wing.jpg" group-title="24/7",The West Wing
 http://173.208.216.114:8082/live/westwing/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fanart.tv/fanart/tv/79126/hdtvlogo/the-wire-534909478faad.png" group-title="24/7",The Wire
+http://173.208.216.114:8082/live/thewire/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4874.png" group-title="24/7",Tim and Eric
 http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
 
