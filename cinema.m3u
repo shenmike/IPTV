@@ -2683,19 +2683,55 @@ https://archive.org/download/WrongTurn1/Wrong%20Turn%201%202003.mp4
 http://www.deadlyblogger.com/NewRelease/xmen2.mp4
 
 #EXTINF:-1 tvg-logo="https://weallscreen.files.wordpress.com/2012/08/28-days-later.jpg" group-title="MOVIES",28 Days Later (2002)
+http://www.deadlyblogger.com/NewRelease/28days.mp4
+
+#EXTINF:-1 tvg-logo="https://weallscreen.files.wordpress.com/2012/08/28-days-later.jpg" group-title="MOVIES",28 Days Later (2002)*
 http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Days%20Later%20%282002%29/28%20Days%20Later%20%282002%29%20%281%29.mkv
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/die-another-day-james-bond-007.19680.jpg" group-title="MOVIES",Die Another Day (2002)
 https://archive.org/download/Kiks.PkJamesBondLiveAndLetDie19731080pBRripX264/[Kiks.Pk]%20-%20James%20Bond%20-%20Die%20Another%20Day%20(2002).mp4
 
+#EXTINF:-1 tvg-logo="https://badmoviemarathon.files.wordpress.com/2014/12/blade-ii.jpg" group-title="MOVIES",Blade II (2002)
+http://www.deadlyblogger.com/NewRelease/blade2.mp4
+
+#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/friday-after-next-2002/large_ijDBXWelVp6fGFbmiVhazT5uxP0.jpg" group-title="MOVIES",Friday After Next (2002)
+http://www.deadlyblogger.com/NewRelease/friday3.mp4
+
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/harry-potter-and-the-chamber-of-secrets-2002/large_lryNn7sNkvQIg45KwgeKnMxSSRX.jpg" group-title="MOVIES",Harry Potter and the Chamber of Secrets (2002)
 https://archive.org/download/Harry.Potter.The.Ultimate.Collection.Pack.20012011.1080p.BluRay.MultiSubs.REMUXKRaLiMaRKorarbg.to/Harry%20Potter%202/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%202002%20Ultimate%20Extended%20Edition%201080p%20Blu-ray%20Multisub%20Remux%20VC-1%20DTS-HD%20MA%205.1%20-%20KRaLiMaRKo.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Home_alone_4_tv_print_ad.jpg" group-title="MOVIES",Home Alone 4 (2002)
+http://www.deadlyblogger.com/NewRelease/homealone4.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3d/Men_in_Black_II_Poster.jpg" group-title="MOVIES",Men in Black II (2002)
+http://www.deadlyblogger.com/NewRelease/mnb2.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Paidinfullposter.jpg/220px-Paidinfullposter.jpg" group-title="MOVIES",Paid in Full (2002)
+http://www.deadlyblogger.com/NewRelease/paidin.mp4
+
+#EXTINF:-1 tvg-logo="http://images3.static-bluray.com/products/20/29825_1_front.jpg" group-title="MOVIES",Shottas (2002)
+http://www.deadlyblogger.com/NewRelease/shottas.mp4
+
+#EXTINF:-1 tvg-logo="https://www.movieposter.com/posters/archive/main/7/MPW-3507" group-title="MOVIES",Star Wars: Episode II - Attack of the Clones (2002)
+http://www.deadlyblogger.com/NewRelease/starwars2.mp4
+
+#EXTINF:-1 tvg-logo="http://images4.static-bluray.com/products/20/28232_1_large.jpg" group-title="MOVIES",Tarzan & Jane (2002)
+http://www.deadlyblogger.com/NewRelease/tarzanjane.mp4
 
 #EXTINF:-1 tvg-logo="http://www.moviesandgamesonline.co.uk/images/T/5055201817372.jpg" group-title="MOVIES",The Adventures of Tom Thumb and Thumbelina (2002)
 https://archive.org/download/TheAdventuresOfTomThumbThumbelina/The%20Adventures%20Of%20Tom%20Thumb%20&%20Thumbelina.mp4
 
+#EXTINF:-1 tvg-logo="https://www.movieposter.com/posters/archive/main/106/MPW-53157" group-title="MOVIES",The Bourne Identity (2002)
+http://www.deadlyblogger.com/NewRelease/bourne1.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Lord_of_the_Rings_-_The_Two_Towers.jpg" group-title="MOVIES",The Lord of the Rings: The Two Towers (2002)
+http://www.deadlyblogger.com/NewRelease/twotowers.mp4
+
 #EXTINF:-1 tvg-logo="http://media.hollywood.com/images/701x1000/7500120.jpg" group-title="MOVIES",The Powerpuff Girls Movie (2002)
 https://archive.org/download/PowerpuffGirlsMovie/The%20Powerpuff%20Girls%20Movie.mp4
+
+#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/ali-2001/large_gCGoMZXGdU7DY8xgKYle6dJGksT.jpg" group-title="MOVIES",Ali (2001)
+http://www.deadlyblogger.com/NewRelease/ali1.mp4
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-zQka0TwnlmY/WAH74UKk4bI/AAAAAAAAsZ8/Qas_yAgLpY4zcnsf2jqxsiABIII-Oq9YQCHM/s0/47.jpg" group-title="MOVIES",Bears (2001)
 https://archive.org/download/Bears.2001.1080p.BluRay.x264/Bears.2001.1080p.BluRay.x264.mp4
@@ -2706,8 +2742,17 @@ http://dl.movieo.ir/dlha/files/2001/Ghosts.of.Mars.2001.720p_(wWw.Movieo.IR).mkv
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/harry-potter-and-the-sorcerers-stone-2001/large_uLGaJ9FgPWf7EUgwjp9RTmHemw8.jpg" group-title="MOVIES",Harry Potter and the Sorcerer's Stone (2001)
 https://archive.org/download/Harry.Potter.The.Ultimate.Collection.Pack.20012011.1080p.BluRay.MultiSubs.REMUXKRaLiMaRKorarbg.to/Harry%20Potter%201/Harry%20Potter%20and%20the%20Sorcerer%27s%20Stone%202001%20Ultimate%20Extended%20Edition%201080p%20Blu-ray%20Multisub%20Remux%20VC-1%20DTS-HD%20MA%205.1%20-%20KRaLiMaRKo.mp4
 
+#EXTINF:-1 tvg-logo="http://movieboozer.com/wp-content/uploads/2011/12/jayandsilentbobposter.jpg" group-title="MOVIES",Jay and Silent Bob Strike Back (2001)
+http://www.deadlyblogger.com/NewRelease/strikeback.mp4
+
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/jurassic-park-iii.23839.jpg" group-title="MOVIES",Jurassic Park III (2001)
 https://archive.org/download/2.JurassicParkII1997/3.JurassicParkIii-2001.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Mickey%27s_Magical_Christmas.jpg" group-title="MOVIES",Mickey's Magical Christmas: Snowed in at the House of Mouse (2001)
+http://www.deadlyblogger.com/NewRelease/mmagicalchristmas.mp4
+
+#EXTINF:-1 tvg-logo="http://media.sinematurk.com/film/b/66/6bbe09e0b0bf/16542_1.jpg" group-title="MOVIES",Training Day (2001)
+http://www.deadlyblogger.com/NewRelease/training.mp4
 
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/original-sin-2001/large_i8FEQy5IWAqOzXm4uDHy2r3Swym.jpg" group-title="MOVIES",Original Sin (2001)
 http://dl5.nightsdl.com/Masih/Film/2001/Original.Sin.2001.720p.Ganool-%5BNightsdl.Com%5D.mkv
@@ -2715,8 +2760,26 @@ http://dl5.nightsdl.com/Masih/Film/2001/Original.Sin.2001.720p.Ganool-%5BNightsd
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/pearl-harbor-2001/large_tt7SGLAp4Du2PqxaFVNrHNLob9s.jpg" group-title="MOVIES",Pearl Harbor (2001)
 http://dl.movieo.ir/dlha/files/2001/Pearl.Harbor.2001.720p_(wWw.Movieo.IR).mkv.mp4
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Planet_of_the_Apes_%282001%29_poster.jpg/220px-Planet_of_the_Apes_%282001%29_poster.jpg" group-title="MOVIES",Planet of the Apes (2001)
+http://www.deadlyblogger.com/NewRelease/apes6.mp4
+
+#EXTINF:-1 tvg-logo="http://i1.sell.com/u/7B/4T/11925511-l.jpg" group-title="MOVIES",Pootie Tang (2001)
+http://www.deadlyblogger.com/NewRelease/pootie.mp4
+
 #EXTINF:-1 tvg-logo="http://www.impdb.org/images/f/f3/AAAprince-charming.jpg" group-title="MOVIES",Prince Charming (2001)
 https://archive.org/download/PrinceCharming2001/Prince%20Charming%202001.mp4
+
+#EXTINF:-1 tvg-logo="https://iscfc.files.wordpress.com/2013/02/return.png" group-title="MOVIES",Return to Cabin by the Lake (2001)
+http://www.deadlyblogger.com/NewRelease/cabin2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/krYBVdp.jpg" group-title="MOVIES",The Animal (2001)
+http://www.deadlyblogger.com/NewRelease/animal.mp4
+
+#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/the-fast-and-the-furious-2001/large_3cucyEuLOOjjJ8nem5facsTEy68.jpg" group-title="MOVIES",The Fast and the Furious (2001)
+http://www.deadlyblogger.com/NewRelease/fast1.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_%282001%29_theatrical_poster.jpg" group-title="MOVIES",The Lord of the Rings: The Fellowship of the Ring (2001)
+http://www.deadlyblogger.com/NewRelease/fellowship1.mp4
 
 #EXTINF:-1 tvg-logo="https://thatwasabitmental.files.wordpress.com/2011/01/battleroyaleposter.jpg" group-title="MOVIES",Battle Royale (2000) [EN-Subs]
 https://archive.org/download/01BattleRoyaleSpecialEdition/01%20-%20Battle%20Royale%20-%20Special%20Edition.mp4
