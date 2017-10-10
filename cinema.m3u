@@ -2562,6 +2562,9 @@ http://www.deadlyblogger.com/NewRelease/irobot.mp4
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/christmasspecials/images/e/e1/Karroll%27s_Christmas.jpg" group-title="MOVIES",Karroll's Christmas (2004)
 https://archive.org/download/KarrollsChristmasfullMovie/Karroll's%20Christmas%20(full%20movie).mp4
 
+#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/kicking-and-screaming-2005/large_3QHPcpznlNoREFpsVACC5c0thRg.jpg" group-title="MOVIES",Kicking & Screaming (2005)
+http://www.deadlyblogger.com/NewRelease/kicking.mp4
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Kill_bill_vol_two_ver.jpg" group-title="MOVIES",Kill Bill - Vol. 2 (2004)
 https://archive.org/download/KillBill2_201706/Kill%20Bill%202.mp4
 
@@ -3020,9 +3023,6 @@ http://www.deadlyblogger.com/NewRelease/Jumanji1.mp4
 
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/jumanji-1995/large_vzmL6fP7aPKNKPRTFnZmiUfciyV.jpg" group-title="MOVIES",Jumanji (1995)*
 https://archive.org/download/Jumanji.1995.720p.BrRip.x264.YIFY/Jumanji.1995.720p.BrRip.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XLxs5PRWQJ4/movieposter.jpg" group-title="MOVIES",Kicking and Screaming (1995)
-http://www.deadlyblogger.com/NewRelease/kicking.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-ZMN8jKY070/movieposter.jpg" group-title="MOVIES",New Jersey Drive (1995)
 http://www.deadlyblogger.com/NewRelease/jerseydrive95.mp4
