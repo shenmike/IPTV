@@ -9438,36 +9438,3 @@ https://archive.org/download/little-lulu/025.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eWXKfYt.png" group-title="LITTLE LULU [AR]",Little Lulu (Arabic) - Mom's Birthday (1977)
 https://archive.org/download/little-lulu/026.mp4
-
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/settings-3-icon.png" group-title="LABEL",> Server Test
-http://149.56.23.7:20082/stream
-
-#EXTINF:-1 tvg-logo="https://maxcdn.icons8.com/Share/icon/Network//server1600.png" group-title="Z-SERVERS",Server 01 - Movieo
-http://dl.movieo.ir/dlha/files/Dragon.Blade.2015.720p.BluRay_(wWw.Movieo.IR).mkv
-
-#EXTINF:-1 tvg-logo="https://maxcdn.icons8.com/Share/icon/Network//server1600.png" group-title="Z-SERVERS",Server 02 - Archive
-https://archive.org/download/PAESESSpiritedAway2001HDTV1080pHi10AAC/[PAESES]%20Spirited%20Away%202001%20(HDTV%201080p%20Hi10%20AAC).mp4
-
-#EXTINF:-1 tvg-logo="https://maxcdn.icons8.com/Share/icon/Network//server1600.png" group-title="Z-SERVERS",Server 03 - Cinevall ES
-http://www.cinevall.es/videos/trolls.m4v
-
-#EXTINF:-1 tvg-logo="https://maxcdn.icons8.com/Share/icon/Network//server1600.png" group-title="Z-SERVERS",Server 04 - Hasti
-http://dl.hastimovie.net/films/Ex.Machina.2015.720p.Farsi.Dubbed.%28HastiMovie.Ir%29.mkv
-
-#EXTINF:-1 tvg-logo="https://maxcdn.icons8.com/Share/icon/Network//server1600.png" group-title="Z-SERVERS",Server 05 - MyFilm
-http://dl.my-film.in/s1/Movie/Baywatch.2017/Baywatch.2017.UNRATED.720p.MkvCage-[My-Film].mkv
-
-#EXTINF:-1 tvg-logo="https://maxcdn.icons8.com/Share/icon/Network//server1600.png" group-title="Z-SERVERS",Server 06 - Bia4Music
-http://media.bia4music.com/movie/2017/Film/8/Security_2017_720p_Farsi_Dubbed.mkv
-
-#EXTINF:-1 tvg-logo="https://maxcdn.icons8.com/Share/icon/Network//server1600.png" group-title="Z-SERVERS",Server 07 - Downloado
-http://dl2.downloado.site/dl2/Movie/The.Girl.Next.Door.2004.720p.Ganool.mkv
-
-#EXTINF:-1 tvg-logo="https://maxcdn.icons8.com/Share/icon/Network//server1600.png" group-title="Z-SERVERS",Server 08 - NightsDL
-http://dl5.nightsdl.com/Masih/Film/2001/Original.Sin.2001.720p.Ganool-%5BNightsdl.Com%5D.mkv
-
-#EXTINF:-1 tvg-logo="https://maxcdn.icons8.com/Share/icon/Network//server1600.png" group-title="Z-SERVERS",Server 09 - Crackle
-http://media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4
-
-#EXTINF:-1 tvg-logo="https://maxcdn.icons8.com/Share/icon/Network//server1600.png" group-title="Z-SERVERS",Server 10 - Cinevall
-http://www.cinevall.com/videos/transformers_5.m4v
