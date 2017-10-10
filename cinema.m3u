@@ -2391,12 +2391,6 @@ https://archive.org/download/BlackEagle1988FullMovieEnglishJeanClaudeVanDamme/Bl
 #EXTINF:-1 tvg-logo="https://secure.netflix.com/us/boxshots/ghd/70120998.jpg" group-title="MOVIES",Daffy Duck's Quackbusters (1988)
 https://archive.org/download/Bugs_Bunny_Collection/Daffy%20Duck%27s%20Quackbusters%20(1988)%20BG%20-%20[arsenaloyal].mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Dirty_Dancing.jpg" group-title="MOVIES",Dirty Dancing (1987)
-https://ia601505.us.archive.org/10/items/19700000000003.mkv/19700000000003.mkv.mp4
-
-#EXTINF:-1 tvg-logo="http://images.moviepostershop.com/escape-from-sobibor-tv-movie-poster-1987-1020469008.jpg" group-title="MOVIES",Escape From Sobibor (1987)
-https://archive.org/download/Escape_From_Sobibor.avi/Escape_from_Sobibor_512kb.mp4
-
 #EXTINF:-1 tvg-logo="https://misantropey.files.wordpress.com/2015/09/fridaypartseven.jpeg" group-title="MOVIES",Friday the 13th Part VII - The New Blood (1988)
 http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VII%20-%20The%20New%20Blood%20%281988%29/Friday%20The%2013th%20Part%20Vii%20-%20The%20New%20Blood%20%281988%29%20%281%29.mkv
 
@@ -2408,6 +2402,12 @@ http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20St
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/21/67/39/21673981bf91d0d673b9db65ca63d9a1.jpg" group-title="MOVIES",Dirty Dancing (1987)
 http://www.deadlyblogger.com/NewRelease/dirtydancing1987.mp4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/21/67/39/21673981bf91d0d673b9db65ca63d9a1.jpg" group-title="MOVIES",Dirty Dancing (1987)*
+https://ia601505.us.archive.org/10/items/19700000000003.mkv/19700000000003.mkv.mp4
+
+#EXTINF:-1 tvg-logo="http://images.moviepostershop.com/escape-from-sobibor-tv-movie-poster-1987-1020469008.jpg" group-title="MOVIES",Escape From Sobibor (1987)
+https://archive.org/download/Escape_From_Sobibor.avi/Escape_from_Sobibor_512kb.mp4
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/cobra_nero-284208881-large.jpg" group-title="MOVIES",The Black Cobra (1987)
 https://archive.org/download/BlackCobra_133/BlackCobra.mp4
