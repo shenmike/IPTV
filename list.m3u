@@ -396,8 +396,11 @@ http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XCBnJzR.png" group-title="UK",RT UK
 https://secure-streams.akamaized.net/rt-uk/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cartoonnetwork.com/static/images/global/ogLogo.png" group-title="UK",Cartoon Network
-http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1QVhpng.jpg" group-title="UK",Boomerang
+http://62.6.220.50:8000/play/a03p
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Eu_xd_games_portal_600x338_n(1).png" group-title="UK",Disney XD
+http://62.6.220.50:8000/play/a044
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uYEvE4q.png" group-title="UK",Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
@@ -2799,6 +2802,9 @@ http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-on.ru/images/tv/hardlife-tv.jpg" group-title="RUSSIA",HardLife TV
 http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hdmedia.ru/common/resources/images/logo_hdmedia3d.png" group-title="RUSSIA",HD Media 3D [Stereo-3D]
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-u2TYQLBkvZY/AAAAAAAAAAI/AAAAAAAAAAA/JI4QO9JE1kA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="RUSSIA",ID Fashion (English)
 http://95.67.8.22/hls/idfashion/index.m3u8
 
@@ -3498,26 +3504,29 @@ http://stream.jeem.tv/geo/geotezz/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Iran-01.png" group-title="LABEL",~ Iran TV ~
 http://www.lengua.com/anthems/Iran.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiofarda.com/Content/responsive/RFE/fa-IR/img/logo.png" group-title="IRAN",Radio Farda
-http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/8215.png" group-title="IRAN",BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.ipetitions.com/user-images/petitions/objection-to-voa-persian/loz0oZbiRuWlx5csWgCR_VOA_FARSI_LIVESTATION-1.png" group-title="IRAN",VoA
-http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-ARhwtuRp59g/AAAAAAAAAAI/AAAAAAAAAAA/uAFQDPSvAA4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="IRAN",Mihan TV
-http://watch.mihantv.com/mihantvlive.isml/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.sndcdn.com/avatars-000204049469-zgdijy-t500x500.jpg" group-title="IRAN",Manoto
-https://manotolive-i.akamaihd.net/hls/live/251779/livexhq/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2203.png" group-title="IRAN",Gem TV (USA)
+http://63.237.48.3/ios/GEM_USA/GEM_USA.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="IRAN",iFilm
 http://efusion1-i.akamaihd.net/hls/live/252882/ifilmfa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live-irib.com/wp-content/uploads/2014/11/IFILMARABIC-150x150.png" group-title="IRAN",iFilm (Arabic)
 http://178.32.255.199:1935/live/ifilmar/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.sndcdn.com/avatars-000204049469-zgdijy-t500x500.jpg" group-title="IRAN",Manoto
+https://manotolive-i.akamaihd.net/hls/live/251779/livexhq/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-ARhwtuRp59g/AAAAAAAAAAI/AAAAAAAAAAA/uAFQDPSvAA4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="IRAN",Mihan TV
+http://watch.mihantv.com/mihantvlive.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiofarda.com/Content/responsive/RFE/fa-IR/img/logo.png" group-title="IRAN",Radio Farda
+http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.ipetitions.com/user-images/petitions/objection-to-voa-persian/loz0oZbiRuWlx5csWgCR_VOA_FARSI_LIVESTATION-1.png" group-title="IRAN",VoA
+http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://academics.smcvt.edu/llrc/images/flag_buttons/arab_league.png" group-title="LABEL",~ Arabic News ~
 http://192.99.35.215:5109/stream
