@@ -3675,12 +3675,6 @@ http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/master.m3u8
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.arabe-media.com/tv/img315.png" group-title="UAE",Dubai One
-http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.arabe-media.com/tv/img315.png" group-title="UAE",Dubai One*
-http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.arabe-media.com/tv/img315.png" group-title="UAE",Dubai One**
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/3229653/logo_dubai%20zaman.png" group-title="UAE",Dubai Zaman
@@ -3718,9 +3712,6 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="UAE",National Geographic
 http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://akamai.dittotv.vidz.zeecdn.com/secure/draco/Shows/Dittotv-new-logos/ZeeAflam300x248.jpg" group-title="UAE",Zee Aflam (Hindi)
-http://hls.alwhdat.net/ios/zee_aflam_t.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
