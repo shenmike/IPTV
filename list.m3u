@@ -4319,6 +4319,9 @@ http://173.208.216.114:8082/live/fringe/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blog.cyrildason.com/wp-content/uploads/2016/11/House-MD.png" group-title="24/7",House M.D.
 http://173.208.216.114:8082/live/house/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/House_of_Cards_title_card.png" group-title="24/7",House of Cards
+http://173.208.216.114:8082/live/houseofcards/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.wbkidsgo.com/portals/4/Images/Content/Properties/Looney%20Tunes/show-logo-looneyTunes.png?ver=2015-12-03-184959-977" group-title="24/7",Looney Tunes
 http://173.208.216.114:8082/live/looney/chunks.m3u8
 
