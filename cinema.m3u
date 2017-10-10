@@ -2772,7 +2772,13 @@ http://www.deadlyblogger.com/NewRelease/cabin2.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krYBVdp.jpg" group-title="MOVIES",The Animal (2001)
 http://www.deadlyblogger.com/NewRelease/animal.mp4
 
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/the-fast-and-the-furious-2001/large_3cucyEuLOOjjJ8nem5facsTEy68.jpg" group-title="MOVIES",The Fast and the Furious (2001)
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/the-deep-end.23590.jpg" group-title="MOVIES",The Deep End (2001)
+http://dl.movieo.ir/dlha/files/2001/The.Deep.End.2001.720p_(wWw.Movieo.IR).mkv.mp4
+
+#EXTINF:-1 tvg-logo="https://juicyreviewz.files.wordpress.com/2014/06/the-fast-and-the-furious-2001-film-poster-hd-vin-diesel-paul-walker-michelle-rodriguez.jpg" group-title="MOVIES",The Fast and the Furious (2001)
+http://dl.movieo.ir/dlha/files/Fast%20and%20Furious/Fast.1.720p.mkv
+
+#EXTINF:-1 tvg-logo="https://juicyreviewz.files.wordpress.com/2014/06/the-fast-and-the-furious-2001-film-poster-hd-vin-diesel-paul-walker-michelle-rodriguez.jpg" group-title="MOVIES",The Fast and the Furious (2001)*
 http://www.deadlyblogger.com/NewRelease/fast1.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_%282001%29_theatrical_poster.jpg" group-title="MOVIES",The Lord of the Rings: The Fellowship of the Ring (2001)
@@ -2789,12 +2795,6 @@ https://archive.org/download/MenOfHonor20001080pX264ItaEnSciencefunMux/Men%20of%
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/ShanghaiNoon_Poster.jpg/220px-ShanghaiNoon_Poster.jpg" group-title="MOVIES",Shanghai Noon (2000)
 https://archive.org/download/JackieChansShanghaiNoon2000EnglishFullMovie2013/Jackie%20Chan%27s%20Shanghai%20Noon%202000%20English%20-%20Full%20Movie%202013.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/the-deep-end.23590.jpg" group-title="MOVIES",The Deep End (2001)
-http://dl.movieo.ir/dlha/files/2001/The.Deep.End.2001.720p_(wWw.Movieo.IR).mkv.mp4
-
-#EXTINF:-1 tvg-logo="https://juicyreviewz.files.wordpress.com/2014/06/the-fast-and-the-furious-2001-film-poster-hd-vin-diesel-paul-walker-michelle-rodriguez.jpg" group-title="MOVIES",The Fast and the Furious (2001)
-http://dl.movieo.ir/dlha/files/Fast%20and%20Furious/Fast.1.720p.mkv
 
 #EXTINF:-1 tvg-logo="http://images.turkcedublajfilmindir.net/images/915MV5BMjE5MTEwODEyN15BMl.jpg" group-title="MOVIES",Final Destination (2000)
 http://dl.movieo.ir/dlha/files/Final%20Destination%201%2C%202%2C%203%2C%204%2C%205%20-%20Pentalogy%20_(wWw.Movieo.IR)/01%20Final%20Destination%20_(wWw.Movieo.IR).mp4
