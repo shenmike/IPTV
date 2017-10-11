@@ -3615,6 +3615,9 @@ http://users.atw.hu/szbszig/palestine.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.idfblog.com/hamas/files/2012/01/Al-Aqsa-TV.png" group-title="PALESTINE",Al Aqsa
 http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/al_quds_tv_palestine_channel_live_online_free_arabic_channel.JPG" group-title="PALESTINE",Al Quds TV
+http://www.qudstv.com:8134/hls-live/livepkgr1/_definst_/liveevent/livestream.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Iraq-01.png" group-title="LABEL",~ Iraq TV ~
 http://www.lengua.com/anthems/Iraq.mp3
 
