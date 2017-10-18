@@ -642,6 +642,9 @@ http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HCOqABQ.png" group-title="UK",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZBo8N7o.jpg" group-title="UK",MUTV
+http://tglmutvh-i.akamaihd.net/hls/live/514453/mutv_stb/01.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FSukyxY.png" group-title="UK",QVC 1
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
 
@@ -1749,6 +1752,12 @@ http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-QvLEg1hDXyQ/UJlHJfAq60I/AAAAAAAASgA/TtFfgHhsCBU/s1600/cuatro.jpg" group-title="SPAIN",Cuatro
 http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_2.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-QvLEg1hDXyQ/UJlHJfAq60I/AAAAAAAASgA/TtFfgHhsCBU/s1600/cuatro.jpg" group-title="SPAIN",Cuatro*
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-QvLEg1hDXyQ/UJlHJfAq60I/AAAAAAAASgA/TtFfgHhsCBU/s1600/cuatro.jpg" group-title="SPAIN",Cuatro HD
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/el-correo-de-andaluc-C3-ADa-tv-logo.png" group-title="SPAIN",El Correo TV
 http://cls.elitehd-audiovisuales.com:80/luztv/livestream/live.m3u8
 
@@ -1914,8 +1923,14 @@ http://cdnlive.shooowit.net/badalonatvlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.karpinabentura.com/images/Karpin/imagenes_web_karpin/medios_amigos/logo_tbilbao.jpg" group-title="SPAIN",TeleBilbao
 http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.20m.es/img2/recortes/2016/05/11/280771-644-351.jpg" group-title="SPAIN",Telecinco [Off]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.20m.es/img2/recortes/2016/05/11/280771-644-351.jpg" group-title="SPAIN",Telecinco
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.20m.es/img2/recortes/2016/05/11/280771-644-351.jpg" group-title="SPAIN",Telecinco HD
 http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.20m.es/img2/recortes/2016/05/11/280771-644-351.jpg" group-title="SPAIN",Telecinco HD*
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teleelx.es/eniusimg/enius2/2016/01/adj_569e704973b6d.jpg" group-title="SPAIN",TeleElx
 http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
@@ -3876,6 +3891,12 @@ http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.image-share.com/upload/3127/124.jpg" group-title="ARABIC NEWS",NRT
 http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nabiltv.com/wp-content/uploads/2016/07/image-1.png" group-title="ARABIC NEWS",RT Arabic
+http://secure-streams.akamaized.net/rt-arab/index1600.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nabiltv.com/wp-content/uploads/2016/07/image-1.png" group-title="ARABIC NEWS",RT Arabic HD
+http://secure-streams.akamaized.net/rt-arab/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.usycso.org/node/wp-content/uploads/2016/05/trt.jpg" group-title="ARABIC NEWS",TRT
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 
@@ -4070,6 +4091,9 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/qatar/flag-button-square-250.png" group-title="LABEL",~ Qatar TV ~
 http://www.lengua.com/anthems/Qatar.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qtv.qa/qtv/images/logo_top.png" group-title="QATAR",Qatar TV
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_287s30.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.watchallchannels.com/wp-content/uploads/2015/02/Aljazeera-arabic.jpg" group-title="QATAR",Al Jazeera
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
