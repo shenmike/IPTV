@@ -36,9 +36,6 @@ http://173.208.216.114:8082/live/cheers/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nbc.com/sites/nbcunbc/files/files/styles/640x360/public/images/2016/9/28/Chuck-AboutImage-1920x1080-KO.jpg" group-title="24/7",Chuck
 http://173.208.216.114:8082/live/chuck/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="24/7",Christmas Fireplace
-http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imthi.com/wp-content/uploads/2008/05/dexter.jpg" group-title="24/7",Dexter
 http://173.208.216.114:8082/live/dexter/chunks.m3u8
 
@@ -137,6 +134,9 @@ http://173.208.216.114:8082/live/twinpeak/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" group-title="24/7",Williams Stream
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="24/7",Xmas Fireplace
+http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="LABEL",~ Music Choice ~
 http://37.97.160.125:9128
