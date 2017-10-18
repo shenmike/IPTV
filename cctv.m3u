@@ -1,25 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hCBbSwn.png" group-title="LABEL",* Fluxus CCTV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hCBbSwn.png" group-title="INFO",* Fluxus CCTV
 http://audio4.broadcastify.com/il_chicago_police2.mp3
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="LABEL",+ Free CCTV Feeds
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free CCTV Feeds
 http://audio4.broadcastify.com/il_chicago_police2.mp3
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="LABEL",< Please Donate
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="INFO",< Please Donate
 http://audio4.broadcastify.com/il_chicago_police2.mp3
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Sep.05.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Oct.18.2017
 http://audio4.broadcastify.com/il_chicago_police2.mp3
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="LABEL",> Like Us!
+#EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",Christmas Fireplace [M3U8]
-http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",Fish Tank [M3U8]
-http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",Humane Rescue Alliance [M3U8]
+http://iphone-streaming.ustream.tv/uhls/13027422/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",Int'l Space Station 1 [M3U8]
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
