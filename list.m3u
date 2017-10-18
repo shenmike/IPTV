@@ -2655,7 +2655,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPR0008&mode=12
 #EXTINF:-1 tvg-logo="http://www.ffpic.com/files/2012/1231/png1225guoqi/ffpic13061228190539.png" group-title="LABEL",~ Guatemala TV ~
 http://www.lengua.com/anthems/Guatemala.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/3_de_guatemala_el_super_canal-mediano.png" group-title="GUATEMALA",Canal 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/3_de_guatemala_el_super_canal-mediano.png" group-title="GUATEMALA",Canal 3 [Geo]
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_3.smil/chunklist_b1155072.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG" group-title="GUATEMALA",Guatevision Canal 25
@@ -2664,13 +2664,13 @@ http://162.220.218.101:8081/live/stream2.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG" group-title="GUATEMALA",Guatevision Canal 25*
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIGT0009&mode=12
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/7_de_guatemala_televisiete-mediano.png" group-title="GUATEMALA",Televisiete
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/7_de_guatemala_televisiete-mediano.png" group-title="GUATEMALA",Televisiete [Geo]
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/chunklist_b1155072.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/tn23-mediano.png" group-title="GUATEMALA",TN23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/tn23-mediano.png" group-title="GUATEMALA",TN23 [Geo]
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_23.smil/chunklist_b1155072.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvusac.com/wp-content/uploads/2015/07/logo-usac.jpg" group-title="GUATEMALA",TV USAC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvusac.com/wp-content/uploads/2015/07/logo-usac.jpg" group-title="GUATEMALA",TV USAC [Off]
 http://d1g0f89e0nep2x.cloudfront.net/live/tv_usac/chunklist_w34199542.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/29c778_7ed6e418c0574ea38b1ff303f8a23041~mv2.png" group-title="LABEL",~ Panama TV ~
