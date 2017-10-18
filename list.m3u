@@ -2010,6 +2010,9 @@ http://antenatv.tk/no_usar_fuera_de_antenatv-74-2060049.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/CN7Zauh.png" group-title="LATINO",Boomerang
 http://antenatv.tk/no_usar_fuera_de_antenatv-51-2112629.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/PQHLH9S.png" group-title="LATINO",Canal Sony
+http://antenatv.tk/no_usar_fuera_de_antenatv-11-2236148.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/IcuLkZ0.png" group-title="LATINO",Cartoon Network
 http://antenatv.tk/no_usar_fuera_de_antenatv-16-2059781.m3u8
 
@@ -2057,9 +2060,6 @@ http://antenatv.tk/no_usar_fuera_de_antenatv-21-2034503.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="LATINO",National Geographic
 http://antenatv.tk/no_usar_fuera_de_antenatv-23-2060675.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/PQHLH9S.png" group-title="LATINO",Sony Channel
-http://antenatv.tk/no_usar_fuera_de_antenatv-11-2236148.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/QMgiNHs.png" group-title="LATINO",TCM
 http://antenatv.tk/no_usar_fuera_de_antenatv-57-2060605.m3u8
