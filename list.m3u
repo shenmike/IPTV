@@ -354,6 +354,9 @@ http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyP1fmt.png" group-title="USA",Comedy Central
 http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gyP1fmt.png" group-title="USA",Comedy Central*
+http://edge.hdca.st/live/comedycentral_4v37jmxq/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AwNQHqC.png" group-title="USA",The Country Network
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 
@@ -1764,6 +1767,9 @@ http://62.210.96.18:1935/esteponatv/esteponatv/chunklist_w1331861602.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-Grt64gpUA1w/UZH6VNoXDZI/AAAAAAAAXK4/aOHkzPorWAQ/s1600/etb-sat.png" group-title="SPAIN",ETB Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/YZlueRG.jpg" group-title="SPAIN",FDF
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/5vMGFjYjE6FW20QNvfFor1J8AiF0JAyp/cn/73742da67a5947919a8bb82035fa9224.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.catosfera.cat/2016/images/logos/tvgirona.jpg" group-title="SPAIN",Girona TV
 http://tvgirona.dnssw.net:1935/live/Icontouch/playlist.m3u8
 
@@ -2025,6 +2031,9 @@ http://antenatv.tk/no_usar_fuera_de_antenatv-85-2059644.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/nryw0Cb.png" group-title="LATINO",Discovery Channel
 http://antenatv.tk/no_usar_fuera_de_antenatv-19-2286418.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/1wfUftw.png" group-title="LATINO",Distrito Comedia
+http://antenatv.tk/no_usar_fuera_de_antenatv-168-2060596.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/tfJIh70.png" group-title="LATINO",Disney Channel
 http://antenatv.tk/no_usar_fuera_de_antenatv-20-1886803.m3u8
 
@@ -2132,6 +2141,9 @@ https://dl.dropboxusercontent.com/s/dh5k6plvgjwgbic/milenio.m3u8
 
 #EXTINF:-1 tvg-id="EfektoTV" tvg-name="EfektoTV" tvg-logo="https://i.imgur.com/y5vozsr.png" group-title="MEXICO",Efekto TV
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://is4.mzstatic.com/image/thumb/Purple122/v4/f0/da/85/f0da8533-115a-43ad-a1ec-730c1c018f91/source/175x175bb.jpg" group-title="MEXICO",UNO TV
+http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dJn881g.png" group-title="MEXICO",Noticias MVS
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
@@ -2398,7 +2410,13 @@ http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qAMAW1z.jpg" group-title="CHILE",Valparaiso Sporting Club
-http://tecnotv.xyz/media/sporting1
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qAMAW1z.jpg" group-title="CHILE",Valparaiso Sporting Club*
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qAMAW1z.jpg" group-title="CHILE",Valparaiso Sporting Club**
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalvtv.cl/web/wp-content/uploads/2015/08/canalvtv_transparente_ch.png" group-title="CHILE",VTV
 http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
