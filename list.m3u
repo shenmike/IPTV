@@ -3729,6 +3729,9 @@ http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.daynewsonline.com/wp-content/uploads/2017/01/sama-tv-live.jpg" group-title="SYRIA",Sama TV
 http://sama-tv.net:1935/live/samatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Syrian_News_Logo.png/220px-Syrian_News_Logo.png" group-title="SYRIA",Syria News
+http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://syrianfreepress.files.wordpress.com/2012/10/syrian-tv-logo.jpg" group-title="SYRIA",Syria TV
 http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
 
@@ -3746,6 +3749,9 @@ http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.semsem.tv/images/logo2.png" group-title="JORDAN",Semsem
 http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://toyoraljannah.tv/img/logo-1x.png" group-title="JORDAN",Toyor Al Jannah TV
+http://199.167.151.237:1935/live/sp15_47.stream/gmswf.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Palestine-01.png" group-title="LABEL",~ Palestine TV ~
 http://users.atw.hu/szbszig/palestine.mp3
