@@ -36,6 +36,9 @@ http://173.208.216.114:8082/live/cheers/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nbc.com/sites/nbcunbc/files/files/styles/640x360/public/images/2016/9/28/Chuck-AboutImage-1920x1080-KO.jpg" group-title="24/7",Chuck
 http://173.208.216.114:8082/live/chuck/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="24/7",Christmas Fireplace
+http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imthi.com/wp-content/uploads/2008/05/dexter.jpg" group-title="24/7",Dexter
 http://173.208.216.114:8082/live/dexter/chunks.m3u8
 
@@ -44,6 +47,9 @@ http://173.208.216.114:8082/live/empire/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Fireflyopeninglogo.JPG" group-title="24/7",Firefly
 http://173.208.216.114:8082/live/firefly/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="24/7",Fish Tank
+http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Freaks_and_Geeks.jpg" group-title="24/7",Freaks and Geeks
 http://173.208.216.114:8082/live/freaks/chunks.m3u8
