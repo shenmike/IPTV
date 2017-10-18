@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="INFO",< Please Donate
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Oct.12.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Oct.18.2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -33,11 +33,26 @@ http://173.208.216.114:8082/live/buffy/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Cheers_intro_logo.jpg" group-title="24/7",Cheers
 http://173.208.216.114:8082/live/cheers/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nbc.com/sites/nbcunbc/files/files/styles/640x360/public/images/2016/9/28/Chuck-AboutImage-1920x1080-KO.jpg" group-title="24/7",Chuck
+http://173.208.216.114:8082/live/chuck/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imthi.com/wp-content/uploads/2008/05/dexter.jpg" group-title="24/7",Dexter
+http://173.208.216.114:8082/live/dexter/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pacificnewscenter.com/wp-content/uploads/2015/03/06eb7df1ccb6d94b1399309f36fd548a.jpg" group-title="24/7",Empire
+http://173.208.216.114:8082/live/empire/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Fireflyopeninglogo.JPG" group-title="24/7",Firefly
 http://173.208.216.114:8082/live/firefly/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Freaks_and_Geeks.jpg" group-title="24/7",Freaks and Geeks
+http://173.208.216.114:8082/live/freaks/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://graphic-engine.swarthmore.edu/wp-content/uploads/2008/09/fringe_apple.jpg" group-title="24/7",Fringe
 http://173.208.216.114:8082/live/fringe/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn2us.denofgeek.com/sites/denofgeekus/files/heroes_1.jpg" group-title="24/7",Heroes
+http://173.208.216.114:8082/live/heroes/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blog.cyrildason.com/wp-content/uploads/2016/11/House-MD.png" group-title="24/7",House M.D.
 http://173.208.216.114:8082/live/house/chunks.m3u8
@@ -60,11 +75,17 @@ http://173.208.216.114:8082/live/newgirl/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4974.jpg" group-title="24/7",Off The Air
 http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Power_Opening_Title.jpg" group-title="24/7",Power
+http://173.208.216.114:8082/live/power/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="24/7",Rick and Morty
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Saved_by_the_Bell_logo.png" group-title="24/7",Saved by the Bell
 http://173.208.216.114:8082/live/sbtb/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/d6/8c/dd/d68cdd473f7a56f574b7514e24fbc1ce.jpg" group-title="24/7",Squidbillies
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Steven_Universe_logo.svg/1200px-Steven_Universe_logo.svg.png" group-title="24/7",Steven Universe
 https://live.ponies.fr/hls/sug-hd/sug.m3u8
@@ -72,11 +93,17 @@ https://live.ponies.fr/hls/sug-hd/sug.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/scenome.com/wp-content/uploads/2015/05/Suits.jpeg" group-title="24/7",Suits
 http://173.208.216.114:8082/live/suits/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Teen_Wolf_Intertitle.png" group-title="24/7",Teen Wolf
+http://173.208.216.114:8082/live/teenwolf/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png" group-title="24/7",The Eric Andre Show
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.wbkidsgo.com/portals/4/Images/Content/Properties/The%20Flintstones/character-logo-flintstones.png?ver=2016-01-17-155623-623" group-title="24/7",The Flintstones
 http://173.208.216.114:8082/live/flintstones/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.zap2it.com/assets/p186597_b_h3_ad/the-mentalist.jpg" group-title="24/7",The Mentalist
+http://173.208.216.114:8082/live/mentalist/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette3.wikia.nocookie.net/nickelodeon/images/f/f9/The-ren-and-stimpy-show-4f281fc000ecc.png" group-title="24/7",The Ren & Stimpy Show
 http://173.208.216.114:8082/live/ren/playlist.m3u8
@@ -99,11 +126,17 @@ http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wallpaper.pickywallpapers.com/1600x1200/tom-and-jerry.jpg" group-title="24/7",Tom and Jerry
 http://173.208.216.114:8082/live/tomnjerry/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/TwinPeaks_openingshotcredits.jpg" group-title="24/7",Twin Peaks
+http://173.208.216.114:8082/live/twinpeak/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" group-title="24/7",Williams Stream
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="LABEL",~ Music Choice ~
 http://37.97.160.125:9128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Sounds of the Seasons [Audio Only]
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-158/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOkrgKs.png" group-title="MUSIC CHOICE",Play
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
@@ -617,6 +650,9 @@ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_inde
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FSukyxY.png" group-title="UK",QVC 4
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/831129516168863744/gYIoz_Ok.jpg" group-title="UK",At the Races
+http://51.15.5.246:3135/AtRac/1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YPjTwox.png" group-title="UK",BT Sport ESPN
 http://185.53.163.205:2507
