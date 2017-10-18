@@ -2001,10 +2001,10 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OFvdVlA.png" group-title="LATINO",RT
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Edteuws.png" group-title="LATINO",Latin American Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Edteuws.png" group-title="LATINO",Latin American Sports [Off]
 http://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wpRdk4r.png" group-title="LATINO",PX Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wpRdk4r.png" group-title="LATINO",PX Sports [Off]
 https://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/DuCtwwG.png" group-title="LATINO",AMC
@@ -2094,10 +2094,10 @@ http://stream.dominicanyork.tv:1935/dominicanyorktv/DMYTV/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lnRYeBB.png" group-title="LATINO",HispanTV
 http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zBt9gkX.png" group-title="LATINO",Hola TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zBt9gkX.png" group-title="LATINO",Hola TV [Off]
 http://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ssLTUMT.png" group-title="LATINO",Latin Angels
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ssLTUMT.png" group-title="LATINO",Latin Angels [Off]
 http://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xsxgroC.png" group-title="LATINO",La Mega Mundial
@@ -2109,7 +2109,7 @@ http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PPdw3VR.png" group-title="LATINO",Ready HD
 http://ss6.domint.net:2016/rtv_str/readytv/chunklist_w1642827167.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nSgReLY.png" group-title="LATINO",Show Business TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nSgReLY.png" group-title="LATINO",Show Business TV [Off]
 http://vivoplay-i.akamaihd.net/hls/live/255331/canal2/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tHGr6ns.png" group-title="LATINO",Telemusica
@@ -2118,7 +2118,7 @@ http://186.155.200.118:1935/live/telemusica/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VICta82.png" group-title="LATINO",TV Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fg3ZC2G.png" group-title="LATINO",TV Quisqueya
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fg3ZC2G.png" group-title="LATINO",TV Quisqueya [Off]
 http://vivoplay-i.akamaihd.net/hls/live/255341/canal4/master2500k.m3u8
 
 #EXTINF:-1 tvg-logo="http://topqmedoc.com/wp-content/uploads/2014/11/Mexico-01.png" group-title="LABEL",~ Mexico TV ~
@@ -2157,13 +2157,13 @@ http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO",Azteca Mas
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MSo5Av2.png" group-title="MEXICO",Azteca Cinema
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MSo5Av2.png" group-title="MEXICO",Azteca Cinema [Off]
 http://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master2500k.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GOzfJjl.png" group-title="MEXICO",Azteca Corazon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GOzfJjl.png" group-title="MEXICO",Azteca Corazon [Off]
 http://vivoplay-i.akamaihd.net/hls/live/255340/canal10/master2500k.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2j5zNPb.png" group-title="MEXICO",Azteca Clic!
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2j5zNPb.png" group-title="MEXICO",Azteca Clic! [Off]
 http://vivoplay-i.akamaihd.net/hls/live/255339/canal10/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AlG8pAu.png" group-title="MEXICO",Canal Once
@@ -2313,7 +2313,7 @@ http://painel.serveron.com.br:1935/8166/8166/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uDE1Kk0.png" group-title="ARGENTINA",Tec TV
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xvoVNnr.png" group-title="ARGENTINA",Telefe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xvoVNnr.png" group-title="ARGENTINA",Telefe [Off]
 http://vivoplay-i.akamaihd.net/hls/live/261555/canal1/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2cprJRx.png" group-title="ARGENTINA",Telemax
@@ -2322,7 +2322,7 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jsnI65B.png" group-title="ARGENTINA",Telpin Teve Pinamar
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k5NdBOd.png" group-title="ARGENTINA",TyC Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k5NdBOd.png" group-title="ARGENTINA",TyC Sports [Off]
 http://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/xFuTgwhzTX.png" group-title="ARGENTINA",Vorterix Rock
@@ -2334,29 +2334,17 @@ rtsp://r20057.smi.vmf.edge-apps.net:1935/magma-apps/vorterix_video1
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/cl.png" group-title="LABEL",~ Chile TV ~
 http://www.lengua.com/anthems/Chile.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ulango.tv/uploads/channels/97/aricatv.jpg" group-title="CHILE",Arica TV [Off]
-http://wow1.dallas.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/SEHGh7w.png" group-title="CHILE",Aysen TV [Off]
-http://v1.streaminglatinoamerica.com:1935/aysentv/aysentv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Bio-Bio-TV.png" group-title="CHILE",Bio Bio TV Canal 9
 http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000501616172/717a0933db1da1509889629ea43d2811_400x400.jpeg" group-title="CHILE",Canal 2
 http://video.crearchile.com:8080/live/canal2.mp4/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com/images/reydddd/cdtv-cl.jpg" group-title="CHILE",Camara de Diputados TV [Off]
-http://origin.camara.ztreaming.com:1935/origincamara8/streamcam8.sdp/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KcQ4mOg.png" group-title="CHILE",Canal 13
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.carolina.cl/carolina-tv/img/ogimage.png" group-title="CHILE",Carolina TV
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_8435_2_3505.png" group-title="CHILE",CDF Premium [Off]
-http://edga9.vergol.pw/live/cdf/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-65e5oTcogNE/Vx7Uf4GBd_I/AAAAAAAB0Wk/Sgz8L_ZHAs0yFMM1H8XQhD7QOYyEZp_hACLcB/s1600/Cnn_cl.jpg" group-title="CHILE",CNN [Off]
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalcarnaval.cl/wp-content/uploads/2016/04/logo38sombra-slide.png" group-title="CHILE",Canal Carnaval 38
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
@@ -2364,14 +2352,17 @@ http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/pl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fmhot.cl/wp-content/uploads/2014/08/logo1.png" group-title="CHILE",FM Hot
 http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/Logo_futuro.gif" group-title="CHILE",Futuro 88.9
+http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.itvpatagonia.com/joomla/images/FotosArticulos/Itv.png" group-title="CHILE",ITV
 http://movilstream.digitalproserver.com/itv/itvvivo/mp4:livestream1/chunklist_w204765687.m3u8
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/xBgH1Tw.jpg" group-title="CHILE",Maxima TV
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-YEjIIj8xuXo/WCsRZwvXK_I/AAAAAAAAnC4/C1Rdee9JTR4c25aDx20a-0BDqVtsl7NjwCLcB/s300/megatv-megavision-chile.png" group-title="CHILE",Mega [Off]
-http://edge-10-ak.mdstrm.com/i/mediastream01_hls@119683/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-YEjIIj8xuXo/WCsRZwvXK_I/AAAAAAAAnC4/C1Rdee9JTR4c25aDx20a-0BDqVtsl7NjwCLcB/s300/megatv-megavision-chile.png" group-title="CHILE",Mega [Geo]
+http://mdstrm.com/live-stream-playlist_1500/53d2c1a32640614e62a0e000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BITLZHE.png" group-title="CHILE",Niu TV
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
@@ -2385,23 +2376,17 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_source/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://portalfoxmix.club/wp-content/uploads/2016/07/logoPFM.png" group-title="CHILE",Portal Foxmix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vivotvhd.com/img/cha/1560.gif" group-title="CHILE",Radio Genial [Off]
-http://v1.tustreaming.cl:1935/genialtv/genialtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/aslyRHq.png" group-title="CHILE",T13 [Off]
-http://cdn.ztreaming.com/t13vivo3/desktop.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png" group-title="CHILE",TV Chile [Off]
+http://vivoplay-i.akamaihd.net/hls/live/255329/canal8/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://estaticos.tvn.cl/skins/tvnkids/201611211350/gfx/redes-sociales.png" group-title="CHILE",TVN Kids
 http://cl-a3-p-e-oi1.cdn.mdstrm.com/live-stream/591f607e06b52d200a6066ea/playout/master.m3u8?es=cl-a3-p-e-oi1.cdn.mdstrm.com&ote=1504726523211&ot=3K9hbeMjQIQ3aUB2PDAtqA&proto=http
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png" group-title="CHILE",TV Chile [Off]
-http://vivoplay-i.akamaihd.net/hls/live/255329/canal8/master2500k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Canal_13_Chile_%282005-2010%29.svg/120px-Canal_13_Chile_%282005-2010%29.svg.png" group-title="CHILE",UC13
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ASr9Vkf.png" group-title="CHILE",TV Red [Off]
-http://69.164.193.177:1935/live/myStream/chunklist_w561342168.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uestv.cl/sites/all/themes/uestv/images/logo.png" group-title="CHILE",UESTV [Off]
-http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Canal_13_Chile_%282005-2010%29.svg/120px-Canal_13_Chile_%282005-2010%29.svg.png" group-title="CHILE",UC13*
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.novasur.cl/sites/default/files/web_umag_tv.png" group-title="CHILE", UMAG TV
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
@@ -2418,11 +2403,32 @@ http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalvtv.cl/web/wp-content/uploads/2015/08/canalvtv_transparente_ch.png" group-title="CHILE",VTV
 http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalvtv.cl/web/wp-content/uploads/2015/08/canalvtv_transparente_ch.png" group-title="CHILE",VTV [?]
-http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ulango.tv/uploads/channels/97/aricatv.jpg" group-title="CHILE",Arica TV [Off]
+http://wow1.dallas.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.televisiongratis.tv/components/com_televisiongratis/images/vtv2-valle-televisin-570.jpg" group-title="CHILE",VTV 2
-http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/SEHGh7w.png" group-title="CHILE",Aysen TV [Off]
+http://v1.streaminglatinoamerica.com:1935/aysentv/aysentv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com/images/reydddd/cdtv-cl.jpg" group-title="CHILE",Camara de Diputados TV [Off]
+http://origin.camara.ztreaming.com:1935/origincamara8/streamcam8.sdp/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_8435_2_3505.png" group-title="CHILE",CDF Premium [Off]
+http://edga9.vergol.pw/live/cdf/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-65e5oTcogNE/Vx7Uf4GBd_I/AAAAAAAB0Wk/Sgz8L_ZHAs0yFMM1H8XQhD7QOYyEZp_hACLcB/s1600/Cnn_cl.jpg" group-title="CHILE",CNN [Off]
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vivotvhd.com/img/cha/1560.gif" group-title="CHILE",Radio Genial [Off]
+http://v1.tustreaming.cl:1935/genialtv/genialtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/aslyRHq.png" group-title="CHILE",T13 [Off]
+http://cdn.ztreaming.com/t13vivo3/desktop.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ASr9Vkf.png" group-title="CHILE",TV Red [Off]
+http://69.164.193.177:1935/live/myStream/chunklist_w561342168.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uestv.cl/sites/all/themes/uestv/images/logo.png" group-title="CHILE",UESTV [Off]
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://src.vengavisa.com/img/gj/bm/blg.png" group-title="LABEL",~ Paraguay TV ~
 http://www.lengua.com/anthems/Paraguay.mp3
