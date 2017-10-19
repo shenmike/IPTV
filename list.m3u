@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="INFO",< Please Donate
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Oct.18.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Oct.19.2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -1841,81 +1841,6 @@ http://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wpRdk4r.png" group-title="LATINO",PX Sports [Off]
 https://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/DuCtwwG.png" group-title="LATINO",AMC
-http://antenatv.tk/no_usar_fuera_de_antenatv-96-2059811.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/LoGcm82.png" group-title="LATINO",AXN
-http://antenatv.tk/no_usar_fuera_de_antenatv-74-2060049.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/CN7Zauh.png" group-title="LATINO",Boomerang
-http://antenatv.tk/no_usar_fuera_de_antenatv-51-2112629.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/PQHLH9S.png" group-title="LATINO",Canal Sony
-http://antenatv.tk/no_usar_fuera_de_antenatv-11-2236148.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/IcuLkZ0.png" group-title="LATINO",Cartoon Network
-http://antenatv.tk/no_usar_fuera_de_antenatv-16-2059781.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/TqaToQm.png" group-title="LATINO",Cinecanal
-http://antenatv.tk/no_usar_fuera_de_antenatv-27-2060602.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/FH2kwME.png" group-title="LATINO",De Pelicula
-http://antenatv.tk/no_usar_fuera_de_antenatv-85-2059644.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/nryw0Cb.png" group-title="LATINO",Discovery Channel
-http://antenatv.tk/no_usar_fuera_de_antenatv-19-2286418.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/1wfUftw.png" group-title="LATINO",Distrito Comedia
-http://antenatv.tk/no_usar_fuera_de_antenatv-168-2060596.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/tfJIh70.png" group-title="LATINO",Disney Channel
-http://antenatv.tk/no_usar_fuera_de_antenatv-20-1886803.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/EKvqypE.png" group-title="LATINO",Disney Junior
-http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/eGBe5vi.png" group-title="LATINO",Disney XD
-http://antenatv.tk/no_usar_fuera_de_antenatv-30-2060521.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/46EUqsT.png" group-title="LATINO",Fox
-http://antenatv.tk/no_usar_fuera_de_antenatv-8-2060632.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/ILvGJRE.png" group-title="LATINO",Fox Action
-http://antenatv.tk/no_usar_fuera_de_antenatv-88-2060018.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/V7JpoFu.png" group-title="LATINO",Fox Life
-http://antenatv.tk/no_usar_fuera_de_antenatv-44-2059715.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/Fg1Xee3.png" group-title="LATINO",FX
-http://antenatv.tk/no_usar_fuera_de_antenatv-75-2059753.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/QaUMABB.png" group-title="LATINO",Golden HD
-http://antenatv.tk/no_usar_fuera_de_antenatv-54-2059638.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/FHkVxAQ.png" group-title="LATINO",History
-http://antenatv.tk/no_usar_fuera_de_antenatv-83-2059653.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/Iqgj042.png" group-title="LATINO",Investigation Discovery
-http://antenatv.tk/no_usar_fuera_de_antenatv-65-2060611.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/ildSNZ9.png" group-title="LATINO",Nickelodeon
-http://antenatv.tk/no_usar_fuera_de_antenatv-21-2034503.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="LATINO",National Geographic
-http://antenatv.tk/no_usar_fuera_de_antenatv-23-2060675.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/QMgiNHs.png" group-title="LATINO",TCM
-http://antenatv.tk/no_usar_fuera_de_antenatv-57-2060605.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/jX6qFW2.png" group-title="LATINO",Tooncast
-http://antenatv.tk/no_usar_fuera_de_antenatv-31-2060649.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/AUl9Xh5.png" group-title="LATINO",Universal Channel
-http://antenatv.tk/no_usar_fuera_de_antenatv-33-2080555.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/qEC7MCQ.png" group-title="LATINO",Warner Channel
-http://antenatv.tk/no_usar_fuera_de_antenatv-76-2059656.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xE51fHv.png" group-title="LATINO",America Teve
 http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
