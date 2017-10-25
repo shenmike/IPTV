@@ -96,7 +96,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3abn.org/wp-content/themes/3abn-bones/library/images/3ABN-logo-name.png" group-title="CHRISTIANITY",3ABN (USA)
 http://aos01.3abn.adaptive.level3.net/hls-live/mediaoppremux-3abn_multi/_definst_/live/stream3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHRISTIANITY",3ABN Dare to Dream (USA)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://videoverse.org/wp-content/uploads/2015/09/3abn-dare-to-dream-network-260x180.jpg" group-title="CHRISTIANITY",3ABN Dare to Dream (USA)
 http://aos01.3abn.adaptive.level3.net/hls-live/mediaoppremux-d2d_multi/_definst_/live/stream3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title="CHRISTIANITY",3ABN Kidz (USA)
