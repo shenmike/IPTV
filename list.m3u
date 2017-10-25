@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="INFO",< Please Donate
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Oct.19.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Oct.24.2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -1010,6 +1010,9 @@ http://www.djing.com/tv/d-05.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wikibox.eu/wp-content/uploads/2015/09/DJing-Underground.jpg" group-title="FRANCE",DJing - Underground
 http://www.djing.com/tv/u-05.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="FRANCE",Fashion TV
+http://stream-07.dc3.dailymotion.com/49/dm/3/x3m6nld/live-1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/08/TV-Francophonie.jpg" group-title="FRANCE",Francophonie 24
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
