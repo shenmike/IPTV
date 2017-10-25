@@ -9,7 +9,7 @@ http://audio4.broadcastify.com/il_chicago_police2.mp3
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="INFO",< Please Donate
 http://audio4.broadcastify.com/il_chicago_police2.mp3
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Oct.18.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Oct.24.2017
 http://audio4.broadcastify.com/il_chicago_police2.mp3
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -107,6 +107,12 @@ http://162.246.92.34:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Wyoming - Devil's Tower
 http://72.36.32.28:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",New Orleans - Louisiana - Bourbon St.
+http://video3.earthcam.com/fecnetwork/4280.flv/chunklist_w1556439119.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Myrtle Beach - S. Carolina - Sea Crest Resort (Beach Cam)
+https://video3.earthcam.com/fecnetwork/9391.flv/chunklist_w587967098.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Palestine - Texas - CSBF (NASA)
 http://iphone-streaming.ustream.tv/uhls/10208765/streams/live/iphone/playlist.m3u8
