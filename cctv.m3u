@@ -9,7 +9,7 @@ http://audio4.broadcastify.com/il_chicago_police2.mp3
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="INFO",< Please Donate
 http://audio4.broadcastify.com/il_chicago_police2.mp3
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Oct.24.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Oct.25.2017
 http://audio4.broadcastify.com/il_chicago_police2.mp3
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -659,6 +659,9 @@ http://213.13.26.11:1935/live/supertubos.stream/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/XgUFU2n.png" group-title="BRAZIL",Rio de Janeiro - Praia de Copacabana [M3U8]
 http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/XgUFU2n.png" group-title="BRAZIL",Rio de Janeiro - Radio FM O Dia 100.5 Webcam
+FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/t1V7uVX.png" group-title="SPAIN",Burgos
 http://37.35.189.15:8080/mjpg/video.mjpg
