@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="INFO",< Please Donate
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Oct.25.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Oct.26.2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -3452,6 +3452,39 @@ http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b850000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canlitv.world/images/channels/vuslat-tv.png" group-title="TURKEY",Vulsat TV
 http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/round_icon/azerbaijan/azerbaijan_640.png" group-title="LABEL",~ Azerbaijan TV ~
+http://www.lengua.com/anthems/Azerbaijan.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Azad_Azerbaycan_TV_logosu.png" group-title="AZERBAIJAN",Azad Azerbaijan TV
+http://85.132.71.6/iptv_atv_az/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/AzTV_loqosu_%2814_fevral_2011-günümüz%29.png" group-title="AZERBAIJAN",AzTV
+http://85.132.71.6/azeri/aztv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cbc.az/assets/uploads/sites/Logo_fin.png" group-title="AZERBAIJAN",CBC Azerbaijan
+http://85.132.71.6/turk/cbc/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ecanlitvizle.net/logo/dunya-tv-az.png" group-title="AZERBAIJAN",Dunya TV
+http://85.132.71.6/turk/dunya/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/İctimai_Television_Logo_2013.png" group-title="AZERBAIJAN",Ictimai TV
+http://85.132.71.6/iptv_ictimai/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Idman_Azerbaijan_TV_Logo.png" group-title="AZERBAIJAN",Idman Azerbaijan TV
+http://85.132.71.6/turk/idman/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Lider_TV_logo.jpg" group-title="AZERBAIJAN",Lider TV
+http://85.132.71.6/iptv_lider/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azerice.tvfrekansi.com/wp-content/uploads/2015/02/medeniyyet-tv.png" group-title="AZERBAIJAN",Medeniyyet TV
+http://85.132.71.6/turk/medeniyyet/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://baku.ws/uploads/posts/2015-07/1435986886_space_tv_logo_020715.jpg" group-title="AZERBAIJAN",Space TV
+http://85.132.71.6/iptv_space/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a3/Xezer_TV_logo.jpg" group-title="AZERBAIJAN",Xezer TV
+http://85.132.71.6/iptv_xazar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/world-flag-icons/256/Flag_of_Kurdistan_Nation.png" group-title="LABEL",~ Kurdistan TV ~
 http://www.lengua.com/anthems/Kurdistan.mp3
