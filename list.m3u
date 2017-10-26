@@ -483,36 +483,6 @@ http://iptv4u.club/site/freeiptv?channel=skysportsf1&e=1508211057&acc=test&exp=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/831129516168863744/gYIoz_Ok.jpg" group-title="UK",At the Races
 http://51.15.5.246:3135/AtRac/1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YPjTwox.png" group-title="UK",BT Sport ESPN
-http://185.53.163.205:2507
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZfjAIix.png" group-title="UK",BT Sport 1
-http://185.53.163.205:2700
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZfjAIix.png" group-title="UK",BT Sport 2
-http://185.53.163.205:2506
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZfjAIix.png" group-title="UK",BT Sport 3
-http://185.53.163.205:2701
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bEU0WS9.png" group-title="UK",BT Sport Extra 1
-http://185.53.163.205:2707
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bEU0WS9.png" group-title="UK",BT Sport Extra 2
-http://185.53.163.205:2500
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bEU0WS9.png" group-title="UK",BT Sport Extra 3
-http://185.53.163.205:2501
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bEU0WS9.png" group-title="UK",BT Sport Extra 4
-http://185.53.163.205:2502
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bEU0WS9.png" group-title="UK",BT Sport Extra 5
-http://185.53.163.205:2503
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bEU0WS9.png" group-title="UK",BT Sport Extra 6
-http://185.53.163.205:2504
-
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Ireland-01.png" group-title="LABEL",~ Ireland TV ~
 http://www.lengua.com/anthems/Ireland.mp3
 
