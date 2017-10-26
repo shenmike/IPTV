@@ -2031,12 +2031,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jsnI65B.png" group-title="ARGENTINA",Telpin Teve Pinamar
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/xFuTgwhzTX.png" group-title="ARGENTINA",Vorterix Rock
-rtmp://r20057.smi.vmf.edge-apps.net:1935/magma-apps/vorterix_video1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/xFuTgwhzTX.png" group-title="ARGENTINA",Vorterix Rock*
-rtsp://r20057.smi.vmf.edge-apps.net:1935/magma-apps/vorterix_video1
-
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/cl.png" group-title="LABEL",~ Chile TV ~
 http://www.lengua.com/anthems/Chile.mp3
 
