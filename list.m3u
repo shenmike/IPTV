@@ -1899,12 +1899,6 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 #EXTINF:-1 tvg-logo="http://topqmedoc.com/wp-content/uploads/2014/11/Mexico-01.png" group-title="LABEL",~ Mexico TV ~
 http://www.lengua.com/anthems/Mexico.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fiso.foxsports.com.au/assets/video/5.30.0/video/images/placeholder.jpg" group-title="MEXICO",Fox Sports 2
-http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2FhF1CYp1twJIJNWh9CktSohPtLTBr7Fa1MNv6ISAwwg6xC9LJNIBfnnnrM2xADucXLsp%2BVRi6uXg%3D%3D
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fiso.foxsports.com.au/assets/video/5.30.0/video/images/placeholder.jpg" group-title="MEXICO",Fox Sports 3
-http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2F5LwZ5NzbgvsE7SF1kA4fICvyv08zv%2FwSSFlyMyme0Vic0AH3wXjJtBSSI8%2B1YaeaWfet%2F9dwNWQ%3D%3D 
-
 #EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="https://i.imgur.com/xomvDm7.png" group-title="MEXICO",FOROtv
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 
@@ -2142,12 +2136,6 @@ http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fmhot.cl/wp-content/uploads/2014/08/logo1.png" group-title="CHILE",FM Hot
 http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://act.softball.org.au/wp-content/uploads/sites/7/2017/01/foxsports-australia-logo.png" group-title="CHILE",Fox Sports
-http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2BpJdmjaKir8pcuL%2BfXx9I7A19%2FYuafIWPKisx%2BS2Wx1f%2F4vPUK43uokpYm%2Byz4To583%2BoR%2BAJWrw%3D%3D
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fiso.foxsports.com.au/assets/video/5.30.0/video/images/placeholder.jpg" group-title="CHILE",Fox Sports*
-http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2Fb%2BuLDVMo4RzoXdZVKEESOo5cuiZ%2F9iYo0%2B5pl7AnFBCEvXYZfNnErMIu8MuMEUEpx%2BNJ7WcCL4A%3D%3D
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/Logo_futuro.gif" group-title="CHILE",Futuro 88.9
 http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
 
@@ -2279,9 +2267,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elextramedios.com/drupal/sites/default/files/images/stories/fotosarticulos/sept2010/prensa62-el-tiempo-tv.jpg" group-title="COLOMBIA",El Tiempo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fiso.foxsports.com.au/assets/video/5.30.0/video/images/placeholder.jpg" group-title="COLOMBIA",Fox Sports
-http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2F%2B69cTLNcYOYzonMcpqPl0dT6jaWjg9OnSkOH4QGEhUDdE6e6r5%2B5QDRuAMHA7pptbRIAVyQRxfA%3D%3D
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-MJZ3A3u6E78/U-JWxeGtvrI/AAAAAAAACzg/mFikMtH2yW0/s1600/life_design_tv.png" group-title="COLOMBIA",Life Design
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
