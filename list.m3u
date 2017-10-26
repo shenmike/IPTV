@@ -2784,19 +2784,19 @@ http://141.136.14.18/kanal1/kanal1.m3u8
 #EXTINF:-1 tvg-logo="http://www.olimpikbeograd.com/wp-content/uploads/2013/06/serbia0.png" group-title="LABEL",~ Serbia TV ~
 http://www.lengua.com/anthems/Serbia.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvarenasport.com/images/logo.png" group-title="SERBIA",Arena Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvarenasport.com/images/logo.png" group-title="SERBIA",Arena Sport 1 [NoRoku]
 rtmp://139.59.120.168:1935/live/arenasport1.stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvarenasport.com/images/logo.png" group-title="SERBIA",Arena Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvarenasport.com/images/logo.png" group-title="SERBIA",Arena Sport 2 [NoRoku]
 rtmp://139.59.120.168:1935/live/arenasport2.stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvarenasport.com/images/logo.png" group-title="SERBIA",Arena Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvarenasport.com/images/logo.png" group-title="SERBIA",Arena Sport 3 [NoRoku]
 rtmp://139.59.120.168:1935/live/arenasport3.stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvarenasport.com/images/logo.png" group-title="SERBIA",Arena Sport 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvarenasport.com/images/logo.png" group-title="SERBIA",Arena Sport 4 [NoRoku]
 rtmp://139.59.120.168:1935/live/arenasport4.stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvarenasport.com/images/logo.png" group-title="SERBIA",Arena Sport 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvarenasport.com/images/logo.png" group-title="SERBIA",Arena Sport 5 [NoRoku]
 rtmp://139.59.120.168:1935/live/arenasport5.stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rtvas.rs/images/logo-as.png" group-title="SERBIA",As Sabac
