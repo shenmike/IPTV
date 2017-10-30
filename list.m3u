@@ -705,10 +705,10 @@ http://123tv.cdn.ses-ps.com/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.geriderklostertaler.eu/images/landimage/A.png" group-title="LABEL",~ Austria TV ~
 http://www.lengua.com/anthems/Austria.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://austria24.tv/wp-content/uploads/2014/01/A24_logo_big.png" group-title="AUSTRIA",Austria 24
-http://streaming.austria24.tv/live/stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://austria24.tv/wp-content/uploads/2014/01/A24_logo_big.png" group-title="AUSTRIA",Austria 24 [NoRoku]
+rtmp://streaming.austria24.tv/live/stream_360p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nossojogo.at/wp-content/uploads/2014/04/CI-Dorf-v3.jpg" group-title="AUSTRIA",Dorf TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nossojogo.at/wp-content/uploads/2014/04/CI-Dorf-v3.jpg" group-title="AUSTRIA",Dorf TV [Off]
 http://dorf.openplayout.org/hls/dorf_high/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg" group-title="AUSTRIA",KroneHit
@@ -732,10 +732,10 @@ http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png" group-title="AUSTRIA",ORF Sport [NoKodi]
 http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rts-salzburg.at/wp-content/themes/rts/images/rts-logo.png" group-title="AUSTRIA",RTS Salzburg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rts-salzburg.at/wp-content/themes/rts/images/rts-logo.png" group-title="AUSTRIA",RTS Salzburg [Off]
 http://80.237.191.228:1935/live/_definst_/RTS2015/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/587888784945086464/3aMl6Uyt.jpg" group-title="AUSTRIA",ServusTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/587888784945086464/3aMl6Uyt.jpg" group-title="AUSTRIA",ServusTV [Off]
 http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg" group-title="AUSTRIA",Tirol TV
