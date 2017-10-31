@@ -4590,6 +4590,9 @@ http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mediaweb.wpxi.com/theme/images/placeholder-16x9.jpg" group-title="USA LOCAL",WPXI News (Pittsburg)
 http://cmghlslive-i.akamaihd.net:80/hls/live/224715/WPXI/904k/prog.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bammarijuana.com/wp-content/uploads/2016/02/KCRA-3-News-Station-Logo.png" group-title="USA LOCAL",KCRA 3 News (Sacramento)
+https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kutv2productions.com/images/KUTV2Productions_SplashImage_972x510.jpg" group-title="USA LOCAL",CBS 2 (Salt Lake City)
 http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 
