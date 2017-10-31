@@ -1011,10 +1011,10 @@ http://streaming-hub.com/stream/rmc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/1200px-RTL_logo.svg.png" group-title="FRANCE",RTL
 http://stream-09.dc3.dailymotion.com/15/dm/1/xl1km0/live.isml/events(live-1497621843)/live-audio=128000-video=6300000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/TV5MODE-540x370.jpg" group-title="FRANCE",TV5 Monde
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAnIAAAAJGFkMzVhNWY1LWJjYjgtNGE4ZC05YWQ4LTUzNGQ2MDU2OGIyYQ.png" group-title="FRANCE",TV5MONDE Amerique Latine
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/TV5MODE-540x370.jpg" group-title="FRANCE",TV5 Monde*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-store.slidesharecdn.com/2470438d-37a2-49a1-9d3d-fb7aaf89e073-original.png" group-title="FRANCE",TV5MONDE Asie
 https://api-asia.tv5monde.com/Live/250600/4792245510001-5/tv5plusinfo/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nordbretagne.fr/photo/art/default/1736504-2352454.jpg" group-title="FRANCE",Tebeo
@@ -1887,9 +1887,6 @@ http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AlG8pAu.png" group-title="MEXICO",Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/teauyFQ.png" group-title="MEXICO",GreenTV
-http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aizYxAy.png" group-title="MEXICO",TV UNAM
 http://api.new.livestream.com/accounts/12380647/events/3843134/live.m3u8
 
@@ -1965,8 +1962,17 @@ http://stream.duplika.com:1935/tvacapulco/tvacapulco/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0HnNJKm.png" group-title="MEXICO",TVMAS Veracruz
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="MEXICO",TVP C. Obregon
+http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/chunklist_w1292259657_b978000_sleng.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="MEXICO",TVP Culiacan
 http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w1521299175_b1428000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="MEXICO",TVP Los Mochis
+http://216.227.135.186:1935/gpacifico2/smil:mochis.smil/chunklist_w158021378_b1428000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/teauyFQ.png" group-title="MEXICO",GreenTV [Off]
+http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Argentina-01.png" group-title="LABEL",~ Argentina TV ~
 http://www.lengua.com/anthems/Argentina.mp3
@@ -2097,6 +2103,9 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_source/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://portalfoxmix.club/wp-content/uploads/2016/07/logoPFM.png" group-title="CHILE",Portal Foxmix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/aslyRHq.png" group-title="CHILE",T13
+http://cdn.ztreaming.com/t13vivo3/desktop.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c2.staticflickr.com/6/5698/21150836481_f3ec4a08f0_o.png" group-title="CHILE",Teletrak
 http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8
 
@@ -2129,9 +2138,6 @@ http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalvtv.cl/web/wp-content/uploads/2015/08/canalvtv_transparente_ch.png" group-title="CHILE",VTV
 http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/aslyRHq.png" group-title="CHILE",T13 [Off]
-http://cdn.ztreaming.com/t13vivo3/desktop.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/ecuador/flag-button-square-250.png" group-title="LABEL",~ Ecuador TV ~
 http://www.lengua.com/anthems/Ecuador.mp3
