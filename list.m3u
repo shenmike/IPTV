@@ -3978,6 +3978,9 @@ http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 #EXTINF:-1 tvg-logo="http://academics.smcvt.edu/llrc/images/flag_buttons/arab_league.png" group-title="LABEL",~ Arabic News ~
 http://192.99.35.215:5109/stream
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://alhiwar.tv/all/images/fb_logo.png" group-title="ARABIC NEWS",Al Hiwar
+http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_w1138816254_b1264000.m3u8?v=778390213
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kimelli.nfshost.com/images/424.png" group-title="ARABIC NEWS",Al Hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
@@ -4211,6 +4214,9 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="UAE",MBC 4
 http://selevision9895-i.akamaihd.net/hls/live/219375/98958/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1259_1.png" group-title="UAE",MBC Bollywood
+http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="UAE",National Geographic
 http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
