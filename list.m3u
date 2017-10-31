@@ -1839,6 +1839,9 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K52brqr.png" group-title="LATINO",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pxsports.com/wp-content/uploads/2017/03/Logo-Px-Sports-Completo-300x169.png" group-title="LATINO",PX Sports
+http://vivoplay-i.akamaihd.net/hls/live/255324/canal1/master2500k.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OFvdVlA.png" group-title="LATINO",RT
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
 
@@ -1899,8 +1902,17 @@ http://vivoplay-i.akamaihd.net/hls/live/255339/canal1/master2500k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/yrR5sU4.jpg" group-title="MEXICO",Azteca Corazon
 http://vivoplay-i.akamaihd.net/hls/live/255340/canal1/master2500k.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/RGUbr5h.png" group-title="MEXICO",Bandamax
+http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AlG8pAu.png" group-title="MEXICO",Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/vUgTtqZ.png" group-title="MEXICO",Ritmoson
+http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/vOH3TOn.png" group-title="MEXICO",TeleHit
+http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/sZupsef.png" group-title="MEXICO"Televisa Deportes Network
 http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
@@ -2018,6 +2030,9 @@ http://painel.serveron.com.br:1935/8168/8168/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TpRgjdj.png" group-title="ARGENTINA",Canal Provincial San Miguel
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://k60.kn3.net/A/A/9/3/B/B/0F4.png" group-title="ARGENTINA",CN 24/7
+http://142.4.208.146:1935/cn247/cn247/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410293214.jpeg" group-title="ARGENTINA",Cool 103.7
 http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
@@ -3110,6 +3125,9 @@ http://www.lengua.com/anthems/Poland.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n-4-16.dcs.redcdn.pl/file/mm/multimedia/live/amazing/aMazingCover500x200.png" group-title="POLAND",aMazing TV
 http://n-4-16.dcs.redcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gigared.tv/wp-content/uploads/2017/06/FIGHT-BOX-300x140.png" group-title="POLAND",FightBox
+http://hls.redefine.pl/ECD95B41/1573/0/hls720/masterlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.wp.pl/a/f/png/32041/stars-tv-logo.png" group-title="POLAND",Stars TV
 http://starstv.live.e55-po.insyscd.net/starstvhd.smil/chunklist_b1100000.m3u8
