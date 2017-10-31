@@ -498,12 +498,6 @@ http://167.88.154.169/wnycfm-tunein
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/events/00000000003a4452/bd7082af-14f2-4019-bde9-a081a1d56330_30000.jpg" group-title="USA LOCAL",NBC News 13 (Albany)
 http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA LOCAL",NBC 2 News (Anchorage)
-http://livestream-f.akamaihd.net/i/7987479_2929660_lsisohuff7t4rj5k8w8_1@381731/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kpho.images.worldnow.com/images/490348_G.jpg" group-title="USA LOCAL",CBS 5 News (Arizona)
-http://wnmeredithaz-lh.akamaihd.net/i/MEREDITHAZ_1313@308211/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/KXAN_Austin_News_logo.png" group-title="USA LOCAL",KXAN News (Austin)
 https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
 
@@ -515,9 +509,6 @@ http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/888431997017661440/fj0FLr2O_400x400.jpg" group-title="USA LOCAL",WBZ 4 News (Boston)
 http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/888431997017661440/fj0FLr2O_400x400.jpg" group-title="USA LOCAL",WBZ 4 News* (Boston)
-http://54.163.107.81/server/play/cbslocal-wbzx-dfp/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (The Bronx)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
@@ -546,9 +537,6 @@ http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/9/9a/News_12_Hudson_Valley_Logo_From_December_2010.jpg" group-title="USA LOCAL",News 12 (Hudson Valley)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/events/0000000000192e81/20b89d6e-9f4e-427c-ba32-ef5d183daf10_640x360.png" group-title="USA LOCAL",WTHI-TV 10 (Indiana)
-http://wthi-lh.akamaihd.net/i/WTHI_1405@304096/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tribwttv.files.wordpress.com/2017/03/cropped-cbs4512.png" group-title="USA LOCAL",CBS 4 News (Indianapolis)
 http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
 
@@ -558,44 +546,20 @@ http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/1200px-WJAX-TV_logo.png" group-title="USA LOCAL",Fox News 30 (Jacksonville)
 http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.news4jax.com/theme/images/logo-wjxt_FULL_303x100.png" group-title="USA LOCAL",WJXT News 4 (Jacksonville)
-http://play-prod1.live.anvato.net/server/play/pns-wjxt-dfp/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kvvu.images.worldnow.com/images/469499_G.jpg" group-title="USA LOCAL",Fox 5 News (Las Vegas)
-http://api.new.livestream.com/accounts/6910894/events/2707630/broadcasts/158557720.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890313.1464300030!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (Long Island)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cbsla.files.wordpress.com/2016/04/streaminglivenow_kcal_700x350.jpg" group-title="USA LOCAL",KCAL 9 News (Los Angeles)
 http://play-prod1.live.anvato.net/server/play/cbslocal-kcal-dfp/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-kNz7wg-bE84/TxJOUCktelI/AAAAAAAAVBk/rs5Z_V89OCI/s1600/nbc4logo.jpg" group-title="USA LOCAL",KNBC 4 News (Los Angeles)
-http://knbclive-f.akamaihd.net/i/knbca1_1@13988/index_1286_av-p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/d/d8/KTBS_1996.jpg" group-title="USA LOCAL",ABC 3 News (Louisiana)
-http://ktbs-lh.akamaihd.net/i/KTBS_1069@111925/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.myfoxmemphiscom.cmgdigital.com/theme/images/placeholder-16x9.jpg" group-title="USA LOCAL",FOX 13 News (Memphis)
 http://cmghlslive-i.akamaihd.net/hls/live/224672/WHBQ/2564k/prog.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/1/19/Local_10_WPLG.jpg" group-title="USA LOCAL",WPLG 10 News (Miami)
-http://play-prod1.live.anvato.net/server/play/pns-wplg-dfp/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/WJMN-TV_2006_Logo.png/200px-WJMN-TV_2006_Logo.png" group-title="USA LOCAL",CBS 3 News (Michigan)
 http://wjmn-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Cif3x2W.jpg" group-title="USA LOCAL",FOX 9 News (Minneapolis)
-https://raw.githubusercontent.com/fluxustv/Channels/master/FOX9Minneapolis.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/events/000000000068bfe1/9052fb7b-99ee-4dcd-87fd-c1102bc5592e_30000.jpg" group-title="USA LOCAL",WXXV News 25 (Mississippi)
 http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14523.jpg" group-title="USA LOCAL",NBC News (Nebraska)
-http://play-prod1.live.anvato.net/server/play/gray-ksnb-dfp/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14522.jpg" group-title="USA LOCAL",CBS News (Nebraska)
-http://play-prod1.live.anvato.net/server/play/gray-koln-dfp/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newenglandone.com/images/stories/2016/wfxtfox25newsat4.jpg" group-title="USA LOCAL",FOX 25 News (New England)
 http://cmghlslive-i.akamaihd.net/hls/live/224671/WFXT/904k/prog.m3u8
@@ -636,20 +600,11 @@ http://play-prod1.live.anvato.net/server/play/cbslocal-kovrx-dfp/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bellmonawards.com/wp-content/uploads/2014/08/sponsor-fox.png" group-title="USA LOCAL",KOKI Fox 23 (Tulsa)
 http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.graytvinc.com/designimages/720*405/KCWY+DefaultThumbnailLogo.jpg" group-title="USA LOCAL",KCWY News 13 (Wyoming)
-http://ad-playlistserver.aws.syncbak.com/playlist/898788/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2013/06/wttg-logo_304x200.jpg" group-title="USA LOCAL",Fox 5 News (Washington DC)
 https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="USA LOCAL",NBC 4 News (Washington DC)
 https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAa-AAAAJGEzZTg3ZGVlLTAzNmQtNDk4My1hNzMyLWM2Nzk0OTE0MGIxMg.png" group-title="USA LOCAL",WJFW Newswatch 12 (Wisconsin)
-http://cdn.bimvidlive.com/wjfw1/wjfw1/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/Fairfax+County+Government+TV+Channel+16+logo_1396.png" group-title="USA LOCAL",WTPC 16 (Virginia)
-http://mplive.play.ebmcdn.net/eastbay-live-pull-camera-3/_definst_/mp4:camera.stream/chunklist_w1700328985.m3u8
 
 #EXTINF:-1 tvg-logo="https://desdelapelouse.files.wordpress.com/2012/06/canada.png" group-title="LABEL",~ Canada TV ~
 http://www.lengua.com/anthems/Canada.mp3
