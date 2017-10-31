@@ -3996,7 +3996,7 @@ http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=cbc&t=ar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://storage.googleapis.com/cbc-sofra-assets/images/sofra_logo_or.jpg" group-title="EGYPT",CBC Drama
 tp://selevision9883-i.akamaihd.net/hls/live/219205/98831/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=https://storage.googleapis.com/cbc-sofra-assets/images/sofra_logo_or.jpg" group-title="EGYPT",CBC Sofra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://storage.googleapis.com/cbc-sofra-assets/images/sofra_logo_or.jpg" group-title="EGYPT",CBC Sofra
 http://selevision9895-i.akamaihd.net/hls/live/219368/98951/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bahgat.com/uploads/dream-logo-print0200.png" group-title="EGYPT",Dream TV
