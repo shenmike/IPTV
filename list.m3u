@@ -1917,6 +1917,9 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/sZupsef.png" group-title="MEXICO",Televisa Deportes Network
 http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/nnzf41E.png" group-title="MEXICO",AYM Sports
+https://vivoplay-i.akamaihd.net/hls/live/253483/canal1/master2500k.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aizYxAy.png" group-title="MEXICO",TV UNAM
 http://api.new.livestream.com/accounts/12380647/events/3843134/live.m3u8
 
