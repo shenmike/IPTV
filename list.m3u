@@ -1902,7 +1902,7 @@ http://vivoplay-i.akamaihd.net/hls/live/255340/canal1/master2500k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AlG8pAu.png" group-title="MEXICO",Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/sZupsef.png" group-title="MEXICO",TDN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/sZupsef.png" group-title="MEXICO"Televisa Deportes Network
 http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aizYxAy.png" group-title="MEXICO",TV UNAM
