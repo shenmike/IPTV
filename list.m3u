@@ -1914,7 +1914,7 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/vOH3TOn.png" group-title="MEXICO",TeleHit
 http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/sZupsef.png" group-title="MEXICO"Televisa Deportes Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/sZupsef.png" group-title="MEXICO",Televisa Deportes Network
 http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aizYxAy.png" group-title="MEXICO",TV UNAM
