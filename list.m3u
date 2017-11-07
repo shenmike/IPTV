@@ -2133,7 +2133,7 @@ http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vzTZCxv.png" group-title="MEXICO",ADN 40*
 http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/nnzf41E.png" group-title="MEXICO",AYM Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/nnzf41E.png" group-title="MEXICO",AYM Sports [Off]
 https://vivoplay-i.akamaihd.net/hls/live/253483/canal1/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5nBBkZX.png" group-title="MEXICO",Azteca Trece
@@ -2145,13 +2145,13 @@ http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1659.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO",Azteca Mas
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/n8Ylk80.jpg" group-title="MEXICO",Azteca Cinema
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/n8Ylk80.jpg" group-title="MEXICO",Azteca Cinema [Off]
 http://vivoplay-i.akamaihd.net/hls/live/255328/canal1/master2500k.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/L9jTAPQ.jpg" group-title="MEXICO",Azteca Clic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/L9jTAPQ.jpg" group-title="MEXICO",Azteca Clic [Off]
 http://vivoplay-i.akamaihd.net/hls/live/255339/canal1/master2500k.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/yrR5sU4.jpg" group-title="MEXICO",Azteca Corazon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/yrR5sU4.jpg" group-title="MEXICO",Azteca Corazon [Off]
 http://vivoplay-i.akamaihd.net/hls/live/255340/canal1/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/RGUbr5h.png" group-title="MEXICO",Bandamax
@@ -2279,9 +2279,6 @@ http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w152129917
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="MEXICO",TVP Los Mochis
 http://216.227.135.186:1935/gpacifico2/smil:mochis.smil/chunklist_w158021378_b1428000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/teauyFQ.png" group-title="MEXICO",GreenTV [Off]
-http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Argentina-01.png" group-title="LABEL",~ Argentina TV ~
 http://www.lengua.com/anthems/Argentina.mp3
