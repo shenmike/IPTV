@@ -294,7 +294,7 @@ http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AwNQHqC.png" group-title="USA",The Country Network
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mahMQxJ.png" group-title="USA",D23 TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mahMQxJ.png" group-title="USA",D23 TV [Off]
 http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2015/03/destination-america.jpg" group-title="USA",Destination America
@@ -3308,15 +3308,6 @@ http://cdn-01.bonus-tv.ru/gtrkomsk/gtrkomsk/type/user/devname/LG-SmartTV/devid/L
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photouploads.com/images/f807ad.png" group-title="RUSSIA",Life News
 http://tv.life.ru/lifetv/720p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://allsport.ws/uploads/posts/2017-05/thumbs/1496075750_136_1.jpg" group-title="RUSSIA",Match! Futbol 1
-http://iptv4u.club/site/freeiptv?channel=matchfootball1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://allsport.ws/uploads/posts/2017-05/thumbs/1496075750_136_1.jpg" group-title="RUSSIA",Match! Futbol 2
-http://iptv4u.club/site/freeiptv?channel=matchfootball2&e=1508211057&acc=test&exp=1510789576&t=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://allsport.ws/uploads/posts/2017-05/thumbs/1496075750_136_1.jpg" group-title="RUSSIA",Match! Futbol 3
-http://iptv4u.club/site/freeiptv?channel=matchfootball3&e=1508211057&acc=test&exp=1510789576&t=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ktv-informservice.ru/images/digitfiles/nano20tv.jpg" group-title="RUSSIA",Nano TV
 http://nano.teleservice.su:8080/hls/nano_europe.m3u8
