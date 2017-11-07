@@ -4632,25 +4632,25 @@ http://live.thairath.co.th/trtv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://is.alicdn.com/img/esite/member/200305570/5ba3755f39b04a018c962bf05fb89df1_original.png" group-title="LABEL",~ Japan TV ~
 http://www.lengua.com/anthems/Japan.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/BS+12+TwellV+logo_39.png" group-title="JAPAN",BS 12 TwellV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/BS+12+TwellV+logo_39.png" group-title="JAPAN",BS 12 TwellV [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs13.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bs-asahi.co.jp/common/img/head_logo.gif" group-title="JAPAN",BS Asahi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bs-asahi.co.jp/common/img/head_logo.gif" group-title="JAPAN",BS Asahi [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs03.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.anime-japan.jp/data/img/373/INTRO_IMAGE_216_ENG/0.jpg" group-title="JAPAN",BS Fuji
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.anime-japan.jp/data/img/373/INTRO_IMAGE_216_ENG/0.jpg" group-title="JAPAN",BS Fuji [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs05.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/BS_japan_logo.jpg" group-title="JAPAN",BS Japan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/BS_japan_logo.jpg" group-title="JAPAN",BS Japan [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs06.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bs4.jp/fb.jpg" group-title="JAPAN",BS NTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bs4.jp/fb.jpg" group-title="JAPAN",BS NTV [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs02.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3-ap-northeast-1.amazonaws.com/shirucafe.com/cms/wp-content/uploads/2015/06/b1f3b1cb33745766fc8ddcfa38664922.jpg" group-title="JAPAN",BS-TBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3-ap-northeast-1.amazonaws.com/shirucafe.com/cms/wp-content/uploads/2015/06/b1f3b1cb33745766fc8ddcfa38664922.jpg" group-title="JAPAN",BS-TBS [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs04.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs219.gif" group-title="JAPAN",CS219
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs219.gif" group-title="JAPAN",CS219 [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs18.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png" group-title="JAPAN",Discovery Channel
@@ -4659,106 +4659,106 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/cs13.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.playbuzz.com/cdn/4544d479-c523-4fd0-a642-2391269d1f90/eb72b3c4-018c-4394-89c8-7a34a223c330_560_420.jpg" group-title="JAPAN",Disney Channel
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs20.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/11.jpg" group-title="JAPAN",Eisei Gekijo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/11.jpg" group-title="JAPAN",Eisei Gekijo [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs11.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fujitv.co.jp/common/images/logo_ogp.png" group-title="JAPAN",Fuji TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fujitv.co.jp/common/images/logo_ogp.png" group-title="JAPAN",Fuji TV [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd05.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/70.jpg" group-title="JAPAN",Golf Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/70.jpg" group-title="JAPAN",Golf Network [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs03.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/295_2.jpg" group-title="JAPAN",History
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/295_2.jpg" group-title="JAPAN",History [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs14.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="JAPAN",Japanet Channel DX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J Sports 1 [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs05.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J Sports 1*
 http://live2.artv.watch/jp-jsports1/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J Sports 2 [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs06.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J Sports 2*
 http://live2.artv.watch/jp-jsports2/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J Sports 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J Sports 3 [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs07.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J Sports 3*
 http://live2.artv.watch/jp-jsports3/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J Sports 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J Sports 4 [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs09.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J Sports 4*
 http://live2.artv.watch/jp-jsports4/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kids-station.com/campaign/cocomong-cp2016/img/common/logo_kids.png" group-title="JAPAN",Kids Station
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kids-station.com/campaign/cocomong-cp2016/img/common/logo_kids.png" group-title="JAPAN",Kids Station [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs12.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movieplus.jp/movie-detail/film_img/m/CS-MOCHIKOMIBANGUMI-001.jpg" group-title="JAPAN",Movie Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movieplus.jp/movie-detail/film_img/m/CS-MOCHIKOMIBANGUMI-001.jpg" group-title="JAPAN",Movie Plus [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs10.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/461060111662735360/ItdlcUgO.jpeg" group-title="JAPAN",Music Japan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/461060111662735360/ItdlcUgO.jpeg" group-title="JAPAN",Music Japan [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s1.dmcdn.net/dFFwY/240x240-G2G.png" group-title="JAPAN",Nihon Eiga TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s1.dmcdn.net/dFFwY/240x240-G2G.png" group-title="JAPAN",Nihon Eiga TV [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs19.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.c21media.net/wp-content/uploads/2015/03/nippon-tv-logo_red_thumb.jpg" group-title="JAPAN",Nippon TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.c21media.net/wp-content/uploads/2015/03/nippon-tv-logo_red_thumb.jpg" group-title="JAPAN",Nippon TV [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd03.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1294761501/icon_BS1_400x400.jpg" group-title="JAPAN",NHK BS1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1294761501/icon_BS1_400x400.jpg" group-title="JAPAN",NHK BS1 [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs01.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://livedoor.blogimg.jp/hotworks/imgs/0/b/0b74a44b.jpg" group-title="JAPAN",NHK BS Premium
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://livedoor.blogimg.jp/hotworks/imgs/0/b/0b74a44b.jpg" group-title="JAPAN",NHK BS Premium [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs14.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-ak.b.st-hatena.com/entryimage/262027845-origin-1438996966.jpg" group-title="JAPAN",NHK Educational TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-ak.b.st-hatena.com/entryimage/262027845-origin-1438996966.jpg" group-title="JAPAN",NHK Educational TV [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd02.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/NHK-General-TV-670x300.jpg" group-title="JAPAN",NHK General TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/NHK-General-TV-670x300.jpg" group-title="JAPAN",NHK General TV [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd01.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pbs.twimg.com/profile_images/474926025768312833/TUAQCppN.png" group-title="JAPAN",NTV News24
 http://www.news24.jp/livestream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www2.myjcom.jp/special/common/channel_logo/400x150/samurai.jpg" group-title="JAPAN",Samurai Fighting TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www2.myjcom.jp/special/common/channel_logo/400x150/samurai.jpg" group-title="JAPAN",Samurai Fighting TV [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.britishtvabroad.com/EUROTV/EUROTV/EUROTV/starchanneljapan.jpg" group-title="JAPAN",Star Channel 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.britishtvabroad.com/EUROTV/EUROTV/EUROTV/starchanneljapan.jpg" group-title="JAPAN",Star Channel 1 [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs10.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.britishtvabroad.com/EUROTV/EUROTV/EUROTV/starchanneljapan.jpg" group-title="JAPAN",Star Channel 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.britishtvabroad.com/EUROTV/EUROTV/EUROTV/starchanneljapan.jpg" group-title="JAPAN",Star Channel 2 [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs11.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.britishtvabroad.com/EUROTV/EUROTV/EUROTV/starchanneljapan.jpg" group-title="JAPAN",Star Channel 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.britishtvabroad.com/EUROTV/EUROTV/EUROTV/starchanneljapan.jpg" group-title="JAPAN",Star Channel 3 [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs12.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/PeuoiKF.jpg" group-title="JAPAN",TBS Television
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/PeuoiKF.jpg" group-title="JAPAN",TBS Television [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd04.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/2r8cdkUDHGg/maxresdefault.jpg" group-title="JAPAN",Tokyo MX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/2r8cdkUDHGg/maxresdefault.jpg" group-title="JAPAN",Tokyo MX [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd08.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png" group-title="JAPAN",TV Asahi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png" group-title="JAPAN",TV Asahi [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd06.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="JAPAN",TV Tokyo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="JAPAN",TV Tokyo [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd07.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/35.jpg" group-title="JAPAN",WOWOW Cinema
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/35.jpg" group-title="JAPAN",WOWOW Cinema [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/34.jpg" group-title="JAPAN",WOWOW Live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/34.jpg" group-title="JAPAN",WOWOW Live [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://japan.cnet.com/storage/2011/04/21/1a039af933e1b5e522f17d1982fc4538/110420_wowow_184_138.jpg" group-title="JAPAN",WOWOW Prime
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://japan.cnet.com/storage/2011/04/21/1a039af933e1b5e522f17d1982fc4538/110420_wowow_184_138.jpg" group-title="JAPAN",WOWOW Prime [Off]
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kr.png" group-title="LABEL",~ South Korea TV ~
