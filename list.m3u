@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="INFO",< Please Donate
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Nov.01.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Nov.06.2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -2619,6 +2619,24 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hostcartoon.com/cartoonproducciones/wp-content/uploads/2014/08/2willax.jpg" group-title="PERU",Willax TV
 http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/uruguay/flag-button-square-250.png" group-title="LABEL",~ Uruguay TV ~
+http://www.lengua.com/anthems/Uruguay.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_Teledoce.png" group-title="URUGUAY",Teledoce
+http://api.new.livestream.com/accounts/13567583/events/6415731/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://src.vengavisa.com/img/gj/bm/blg.png" group-title="LABEL",~ Paraguay TV ~
+http://www.lengua.com/anthems/Paraguay.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kantar-ibopemedia.com.py/files/u1/ORIGINAL%20LOGO%20RPC%20vertical%20curvas.png" group-title="PARAGUAY",RPC
+http://70.36.100.38:1935/live/canal13_hq.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.okparaguay.com/wp-content/uploads/2016/06/Logo_telefuturo.jpg" group-title="PARAGUAY",Telefuturo
+http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.paraguay.com/photos/images/000/124/527/regular_unica.jpg.jpg" group-title="PARAGUAY",Unicanal
+http://strm.unicanal.com.py/live/unicanal_mid.m3u8
+
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/costa-rica/flag-button-square-250.png" group-title="LABEL",~ Costa Rica TV ~
 http://www.lengua.com/anthems/CostaRica.mp3
 
@@ -2753,18 +2771,6 @@ http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yunavision.com/images/yuna2sm.png" group-title="DOMINICAN REP",Yuna Vision Canal 10
 http://ss9.domint.net:1986/yv_str/yuna/chunklist_w2142669924.m3u8
-
-#EXTINF:-1 tvg-logo="http://src.vengavisa.com/img/gj/bm/blg.png" group-title="LABEL",~ Paraguay TV ~
-http://www.lengua.com/anthems/Paraguay.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kantar-ibopemedia.com.py/files/u1/ORIGINAL%20LOGO%20RPC%20vertical%20curvas.png" group-title="PARAGUAY",RPC
-http://70.36.100.38:1935/live/canal13_hq.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.okparaguay.com/wp-content/uploads/2016/06/Logo_telefuturo.jpg" group-title="PARAGUAY",Telefuturo
-http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.paraguay.com/photos/images/000/124/527/regular_unica.jpg.jpg" group-title="PARAGUAY",Unicanal
-http://strm.unicanal.com.py/live/unicanal_mid.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/nicaragua/flag-button-square-250.png" group-title="LABEL",~ Nicaragua TV ~
 http://www.lengua.com/anthems/Nicaragua.mp3
