@@ -2286,11 +2286,20 @@ http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Argentina-01.png" group-title="LABEL",~ Argentina TV ~
 http://www.lengua.com/anthems/Argentina.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.13maxtv.com/new/img/logo13.png" group-title="ARGENTINA",13 Max Corrientes
+http://coninfo.net:1935/13max/live/chunklist_w649322582.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vivotvhd.com/img/cha/948.gif" group-title="ARGENTINA",5TV Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/2000.png" group-title="ARGENTINA",360 TV [NoKodi]
 http://ar.watcha.live/ch12/hi.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_03/large.A24_2017_2.png.41075f79e9c8ea2ac703185638a69630.png" group-title="ARGENTINA",A24 [NoKodi]
 http://ar.watcha.live/ch2/hi.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://k61.kn3.net/E/2/C/5/B/9/8BE.png" group-title="ARGENTINA",Aire de Santa Fe
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://k60.kn3.net/9/6/C/4/E/9/539.png" group-title="ARGENTINA",America [NoKodi]
 http://ar.watcha.live/ch3/hi.m3u8
@@ -2298,14 +2307,47 @@ http://ar.watcha.live/ch3/hi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/709.png" group-title="ARGENTINA",C5N [NoKodi]
 http://ar.watcha.live/ch1/hi.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bigrez.hol.es/fotosribera/images/15036219182783463749.jpg" group-title="ARGENTINA",CalleAngostaTV San Luis
+http://stream.shockmedia.com.ar:1935/8742/8742/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-zZ1mqD-N3D0/AAAAAAAAAAI/AAAAAAAAAAA/aQXLTyHZhTE/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ARGENTINA",Canal 3 Pinamar
+http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canal4teleba.com.ar/wp-content/uploads/2016/12/teleba-youtube.jpg" group-title="ARGENTINA",Canal 4 Balcarce
+http://panel.dattalive.com:1935/8124/8124/chunklist_w283163661.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal4tv.net/assets/images/canal4-233x128.jpg" group-title="ARGENTINA",Canal 4 Esquel
+http://arcast.tv:1935/envivo/canal4esquel/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tSMjVaQ.png" group-title="ARGENTINA",Canal 4 Jujuy
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fgrauI0.png" group-title="ARGENTINA",Canal 4 Posadas
 http://184.154.28.210:1935/canal4/canal4/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/07/Canal4-SanJuan-FDG.jpg" group-title="ARGENTINA",Canal 4 San Juan
+http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w931974462.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/899041603381342209/NhdwgCEj.jpg" group-title="ARGENTINA",Canal 5 Concepcion Tucuman
+http://5.179.201.88:1935/golive/59_179_live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://k60.kn3.net/4/F/5/2/E/0/882.png" group-title="ARGENTINA",Canal 7 Chubut
+http://01.solumedia.com.ar:1935/c7/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OBLO4Ac.png" group-title="ARGENTINA",Canal 9 Salta
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://k60.kn3.net/6/8/1/4/9/A/64F.png" group-title="ARGENTINA",Canal 10 Rionegrina
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/07/LapachoTV-Logo-300x300.jpg" group-title="ARGENTINA",Canal 11 Formosa
+http://stream1.livestreamingservices.com:1935/tvcanal11/tvcanal11/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg" group-title="ARGENTINA",Canal 11 La Rioja
+http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8?wowzasessionid=1078160479
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://k61.kn3.net/A/C/0/B/5/5/DD0.png" group-title="ARGENTINA",Canal 11 Ushuaia
+http://01.solumedia.com.ar:1935/c11/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5HTSXV4.png" group-title="ARGENTINA",Canal 26 Buenos Aires
 http://200.115.193.177/live/26hd-720/.m3u8
@@ -2318,6 +2360,9 @@ http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w3rrFsy.png" group-title="ARGENTINA",Canal 79 Mar del Plata
 http://painel.serveron.com.br:1935/8168/8168/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.estabueno.com.ar/wp-content/uploads/2015/03/canal-local1.jpg" group-title="ARGENTINA",Canal Local Olavarria
+http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TpRgjdj.png" group-title="ARGENTINA",Canal Provincial San Miguel
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
@@ -2343,6 +2388,12 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-wR6FeCEMdY0/AAAAAAAAAAI/AAAAAAAAAAA/kpJaDUmw4II/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ARGENTINA",Diputados TV
 http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_2@301805/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.el1webtv.com.ar/wp-content/uploads/2016/08/logo.png" group-title="ARGENTINA",El 1 Web TV La Matanza
+http://server4.stweb.tv/unlam/ngrp:video1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.el10tv.com/images/logo_footer.png" group-title="ARGENTINA",El 10 Salta
+http://173.244.209.235:1935/viviloendirecto/psigroup/chunklist_w349709429.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/96.png" group-title="ARGENTINA",El Nueve [NoKodi]
 http://ar.watcha.live/ch5/hi.m3u8
 
@@ -2354,6 +2405,9 @@ http://espnsslarugby-i.akamaihd.net/hls/live/225068/rugbytest/64/64.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iLh4q2x.png" group-title="ARGENTINA",Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ_400x400.jpg" group-title="ARGENTINA",Litus TV Santa Fe
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hWMFLTh.png" group-title="ARGENTINA",Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
@@ -2370,11 +2424,17 @@ http://qmnoticiashls-lh.akamaihd.net/i/qmnoticiasTEST_hls@324831/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/G6ErEF2.png" group-title="ARGENTINA",Radio One
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rtnweb.gob.ar/wp-content/uploads/2017/04/LOGO-RTN-Web.png" group-title="ARGENTINA",Radio TV Neuquen
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9CR5FLb.png" group-title="ARGENTINA",TDC Online Firmat
 http://painel.serveron.com.br:1935/8166/8166/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uDE1Kk0.png" group-title="ARGENTINA",Tec TV
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telejunin.com.ar/images/telejunin%20logo.png" group-title="ARGENTINA",Tele Junin
+http://stream.shockmedia.com.ar:1935/9618/9618/chunklist_w2145169684.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/35.png" group-title="ARGENTINA",Telefe [NoKodi]
 http://ar.watcha.live/ch6/hi.m3u8
@@ -2384,6 +2444,9 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jsnI65B.png" group-title="ARGENTINA",Telpin Teve Pinamar
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nomeolvides.org.ar/wp-content/uploads/2015/06/Logo-XFN.png" group-title="ARGENTINA",XFN Canal 41 Mar del Plata
+http://painel.serveron.com.br:1935/8172/8172/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://k61.kn3.net/D/D/1/0/1/0/ED5.png" group-title="ARGENTINA",TV Publica [NoKodi]
 http://ar.watcha.live/ch4/hi.m3u8
