@@ -165,7 +165,7 @@ http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://desdelapelouse.files.wordpress.com/2012/06/canada.png" group-title="LABEL",~ Canada Radio ~
 http://www.lengua.com/anthems/Canada.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canuckradios.com/wp-content/uploads/2017/03/allhits-86.6.jpg" group-title="CANADAAll Hits 86.6 FM Brantford
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canuckradios.com/wp-content/uploads/2017/03/allhits-86.6.jpg" group-title="CANADA",All Hits 86.6 FM Brantford
 http://149.56.147.197:8326/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s25730d.png" group-title="CANADA",British Sixties Radio
