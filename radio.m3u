@@ -198,9 +198,6 @@ http://149.56.23.7:20144/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Whju6Nf.png" group-title="CANADA",Radio Punjab
 http://174.37.16.73:5270/Live
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.bandmix.ca/bandmix_ca/media/68/68296/239445-l.jpg" group-title="CANADA",RadioYYC Calgary
-http://206.190.136.140:9833/;stream
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/e65d7c77-6f45-486c-b8de-2eafa8d6a6b1.png" group-title="CANADA",Retro Hits
 http://149.56.183.178:8300/stream
 
