@@ -351,8 +351,6 @@ http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nAkvH0H.png" group-title="USA",Tuff TV
 http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1rlkW2N.png" group-title="USA",TWiT.TV
-http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RQdfZe6.png" group-title="USA",Velocity
 http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
@@ -362,18 +360,6 @@ http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VEPoFCR.png" group-title="USA",Yes TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OWO3nHc.png" group-title="USA",iHeart 80s
-http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gS4pMl4.png" group-title="USA",Lite FM 106.7
-http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/i3qXB7V.png" group-title="USA",Nick Radio
-http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lw3DmJb.png" group-title="USA",Z100 New York
-http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CFHtVxO.png" group-title="USA",360 North
 http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
@@ -615,12 +601,6 @@ http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cWKg7ub.png" group-title="CANADA",Canal Savoir
 http://stream.canalsavoir.tv/livestream/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4o2OvYh.png" group-title="CANADA",CBC Radio One
-http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5bPcylP.png" group-title="CANADA",CBC Radio Two
-http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UyQ9pH4.png" group-title="CANADA",CHCH
 http://52.86.189.59:1935/live/news/chunklist_w479079800.m3u8
 
@@ -650,15 +630,6 @@ http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PKF0ejC.png" group-title="UK",Arise News
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RH6Nqfv.png" group-title="UK",BBC Radio One
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2Ll2RSs.png" group-title="UK",BBC Radio Two
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/n1OXex4.png" group-title="UK",BBC Radio Four
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
@@ -738,41 +709,14 @@ https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/au.png" group-title="LABEL",~ Australia TV ~
 http://www.lengua.com/anthems/Australia.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rewindradio.com/images/stationlogos/55932209c31e01.77524418.jpeg" group-title="AUSTRALIA",2GB Sydney
-http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png" group-title="AUSTRALIA",2SM Sydney
-http://144.140.228.109:8220/mp3/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" group-title="AUSTRALIA",2UE Sydney
 http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" group-title="AUSTRALIA",2UE Sydney [AudioOnly]
-http://shout01.stream.hostworks.com.au/2ue_mp3/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/3awlogo.jpg" group-title="AUSTRALIA",3AW Melbourne
 http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/4bc_brisbane.png" group-title="AUSTRALIA",4BC Brisbane
 http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/1/1d/ABC-Radio-Sydney.png" group-title="AUSTRALIA",ABC Radio Sydney
-http://live-radio02.mediahubaustralia.com/2LRW/aac/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chifley.org.au/wp-content/uploads/2015/04/666_Twitter_400x400.jpg" group-title="AUSTRALIA",ABC Radio Canberra
-http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/470802028856213504/A4Dg37Ey_400x400.jpeg" group-title="AUSTRALIA",ABC Radio National
-http://live-radio01.mediahubaustralia.com/2RNW/aac/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ec/ABC_Jazz.png" group-title="AUSTRALIA",ABC Jazz
-http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/C31_Melbourne_logo_2010.png/400px-C31_Melbourne_logo_2010.png" group-title="AUSTRALIA",C31 Melbourne
-http://manifester-c31.mediafoundry.com.au/stream/c31melbourne/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/44adelaidelogo.png" group-title="AUSTRALIA",Channel 44 Adelaide
-https://manifester-c44adelaide.mediafoundry.com.au/stream/c44adelaide_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://icons.webpatashala.com/Icons/Flag-Borderless-Icons-Deleket-/Png/New-Zealand-01-icon57.PNG" group-title="LABEL",~ New Zealand TV ~
 http://www.lengua.com/anthems/NewZealand.mp3
@@ -2136,9 +2080,6 @@ http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vzTZCxv.png" group-title="MEXICO",ADN 40*
 http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/nnzf41E.png" group-title="MEXICO",AYM Sports [Off]
-https://vivoplay-i.akamaihd.net/hls/live/253483/canal1/master2500k.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5nBBkZX.png" group-title="MEXICO",Azteca Trece
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
@@ -2147,15 +2088,6 @@ http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1659.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO",Azteca Mas
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/n8Ylk80.jpg" group-title="MEXICO",Azteca Cinema [Off]
-http://vivoplay-i.akamaihd.net/hls/live/255328/canal1/master2500k.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/L9jTAPQ.jpg" group-title="MEXICO",Azteca Clic [Off]
-http://vivoplay-i.akamaihd.net/hls/live/255339/canal1/master2500k.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/yrR5sU4.jpg" group-title="MEXICO",Azteca Corazon [Off]
-http://vivoplay-i.akamaihd.net/hls/live/255340/canal1/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/RGUbr5h.png" group-title="MEXICO",Bandamax
 http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
@@ -3968,9 +3900,6 @@ http://208.109.243.12/apiupload/parasInternational/hls/5/parastv/playlist_9.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pratidintime.com/images/logo.png" group-title="INDIA",Pratidin Time
 http://pratidintimestream.in:1935/unevent/timetv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s267066d.png" group-title="INDIA",Raagam Radio
-http://airraagam-lh.akamaihd.net/i/airraagam_1@507820/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://outofline.co.in/wp-content/uploads/2016/09/RSTV-678x381.jpg" group-title="INDIA",Rajya Sabha TV
 http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
