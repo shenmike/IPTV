@@ -789,7 +789,7 @@ http://178.32.57.127:9346/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s166483d.png" group-title="ARGENTINA",Las Voces del Muro
 http://82.145.43.92:8188/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/d955044a-8e30-4750-b45e-38d6b86d26e0.jpg" group-title="ARGENTINA",LatinPOP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/d955044a-8e30-4750-b45e-38d6b86d26e0.jpg" group-title="ARGENTINA",LatinPOP Radio
 http://51.254.164.158:8176/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/e6/22/e6229be4462a0ed2b6af7553d40a1164.jpg" group-title="ARGENTINA",Mute Radio
