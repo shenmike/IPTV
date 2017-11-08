@@ -315,6 +315,9 @@ http://icy-e-bl-07-boh.sharp-stream.com:8000/clyde1low.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/12.png" group-title="UK",Clyde 1 102.5 FM Glasgow [Low-2]
 http://icy-e-bl-07-boh.sharp-stream.com:8000/clyde1low.aac
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple5/v4/2a/a1/1b/2aa11b5a-0b6d-06de-f04d-8249b0444ed5/source/512x512bb.jpg" group-title="UK",Energy FM
+http://188.40.135.197:8434/listen.
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/06/Garden-County-Radio.jpg" group-title="UK",Garden County Radio Dublin
 http://5.63.151.52:7044/stream
 
@@ -438,11 +441,38 @@ http://public-radio1.internode.on.net:8002/114
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/de.png" group-title="LABEL",~ Germany Radio ~
 http://www.lengua.com/anthems/Germany.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.byte.fm/static/images/logo_fb.png" group-title="GERMANY",ByteFM
+http://bytefm.cast.addradio.de/bytefm/main/mid/stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cafe80s.de/Bilder/logo_klein.jpg" group-title="GERMANY",Cafe 80s FM
+http://176.28.10.224:8000
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/13/3b/3216/c300.png" group-title="GERMANY",Casablanca Radio Stuttgart
+http://85.214.234.214:8005
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/35/a1/7020/c175.png" group-title="GERMANY",Country 108 Berlin
+http://tuner.country108.com:80
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://db.radioline.fr/pictures/radio_9d736e9ed878eef0211d535cddd66faf/logo200.jpg" group-title="GERMANY",eRadio One Blue
+http://stage-blue-high.eradio-one.de:62005
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/KCRW_89.9FM_logo.svg/1200px-KCRW_89.9FM_logo.svg.png" group-title="GERMANY",KCRW 104.1 FM Berlin
 http://edg-ams-kcrw.streamguys1.com/kcrw_192k_mp3_berlin
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/WZXJNfU.jpg" group-title="GERMANY",Laut.fm - Zone-Mix
 http://laut.fm/zone-mix
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.de/images/broadcasts/e6/59/40170/1/c175.png" group-title="GERMANY",NDR Plus
+http://addrad.io/4WRJWn
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/68/04/8485/c175.png" group-title="GERMANY",Radio Altstadtwelle
+http://46.4.77.85:8002
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ffn.de/fileadmin/seiten/ffn/presse/2017/feb/bollerwagen_logo.jpg" group-title="GERMANY",Radio Bollerwagen
+http://138.201.252.53/radiobollerwagen_192
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bremer-archive.de/kkatest/wordpress/wp-content/uploads/2013/09/RB4C_POS.jpg" group-title="GERMANY",Radio Bremen - Spezial
+http://80.252.104.101:8000/spezial
 
 #EXTINF:-1 tvg-logo="https://bahaiprayers.net/Content/Images/flags/L%C3%ABtzebuergesch.png" group-title="LABEL",~ Luxembourg Radio ~
 http://www.lengua.com/anthems/Luxembourg.mp3
@@ -495,17 +525,50 @@ http://www.lengua.com/anthems/Netherlands.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio22221_1485860034.jpg" group-title="NETHERLANDS",Direct Life 92.1 FM
 http://198.178.123.23:7368/;stream
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/460661710555082752/3DD-NswR.jpeg" group-title="NETHERLANDS",FunX Den Haag [Opt-1]
+http://icecast.omroep.nl/funx-denhaag-bb-mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/460661710555082752/3DD-NswR.jpeg" group-title="NETHERLANDS",FunX Den Haag [Opt-2]
+http://icecast.omroep.nl/funx-denhaag-sb-mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tribalmixes.com/pic/dj/new/funx-1.png" group-title="NETHERLANDS",FunX HipHop
+http://icecast.omroep.nl/funx-hiphop-sb-mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tribalmixes.com/pic/dj/new/funx-1.png" group-title="NETHERLANDS",FunX Latin [Opt-1]
+http://icecast.omroep.nl/funx-latin-bb-mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tribalmixes.com/pic/dj/new/funx-1.png" group-title="NETHERLANDS",FunX Latin [Opt-2]
+http://icecast.omroep.nl/funx-latin-sb-mp3
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/95/76/11760/c175.png" group-title="NETHERLANDS",Jamm FM
 http://149.210.203.246:8221/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://db.radioline.fr/pictures/radio_9728a94e0e29585236dcd62b9c21dad6/logo200.jpg" group-title="NETHERLANDS",Radio Hoogeveen FM 106.8
+http://radiohoogeveen.ic-stream.nl:6014
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/dk.png" group-title="LABEL",~ Denmark Radio ~
 http://www.lengua.com/anthems/Denmark.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.radiovolna.net/_files/images/164x164/430af0034a5ab04491c763ce6ca3578d/sf/fe5e595e2a02bdfe6554964984.jpg" group-title="DENMARK",Radio Go! FM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.phonostar.de/images/auto_created/dk4184x184.png" group-title="DENMARK",DK4 Schlager Radio
+http://radionord.radiostreaming.dk/DK4schlagerWeb
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://e-vibe.net/images/radimg250237/dk_gofm.jpg" group-title="DENMARK",Radio go! FM 106.5 Arhus
 http://gofm.radiostreaming.dk:8050/gofm
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.radiovolna.net/_files/uploads/posts/2016-06/9b10f40c93ed7df04136791ee0757303.png" group-title="DENMARK",Radio Nord FM 98.6
-http://radionord.radiostreaming.dk/DK4schlagerWeb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.viaway.com/101203_180.png" group-title="DENMARK",Pop FM 100.0 Copenhagen
+http://stream.popfm.dk/pop128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/76/4b/764b06752a23d0dcb0cd7068774754e2.jpg" group-title="DENMARK",Radio ABC Randers [Opt-1]
+http://abc.radiostreaming.dk:8050/abc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/76/4b/764b06752a23d0dcb0cd7068774754e2.jpg" group-title="DENMARK",Radio ABC Randers [Opt-2]
+http://netradio.radioabc.dk/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://e-vibe.net/images/radimg250237/dk_alfa2.jpg" group-title="DENMARK",Radio Alfa
+http://alfa.radiostreaming.dk:8050/alfa
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s113000d.png" group-title="DENMARK",Radio Nord FM 98.6 Copenhagen
+http://radionord.radiostreaming.dk/RadioNord
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.radiovolna.net/_files/uploads/posts/2016-05/a88245113cf2eaec6a3f55b5780e04ba.png" group-title="DENMARK",Radio Silkeborg 107.7 FM
 http://silkeborg.radiostreaming.dk/silkeborg
@@ -620,6 +683,12 @@ http://82.145.43.92:8330/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s152561d.png" group-title="ITALY",Radio Venere 89.9 FM
 http://onair18.xdevel.com:8018/;stream.m4a
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/582931370743357440/BOtNqEwJ.jpg" group-title="ITALY",Radio Voce Amica
+http://listen.shoutcast.com:80/radiovoceamicaverbicaro
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s2614d.png" group-title="ITALY",Sudtirol 1 100.0 FM Trentino-Alto Adige
+http://stream.suedtirolfm.eu:80
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-GfeAte-0pDo/VUT_7peB2CI/AAAAAAAARYE/vmHTZV2qVv0/s1600/Radio%2BVaticano.png" group-title="ITALY",Vatican Radio Europe 93.3 FM
 http://174.142.76.50:9002/channel1.mp3
@@ -957,8 +1026,17 @@ http://sc.abc.com.py:8000/;stream.mp3
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Romania-01.png" group-title="LABEL",~ Romania Radio ~
 http://www.lengua.com/anthems/Romania.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://frissfm.ro/logo.png" group-title="ROMANIA",Friss FM [Opt-1]
+http://live.frissfm.ro:8000/highband.ogg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://frissfm.ro/logo.png" group-title="ROMANIA",Friss FM [Opt-2]
+http://live.frissfm.ro:8000/frissfm
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XNTRZ5E.png" group-title="ROMANIA",Radio Manele
 http://217.182.51.104:8888/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s80599d.png" group-title="ROMANIA",Radio Vox 104.0 FM Nord-Est
+http://stream.voxfm.ro:8000/stream/1/
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Serbia-01.png" group-title="LABEL",~ Serbia Radio ~
 http://www.lengua.com/anthems/Serbia.mp3
