@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1DgSezF.png" group-title="LABEL",* Fluxus Lust
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1DgSezF.png" group-title="INFO",* Fluxus Lust
 http://184.173.142.117:21728/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="LABEL",+ Free Adult VOD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free Adult VOD
 http://184.173.142.117:21728/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="LABEL",< Please Donate
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="INFO",< Please Donate
 http://184.173.142.117:21728/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Nov.07.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Nov.07.2017
 http://184.173.142.117:21728/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LMa8p2F.png" group-title="LABEL",> Like Us!
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LMa8p2F.png" group-title="INFO",> Like Us!
 http://184.173.142.117:21728/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NKYFL5D.png" group-title="INFO",@ Now Available!
