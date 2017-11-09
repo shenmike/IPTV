@@ -90,10 +90,10 @@ http://stream.jewishmusicstream.com:8000/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kcgp.us/images/header.png" group-title="USA",KCGP 106.7 FM Grants Pass
 http://206.190.136.140:9554/;stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ksgn.com/images/ksgn_logo.png" group-title="USA",KSGN 89.7 FM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ksgn.com/images/ksgn_logo.png" group-title="USA",KSGN 89.7 FM Riverside
 http://1.ice1.firststreaming.com:8000/ksgn_fm.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/5f/ce/17570/c175.png" group-title="USA",KRTU-FM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/5f/ce/17570/c175.png" group-title="USA",Jazz 91.7 FM San Antonio
 http://131.194.66.88:9000/krtu_live-36kb
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kuoi.org/wp-content/themes/UI-KUOI-Theme/img/brand-large-kuoi.png" group-title="USA",KUOI-FM 89.3 Moscow
@@ -155,9 +155,6 @@ http://199.180.75.116:80/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://baovecovang2012.files.wordpress.com/2013/10/tieng_nuoc_toi_network_logo.gif" group-title="USA",Tieng Nuoc Toi Radio Atlanta
 http://162.244.80.118:3092/stream/1/
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OcCg9Q1.png" group-title="USA",True Victory Radio
-http://212.83.172.22/radio/56374/stream/93565
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s242212d.png" group-title="USA",WBNC Break-N-Chainz Radio
 http://206.190.136.140:9478/;stream
