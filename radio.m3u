@@ -759,12 +759,6 @@ http://wz3.dnip.com.br/sc_sauda/sc_sauda.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/857680324/logo_uesb_400x400.jpg" group-title="BRAZIL",UESB - FM 97.5 - Vitoria da Conquista
 http://bseufm.uesb.br:8000/;stream/1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/857680324/logo_uesb_400x400.jpg" group-title="BRAZIL",UESB - FM 97.5 - Vitoria da Conquista*
-http://bseufm.uesb.br:8000/;stream/2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/857680324/logo_uesb_400x400.jpg" group-title="BRAZIL",UESB - FM 97.5 - Vitoria da Conquista**
-http://bseufm.uesb.br:8000/;stream/3
-
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Spain-01.png" group-title="LABEL",~ Spain Radio ~
 http://www.lengua.com/anthems/Spain.mp3
 
