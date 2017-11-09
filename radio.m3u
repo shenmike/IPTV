@@ -135,7 +135,7 @@ http://142.4.217.133:9195/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/fpv5bl5ujhk8.jpeg" group-title="USA",Poder 97.1 FM Rochester
 http://poder971.serverroom.net:9242
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s275196/images/logoq.jpg" group-title="USA",Pulso Digital [ES]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s275196/images/logoq.jpg" group-title="USA",Pulso Digital
 http://67.227.220.171:8066/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh6.ggpht.com/NwfkhEn0SDjWXd6CRKqAXMW2_RU9uDhW9lyN3I00ea9diJLX-ltOd5QUTxyZdy1VgPA=w300" group-title="USA",Radio Ashour
