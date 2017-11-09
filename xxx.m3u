@@ -16,7 +16,7 @@ http://184.173.142.117:21728/stream
 http://184.173.142.117:21728/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NKYFL5D.png" group-title="NEW!",@ Get the list!
-https://archive.org/download/fluxustv/Fluxus_TV.mp4
+http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 1
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
