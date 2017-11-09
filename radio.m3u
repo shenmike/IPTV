@@ -342,7 +342,7 @@ http://edge-audio-03-gos2.sharp-stream.com:80/tindleisland.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Kiss_Network_logo.svg/1200px-Kiss_Network_logo.svg.png" group-title="UK",Kiss FM 100.0 London
 http://5.63.151.52:7038/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.promolyrics.com/sites/default/files/logosticker.png" group-title="UK",Mondo Bongo Radio UK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.promolyrics.com/sites/default/files/logosticker.png" group-title="UK",Mondo Bongo Radio
 http://5.63.151.52:7082/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/MsSVDivcCeU/hqdefault.jpg" group-title="UK",Oldskoolscouse.co.uk
