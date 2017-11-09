@@ -480,6 +480,12 @@ http://138.201.252.53/radiobollerwagen_192
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bremer-archive.de/kkatest/wordpress/wp-content/uploads/2013/09/RB4C_POS.jpg" group-title="GERMANY",Radio Bremen - Spezial
 http://80.252.104.101:8000/spezial
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/5e/13/32455/c175.png" group-title="GERMANY",Radio PSR Weihnachts-Superhits
+http://regiocast.hoerradar.de/psr-event01-mp3-mq?sABC=56np67n5#0#6r2s6730spp499143pn15p6q7277r432#enqvbfher
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/78/57/5071/c175.png" group-title="GERMANY",RMNchristmas - Das Weihnachtsradio
+http://87.118.82.236:8092/;
+
 #EXTINF:-1 tvg-logo="https://bahaiprayers.net/Content/Images/flags/L%C3%ABtzebuergesch.png" group-title="LABEL",~ Luxembourg Radio ~
 http://www.lengua.com/anthems/Luxembourg.mp3
 
@@ -831,6 +837,9 @@ http://65.60.62.181:9900/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/k347ys92buh2.jpeg" group-title="MEXICO",La Rancherita del Aire 103.7 FM Piedras Negras
 http://62.210.203.78:7326/
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mexicofmradios.com/wp-content/uploads/2012/09/Super-Stereo-Miled-Toluca-en-vivo.jpg" group-title="MEXICO",Miled Radio 98.9 FM Toluca
+http://192.99.34.205:8068/stream
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://milenio.fm/wp-content/uploads/2017/08/MILENIO-105-1-FM-300x240.png" group-title="MEXICO",Milenio 105.1 FM Guadalajara
 http://radio.promosat.com:8018/stream
 
@@ -857,6 +866,9 @@ http://radiolatina.info:7218/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-G8V3VtELKbQ/AAAAAAAAAAI/AAAAAAAAAAA/O_UAG04Qsks/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO",Tu Musica FM Tijuana
 http://192.254.193.215:8007/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/926434076956901376/S6r5JHyj.jpg" group-title="MEXICO",W Radio 96.9 FM Mexico City
+http://18723.live.streamtheworld.com/W_RADIO_SC
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mexicofmradios.com/wp-content/uploads/2015/11/Zona-Tres-91.5-FM-Guadalajara.jpg" group-title="MEXICO",Zona Tres 91.5 FM Guadalajara
 http://radio.promosat.com:8006/stream
@@ -1460,7 +1472,10 @@ http://10440fm.live24.gr/10440fm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radio.uoc.gr/images/logogo.png" group-title="GREECE",UOC Radio 96.7 FM Heraklion
 http://147.52.178.164:8000/uoc_128.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s130490q.png" group-title="GREECE",Vanilla Radio - Deep Flavors
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s130490q.png" group-title="GREECE",Vanilla Radio - Smooth Flavor
+http://149.202.69.32/listen/w0b4xf0q52mtv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s130490q.png" group-title="GREECE",Vanilla Radio - Deep Flavor
 http://149.202.79.171/listen/egqwgc0q52mtv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/youfm.png" group-title="GREECE",YouFM 100.1
@@ -1705,6 +1720,21 @@ http://72.52.133.57:9300/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/779402027914895360/zbnCG-ac_400x400.jpg" group-title="LEBANON",Radio Magic
 http://37.59.28.208:8600/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2016/11/Radio-Sawa-Lebanon.jpg" group-title="LEBANON",Radio Sawa 87.7 FM Beirut
+http://mbn-channel-07.akacast.akamaistream.net/7/27/233456/v1/ibb.akacast.akamaistream.net/mbn_channel_07
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/99DulNM.png" group-title="LEBANON",Radio One 105.5 FM Beirut
+http://rss-streaming.co.uk:8026/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s14220d.png" group-title="LEBANON",Sawt El Mada 92.4 FM Beirut
+http://audiostreaming.itworkscdn.com:9018/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img1.beirut.com/GetImage3/mainpicture/place/24342/490x300" group-title="LEBANON",Virgin Radio 89.5 FM Beirut
+http://209.15.226.17:9000/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kreimmediacenter.org/Secret_Files/logo_voc.jpg" group-title="LEBANON",Voice of Charity 105.9 FM Beirut
+http://31.14.40.21:4596/;
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Palestine-01.png" group-title="LABEL",~ Palestine Radio ~
 http://users.atw.hu/szbszig/palestine.mp3
