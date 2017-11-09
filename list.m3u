@@ -802,9 +802,6 @@ http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LS89GC9.png" group-title="GERMANY",MagentaMusik 360
 http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_1/magentamusik1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LS89GC9.png" group-title="GERMANY",MagentaMusik 360 [AudioOnly]
-http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_7/magentamusik1.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hms-dev.com/images/logos/references/mdf1_rbw.png" group-title="GERMANY",MDF.1
 http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
 
