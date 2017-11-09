@@ -1733,7 +1733,7 @@ http://audiostreaming.itworkscdn.com:9018/;
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img1.beirut.com/GetImage3/mainpicture/place/24342/490x300" group-title="LEBANON",Virgin Radio 89.5 FM Beirut
 http://209.15.226.17:9000/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kreimmediacenter.org/Secret_Files/logo_voc.jpg" group-title="LEBANON",Voice of Charity 105.9 FM Beirut
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/ff/fe/fffebd29701a57c430ed0b23cb991dc1.jpg" group-title="LEBANON",Voice of Charity 105.9 FM Beirut
 http://31.14.40.21:4596/;
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Palestine-01.png" group-title="LABEL",~ Palestine Radio ~
