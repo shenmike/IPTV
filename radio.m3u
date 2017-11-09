@@ -819,14 +819,32 @@ http://hertz.todoexitos.com:8210/stream
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Mexico-01.png" group-title="LABEL",~ Mexico Radio ~
 http://www.lengua.com/anthems/Mexico.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elchiltepin.mx/fotos/columnistas/b3863010909801f136dbb99f123328e9.jpg" group-title="MEXICO",ElChiltepin.mx Hermosillo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-profiles.tunein.com/s88038/images/logoq.jpg" group-title="MEXICO",Exa 97.3 FM Aguascalientes
+http://tunein.gvstream.net:9046/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elchiltepin.mx/fotos/columnistas/b3863010909801f136dbb99f123328e9.jpg" group-title="MEXICO",El Chiltepin Hermosillo
 http://198.27.64.106:4024/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://chelcu.files.wordpress.com/2008/01/chelcu.jpg" group-title="MEXICO",JarochosRadio.Com Veracruz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://chelcu.files.wordpress.com/2008/01/chelcu.jpg" group-title="MEXICO",Jarochos Radio Veracruz
 http://65.60.62.181:9900/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.turiguide.com/images/radio-ke-buena.png" group-title="MEXICO",Ke Buena 1400 AM Aguascalientes
+http://tunein.gvstream.net:8282/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiouniversal.mx/imagenes/logoLaMejor.gif" group-title="MEXICO",La Mejor 93.7 FM Aguascalientes
+http://tunein.gvstream.net:9232/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s88037q.png" group-title="MEXICO",La Mexicana 860 AM Aguascalientes
+http://tunein.gvstream.net:9042/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radiofm.in/images/rslogo_100w/uploads/rlogo/300/300_1505249390.jpg" group-title="MEXICO",La Poderosa 1130 AM Aguascalientes
+http://201.159.48.107:88/broadwave.mp3?src=2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/k347ys92buh2.jpeg" group-title="MEXICO",La Rancherita del Aire 103.7 FM Piedras Negras
 http://62.210.203.78:7326/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/XHUNO_magia101fm_logo.png/200px-XHUNO_magia101fm_logo.png" group-title="MEXICO",Magia 101.7 FM Aguascalientes
+http://201.159.48.107:88/broadwave.mp3?src=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mexicofmradios.com/wp-content/uploads/2012/09/Super-Stereo-Miled-Toluca-en-vivo.jpg" group-title="MEXICO",Miled Radio 98.9 FM Toluca
 http://192.99.34.205:8068/stream
