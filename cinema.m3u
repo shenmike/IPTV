@@ -16,7 +16,7 @@ http://149.56.23.7:20082/stream
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NKYFL5D.png" group-title="NEW!",@ Get the list!
-https://archive.org/download/fluxustv/Fluxus_TV.mp4
+http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/EN_language_symbol_in_blue_letters_in_a_blue_square.svg/2000px-EN_language_symbol_in_blue_letters_in_a_blue_square.svg.png" group-title="LABEL",~ MOVIES
 http://149.56.23.7:20082/stream
