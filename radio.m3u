@@ -30,6 +30,9 @@ http://163.172.169.217:80/asp-s
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/058f0af8-6395-4c89-900e-88cf4db1c015.png" group-title="USA",Ambient Sleeping Pill [Opt-2]
 http://163.172.169.217:80/asp-h
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://files.ctctcdn.com/41d9ec74001/e998d5b7-fb7e-46de-b0ef-3c98b4ee6562.jpg" group-title="USA",Arab Detroit Radio
+http://192.240.102.133:9590/stream
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/07/Audio-Noir-Radio.jpg" group-title="USA",Audio Noir Radio
 http://198.245.61.123:8000/noir
 
@@ -137,6 +140,9 @@ http://67.227.220.171:8066/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh6.ggpht.com/NwfkhEn0SDjWXd6CRKqAXMW2_RU9uDhW9lyN3I00ea9diJLX-ltOd5QUTxyZdy1VgPA=w300" group-title="USA",Radio Ashour
 http://74.50.122.103:9352/;stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s243959q.png" group-title="USA",Radio Mexico Boston
+http://75.144.206.66:8042/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.smoothjazz.com/themes/smoothjazz/images/sj-circle-logo.png" group-title="USA",SmoothJazz.com Global Radio
 http://144.217.153.67:80/live
@@ -822,6 +828,12 @@ http://198.27.64.106:4024/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://chelcu.files.wordpress.com/2008/01/chelcu.jpg" group-title="MEXICO",JarochosRadio.Com Veracruz
 http://65.60.62.181:9900/stream
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/k347ys92buh2.jpeg" group-title="MEXICO",La Rancherita del Aire 103.7 FM Piedras Negras
+http://62.210.203.78:7326/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://milenio.fm/wp-content/uploads/2017/08/MILENIO-105-1-FM-300x240.png" group-title="MEXICO",Milenio 105.1 FM Guadalajara
+http://radio.promosat.com:8018/stream
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/90/8c/3001/c175.png" group-title="MEXICO",Panda Show Radio
 http://listen.radionomy.com:80/pandashowradio
 
@@ -831,11 +843,23 @@ http://89.46.67.143:9190/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/f3/4f/34942/c175.png" group-title="MEXICO",Radio Mariachi Stream
 http://167.114.64.181:9427/stream
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s2815/images/logod.png" group-title="MEXICO",Radio Mujer 1040 AM Guadalajara
+http://radio.promosat.com:8002/stream
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/0021c827-9960-44a9-a194-a62ab1d1949d.png" group-title="MEXICO",Rclasicos Hermosillo
 http://149.56.23.143:9100/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://proyectopuente.com.mx/wp-content/themes/pp/images/logo.png" group-title="MEXICO",Proyecto Puente Hermosillo
 http://149.56.23.143:8200/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/798640294799413249/_lfb_AvH.jpg" group-title="MEXICO",SalsaMexico
+http://radiolatina.info:7218/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-G8V3VtELKbQ/AAAAAAAAAAI/AAAAAAAAAAA/O_UAG04Qsks/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO",Tu Musica FM Tijuana
+http://192.254.193.215:8007/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mexicofmradios.com/wp-content/uploads/2015/11/Zona-Tres-91.5-FM-Guadalajara.jpg" group-title="MEXICO",Zona Tres 91.5 FM Guadalajara
+http://radio.promosat.com:8006/stream
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Argentina-01.png" group-title="LABEL",~ Argentina Radio ~
 http://www.lengua.com/anthems/Argentina.mp3
@@ -1011,8 +1035,29 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RPP_TRUJI
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/do.png" group-title="LABEL",~ Dominican Republic Radio ~
 http://www.lengua.com/anthems/DominicaRepublic.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/62/3d/623d217769c8b307582fe75ca55bcc0e.jpg" group-title="DOMINICAN REP",Concierto 93.1 FM Santiago
+http://199.217.118.215:8234/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s13456d.png" group-title="DOMINICAN REP",Escandalo FM 107.3 Santo Domingo
+http://199.217.118.215:8062/stream
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/cea025dd-4a7a-49e6-903a-2c52349325be.jpg" group-title="DOMINICAN REP",Kabina34 Radio
 http://192.95.18.39:5556/;stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s186498q.png" group-title="DOMINICAN REP",La Bakana 105.9 FM Santiago
+http://199.217.118.215:8238/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/13be849fbf011456bd15dbc9a8d69aaa.jpg" group-title="DOMINICAN REP",Premium FM 101.1 Santiago
+http://69.64.56.8:8210/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wixstatic.com/media/254364_2793c20315a5495fa3fc82010dffa4e0.jpg/v1/fill/w_592,h_250,al_c,q_80,usm_0.66_1.00_0.01/254364_2793c20315a5495fa3fc82010dffa4e0.jpg" group-title="DOMINICAN REP",Radio Merengue 1210 AM Santo Domingo
+http://199.195.194.12:8132/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radio.linkscomdo.netdna-cdn.com/images/sobipro/entries/73/thumb_raices-102-9-onlinr-en-vivo.jpg" group-title="DOMINICAN REP",Raices 102.9 FM Santo Domingo
+http://69.64.56.8:8120/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sonidosuave.fm/img/Logo_trans.png" group-title="DOMINICAN REP",Sonido Suave 99.3 FM Santo Domingo
+http://199.189.86.69:8002/
 
 #EXTINF:-1 tvg-logo="http://src.vengavisa.com/img/gj/bm/blg.png" group-title="LABEL",~ Paraguay Radio ~
 http://www.lengua.com/anthems/Paraguay.mp3
@@ -1630,6 +1675,9 @@ http://37.187.79.93:8192/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/34/ae/34ae5e5d58f576843597c0282b498f9f.jpg" group-title="LEBANON",Radio Delta 102.1 FM Beirut
 http://72.52.133.57:9300/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/779402027914895360/zbnCG-ac_400x400.jpg" group-title="LEBANON",Radio Magic
+http://37.59.28.208:8600/stream
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Palestine-01.png" group-title="LABEL",~ Palestine Radio ~
 http://users.atw.hu/szbszig/palestine.mp3
