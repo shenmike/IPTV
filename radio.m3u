@@ -345,9 +345,6 @@ http://5.63.151.52:7038/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.promolyrics.com/sites/default/files/logosticker.png" group-title="UK",Mondo Bongo Radio
 http://5.63.151.52:7082/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/MsSVDivcCeU/hqdefault.jpg" group-title="UK",Oldskoolscouse.co.uk
-http://5.63.151.52:7025/stream
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/eb/ea/ebea699f3147021165e0c5127cee9796.jpg" group-title="UK",Original 106.8 FM Aberdeen
 http://stream4.radiomonitor.com/Original106
 
