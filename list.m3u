@@ -1996,12 +1996,6 @@ http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nQoFljD.png" group-title="LATINO",VOD El Chavo [NoRoku]
 https://goo.gl/8W1wKL
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5eJd5M6.png" group-title="LATINO",VOD Futurama [NoRoku]
-https://goo.gl/MDqvhz
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3g8RTz1.png" group-title="LATINO",VOD Los Simpson [NoRoku]
-https://goo.gl/E6jcys
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/yA8JpT1.png" group-title="LATINO",A+E [NoRoku]
 http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
 
