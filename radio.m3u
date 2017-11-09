@@ -1625,39 +1625,6 @@ http://sc.brtk.net:8004/stream
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Israel-01.png" group-title="LABEL",~ Israel Radio ~
 http://www.lengua.com/anthems/Israel.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/e3/14/20609/c175.png" group-title="ISRAEL",100FM - Chillout
-http://digital.100fm.co.il/stream/100Chillout
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/e3/14/20609/c175.png" group-title="ISRAEL",100FM - Dance
-http://digital.100fm.co.il/stream/100Dance
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/e3/14/20609/c175.png" group-title="ISRAEL",100FM - Deep
-http://digital.100fm.co.il/stream/100Deep
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/e3/14/20609/c175.png" group-title="ISRAEL",100FM - Hiphop
-http://digital.100fm.co.il/stream/100Hiphop
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/e3/14/20609/c175.png" group-title="ISRAEL",100FM - Latin
-http://digital.100fm.co.il/stream/100Latin
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/e3/14/20609/c175.png" group-title="ISRAEL",100FM - Number 1
-http://digital.100fm.co.il/stream/100Number1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/e3/14/20609/c175.png" group-title="ISRAEL",100FM - Retro
-http://digital.100fm.co.il/stream/100Retro
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/e3/14/20609/c175.png" group-title="ISRAEL",100FM - Rock
-http://digital.100fm.co.il/stream/100Rock
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/e3/14/20609/c175.png" group-title="ISRAEL",100FM - Special
-http://digital.100fm.co.il/stream/100Special
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/e3/14/20609/c175.png" group-title="ISRAEL",100FM - Trance
-http://digital.100fm.co.il/stream/100Trance
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/e3/14/20609/c175.png" group-title="ISRAEL",100FM - Workout
-http://digital.100fm.co.il/stream/100Workout
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/pzvduk2zkmjw.jpg" group-title="ISRAEL",Eshel 106 FM Jerusalem
 http://stream.eshelnet.com:80/xstream
 
@@ -1670,20 +1637,11 @@ http://glzwizzlv.bynetcdn.com/glz_aes
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/e4/1b/20615/c175.png" group-title="ISRAEL",Kol Hayam Haadom 102 FM
 http://eilat.cdnwz.net/102fm
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lihi.co.il/wp-content/uploads/2015/02/לוגו-רדיו2-150x150.png" group-title="ISRAEL",Kol Ramla 106 FM
-http://84.94.229.99:5693/
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jOPIbyd.png" group-title="ISRAEL",Radio Afula
 http://radioafula.cdnwiz.com/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isr-radio.com/wp-content/uploads/2012/01/dibur1.jpg" group-title="ISRAEL",Radio Darom 101.5 FM
 http://audio-darom.ecast.co.il/darom101
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/de/ee/8449/c300.png" group-title="ISRAEL",Radio Mevaser Tov 770 AM Jerusalem
-http://770tv.no-ip.org:7777
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/0ab2e0b5-b0f0-4a25-8e1d-bae8ca14a273.jpg" group-title="ISRAEL",Radio Mizrahit
-http://www.rs.mizrahit.co.il:7777/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/d839d133-5f56-4d33-9fb1-9a6e56e480f7.jpg" group-title="ISRAEL",Radio Yasoo
 http://radio-yasoo.ath.cx:7500/
