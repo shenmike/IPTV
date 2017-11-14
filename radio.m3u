@@ -1044,11 +1044,29 @@ http://17953.live.streamtheworld.com/PUDAHUELAAC.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/xl/radio38937_1470394293.jpg" group-title="CHILE",Punto 9 107.7 FM Talca
 http://164.77.84.69:8000/online
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/61/56/61569f67f881cbff95a31fa293efaa5f.jpg" group-title="CHILE",RadioActiva 92.5 FM Santiago
+http://18303.live.streamtheworld.com/ACTIVAAAC.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/xl/radio38777_1470148163.jpg" group-title="CHILE",Radio 104.9 FM Pucon
+http://audio.streaminghd.cl:8034/;
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/eBVEfRQMfp.jpeg" group-title="CHILE",Radio Agricultura 92.1 FM [Opt-1]
 http://190.196.10.197:7500
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/eBVEfRQMfp.jpeg" group-title="CHILE",Radio Agricultura 92.1 FM [Opt-2]
 http://unlimited1-cl.dps.live/agricultura/aac/icecast.audio
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.camionchileno.cl/wp-content/uploads/2013/05/logo-radio-alegria-copia.jpg" group-title="CHILE",Radio Alegria del Transporte 90.9 FM Calama
+http://s6.medionline.cl:9364/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.guiapenquista.cl/imagenes/radios/iii-region/diego-de-almagro/radio-almeyda.jpg" group-title="CHILE",Radio Almeyda 94.3 FM Diego de Almagro
+http://192.99.18.164:9974/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio6467_1439401320.jpg" group-title="CHILE",Radio Amanecer 93.7 FM Caldera
+http://107.155.120.114:9954/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chw.net/foro/customavatars/avatar52754_4.gif" group-title="CHILE",Radio Anglo Latina Antofagasta
+http://streaming.radioanglolatina.com:8012/;
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/905753852552601602/9TN4W1_M_400x400.jpg" group-title="CHILE",Radio Bio Bio Concepcion
 http://unlimited1-cl.dps.live/biobioconcepcion/aac/icecast.audio
