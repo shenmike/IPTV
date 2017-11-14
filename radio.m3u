@@ -1158,9 +1158,6 @@ http://stream5.eltelon.com/fenomenal.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s86651d.png" group-title="CHILE",Radio Festiva 100.9 FM Copiapo
 http://s6.jcwebnew.com:8070/;
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s86666d.png" group-title="CHILE",Radio FM Mas 89.1 Arica
-http://cast.radioservicios.cl:8026/fmmas
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/521645493818888192/k4nwu0Ux.jpeg" group-title="CHILE",Radio Futura 100.7 FM Talca
 http://stream5.eltelon.com/futura.aac
 
@@ -1188,9 +1185,6 @@ http://14073.live.streamtheworld.com/IMAGINAAAC.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s1600d.png" group-title="CHILE",Radio La Voz De Yungay 102.7 FM
 http://stream5.eltelon.com/archi-yungay.aac?type=.flv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000848613443/7a5bb604caff1cf4a147004de2f4fdb9_400x400.png" group-title="CHILE",Radio Las Nieves 102.9 FM Puerto Aysen
-http://s6.jcwebnew.com:7060/;
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s128880d.png" group-title="CHILE",Radio Llacolen 1600 AM Concepcion
 http://sc.digitalproserver.com:9532/;
 
@@ -1215,11 +1209,89 @@ http://s3.medionline.cl:7960/;
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s10001q.png" group-title="CHILE",Radio Paloma 97.5 FM Talca
 http://radio1.us.mediastre.am/paloma.aac
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/QLys5SgYsy.jpg" group-title="CHILE",Radio Plus 106.9 FM Antofagasta
+http://sonando.us.digitalproserver.com/fmplus_aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.raddios.com/public/radios/grande/747_grande.jpg" group-title="CHILE",Radio Portales 1180 AM Santiago
+http://s6.jcwebnew.com:8060/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radiosdechile.org/wp-content/uploads/2014/10/3X250-radio-primavera-arica.jpg" group-title="CHILE",Radio Primavera 93.5 FM Arica
+http://cast.radioservicios.cl:9350/web
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mejillones.cl/2014nuevo/wp-content/uploads/2010/09/Radio-Rinconada-94.31.jpg" group-title="CHILE",Radio Rinconada 94.3 FM Mejillones
+http://server4.radiostreaming.cl:8062/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://78.media.tumblr.com/59507a71a23dac1f832da8658b848b01/tumblr_oszpswnLTp1ukwghwo1_500.png" group-title="CHILE",Radio Romina 92.5 FM Antofagasta
+http://198.50.154.235:10246/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s84726q.png" group-title="CHILE",Radio San Bartolome 96.7 FM La Serena
+http://stream5.eltelon.com/san-bartolome.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/830988794576900096/1eYzFLXy.jpg" group-title="CHILE",Radio Santiago 690 AM Orquestra
+http://167.114.119.122:9982/;stream/1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/830988794576900096/1eYzFLXy.jpg" group-title="CHILE",Radio Santiago 690 AM Romantica
+http://167.114.119.122:9978/;stream/1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.unap.cl/egresados/credencial/etiqueta-radioSiente.jpg" group-title="CHILE",Radio Siente Arica
+http://radio1.us.mediastre.am/siente.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s120137d.png" group-title="CHILE",Radio Sur 92.1 FM Los Angeles
+http://ww3.radiosur.cl:5074/rsur
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LOGO_RADIO_SOL.png/225px-LOGO_RADIO_SOL.png" group-title="CHILE",Radio Sol 97.7 FM Antofagasta [Opt-1]
+http://online.radiosol.cl:8000/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LOGO_RADIO_SOL.png/225px-LOGO_RADIO_SOL.png" group-title="CHILE",Radio Sol 97.7 FM Antofagasta [Opt-2]
+http://stream5.eltelon.com/sol-radio.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.raddios.com/public/radios/grande/3017_grande.jpg" group-title="CHILE",Radio UDEC 95.1 FM Concepcion
+http://radio.udec.cl:8000/radioudec
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/464175765030830080/mhyG89bN.png" group-title="CHILE",Radio Universidad de Antofagasta 99.9 FM
+http://200.54.114.230:8000/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_radio_universidad_de_chile.png" group-title="CHILE",Radio Universidad de Chile 102.5 FM Santiago
+http://stream3.rbm.cl:8010/playerweb.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-zYP1wV5xg8o/UsNQd8wvZrI/AAAAAAAABCY/pWtqJkOS2WA/s1600/universidad-de-tarapaca.png" group-title="CHILE",Radio Universidad de Tarapaca 95.9 FM Arica
+http://stream5.eltelon.com:8000/universidad-de-tarapaca.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vinculacion.userena.cl/images/fotos_ovm/Noticias/2013/junio/radiouniversitaria.jpg" group-title="CHILE",Radio Universitaria La Serena 94.5 FM
+http://radio.cic.userena.cl:8000/radio-uls
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/85/f3/85f3536fbd4518bf05f4788f0967b2a4.jpg" group-title="CHILE",Radio Universo 93.7 FM Santiago
+http://tunein.digitalproserver.com/universobb.aac
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/8f/bd/8fbd99db989b6cc63fc72b1c9a2cd2a9.jpg" group-title="CHILE",Radio Uno 97.1 FM Santiago
 http://17933.live.streamtheworld.com/RADIO_UNOAAC.aac
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radioventisqueros.cl/web/wp-content/uploads/2014/10/logo.png" group-title="CHILE",Radio Ventisqueros 97.7 FM Coyhaique
+http://stream5.eltelon.com:8000/ventisqueros.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/d7734552-e366-4d4b-83ef-21a7941578ac.gif" group-title="CHILE",Radio Zero 97.7 FM Santiago
+http://tunein.digitalproserver.com/zerobb.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/f6/f9/f6f99c9b2f3b15830534382994d418bf.jpg" group-title="CHILE",Rock + Pop 94.1 FM Santiago
+http://18423.live.streamtheworld.com/ROCK_AND_POPAAC.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://videovolante.cl/wp-content/uploads/2015/09/ROCKAXIS1.png" group-title="CHILE",Rockaxis
+http://radio.cl.mediastre.am/rockaxis.aac
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s237287d.png" group-title="CHILE",Santiago Underground
 http://192.99.99.37:8234/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sonarfm.cl/sonarfm/imag/img_default/default_300x250.jpg" group-title="CHILE",Sonar 105.3 FM Santiago
+http://mp3.sonarfm.cl/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/SYuQF5eUPW.png" group-title="CHILE",Tiempo FM 95.9 Santiago
+http://tunein.digitalproserver.com/fmtiempobb.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9AsM40f.png" group-title="CHILE",UCT Radio Temuco
+http://audio.uctradio.cl/radio
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/774229911208943616/N4EYAX_u.jpg" group-title="CHILE",UCSC 820 AM Concepcion
+http://ip.audiostreaming.cl:9764/;
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/ecuador/flag-button-square-250.png" group-title="LABEL",~ Ecuador Radio ~
 http://www.lengua.com/anthems/Ecuador.mp3
