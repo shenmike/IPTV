@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="INFO",< Please Donate
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Nov.13.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Nov.14.2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -1130,6 +1130,87 @@ http://190.196.10.197:8233
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.viaway.com/100265_180.png" group-title="CHILE",Radio Cooperativa 106.7 FM [Opt-2]
 http://unlimited1-cl.dps.live/cooperativafm/aac/icecast.audio
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio38709_1470054272.jpg" group-title="CHILE",Radio Coyhaique 95.3 FM
+http://stream5.eltelon.com/radio-coyhaique.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ke0Ferz.jpg" group-title="CHILE",Radio Definitiva 90.5 FM Tocopilla
+http://192.198.83.230:8772/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://db.radioline.fr/pictures/radio_79425f161875ee59431bee5abcdd44f4/logo200.jpg" group-title="CHILE",Radio Desierto 92.1 FM Antofagasta
+http://167.114.208.100:9864/;stream1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s121079q.png" group-title="CHILE",Radio Dinamica 100.7 FM Santiago
+http://stream5.eltelon.com/dinamica.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s25108d.png" group-title="CHILE",Radio Duna 89.7 FM Santiago
+http://tunein.digitalproserver.com/dunabb.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2HjwGDD.jpg" group-title="CHILE",Radio Entretenida 92.5 FM Vilcun
+http://167.114.208.100:9844/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s102687d.png" group-title="CHILE",Radio Extrema 106.1 FM Puerto Saavedra
+http://stream5.eltelon.com/radio-extrema.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio38726_1470068516.jpg" group-title="CHILE",Radio Fenomenal 93.9 FM Coyhaique
+http://stream5.eltelon.com/fenomenal.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s86651d.png" group-title="CHILE",Radio Festiva 100.9 FM Copiapo
+http://s6.jcwebnew.com:8070/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s86666d.png" group-title="CHILE",Radio FM Mas 89.1 Arica
+http://cast.radioservicios.cl:8026/fmmas
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/521645493818888192/k4nwu0Ux.jpeg" group-title="CHILE",Radio Futura 100.7 FM Talca
+http://stream5.eltelon.com/futura.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.raddios.com/public/radios/original/1554.jpg" group-title="CHILE",Radio Galaxia
+http://sscl.denialstream.com:8830/;stream/1.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/xl/radio38750_1470131755.jpg" group-title="CHILE",Radio Genesis 94.1 FM Andacollo
+http://stream5.eltelon.com/genesis-andacollo.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/xl/radio38775_1502241503.jpg" group-title="CHILE",Radio Genesis 96.5 FM Curacautin
+http://stream5.eltelon.com/genesis.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/XXfka_jyhSs/maxresdefault.jpg" group-title="CHILE",Radio Genial 100.5 FM Coyhaique
+http://s6.jcwebnew.com:7555/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiogennesis.cl/images/logo.png" group-title="CHILE",Radio Gennesis 92.7 FM Copiapo
+http://atanua.broadcastchile.cl:7000/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/8/3248.png" group-title="CHILE",Radio Illapel 96.5 FM
+http://200.111.113.18:8500/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.radio.orange.com/radios/large_prisa_radio_imagina__santiago.png" group-title="CHILE",Radio Imagina 88.1 FM Santiago
+http://14073.live.streamtheworld.com/IMAGINAAAC.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s1600d.png" group-title="CHILE",Radio La Voz De Yungay 102.7 FM
+http://stream5.eltelon.com/archi-yungay.aac?type=.flv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000848613443/7a5bb604caff1cf4a147004de2f4fdb9_400x400.png" group-title="CHILE",Radio Las Nieves 102.9 FM Puerto Aysen
+http://s6.jcwebnew.com:7060/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s128880d.png" group-title="CHILE",Radio Llacolen 1600 AM Concepcion
+http://sc.digitalproserver.com:9532/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.magistralfm.cl/envivo/bann_galvarino.jpg" group-title="CHILE",Radio Magistral 93.9 FM Galvarino
+http://www.magistralfm.cl:9110/galvarino
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://db.radioline.fr/pictures/radio_6c2d2785246121848f835f67580df788/logo200.jpg" group-title="CHILE",Radio Marcela 99.1 FM Huasco
+http://stream5.eltelon.com/archi-marcela.aac?type=.flv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radiomejillones.cl/WQEWQEWQE.png" group-title="CHILE",Radio Mejillones 100.9 FM
+http://s6.medionline.cl:8006/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiosfmam.com.ar/logo/5/7/radiomiradorfm909a.jpg" group-title="CHILE",Radio Mirador 90.9 FM Lautaro
+http://demo.dyndns.biz:8016/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/904105577009352704/o6NLW-ig.jpg" group-title="CHILE",Radio Nativa FM 106.5 Lumaco
+http://stream5.eltelon.com/nativa.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radionuevomundo.cl/wp-content/uploads/2017/08/logo-radio-nuevo-mundo-face-300x300.png" group-title="CHILE",Radio Nuevo Mundo 88.9 FM Ovalle
+http://s3.medionline.cl:7960/;
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s10001q.png" group-title="CHILE",Radio Paloma 97.5 FM Talca
 http://radio1.us.mediastre.am/paloma.aac
