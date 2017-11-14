@@ -117,6 +117,9 @@ http://c8icy.prod.playlists.ihrhls.com/2477_icy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/xhqB0IJ.png" group-title="USA",Lite FM 106.7 New York
 http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lamega.sbs.co/wp-content/uploads/sites/14/2015/04/lamega-ny-radio-logo.png" group-title="USA",Mega 97.9 FM New York
+http://54.159.81.128/sbsystems-wskqfmaac-ib-64?
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JvYuakR.png" group-title="USA",Music Choice - Christmas Music
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-158/chunklist.m3u8
 
@@ -783,8 +786,14 @@ http://hdstreamflash-lh.akamaihd.net/i/Gaztea_Irratia_1@109222/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/30/c4/30c44f5b2d1593c81beefe7a88aa611c.jpg" group-title="SPAIN",Impossible Radio Zaragoza
 http://82.145.43.92:8398/stream
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://los40es00.epimg.net/los40/imagenes/2008/12/11/actualidad/1228950000_293197_1273518600.jpg" group-title="SPAIN",Los 40 Principales
+http://20103.live.streamtheworld.com/LOS40_SC
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/674249245386522625/D7JivI5Z_400x400.jpg" group-title="SPAIN",Lugo Si Radio 96.9 FM
 http://82.223.248.142:8080/lugosiradio
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radiofmgratis.com/wp-content/uploads/2017/02/maxima-fm-logo-1.jpeg" group-title="SPAIN",Maxima FM 104.2 Barcelona
+http://18003.live.streamtheworld.com/MAXIMAFMAAC.aac?
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=259x10000:format=jpg/path/s039f5422e1b1ab2f/image/i2408dc90f01be8de/version/1489836567/image.jpg" group-title="SPAIN",Onda Pacheli 107.6 FM Madrid
 http://95.154.202.117:8257
@@ -849,11 +858,14 @@ http://201.159.48.107:88/broadwave.mp3?src=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/k347ys92buh2.jpeg" group-title="MEXICO",La Rancherita del Aire 103.7 FM Piedras Negras
 http://62.210.203.78:7326/
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://los40es00.epimg.net/los40/imagenes/2008/12/11/actualidad/1228950000_293197_1273518600.jpg" group-title="MEXICO",Los 40 Principales
+http://19173.live.streamtheworld.com/LOS40_MEXICOAAC.aac?
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/XHUNO_magia101fm_logo.png/200px-XHUNO_magia101fm_logo.png" group-title="MEXICO",Magia 101.7 FM Aguascalientes
 http://201.159.48.107:88/broadwave.mp3?src=1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mexicofmradios.com/wp-content/uploads/2012/09/Super-Stereo-Miled-Toluca-en-vivo.jpg" group-title="MEXICO",Miled Radio 98.9 FM Toluca
-http://192.99.34.205:8068/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s88436d.png" group-title="MEXICO",Maxima FM 106.7 Guadalajara
+http://192.99.16.17:3410/;
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://milenio.fm/wp-content/uploads/2017/08/MILENIO-105-1-FM-300x240.png" group-title="MEXICO",Milenio 105.1 FM Guadalajara
 http://radio.promosat.com:8018/stream
@@ -879,11 +891,17 @@ http://149.56.23.143:8200/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/798640294799413249/_lfb_AvH.jpg" group-title="MEXICO",SalsaMexico
 http://radiolatina.info:7218/
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mexicofmradios.com/wp-content/uploads/2012/09/Super-Stereo-Miled-Toluca-en-vivo.jpg" group-title="MEXICO",Super Stereo Miled 98.9 FM Toluca
+http://192.99.34.205:8068/stream
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-G8V3VtELKbQ/AAAAAAAAAAI/AAAAAAAAAAA/O_UAG04Qsks/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO",Tu Musica FM Tijuana
 http://192.254.193.215:8007/;
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/926434076956901376/S6r5JHyj.jpg" group-title="MEXICO",W Radio 96.9 FM Mexico City
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/926434076956901376/S6r5JHyj.jpg" group-title="MEXICO",W Radio 96.9 FM Mexico City [Opt-1]
 http://18723.live.streamtheworld.com/W_RADIO_SC
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/926434076956901376/S6r5JHyj.jpg" group-title="MEXICO",W Radio 96.9 FM Mexico City [Opt-2]
+http://14033.live.streamtheworld.com/W_RADIO_SC
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mexicofmradios.com/wp-content/uploads/2015/11/Zona-Tres-91.5-FM-Guadalajara.jpg" group-title="MEXICO",Zona Tres 91.5 FM Guadalajara
 http://radio.promosat.com:8006/stream
