@@ -52,6 +52,10 @@ http://50.7.76.250:8790/stream
 " group-title="USA",Cult Radio A-Go-Go!
 http://162.252.85.85:8502
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://collectingclassicmonsters.com/wp-content/uploads/CultRadioA-Go-Go-CRAGG1.png
+" group-title="USA",Cult Radio A-Go-Go!*
+http://162.252.85.85:8502/listen.pls
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-media2.fl.yelpcdn.com/bphoto/ha-Mwd_GP_cQ4Reejz_KEQ/258s.jpg" group-title="USA",CvsRadio1 - Reggae Jam
 http://74.50.122.103:9128/;stream
 
