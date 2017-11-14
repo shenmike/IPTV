@@ -1215,9 +1215,6 @@ http://sonando.us.digitalproserver.com/fmplus_aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.raddios.com/public/radios/grande/747_grande.jpg" group-title="CHILE",Radio Portales 1180 AM Santiago
 http://s6.jcwebnew.com:8060/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radiosdechile.org/wp-content/uploads/2014/10/3X250-radio-primavera-arica.jpg" group-title="CHILE",Radio Primavera 93.5 FM Arica
-http://cast.radioservicios.cl:9350/web
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mejillones.cl/2014nuevo/wp-content/uploads/2010/09/Radio-Rinconada-94.31.jpg" group-title="CHILE",Radio Rinconada 94.3 FM Mejillones
 http://server4.radiostreaming.cl:8062/;
 
@@ -1227,10 +1224,7 @@ http://198.50.154.235:10246/;
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s84726q.png" group-title="CHILE",Radio San Bartolome 96.7 FM La Serena
 http://stream5.eltelon.com/san-bartolome.aac
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/830988794576900096/1eYzFLXy.jpg" group-title="CHILE",Radio Santiago 690 AM Orquestra
-http://167.114.119.122:9982/;stream/1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/830988794576900096/1eYzFLXy.jpg" group-title="CHILE",Radio Santiago 690 AM Romantica
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/830988794576900096/1eYzFLXy.jpg" group-title="CHILE",Radio Santiago 690 AM
 http://167.114.119.122:9978/;stream/1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.unap.cl/egresados/credencial/etiqueta-radioSiente.jpg" group-title="CHILE",Radio Siente Arica
