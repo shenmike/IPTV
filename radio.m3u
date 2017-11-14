@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="INFO",< Please Donate
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Nov.09.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Nov.13.2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -918,11 +918,50 @@ http://blaster.cdn.sion.com:1935/rockandpop/audioweb/playlist.m3u
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Chile-01.png" group-title="LABEL",~ Chile Radio ~
 http://www.lengua.com/anthems/Chile.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lZS2jEH.png" group-title="CHILE",FM7 89.7 FM Antofagasta
-http://198.50.154.235:10258/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.alternativafm.cl/uploads/1/8/7/9/18792502/1477764287.png" group-title="CHILE",Alternativa FM Huasco
+http://107.155.120.114:9944/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/507290912519909376/6NICBFGx.jpeg" group-title="CHILE",Amanda 94.9 FM Buin
+http://amanda.cmtelcom.com/amanda128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/652223230288261120/lZ_fwJmS.png" group-title="CHILE",Arcoiris 99.3 FM Coyhaique
+http://s6.jcwebnew.com:8120/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s123103d.png" group-title="CHILE",Atractiva 95.3 FM San Ignacio
+http://5.9.65.9:8062/atractiva
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://players.grupodial.cl/player/radio/img/8748d09e5106f7cde72238254479942806192055.png" group-title="CHILE",Beethoven FM 96.5 Santiago
+http://tunein.digitalproserver.com/beethovenbb.aac
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/719191369277927425/NNPKDQ8D.jpg" group-title="CHILE",Cautiva 101.3 FM San Fernando
 http://164.77.84.69:8000/cautiva
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/57/cf/57cf545ee832ffd429aa2eb5155a0337.jpg" group-title="CHILE",Concierto 88.5 FM Santiago
+http://19793.live.streamtheworld.com/CONCIERTOAAC.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/76/a3/76a3bb72126c15336af2b7d542fce1ed.jpg" group-title="CHILE",Corazon 101.3 FM Santiago
+http://18493.live.streamtheworld.com/CORAZONAAC.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radiocreaciones.cl/wp-content/uploads/2017/06/Logo_radio_creaciones-1-1024x257.png" group-title="CHILE",Creaciones 107.5 FM Temuco
+http://188.165.187.84:8049/stream?type=.mp3?1458229740632.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/436858829645418496/RSe3f8bs_400x400.png" group-title="CHILE",Digital FM 99.1 FM Iquique
+http://mimix.mercurio.cl:8000/digitalfm
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/46/a5/46a566c0e6280f19e2b57500421c1256.jpg" group-title="CHILE",Digital FM 91.1 Santiago
+http://mimix.mercurio.cl:8000/digitalfm
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dixifm.com/images/logo.jpg" group-title="CHILE",Dixi FM 106.9 Barnechea
+http://192.99.150.234:9940
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s13748d.png" group-title="CHILE",El Conquistador FM 98.9 Concepcion
+http://stream5.eltelon.com/el-conquistador-concepcion.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/649347178578751488/VHOcr-W7.jpg" group-title="CHILE",Esperanza FM 101.3 Temuco
+http://s6.jcwebnew.com:7800/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lZS2jEH.png" group-title="CHILE",FM7 89.7 FM Antofagasta
+http://198.50.154.235:10258/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/_nYsBmbBJ9A/hqdefault.jpg" group-title="CHILE",FmOkey Arica [Opt-1]
 http://186.103.222.235:8000/FmOkAR.aac
