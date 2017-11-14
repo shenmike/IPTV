@@ -150,6 +150,9 @@ http://75.144.206.66:8042/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.smoothjazz.com/themes/smoothjazz/images/sj-circle-logo.png" group-title="USA",SmoothJazz.com Global Radio
 http://144.217.153.67:80/live
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vau9Z0B.png" group-title="USA",Smooth Jazz 107.1 FM Sacramento
+http://c9.prod.playlists.ihrhls.com/4242/playlist.m3u8?listeningSessionID=573aa3a50116edba_230911_zluekKxF_0000000ofY5&downloadSessionID=0&at=0&clientType=web&fb_broadcast=0&init_id=8169&modTime=1463691594128&pname=OrganicWeb&profileid=248665060&birthYear=null&territory=US&host=webapp.US&listenerId=2af9feef0b0210de61e97b0c25264388&uid=1463690853820&gender=null&age=null&amsparams=playerid:iHeartRadioWebPlayer;skey:1463691594&terminalid=159&zipcode=null&awparams=g:null;n:null;ccaud:["10358","10410","10385","10032","10093","10379","10488","10290","10085","10167","10404","10022","10097","10078","10029","10359","10010","10277","all","10018","10275","10202","10019","10028","10396","10407","10008","10043","10094","10030","10393","10103","10017","10088","10468","10086"];companionAds:true&playedFrom=338
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jazzgroove.org/theme/16/img/logo-circle-white1-no-org.png" group-title="USA",The Jazz Groove
 http://199.180.75.116:80/stream
 
@@ -158,6 +161,9 @@ http://162.244.80.118:3092/stream/1/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s242212d.png" group-title="USA",WBNC Break-N-Chainz Radio
 http://206.190.136.140:9478/;stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ideastream-production.s3.amazonaws.com/images/about/logo-wcpn.png" group-title="USA",WCPN 90.3 FM Cleveland
+http://audio1.ideastream.org/wcpn128.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/9e/80/f1/9e80f1a6ecba9309ecb05a429ecb3946--smooth-jazz-strength.jpg" group-title="USA",WDRS-FM Smooth Jazz + R&B
 http://198.105.220.12:2478/listen.
@@ -2021,6 +2027,12 @@ http://users.atw.hu/szbszig/palestine.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/86/44/864453a3150c3638a15fe442edbfdf34.jpg" group-title="PALESTINE",Ashams Radio - FM 98.1
 http://ashams.livecdn.biz/ashams_aac
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Egypt-01.png" group-title="LABEL",~ Egypt Radio ~
+http://www.lengua.com/anthems/Egypt.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s101892q.png" group-title="EGYPT",Mahatet Masr 88.7 FM Cairo
+mmsh://205.164.56.70:80/mahatetmasr?MSWMExt=.asf
 
 #EXTINF:-1 tvg-logo="http://www.i2clipart.com/cliparts/d/e/e/2/clipart-za-256x256-dee2.png" group-title="LABEL",~ South Africa Radio ~
 http://www.lengua.com/anthems/SouthAfrica.mp3
