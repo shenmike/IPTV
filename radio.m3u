@@ -2031,7 +2031,7 @@ http://ashams.livecdn.biz/ashams_aac
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Egypt-01.png" group-title="LABEL",~ Egypt Radio ~
 http://www.lengua.com/anthems/Egypt.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s101892q.png" group-title="EGYPT",Mahatet Masr 88.7 FM Cairo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s101892q.png" group-title="EGYPT",Mahatet Masr
 mmsh://205.164.56.70:80/mahatetmasr?MSWMExt=.asf
 
 #EXTINF:-1 tvg-logo="http://www.i2clipart.com/cliparts/d/e/e/2/clipart-za-256x256-dee2.png" group-title="LABEL",~ South Africa Radio ~
