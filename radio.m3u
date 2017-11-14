@@ -969,6 +969,24 @@ http://186.103.222.235:8000/FmOkCP.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/_nYsBmbBJ9A/hqdefault.jpg" group-title="CHILE",FmOkey Copiapo [Opt-2]
 http://186.103.222.235:8000/FmOkCP.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/12/bb/12bb5896c08bd9bedf5baa40057625cc.jpg" group-title="CHILE",FM Dos 98.5 FM Santiago
+http://18913.live.streamtheworld.com/FMDOSAAC.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s16225q.png" group-title="CHILE",Futuro FM 88.9 Santiago
+http://19793.live.streamtheworld.com/FUTUROAAC.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/507920177455841280/PSLP_sdm.png" group-title="CHILE",Krishna FM Antofagasta
+http://cast3.serverhost.cl:8760/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/492428322970677248/Cj_ouzTo.jpeg" group-title="CHILE",La Discusion 94.7 FM Chillan
+http://stream5.eltelon.com/radio-la-discusion.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/db/66/1d/db661dc6-75a5-220c-eb98-82269a06e2c9/source/256x256bb.jpg" group-title="CHILE",LoActual 96.7 FM Calama
+http://rs.comtic.net:8000/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s10436d.png" group-title="CHILE",Los 40 101.7 FM Santiago
+http://18733.live.streamtheworld.com/LOS40_CHILEAAC.aac
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EYBTUii.jpg" group-title="CHILE",Madero FM 102.5 Antofagasta
 http://unlimited1-cl.digitalproserver.com/madero_antofagasta/mp3/icecast.audio
 
@@ -977,6 +995,51 @@ http://unlimited1-cl.digitalproserver.com/madero_copiapo/mp3/icecast.audio
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EYBTUii.jpg" group-title="CHILE",Madero FM 93.5 Coquimbo
 http://unlimited1-cl.digitalproserver.com/madero_serena/mp3/icecast.audio
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.maximafm.cl/maximachile/MAXIMAchile.jpg" group-title="CHILE",Maxima FM 99.1 Antofagasta
+http://cast3.serverhost.cl:8764/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiosplay.com/logos/8/9/7/897.png" group-title="CHILE",Montecarlo Sur 100.9 FM Angol
+http://cast3.serverhost.cl:8784/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/s7nMMEt.png" group-title="CHILE",Niu Radio
+http://live-origin.us.niu.cl/niu_radio.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/s7nMMEt.png" group-title="CHILE",Niu Pop
+http://live-origin.us.niu.cl/niu_pop.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/s7nMMEt.png" group-title="CHILE",Niu Indie
+http://live-origin.us.niu.cl/niu_indie.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/s7nMMEt.png" group-title="CHILE",Niu Rock
+http://live-origin.us.niu.cl/niu_rock.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/s7nMMEt.png" group-title="CHILE",Niu CL
+http://live-origin.us.niu.cl/niu_cl.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/s7nMMEt.png" group-title="CHILE",Niu 80s
+http://live-origin.us.niu.cl/niu_80s.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/s7nMMEt.png" group-title="CHILE",Niu 90s
+http://live-origin.us.niu.cl/niu_90s.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/s7nMMEt.png" group-title="CHILE",Niu LIVE
+http://live-origin.us.niu.cl/niu_live.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oasisfm.cl/oasisfm/imag/img_default/default_port300.jpg" group-title="CHILE",Oasis FM 102.1 Santiago
+http://mp3.oasisfm.cl/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s152241d.png" group-title="CHILE",Positiva FM 105.5 Concepcion
+http://mimix.mercurio.cl:8000/concepcion2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s152241d.png" group-title="CHILE",Positiva FM 98.5 FM Temuco
+http://mimix.mercurio.cl:8000/temuco2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s152241d.png" group-title="CHILE",Positiva FM 98.5 Valdivia
+http://mimix.mercurio.cl:8000/valdivia2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s25172d.png" group-title="CHILE",Pudahuel FM 90.5 Santiago
+http://17953.live.streamtheworld.com/PUDAHUELAAC.aac
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/xl/radio38937_1470394293.jpg" group-title="CHILE",Punto 9 107.7 FM Talca
 http://164.77.84.69:8000/online
