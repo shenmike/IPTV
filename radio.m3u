@@ -1095,17 +1095,35 @@ http://unlimited1-cl.dps.live/biobiovalparaiso/aac/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KAADZLI.jpg" group-title="CHILE",Radio Camara de Diputados
 http://www.radiocamara.cl:8000/;stream.mp3/1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KAADZLI.jpg" group-title="CHILE",Radio Camara de Diputados*
-http://www.radiocamara.cl:8000/;stream.mp3/2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cncmedios.cl/radiocanal/wp-content/uploads/sites/8/2016/08/LOGO-canal95-Cuadrado.png" group-title="CHILE",Radio Canal 95 88.1 FM Antofagasta
+http://sonando.us.digitalproserver.com/canal95_aac
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KAADZLI.jpg" group-title="CHILE",Radio Camara de Diputados**
-http://www.radiocamara.cl:8000/;stream.mp3/3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/xl/radio38690_1470049468.jpg" group-title="CHILE",Radio Candelaria 106.9 FM Tierra Amarilla
+http://stream5.eltelon.com/candelaria.aac
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s121393d.png" group-title="CHILE",Radio Caramelo 99.5 FM Angol
 http://190.196.10.197:8120
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static1.squarespace.com/static/58ff3f0cc534a54886e897b6/t/5903a266d1758e4dabadbe54/1509029382881/?format=1500w" group-title="CHILE",Radio Carinosa 92.1 FM Chillan
+http://stream5.eltelon.com/carinosa-chillan.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s86643d.png" group-title="CHILE",Radio Carnaval 96.5 FM Antofagasta
+http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiocentinela.cl/images/Radio%201.jpg" group-title="CHILE",Radio Centinela 93.9 FM Yumbel
+http://s3.medionline.cl:9964
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.centrofm.cl/images/logo.png" group-title="CHILE",Radio Centro 103.3 FM Antofagasta
+http://stream5.eltelon.com/centro.aac
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/xl/radio39216_1506708096.jpg" group-title="CHILE",Radio Chilena 1030 AM Concepcion
 http://unlimited1-cl.digitalproserver.com/chilena/aac/icecast.audio
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-4BaAzS71yXc/UQAeCvKcBQI/AAAAAAAAFkw/TwU5yNbbj4I/s1600/radio%2Bclub%2B80%2Blogo%2B2013.jpg" group-title="CHILE",Radio Club 80
+http://play.enhd.co:7024/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/3321229046/4c3d880d464d1154e41c56f7dcd8a597_400x400.jpeg" group-title="CHILE",Radio Comunicativa 93.7 FM Ovalle
+http://ip.audiostreaming.cl:9996/;
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.viaway.com/100265_180.png" group-title="CHILE",Radio Cooperativa 106.7 FM [Opt-1]
 http://190.196.10.197:8233
