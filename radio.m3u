@@ -924,12 +924,6 @@ http://107.155.120.114:9944/;
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/507290912519909376/6NICBFGx.jpeg" group-title="CHILE",Amanda 94.9 FM Buin
 http://amanda.cmtelcom.com/amanda128
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/652223230288261120/lZ_fwJmS.png" group-title="CHILE",Arcoiris 99.3 FM Coyhaique
-http://s6.jcwebnew.com:8120/;
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s123103d.png" group-title="CHILE",Atractiva 95.3 FM San Ignacio
-http://5.9.65.9:8062/atractiva
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Hlr7QbN.png" group-title="CHILE",Beethoven FM 96.5 Santiago
 http://tunein.digitalproserver.com/beethovenbb.aac
 
@@ -945,14 +939,8 @@ http://18493.live.streamtheworld.com/CORAZONAAC.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radiocreaciones.cl/wp-content/uploads/2017/06/Logo_radio_creaciones-1-1024x257.png" group-title="CHILE",Creaciones 107.5 FM Temuco
 http://188.165.187.84:8049/stream?type=.mp3?1458229740632.aac
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/436858829645418496/RSe3f8bs_400x400.png" group-title="CHILE",Digital FM 99.1 FM Iquique
-http://mimix.mercurio.cl:8000/digitalfm
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/46/a5/46a566c0e6280f19e2b57500421c1256.jpg" group-title="CHILE",Digital FM 91.1 Santiago
 http://mimix.mercurio.cl:8000/digitalfm
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dixifm.com/images/logo.jpg" group-title="CHILE",Dixi FM 106.9 Barnechea
-http://192.99.150.234:9940
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s13748d.png" group-title="CHILE",El Conquistador FM 98.9 Concepcion
 http://stream5.eltelon.com/el-conquistador-concepcion.aac
