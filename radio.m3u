@@ -48,8 +48,7 @@ http://38.100.128.106:8000/fmlive
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/553394749642522624/OdBQw_vV.png" group-title="USA",Crooner Radio
 http://50.7.76.250:8790/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://collectingclassicmonsters.com/wp-content/uploads/CultRadioA-Go-Go-CRAGG1.png
-" group-title="USA",Cult Radio A-Go-Go!
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://collectingclassicmonsters.com/wp-content/uploads/CultRadioA-Go-Go-CRAGG1.png" group-title="USA",Cult Radio A-Go-Go!
 http://s10.voscast.com:8502/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-media2.fl.yelpcdn.com/bphoto/ha-Mwd_GP_cQ4Reejz_KEQ/258s.jpg" group-title="USA",CvsRadio1 - Reggae Jam
