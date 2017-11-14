@@ -786,7 +786,7 @@ http://hdstreamflash-lh.akamaihd.net/i/Gaztea_Irratia_1@109222/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/30/c4/30c44f5b2d1593c81beefe7a88aa611c.jpg" group-title="SPAIN",Impossible Radio Zaragoza
 http://82.145.43.92:8398/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://los40es00.epimg.net/los40/imagenes/2008/12/11/actualidad/1228950000_293197_1273518600.jpg" group-title="SPAIN",Los 40 Principales
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s10436d.png" group-title="SPAIN",Los 40 93.9 FM Madrid
 http://20103.live.streamtheworld.com/LOS40_SC
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/674249245386522625/D7JivI5Z_400x400.jpg" group-title="SPAIN",Lugo Si Radio 96.9 FM
@@ -858,7 +858,7 @@ http://201.159.48.107:88/broadwave.mp3?src=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/k347ys92buh2.jpeg" group-title="MEXICO",La Rancherita del Aire 103.7 FM Piedras Negras
 http://62.210.203.78:7326/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://los40es00.epimg.net/los40/imagenes/2008/12/11/actualidad/1228950000_293197_1273518600.jpg" group-title="MEXICO",Los 40 Principales
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s10436d.png" group-title="MEXICO",Los 40 101.7 FM Mexico City
 http://19173.live.streamtheworld.com/LOS40_MEXICOAAC.aac?
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/XHUNO_magia101fm_logo.png/200px-XHUNO_magia101fm_logo.png" group-title="MEXICO",Magia 101.7 FM Aguascalientes
