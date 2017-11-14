@@ -69,13 +69,13 @@ http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1Jcwc5O.png" group-title="USA",iHeartRadio Countdown
 http://18073.live.streamtheworld.com:80/IHR_IHRCAAC.aac
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qLJiAuy.png" group-title="USA",iHeartRadio - Kids Club
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qLJiAuy.png" group-title="USA",iHeartRadio Kids Club
 http://18073.live.streamtheworld.com/IHR_KIDSCLUBAAC.aac
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/By8OGzZ.png" group-title="USA",iHeartRadio - Nick Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/By8OGzZ.png" group-title="USA",iHeartRadio Nick Radio
 http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fezei9Y.png" group-title="USA",iHeartRadio X-Mas
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fezei9Y.png" group-title="USA",iHeartRadio Christmas
 http://14833.live.streamtheworld.com:80/IHR_IHADAAC.aac
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://secureimg.stitcher.com/feedimagesplain328/68797.jpg" group-title="USA",InfoWars - Alex Jones Show
