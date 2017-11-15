@@ -1629,6 +1629,51 @@ http://stream.exeamedia.com/tottorelay
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tottoturadio.com/img/logo.png" group-title="COLOMBIA",Totto Tu Radio
 http://stream02.exeamedia.com:8080/tottotuweb
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qScn0Ry.png" group-title="COLOMBIA",Tropicana 88.6 FM Tunja
+http://17973.live.streamtheworld.com/TR_TUNJAAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qScn0Ry.png" group-title="COLOMBIA",Tropicana 89.1 FM Barranquilla
+http://17973.live.streamtheworld.com/TR_BARRANQUILLAAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qScn0Ry.png" group-title="COLOMBIA",Tropicana 89.7 FM Cucuta
+http://17973.live.streamtheworld.com/TR_CUCUTAAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qScn0Ry.png" group-title="COLOMBIA",Tropicana 93.1 FM Cali
+http://17973.live.streamtheworld.com/TR_CALIAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qScn0Ry.png" group-title="COLOMBIA",Tropicana 98.3 FM Neiva
+http://17973.live.streamtheworld.com/TR_NEIVAAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qScn0Ry.png" group-title="COLOMBIA",Tropicana 100.1 FM Pasto
+http://17973.live.streamtheworld.com/TR_PASTOAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qScn0Ry.png" group-title="COLOMBIA",Tropicana 100.7 FM Pereira
+http://17973.live.streamtheworld.com/TR_PEREIRAAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qScn0Ry.png" group-title="COLOMBIA",Tropicana 102.0 FM Monteria
+http://17973.live.streamtheworld.com/TR_MONTERIAAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qScn0Ry.png" group-title="COLOMBIA",Tropicana 102.9 FM Bogota
+http://19493.live.streamtheworld.com/TROPICANAAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qScn0Ry.png" group-title="COLOMBIA",Tropicana 102.9 FM Medellin
+http://17973.live.streamtheworld.com/TR_MEDELLINAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qScn0Ry.png" group-title="COLOMBIA",Tropicana 104.7 FM Armenia
+http://17973.live.streamtheworld.com/TR_ARMENIAAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qScn0Ry.png" group-title="COLOMBIA",Tropicana 104.7 FM Bucaramanga
+http://14073.live.streamtheworld.com/TR_BUCARAMANGAAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qScn0Ry.png" group-title="COLOMBIA",Tropicana 105.7 FM Manizales
+http://17973.live.streamtheworld.com/TR_MANIZALESAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qScn0Ry.png" group-title="COLOMBIA",Tropicana 106.1 FM Popayan
+http://17973.live.streamtheworld.com/TR_POPAYANAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qScn0Ry.png" group-title="COLOMBIA",Tropicana 106.3 FM Ibague
+http://17973.live.streamtheworld.com/TR_IBAGUEAAC.aac?
+
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/ecuador/flag-button-square-250.png" group-title="LABEL",~ Ecuador Radio ~
 http://www.lengua.com/anthems/Ecuador.mp3
 
