@@ -768,6 +768,9 @@ http://tier1.radiostreamlive.com:8080/radioamericalatina_devices
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sintonizeradios.com/wp-content/uploads/2015/11/Bons-Tempos-150x150-150x150.jpg" group-title="BRAZIL",Radio Bons Tempos
 http://wz3.dnip.com.br/sc_sauda/sc_sauda.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fenaert.org.br/images/2010fmodia_Cor_Trao.jpg" group-title="BRAZIL",Radio O Dia 100.5 FM Rio
+http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/857680324/logo_uesb_400x400.jpg" group-title="BRAZIL",UESB - FM 97.5 - Vitoria da Conquista
 http://bseufm.uesb.br:8000/;stream/1
 
