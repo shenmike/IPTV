@@ -1560,9 +1560,6 @@ http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/nbr.png" group-title="BRAZIL",NBR
 http://ebcremuxlive-live.hls.adaptive.level3.net:80/hls-live/ebcremuxlive-ebctvnbr/_definst_/live/stream1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fenaert.org.br/images/2010fmodia_Cor_Trao.jpg" group-title="BRAZIL",Radio FM O Dia 100.5
-http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radiomeninabc.portalmenina.com.br/images/logo-radio-bc.png" group-title="BRAZIL",Radio Menina TV
 http://173.236.10.10:1935/tvmocinha/tvmocinha/playlist.m3u8
 
