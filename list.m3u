@@ -60,11 +60,41 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.ezshield.com/wp-content/uploads/images/differentiators/24-7-icon.png" group-title="LABEL",~ 24/7 ~
 http://stream.dubstep.fm:80/256mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/12976.jpg" group-title="24/7",Action Movies [Beta]
+https://manifest.googlevideo.com/api/manifest/hls_variant/go/1/signature/C847C257DF74A6334102A210A5407046857B2EB3.BA5675E24937DF3C74A117D13A158D3F27808500/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/itag/0/txs/23709505%2C23709506/ip/179.43.188.182/beids/%5B9466592%5D/playlist_type/DVR/maudio/1/key/yt6/expire/1510801102/id/_T2U8onmN60.0/ipbits/0/tx/23709506/requiressl/yes/source/yt_live_broadcast/gcr/ch/file/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://screentalk.com.au/wp-content/uploads/2016/04/7.jpg" group-title="24/7",Fantasy/Aventure Movies [Beta]
+https://manifest.googlevideo.com/api/manifest/hls_variant/gcr/ch/tx/23709506/itag/0/id/tcgX4ROucZg.1/requiressl/yes/ip/179.43.188.182/beids/%5B9466592%5D/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/signature/60C43CA6210F208EE62162D50B5CF23978243E11.9A0684086C597A9D03D6F09DC2CBEDB94FE54B03/go/1/ipbits/0/source/yt_live_broadcast/playlist_type/DVR/expire/1510801161/key/yt6/maudio/1/txs/23709505%2C23709506/file/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14558.jpg" group-title="24/7",Horror Movies [Beta]
+https://manifest.googlevideo.com/api/manifest/hls_variant/maudio/1/expire/1510801761/signature/868553478A167722884C17DE87E8E9C3F9093C0A.42B1CB38101A7BE951C7CCF10CDCC34E927F9EB1/go/1/ipbits/0/playlist_type/DVR/gcr/ch/source/yt_live_broadcast/tx/23709506/itag/0/id/MBoPt2d5eOo.1/key/yt6/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/txs/23709505%2C23709506/beids/%5B9466592%5D/requiressl/yes/ip/179.43.188.182/file/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://assets.huluim.com/shows/key_art_lifetime_movies.jpg" group-title="24/7",Lifetime Movies [Beta]
+https://manifest.googlevideo.com/api/manifest/hls_variant/source/yt_live_broadcast/go/1/tx/23709506/ip/179.43.188.182/itag/0/maudio/1/ipbits/0/playlist_type/DVR/beids/%5B9466592%5D/signature/CA2C9CC2D120B1645E56947BBD0D632319CE6184.A667745FA53D37791C8CE555654EBEC03B550103/id/sy6ZIbaM0Dc.1/gcr/ch/key/yt6/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/requiressl/yes/txs/23709505%2C23709506/expire/1510801221/file/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/l4U9IrW.jpg" group-title="24/7",Peliculas en Espanol [Beta]
+https://manifest.googlevideo.com/api/manifest/hls_variant/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/source/yt_live_broadcast/go/1/id/9LpJQfoowmQ.1/tx/23709506/key/yt6/ip/179.43.188.182/ipbits/0/playlist_type/DVR/maudio/1/beids/%5B9466592%5D/expire/1510801461/txs/23709505%2C23709506/gcr/ch/itag/0/signature/748541C40DAC3AFBE2418E4014D4C5F8B88D06EA.6D3B86114C757304B7BFD9105FA007B9E1D12555/requiressl/yes/file/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.cdn.turner.com/adultswim/big/video/mainstream/liveStream.jpg" group-title="24/7",Adult Swim Live
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://when-will.net/images/artikel/2015/september/Black-Jesus.jpg" group-title="24/7",Black Jesus
 http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/xIoOBmoX5m4/maxresdefault.jpg" group-title="24/7",Camp Lazlo [Beta]
+https://manifest.googlevideo.com/api/manifest/hls_variant/id/rK-e9WHZ-SQ.1/signature/58F2F64B522FEE494CD1B92FF958D771EE21CCFF.35C7F14D759C2B8FD152E7F670933033B125B353/tx/23709506/gcr/ch/expire/1510801581/ip/179.43.188.182/key/yt6/source/yt_live_broadcast/maudio/1/go/1/playlist_type/DVR/ipbits/0/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/itag/0/beids/%5B9466592%5D/requiressl/yes/txs/23709505%2C23709506/file/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Count_duckula_titles.jpg/250px-Count_duckula_titles.jpg" group-title="24/7",Count Duckula [Beta]
+https://manifest.googlevideo.com/api/manifest/hls_variant/ip/179.43.188.182/itag/0/ipbits/0/go/1/tx/23709506/id/MOGYULZ9QJw.1/beids/%5B9466592%5D/source/yt_live_broadcast/key/yt6/playlist_type/DVR/expire/1510801341/maudio/1/signature/50863A6E4FDE1A663683FCA7580ADF8FD9230EBE.6EC06471D545DC083B7E58A6B0A2CF95C11CB5B5/txs/23709505%2C23709506/requiressl/yes/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/gcr/ch/file/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Courage_the_Cowardly_Dog_intertitle.jpg" group-title="24/7",Courage the Cowardly Dog [Beta]
+https://manifest.googlevideo.com/api/manifest/hls_variant/go/1/playlist_type/DVR/maudio/1/key/yt6/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/ipbits/0/expire/1510801521/ip/179.43.188.182/tx/23709506/id/Fh4rX8xXbYo.25/requiressl/yes/signature/1CDFB2C6ECE4B8454F64A1E68015738AFA054BF4.5D180C9A7E1A391BA8415381CF9549D1BF27F5D6/beids/%5B9466592%5D/source/yt_live_broadcast/itag/0/txs/23709505%2C23709506/gcr/ch/file/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.tvtropes.org/pmwiki/pub/images/nvtelen.JPG" group-title="24/7",Cow and Chicken [Beta]
+https://manifest.googlevideo.com/api/manifest/hls_variant/signature/2A32C05C7839AA024965F4B57D6EA072B8716CFB.5EE907D33EFF7726975C92086AED067544C58C46/playlist_type/DVR/beids/%5B9466592%5D/ip/179.43.188.182/itag/0/tx/23709506/gcr/ch/ipbits/0/source/yt_live_broadcast/id/Q5581clNIaE.2/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/requiressl/yes/maudio/1/txs/23709505%2C23709506/key/yt6/expire/1510801702/go/1/file/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/edwikia/images/b/b2/Excitement.jpg" group-title="24/7",Ed Edd n Eddy [Beta]
+https://manifest.googlevideo.com/api/manifest/hls_variant/id/ApKkZbCx3pM.4/tx/23709506/itag/0/requiressl/yes/playlist_type/DVR/signature/4BF11F378178E68482F7B93FBF59CFA979B813C7.6FFF0637DFD68D8B0360A6D4FFF9032624277C58/ip/179.43.188.182/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/gcr/ch/maudio/1/key/yt6/go/1/beids/%5B9466592%5D/expire/1510801401/source/yt_live_broadcast/ipbits/0/txs/23709505%2C23709506/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/n1AJtRokP_w/maxresdefault.jpg" group-title="24/7",Fish Tank
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
