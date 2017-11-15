@@ -1317,6 +1317,60 @@ http://audio.uctradio.cl/radio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/774229911208943616/N4EYAX_u.jpg" group-title="CHILE",UCSC 820 AM Concepcion
 http://ip.audiostreaming.cl:9764/;
 
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Colombia-01.png" group-title="LABEL",~ Colombia Radio ~
+http://www.lengua.com/anthems/Colombia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rimixradio.com/audio/img/123vallenato.jpg" group-title="COLOMBIA",123Vallenato
+http://radiolatina.info:7087/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/96/b5/96b588101f81146429bed9a5e22dc1ca.jpg" group-title="COLOMBIA",Arriba Colombia Cajica
+http://cdn.instream.audio:9137/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s272312d.png" group-title="COLOMBIA",Bakanisima Stereo HD
+http://195.154.133.107:8739/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/cd836e05-ae28-4e81-924f-976cb7abed08.png" group-title="COLOMBIA",Barrancabermeja Virtual
+http://stream1.305stream.com:8240/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s108018d.png" group-title="COLOMBIA",Barranquilla Estereo 91.1 FM
+http://radio.yaservers.com:8197/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio36794_1464257209.png" group-title="COLOMBIA",Besame 97.4 FM Bogota
+http://14933.live.streamtheworld.com/BESAME_NACIONALAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radios-emisoras.info/radios/bogota/logo-bluradio.png" group-title="COLOMBIA",Bluradio 89.9 FM Bogota
+http://19233.live.streamtheworld.com/BLURADIO_SC
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/ec/23/ec2341eb9598ac6def9220f8d2ea412b.jpg" group-title="COLOMBIA",Bogota Beer Company Radio
+http://smoke.wavestreamer.com:8502/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bombafmradio.net/index/images/logobombaweb.png" group-title="COLOMBIA",Bomba FM 91.9 Cali
+http://46.4.33.73:10600/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.viaway.com/106031_180.png" group-title="COLOMBIA",Cadena Super 970 AM Bogota
+http://www.cadenasuper.com:8002/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radios-emisoras.info/radios/bogota/candela.jpeg" group-title="COLOMBIA",Candela Estereo 101.9 FM Bogota
+http://17983.live.streamtheworld.com/CANDELAESTEREO_SC
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/782721367665934337/ZHe1geiX_400x400.jpg" group-title="COLOMBIA",Caracol Radio
+http://16643.live.streamtheworld.com/CARACOL_RADIOAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/XgwlZLNq8cap9rMQUDlcRCC368k3T2vPowMEDu1ix661jbiONQFpajF2_ZUxv1p2maw=w300" group-title="COLOMBIA",Carnaval X Siempre Barranquilla
+http://178.32.57.127:9320/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/559685662048124928/qfXLEEU1.png" group-title="COLOMBIA",Contagio Radio
+http://184.154.90.186:8137/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/769251306062028801/pBWaelyD.jpg" group-title="COLOMBIA",Coca-Cola FM
+http://ic.imusicaradios.com.br:8000/colombia.stream.http?url=tunein
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/bF95UJzkAS.png" group-title="COLOMBIA",Colmundo Radio 1040 AM Bogota
+http://192.163.226.125:9992/;
+
+
+
+
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/ecuador/flag-button-square-250.png" group-title="LABEL",~ Ecuador Radio ~
 http://www.lengua.com/anthems/Ecuador.mp3
 
