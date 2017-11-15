@@ -1539,10 +1539,10 @@ http://17973.live.streamtheworld.com/OXI_MANIZALESAAC.aac?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/czi3Ac7.png" group-title="COLOMBIA",Oxigeno 93.1 FM Cali
 http://17973.live.streamtheworld.com/OXI_CALIAAC.aac?
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/czi3Ac7.png" group-title="COLOMBIA",Oxigeno FM 93.7 Pereira
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/czi3Ac7.png" group-title="COLOMBIA",Oxigeno 93.7 FM Pereira
 http://17973.live.streamtheworld.com/OXI_PEREIRAAAC.aac?
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/czi3Ac7.png" group-title="COLOMBIA",Oxigeno FM 95.7 Bucaramanga
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/czi3Ac7.png" group-title="COLOMBIA",Oxigeno 95.7 FM Bucaramanga
 http://18703.live.streamtheworld.com/OXI_BUCARAMAAAC.aac?
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/czi3Ac7.png" group-title="COLOMBIA",Oxigeno 100.4 FM Bogota
@@ -1556,6 +1556,78 @@ http://17973.live.streamtheworld.com/OXI_MEDELLINAAC.aac?
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/czi3Ac7.png" group-title="COLOMBIA",Oxigeno 106.9 FM Popayan
 http://17973.live.streamtheworld.com/OXI_POPAYANAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s181601d.png" group-title="COLOMBIA",Popular Stereo 105.6 FM Barranquilla
+http://radio30.virtualtronics.com:8192/stream/1/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://is2.mzstatic.com/image/thumb/Purple118/v4/20/50/c4/2050c4a3-9829-e7f2-4dff-7c07b78ddeea/source/175x175bb.jpg" group-title="COLOMBIA",Popular Stereo Bucaramanga
+http://192.99.150.42:9304/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://envivo.radioacktiva.com/assets/radioacktivacolombia/img/300x300.png?v=20171107_1145" group-title="COLOMBIA",Radioacktiva 97.9 FM Bogota
+http://208.80.54.77/RADIO_ACTIVA_SC
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/6/25766.v1.png" group-title="COLOMBIA",Radio Guatapuri 740 AM Valledupar
+http://198.27.88.38:7106/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radiozapatoca.com/wp-content/uploads/2017/08/RADIOLENGUERKE.png" group-title="COLOMBIA",Radio Lenguerke 1420 AM Bucaramanga
+http://172.245.202.218:8000/live
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radioshd.com/archivos/radio-noticias-470x470.jpg" group-title="COLOMBIA",Radio Noticias Estereo Cucuta
+http://162.252.57.90:48010/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/888372476547301376/tWl3tQIG.jpg" group-title="COLOMBIA",Radio Policia Nacional 92.4 FM Bogota
+http://real2.streaming-co.com:8228/stream?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s98741d.png" group-title="COLOMBIA",Radio Tiempo 96.1 FM Barranquilla
+http://i50.letio.com/9100.aac?type=.flv?type=.flv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s98741d.png" group-title="COLOMBIA",Radio Tiempo 105.9 FM Medellin
+http://i50.letio.com/9146.aac?type=.flv?type=.flv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s114673q.png" group-title="COLOMBIA",Radio Uno 88.9 FM Bogota
+http://live4.rcnmundo.com/radiouno.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s114673q.png" group-title="COLOMBIA",Radio Uno 106.7 FM Bucaramanga
+http://live4.rcnmundo.com/radiouno.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/9b/d5/9bd561249e4152ee4b0a17eb5642fd60.jpg" group-title="COLOMBIA",RCN 1220 AM San Gil
+http://live4.rcnmundo.com/rcnlaradiosangil.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s193738q.png" group-title="COLOMBIA",RCN Colombianisima
+http://live3.rcnmundo.com/colombianisima.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.colombiaredes.net/images/clientes/rcn_radio.png" group-title="COLOMBIA",RCN La Radio 93.9 FM Bogota
+http://live1.rcnmundo.com/rcnlaradio.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rcnmundo.com/wp-content/uploads/2015/09/rcnradio_logo.png" group-title="COLOMBIA",RCN Radio
+http://live1.rcnmundo.com/rcnradio.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png" group-title="COLOMBIA",Rumba 89.7 FM Barrancabermeja
+http://live1.rcnmundo.com/rumbabarranca.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png" group-title="COLOMBIA",Rumba 91.3 FM Caucasia
+http://live4.rcnmundo.com/rumbacaucasia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png" group-title="COLOMBIA",Rumba 98.2 FM Barbosa
+http://live1.rcnmundo.com/rumbabarbosa.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png" group-title="COLOMBIA",Rumba 102.5 FM Cartagena
+http://live1.rcnmundo.com/rumbacartagena.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png" group-title="COLOMBIA",Rumba 103.7 FM Bucaramanga
+http://live3.rcnmundo.com/rumbabucaramanga.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png" group-title="COLOMBIA",Rumba 105.4 FM Bogota
+http://live4.rcnmundo.com/rumba.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png" group-title="COLOMBIA",Rumba 106.9 FM Medellin
+http://live3.rcnmundo.com/rumbamedellin.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tottoradio.com/img/logo.png" group-title="COLOMBIA",Totto Radio
+http://stream.exeamedia.com/tottorelay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tottoturadio.com/img/logo.png" group-title="COLOMBIA",Totto Tu Radio
+http://stream02.exeamedia.com:8080/tottotuweb
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/ecuador/flag-button-square-250.png" group-title="LABEL",~ Ecuador Radio ~
 http://www.lengua.com/anthems/Ecuador.mp3
