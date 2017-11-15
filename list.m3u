@@ -89,6 +89,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/go/1/playlist_type/DVR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.tvtropes.org/pmwiki/pub/images/nvtelen.JPG" group-title="24/7",Cow and Chicken [Beta]
 https://manifest.googlevideo.com/api/manifest/hls_variant/signature/2A32C05C7839AA024965F4B57D6EA072B8716CFB.5EE907D33EFF7726975C92086AED067544C58C46/playlist_type/DVR/beids/%5B9466592%5D/ip/179.43.188.182/itag/0/tx/23709506/gcr/ch/ipbits/0/source/yt_live_broadcast/id/Q5581clNIaE.2/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/requiressl/yes/maudio/1/txs/23709505%2C23709506/key/yt6/expire/1510801702/go/1/file/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Gua4q1m.jpg" group-title="24/7",Disney Cartoon Classics [Beta]
+https://manifest.googlevideo.com/api/manifest/hls_variant/id/F612tjqkAak.0/itag/0/tx/23709506/txs/23709505%2C23709506/requiressl/yes/beids/%5B9466592%5D/ip/179.43.188.182/key/yt6/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/ipbits/0/go/1/maudio/1/expire/1510806741/signature/18409B98FD82E3902F7CB9D8C13CD19E30D7129F.349FDBCD71928833DD27F6D7921E6AE65FCD33C6/playlist_type/DVR/gcr/ch/source/yt_live_broadcast/file/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/edwikia/images/b/b2/Excitement.jpg" group-title="24/7",Ed Edd n Eddy [Beta]
 https://manifest.googlevideo.com/api/manifest/hls_variant/id/ApKkZbCx3pM.4/tx/23709506/itag/0/requiressl/yes/playlist_type/DVR/signature/4BF11F378178E68482F7B93FBF59CFA979B813C7.6FFF0637DFD68D8B0360A6D4FFF9032624277C58/ip/179.43.188.182/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/gcr/ch/maudio/1/key/yt6/go/1/beids/%5B9466592%5D/expire/1510801401/source/yt_live_broadcast/ipbits/0/txs/23709505%2C23709506/file/index.m3u8
 
@@ -121,6 +124,9 @@ https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Steven_Universe_logo.svg/1200px-Steven_Universe_logo.svg.png" group-title="24/7",Steven Universe
 https://live.ponies.fr/hls/sug-hd/sug.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/VNneDuq.jpg" group-title="24/7",Talking Tom and Friends [Beta]
+https://manifest.googlevideo.com/api/manifest/hls_variant/source/yt_live_broadcast/playlist_type/DVR/expire/1510806681/gcr/ch/tx/23709506/id/-9V8u1x4u7c.1/signature/0BC0283CD614986F4D67A1BE25BF9B9F3B85B35A.748F9BA19EBCE249E908640EFF05FE99C2527F97/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/txs/23709505%2C23709506/ipbits/0/ip/179.43.188.182/key/yt6/requiressl/yes/itag/0/go/1/beids/%5B9466592%5D/maudio/1/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png" group-title="24/7",The Eric Andre Show
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
@@ -244,6 +250,9 @@ http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EvfdMSA.jpg" group-title="USA",Fox Business Network [NoKodi]
 http://fbntve-i.akamaihd.net/hls/live/200667/fbntve/HD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MHcgYBr.png" group-title="USA",Fox News Channel [Beta]
+https://manifest.googlevideo.com/api/manifest/hls_variant/key/yt6/itag/0/source/yt_live_broadcast/requiressl/yes/playlist_type/DVR/id/hMD1mg3XAbE.1/tx/23709506/beids/%5B9466592%5D/maudio/1/signature/5059DCDB7F3084DD78228351A736A7B043410105.C764A6B38B6A9DC4A3CD20745C5831A4602E93A1/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/txs/23709505%2C23709506/gcr/ch/ip/179.43.188.182/expire/1510806261/ipbits/0/go/1/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cYXoeB0.png" group-title="USA",Fox News Radio
 http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
