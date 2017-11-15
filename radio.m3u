@@ -1527,6 +1527,36 @@ http://i50.letio.com/9132.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jgym8iP.png" group-title="COLOMBIA",Olimpica Stereo 105.9 FM Bogota
 http://i60.letio.com/9114.aac?type=.flv?type=.flv
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/czi3Ac7.png" group-title="COLOMBIA",Oxigeno 90.1 FM Barranquilla
+http://i50.letio.com/9102.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/czi3Ac7.png" group-title="COLOMBIA",Oxigeno 90.7 FM Armenia
+http://i50.letio.com/9162.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/czi3Ac7.png" group-title="COLOMBIA",Oxigeno 91.7 FM Manizales
+http://17973.live.streamtheworld.com/OXI_MANIZALESAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/czi3Ac7.png" group-title="COLOMBIA",Oxigeno 93.1 FM Cali
+http://17973.live.streamtheworld.com/OXI_CALIAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/czi3Ac7.png" group-title="COLOMBIA",Oxigeno FM 93.7 Pereira
+http://17973.live.streamtheworld.com/OXI_PEREIRAAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/czi3Ac7.png" group-title="COLOMBIA",Oxigeno FM 95.7 Bucaramanga
+http://18703.live.streamtheworld.com/OXI_BUCARAMAAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/czi3Ac7.png" group-title="COLOMBIA",Oxigeno 100.4 FM Bogota
+http://i50.letio.com/9114.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/czi3Ac7.png" group-title="COLOMBIA",Oxigeno 100.7 FM Cucuta
+http://17973.live.streamtheworld.com/OXI_CUCUTAAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/czi3Ac7.png" group-title="COLOMBIA",Oxigeno 102.9 FM Medellin
+http://17973.live.streamtheworld.com/OXI_MEDELLINAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/czi3Ac7.png" group-title="COLOMBIA",Oxigeno 106.9 FM Popayan
+http://17973.live.streamtheworld.com/OXI_POPAYANAAC.aac?
+
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/ecuador/flag-button-square-250.png" group-title="LABEL",~ Ecuador Radio ~
 http://www.lengua.com/anthems/Ecuador.mp3
 
