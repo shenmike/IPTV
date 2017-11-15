@@ -1407,25 +1407,25 @@ http://live4.rcnmundo.com/lafmbucaramanga.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lakalle.bluradio.com/images/logo.png" group-title="COLOMBIA",La Kalle 96.9FM Bogota
 http://14073.live.streamtheworld.com/LA_KALLE.mp3?
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/915943818809225216/mWdUHR9V_400x400.jpg" group-title="COLOMBIA",La Mega 89.3 FM Girardot
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/748866184326549504/TkLpYojz.jpg" group-title="COLOMBIA",La Mega 89.3 FM Girardot
 http://live1.rcnmundo.com/lamegagirardot.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/915943818809225216/mWdUHR9V_400x400.jpg" group-title="COLOMBIA",La Mega 90.9 FM Bogota
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/748866184326549504/TkLpYojz.jpg" group-title="COLOMBIA",La Mega 90.9 FM Bogota
 http://live3.rcnmundo.com/lamega.aac
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/915943818809225216/mWdUHR9V_400x400.jpg" group-title="COLOMBIA",La Mega 92.1 FM Buenaventura
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/748866184326549504/TkLpYojz.jpg" group-title="COLOMBIA",La Mega 92.1 FM Buenaventura
 http://live1.rcnmundo.com/lamegabuenaventura.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/915943818809225216/mWdUHR9V_400x400.jpg" group-title="COLOMBIA",La Mega 92.5 FM Cali
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/748866184326549504/TkLpYojz.jpg" group-title="COLOMBIA",La Mega 92.5 FM Cali
 http://live1.rcnmundo.com/lamegacali.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/915943818809225216/mWdUHR9V_400x400.jpg" group-title="COLOMBIA",La Mega 92.9 FM Medellin
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/748866184326549504/TkLpYojz.jpg" group-title="COLOMBIA",La Mega 92.9 FM Medellin
 http://live3.rcnmundo.com/lamegamedellin.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/915943818809225216/mWdUHR9V_400x400.jpg" group-title="COLOMBIA",La Mega 94.5 FM Cartagena
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/748866184326549504/TkLpYojz.jpg" group-title="COLOMBIA",La Mega 94.5 FM Cartagena
 http://live1.rcnmundo.com/lamegacartagena.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/915943818809225216/mWdUHR9V_400x400.jpg" group-title="COLOMBIA",La Mega 102.5 FM Bucaramanga
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/748866184326549504/TkLpYojz.jpg" group-title="COLOMBIA",La Mega 102.5 FM Bucaramanga
 http://live1.rcnmundo.com/lamegabucaramanga.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/453890047800930304/V3JOtPHN_400x400.png" group-title="COLOMBIA",La Mega Retro
@@ -1460,6 +1460,72 @@ http://14073.live.streamtheworld.com/LOS40_COLUMBIAAAC.aac?
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s10436d.png" group-title="COLOMBIA",Los 40 94.4 FM Medellin
 http://17973.live.streamtheworld.com/LOS40COL_MEDAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/T1oEnPA.png" group-title="COLOMBIA",Melodia Para Dos Pereira
+http://195.154.56.114:7006/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s86596d.png" group-title="COLOMBIA",Melodia Stereo 730 AM Bogota
+http://i50.letio.com/7000.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://baricharaemisoramirador.com/wp-content/uploads/2016/03/Logo.jpg" group-title="COLOMBIA",Mirador Stereo 103.2 FM Barichara
+http://50.30.40.140:8338/;stream.nsv&type=mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jgym8iP.png" group-title="COLOMBIA",Olimpica Stereo 89.5 FM Maicao
+http://salt-lake-server.myautodj.com:8006/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jgym8iP.png" group-title="COLOMBIA",Olimpica Stereo 89.7 FM Manizales
+http://i50.letio.com/9126.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jgym8iP.png" group-title="COLOMBIA",Olimpica Stereo 90.5 FM Cartagena
+http://i50.letio.com/9108.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jgym8iP.png" group-title="COLOMBIA",Olimpica Stereo 90.5 FM Monteria
+http://i50.letio.com/9112.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jgym8iP.png" group-title="COLOMBIA",Olimpica Stereo 92.1 FM Barranquilla
+http://i90.letio.com/9102.aac?type=.flv?type=.flv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jgym8iP.png" group-title="COLOMBIA",Olimpica Stereo 93.7 FM Valledupar
+http://i50.letio.com/9118.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jgym8iP.png" group-title="COLOMBIA",Olimpica Stereo 94.3 FM Ibague
+http://i50.letio.com/9130.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jgym8iP.png" group-title="COLOMBIA",Olimpica Stereo 94.7 FM Cucuta
+http://i50.letio.com/9134.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jgym8iP.png" group-title="COLOMBIA",Olimpica Stereo 96.1 FM Armenia
+http://i60.letio.com/9162.aac?type=.flv?type=.flv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jgym8iP.png" group-title="COLOMBIA",Olimpica Stereo 97.1 FM Santa Marta
+http://i50.letio.com/9110.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jgym8iP.png" group-title="COLOMBIA",Olimpica Stereo 97.7 FM Bucaramanga
+http://i50.letio.com/9122.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jgym8iP.png" group-title="COLOMBIA",Olimpica Stereo 100.3 FM Neiva
+http://i50.letio.com/9136.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jgym8iP.png" group-title="COLOMBIA",Olimpica Stereo 101.2 FM Zaragoza
+http://srv0410.radiostreaming.es:8033/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jgym8iP.png" group-title="COLOMBIA",Olimpica Stereo 101.5 FM Sincelejo
+http://i50.letio.com/9116.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jgym8iP.png" group-title="COLOMBIA",Olimpica Stereo 102.7 FM Pereira
+http://i50.letio.com/9124.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jgym8iP.png" group-title="COLOMBIA",Olimpica Stereo 104.5 FM Cali
+http://i50.letio.com/9120.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jgym8iP.png" group-title="COLOMBIA",Olimpica Stereo 104.9 FM Medellin
+http://i50.letio.com/9128.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jgym8iP.png" group-title="COLOMBIA",Olimpica Stereo 105.3 FM Villavicencio
+http://i50.letio.com/9132.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jgym8iP.png" group-title="COLOMBIA",Olimpica Stereo 105.9 FM Bogota
+http://i60.letio.com/9114.aac?type=.flv?type=.flv
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/ecuador/flag-button-square-250.png" group-title="LABEL",~ Ecuador Radio ~
 http://www.lengua.com/anthems/Ecuador.mp3
