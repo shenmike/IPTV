@@ -71,10 +71,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/maudio/1/expire/151080
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://assets.huluim.com/shows/key_art_lifetime_movies.jpg" group-title="24/7",Lifetime Movies [Beta]
 https://manifest.googlevideo.com/api/manifest/hls_variant/source/yt_live_broadcast/go/1/tx/23709506/ip/179.43.188.182/itag/0/maudio/1/ipbits/0/playlist_type/DVR/beids/%5B9466592%5D/signature/CA2C9CC2D120B1645E56947BBD0D632319CE6184.A667745FA53D37791C8CE555654EBEC03B550103/id/sy6ZIbaM0Dc.1/gcr/ch/key/yt6/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/requiressl/yes/txs/23709505%2C23709506/expire/1510801221/file/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/l4U9IrW.jpg" group-title="24/7",Peliculas en Espanol [Beta]
-https://manifest.googlevideo.com/api/manifest/hls_variant/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/source/yt_live_broadcast/go/1/id/9LpJQfoowmQ.1/tx/23709506/key/yt6/ip/179.43.188.182/ipbits/0/playlist_type/DVR/maudio/1/beids/%5B9466592%5D/expire/1510801461/txs/23709505%2C23709506/gcr/ch/itag/0/signature/748541C40DAC3AFBE2418E4014D4C5F8B88D06EA.6D3B86114C757304B7BFD9105FA007B9E1D12555/requiressl/yes/file/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.cdn.turner.com/adultswim/big/video/mainstream/liveStream.jpg" group-title="24/7",Adult Swim Live
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
 
@@ -99,8 +95,20 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/id/ApKkZbCx3pM.4/tx/23
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/n1AJtRokP_w/maxresdefault.jpg" group-title="24/7",Fish Tank
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mentalfloss.com/sites/default/files/johnny_bravo_hed.jpg" group-title="24/7",Johnny Bravo [Beta]
+https://manifest.googlevideo.com/api/manifest/hls_variant/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/id/71H6z5B2_Ok.1/go/1/itag/0/playlist_type/DVR/expire/1510801881/ip/179.43.188.182/key/yt6/ipbits/0/maudio/1/source/yt_live_broadcast/txs/23709505%2C23709506/beids/%5B9466592%5D/gcr/ch/signature/9668849864A164349EA510547922F39719774F83.743A2FB7B1FA43D85A500137B713687666898453/requiressl/yes/tx/23709506/file/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Looney_tunes_careta.png" group-title="24/7",Looney Tunes [Beta]
+https://manifest.googlevideo.com/api/manifest/hls_variant/id/2fUuTLuzJVI.3/go/1/source/yt_live_broadcast/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/ip/179.43.188.182/key/yt6/tx/23709506/expire/1510801881/maudio/1/beids/%5B9466592%5D/playlist_type/DVR/ipbits/0/itag/0/requiressl/yes/signature/A545C1B6038BD4CB6002E50A89F793FAEC332A41.D465A67BC0289C02A206843CAF192CEA692E67AA/txs/23709505%2C23709506/gcr/ch/file/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/cC03A0OgMuA/maxresdefault.jpg" group-title="24/7",Mickey Mouse Clubhouse [Beta]
+https://manifest.googlevideo.com/api/manifest/hls_variant/playlist_type/LIVE/ipbits/0/expire/1510801341/go/1/id/_IYdRGF4HaA.0/txs/23709505%2C23709506/itag/0/gcr/ch/requiressl/yes/ip/179.43.188.182/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/source/yt_live_broadcast/beids/%5B9466592%5D/tx/23709506/maudio/1/key/yt6/signature/A32EBC0126AEA224AA4E7A628AF19E25299525EB.7A70C1F63770A353BC4EA22602C086081669A65A/file/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/SgoRKIpGIs0/maxresdefault.jpg" group-title="24/7",Mr. Pickles
 http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/0EPSwFDIVqs/maxresdefault.jpg" group-title="24/7",My Gym Partner's a Monkey [Beta]
+https://manifest.googlevideo.com/api/manifest/hls_variant/ipbits/0/ip/179.43.188.182/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/itag/0/go/1/txs/23709505%2C23709506/id/ZLE7wY8AGxg.1/maudio/1/key/yt6/requiressl/yes/expire/1510801521/playlist_type/DVR/tx/23709506/beids/%5B9466592%5D/source/yt_live_broadcast/gcr/ch/signature/B0AC76B9CF39BA1EE00E8D214B2172278ABCF19C.D697FAF7036D80A0D2850C96964C15390B853C57/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4974.jpg" group-title="24/7",Off The Air
 http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
@@ -116,6 +124,9 @@ https://live.ponies.fr/hls/sug-hd/sug.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png" group-title="24/7",The Eric Andre Show
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/BillyandMandyScreen.jpg/220px-BillyandMandyScreen.jpg" group-title="24/7",The Grim Adventures of Billy + Mandy [Beta]
+https://manifest.googlevideo.com/api/manifest/hls_variant/go/1/signature/060A31F1DC10252F2B4C3055D48F044874BD3B6B.4F92652BBE300E38B31044FA529A1E83AF6B893C/beids/%5B9466592%5D/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/txs/23709505%2C23709506/expire/1510801641/ipbits/0/gcr/ch/tx/23709506/requiressl/yes/id/wBOh5gzVemY.1/playlist_type/DVR/maudio/1/ip/179.43.188.182/itag/0/key/yt6/source/yt_live_broadcast/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4835.jpg" group-title="24/7",The Venture Bros.
 http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
@@ -2035,6 +2046,9 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xE51fHv.png" group-title="LATINO",America Teve
 http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-GOMQ7UNAwQg/AAAAAAAAAAI/AAAAAAAAAAA/JIh8zNqN_1c/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LATINO",Banana Movies [Beta]
+https://manifest.googlevideo.com/api/manifest/hls_variant/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/source/yt_live_broadcast/go/1/id/9LpJQfoowmQ.1/tx/23709506/key/yt6/ip/179.43.188.182/ipbits/0/playlist_type/DVR/maudio/1/beids/%5B9466592%5D/expire/1510801461/txs/23709505%2C23709506/gcr/ch/itag/0/signature/748541C40DAC3AFBE2418E4014D4C5F8B88D06EA.6D3B86114C757304B7BFD9105FA007B9E1D12555/requiressl/yes/file/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uXp0iUW.png" group-title="LATINO",Cuenca Vision
 http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
 
@@ -3852,6 +3866,9 @@ http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/823402115565400064/kDJQPUMQ.jpg" group-title="INDIA",CNBC
 http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img-d03.moneycontrol.co.in/images/cnbctv18/new/vid_cnbctv18_logo.jpg" group-title="INDIA",CNBC TV18 [Beta]
+https://manifest.googlevideo.com/api/manifest/hls_variant/beids/%5B9466592%5D/tx/23709506/requiressl/yes/id/AVsKH-QJoNA.0/signature/92E4D8230600CAD1DBAF8504736725A332ED057D.722FBB6FD2434437FEDF874B89BDB3580F93D4B9/force_finished/1/gcr/ch/itag/0/source/yt_live_broadcast/ip/179.43.188.182/txs/23709505%2C23709506/maudio/1/go/1/playlist_type/CLEAN/expire/1510801281/ipbits/0/key/yt6/sparams/force_finished%2Cgcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bestmediainfo.com/wp-content/uploads/2016/04/Cnn_news18.jpg" group-title="INDIA",CNN-News 18 (English)
 http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3_av-b.m3u8
