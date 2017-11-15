@@ -1407,6 +1407,59 @@ http://live4.rcnmundo.com/lafmbucaramanga.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lakalle.bluradio.com/images/logo.png" group-title="COLOMBIA",La Kalle 96.9FM Bogota
 http://14073.live.streamtheworld.com/LA_KALLE.mp3?
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/915943818809225216/mWdUHR9V_400x400.jpg" group-title="COLOMBIA",La Mega 89.3 FM Girardot
+http://live1.rcnmundo.com/lamegagirardot.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/915943818809225216/mWdUHR9V_400x400.jpg" group-title="COLOMBIA",La Mega 90.9 FM Bogota
+http://live3.rcnmundo.com/lamega.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/915943818809225216/mWdUHR9V_400x400.jpg" group-title="COLOMBIA",La Mega 92.1 FM Buenaventura
+http://live1.rcnmundo.com/lamegabuenaventura.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/915943818809225216/mWdUHR9V_400x400.jpg" group-title="COLOMBIA",La Mega 92.5 FM Cali
+http://live1.rcnmundo.com/lamegacali.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/915943818809225216/mWdUHR9V_400x400.jpg" group-title="COLOMBIA",La Mega 92.9 FM Medellin
+http://live3.rcnmundo.com/lamegamedellin.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/915943818809225216/mWdUHR9V_400x400.jpg" group-title="COLOMBIA",La Mega 94.5 FM Cartagena
+http://live1.rcnmundo.com/lamegacartagena.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/915943818809225216/mWdUHR9V_400x400.jpg" group-title="COLOMBIA",La Mega 102.5 FM Bucaramanga
+http://live1.rcnmundo.com/lamegabucaramanga.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/453890047800930304/V3JOtPHN_400x400.png" group-title="COLOMBIA",La Mega Retro
+http://live1.rcnmundo.com/lamegaretro.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sitebooster-appsharp.netdna-ssl.com/i/55d55338839d1579e578896b/ca1cc471f0a844038116fdf187dc9841/f=JPEG" group-title="COLOMBIA",La Nueva Stereo 102.7 FM Socorro
+http://95.154.254.129:6727/;Stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lapopularstereo.com/wp-content/uploads/2016/04/logo-2-3.png" group-title="COLOMBIA",La Popular Stereo Barrancabermeja
+http://62.210.141.243:8225/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/854811114822975488/T46PrmN-.jpg" group-title="COLOMBIA",La Reina 98.6 FM Barranquilla
+http://i50.letio.com/9106.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.caster.fm/images/user_logo/user_logo_id_403744.png" group-title="COLOMBIA",La U Radio 107.7 FM Bucaramanga
+http://192.111.140.6:8224/stream/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisorasenvivo.co/sites/default/files/radio/logos/logo-la-vallenata.jpg" group-title="COLOMBIA",La Vallenata 97.4 FM Bogota
+http://17973.live.streamtheworld.com/VALLENATA_PRISAAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s265989d.png" group-title="COLOMBIA",La Zona Radio 99.9 FM Barranquilla
+http://178.32.57.127:9324/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/2d/3e/28401/c175.png" group-title="COLOMBIA",Latina Stereo 100.9 FM Medellin [Opt-1]
+http://real1.streaming-co.com:8050/live
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/2d/3e/28401/c175.png" group-title="COLOMBIA",Latina Stereo 100.9 FM Medellin [Opt-2]
+http://149.56.175.167:5285/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s10436d.png" group-title="COLOMBIA",Los 40 89.9 FM Bogota
+http://14073.live.streamtheworld.com/LOS40_COLUMBIAAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s10436d.png" group-title="COLOMBIA",Los 40 94.4 FM Medellin
+http://17973.live.streamtheworld.com/LOS40COL_MEDAAC.aac?
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/ecuador/flag-button-square-250.png" group-title="LABEL",~ Ecuador Radio ~
 http://www.lengua.com/anthems/Ecuador.mp3
