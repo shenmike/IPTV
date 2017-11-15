@@ -1332,9 +1332,6 @@ http://195.154.133.107:8739/;
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/cd836e05-ae28-4e81-924f-976cb7abed08.png" group-title="COLOMBIA",Barrancabermeja Virtual
 http://stream1.305stream.com:8240/;
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s108018d.png" group-title="COLOMBIA",Barranquilla Estereo 91.1 FM
-http://radio.yaservers.com:8197/;
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio36794_1464257209.png" group-title="COLOMBIA",Besame 97.4 FM Bogota
 http://14933.live.streamtheworld.com/BESAME_NACIONALAAC.aac?
 
@@ -1368,7 +1365,47 @@ http://ic.imusicaradios.com.br:8000/colombia.stream.http?url=tunein
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/bF95UJzkAS.png" group-title="COLOMBIA",Colmundo Radio 1040 AM Bogota
 http://192.163.226.125:9992/;
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://igx.4sqi.net/img/general/600x600/1249290_KuhfFa-Uroz4lu96RB2lqMY3_Cn_w73CS-yxXbsKwcI.jpg" group-title="COLOMBIA",El Parche FM Medellin
+http://hdserver.biz:9334/;
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Cu3nkNN.png" group-title="COLOMBIA",El Cartel de la Mega
+http://live1.rcnmundo.com/elcartel.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.boyacaradio.com/imagenes/emisora/btn_emisoras_comunitarias/reina.png" group-title="COLOMBIA",Emisora Reina Estereo 92.6 FM Tunja
+http://192.99.4.210:3906/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.boyacaradio.com/imagenes/emisora/btn_emisoras_comunitarias/reina.png" group-title="COLOMBIA",Emisora Reina de Colombia 870 AM Tunja
+http://192.99.4.210:3886/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/8KoAsbLPMEk/hqdefault.jpg" group-title="COLOMBIA",Emisora Transito Bucaramanga
+http://181.143.221.58:8000/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fantastica.com.co/wp-content/media/photo.jpg" group-title="COLOMBIA",Fantastica 96.9 FM Medellin
+http://live1.rcnmundo.com/fantastica.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.javerianaestereo.com/wp-content/uploads/2015/12/logo_javeriana-estereo_h.jpg" group-title="COLOMBIA",Javeriana Estereo 91.9 FM Bogota
+http://radio05.cehis.net:8001/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s112178q.png" group-title="COLOMBIA",La Caliente 1330 AM Bucaramanga
+http://i60.letio.com/5000.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s202711q.png" group-title="COLOMBIA",La Carinosa 1180 AM Bucaramanga
+http://live4.rcnmundo.com/lacarinosabucaramanga.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.colombiaemite.com/images/emisoras/lacometastereo_99_99.jpg" group-title="COLOMBIA",La Cometa 107.2 FM San Gil
+http://real1.streaming-co.com:8831/;stream.nsv&type=mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s7116/images/logod.png" group-title="COLOMBIA",La FM 94.9 Bogota
+http://live3.rcnmundo.com/lafm.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s7116/images/logod.png" group-title="COLOMBIA",La FM 99.7 FM Bucaramanga [Opt-1]
+http://live1.rcnmundo.com/lafmbucaramanga.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s7116/images/logod.png" group-title="COLOMBIA",La FM 99.7 FM Bucaramanga [Opt-2]
+http://live4.rcnmundo.com/lafmbucaramanga.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lakalle.bluradio.com/images/logo.png" group-title="COLOMBIA",La Kalle 96.9FM Bogota
+http://14073.live.streamtheworld.com/LA_KALLE.mp3?
 
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/ecuador/flag-button-square-250.png" group-title="LABEL",~ Ecuador Radio ~
