@@ -738,6 +738,9 @@ http://listen.shoutcast.com/alphafm101-7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/dH7Ea6pCs6.png" group-title="BRAZIL",Antena 1 FM 94.7
 http://5.135.83.159:80/stream2
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/wFTAkOY-KDZ4t5qVwRt04ATCKroWuNnRQo4gtOuM9QWGE-IjGOU0oaDzDiWzEKQIjVI=w300" group-title="BRAZIL",Aurora Web Radio
+http://stm30.conectastm.com:10450/;
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/2d/a1/19498/c175.png" group-title="BRAZIL",Band FM 96.1 Floripa
 http://186.209.115.82:8086/;
 
