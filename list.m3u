@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="INFO",< Please Donate
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Nov.16.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Nov.20.2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -321,7 +321,7 @@ https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/RJ1bM5E3ZNI/hqdefault.jpg" group-title="USA",FXX
 http://216.31.255.235/hlsl/4/beSteSTamE5uFXX/beSteSTamE5uFXX.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjkAGil.png" group-title="USA",MeTV [Off]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjkAGil.png" group-title="USA",MeTV [Geo]
 http://video.metv.com/metv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yIzSqCD.png" group-title="USA",NASA TV Public
