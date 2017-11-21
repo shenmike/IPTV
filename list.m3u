@@ -1960,7 +1960,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINELATINO)/index.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="LATINO",Cinemax
 http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(CINEMAX)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.concertchanneltv.com/imagenes/video/materiales/esp_86F1E077DE7EFBD9E040030AA5003810_grande.jpg" group-title="LATINO",Concert Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/44i7vyw.png" group-title="LATINO",Concert Channel
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CONCERT_CHANNEL_HD)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uXp0iUW.png" group-title="LATINO",Cuenca Vision
