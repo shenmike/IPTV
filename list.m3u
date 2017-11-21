@@ -2212,13 +2212,13 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DEPELICULA)/index.m
 #EXTINF:-1 tvg-id="EfektoTV" tvg-name="EfektoTV" tvg-logo="https://i.imgur.com/y5vozsr.png" group-title="MEXICO",Efekto TV
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/mimf96E.png" group-title="MEXICO",ESPN [NoRoku]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/mimf96E.png" group-title="MEXICO",ESPN
 http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/dsgxyBY.png" group-title="MEXICO",ESPN 2 [NoRoku]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/dsgxyBY.png" group-title="MEXICO",ESPN 2
 http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/IySuiDK.png" group-title="MEXICO",ESPN 3 [NoRoku]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/IySuiDK.png" group-title="MEXICO",ESPN 3
 http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8
 
 #EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="https://i.imgur.com/xomvDm7.png" group-title="MEXICO",FOROtv
@@ -2248,22 +2248,22 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MULTIPREMIER)/index
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dJn881g.png" group-title="MEXICO",Noticias MVS
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/vUgTtqZ.png" group-title="MEXICO",Ritmoson [NoRoku]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/vUgTtqZ.png" group-title="MEXICO",Ritmoson
 http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/vOH3TOn.png" group-title="MEXICO",TeleHit [NoRoku]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/vOH3TOn.png" group-title="MEXICO",TeleHit
 http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RWsmqRF.png" group-title="MEXICO",Teleritmo
 http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/sZupsef.png" group-title="MEXICO",TDN [NoRoku]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/sZupsef.png" group-title="MEXICO",TDN
 http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aizYxAy.png" group-title="MEXICO",TV UNAM
 http://api.new.livestream.com/accounts/12380647/events/3843134/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/yV3kYVz.png" group-title="MEXICO",Unicable [NoRoku]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/yV3kYVz.png" group-title="MEXICO",Unicable
 http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/9/98/Univision_tdn_1.png" group-title="MEXICO",Univision TDN
