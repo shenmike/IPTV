@@ -2104,9 +2104,6 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_UP_HD)/Stream(0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K52brqr.png" group-title="LATINO",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="LATINO",Multipremier
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MULTIPREMIER)/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.todotvnews.com/ttvnews/2017/05/resize1_NGKidsAssets.ai-01.png" group-title="LATINO",NatGeo Kids
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/Stream(01)/index.m3u8
 
@@ -2244,6 +2241,9 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 
 #EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="https://i.imgur.com/qcJ5lk3.png" group-title="MEXICO",Milenio TV*
 https://dl.dropboxusercontent.com/s/dh5k6plvgjwgbic/milenio.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="MEXICO",MultiPremier
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MULTIPREMIER)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dJn881g.png" group-title="MEXICO",Noticias MVS
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
