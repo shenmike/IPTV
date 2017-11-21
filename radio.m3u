@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="INFO",< Please Donate
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Nov.15.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Nov.20.2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -44,6 +44,9 @@ http://209.222.19.108:10042/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/be/01/be01c0a3b0ac6874473933c01f60f8bc.jpg" group-title="USA",Classical WETA 90.9 FM
 http://38.100.128.106:8000/fmlive
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hispanicmediadigest.com/wp/wp-content/uploads/2013/03/CNNe_Radio_600.jpg" group-title="USA",CNN en Espanol Radio
+http://tunein.streamguys1.com/cnnespanola
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/553394749642522624/OdBQw_vV.png" group-title="USA",Crooner Radio
 http://50.7.76.250:8790/stream
