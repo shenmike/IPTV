@@ -667,6 +667,9 @@ http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HCOqABQ.png" group-title="UK",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/930077273021206528/cN19_gLh.jpg" group-title="UK",MTV Hits
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MTV_HITS)/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZBo8N7o.jpg" group-title="UK",MUTV
 http://tglmutvh-i.akamaihd.net/hls/live/514453/mutv_stb/01.m3u8
 
@@ -681,6 +684,9 @@ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_inde
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FSukyxY.png" group-title="UK",QVC 4
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/dc/VH1_HD_2013.png" group-title="UK",VH1
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(VH1_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Ireland-01.png" group-title="LABEL",~ Ireland TV ~
 http://www.lengua.com/anthems/Ireland.mp3
@@ -2101,9 +2107,6 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_UP_HD)/Stream(0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K52brqr.png" group-title="LATINO",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/930077273021206528/cN19_gLh.jpg" group-title="LATINO",MTV Hits
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MTV_HITS)/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="LATINO",Multipremier
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MULTIPREMIER)/index.m3u8
 
@@ -2156,9 +2159,6 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNIVERSAL_CHANNEL_H
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/qEC7MCQ.png" group-title="LATINO",WB TV
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WARNER_HD)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/dc/VH1_HD_2013.png" group-title="LATINO",VH1
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(VH1_HD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://topqmedoc.com/wp-content/uploads/2014/11/Mexico-01.png" group-title="LABEL",~ Mexico TV ~
 http://www.lengua.com/anthems/Mexico.mp3
