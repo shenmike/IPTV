@@ -2117,6 +2117,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/Str
 http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/XnIYHUd.png" group-title="LATINO",National Geographic [Opt-2]
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8YbXC9D.png" group-title="LATINO",NatGeo Wild [NoRoku]
 http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
