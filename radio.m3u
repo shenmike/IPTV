@@ -894,11 +894,11 @@ http://zer.zuperdns.net:1021/;
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s88037q.png" group-title="MEXICO",La Mexicana 91.3 FM Aguascalientes
 http://tunein.gvstream.net:9042/;
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiouniversal.mx/imagenes/logoLaMejor.gif" group-title="MEXICO",La Mejor 93.7 FM Aguascalientes
-http://tunein.gvstream.net:9232/;
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s88037q.png" group-title="MEXICO",La Mexicana 860 AM Aguascalientes
 http://tunein.gvstream.net:9042/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiouniversal.mx/imagenes/logoLaMejor.gif" group-title="MEXICO",La Mejor 93.7 FM Aguascalientes
+http://tunein.gvstream.net:9232/;
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiorama.mx/images/fotos/323_XHYZ.png" group-title="MEXICO",La Poderosa 107.7 FM Aguascalientes
 http://201.159.48.105:2871/
