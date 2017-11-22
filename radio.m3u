@@ -1806,7 +1806,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OXIGENO.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radio1550.com/upldba/archvs/1/fot_244.png" group-title="PERU",Radio 1550 88.9 FM Huancayo
 http://212.83.146.67:7212/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/logo_rd_38f31e03.jpeg?region=0%2C0%2C720%2C606" group-title="PERU",Radio Disney
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/DFgWPXhXUAAtbMJ.jpg" group-title="PERU",Radio Disney 91.1 FM Lima
 http://173.192.105.252:8000/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-FJgJRZdsJno/UQxelEgPuTI/AAAAAAAACUg/T02EIx8JED4/s1600/radio-huancayo.jpg" group-title="PERU",Radio Huancayo 104.3 FM Lima
