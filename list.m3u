@@ -2264,7 +2264,7 @@ http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firstonetv.net/images/logos/mx/TRAVELCHANNEL.png" group-title="MEXICO",Mexico Travel Channel
-http://live10.cdnmedia.tv/mtchlive/mtch.smil/chunklist_b500000.m3u8
+http://live10.cdnmedia.tv/mtchlive/mtch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="https://i.imgur.com/qcJ5lk3.png" group-title="MEXICO",Milenio TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
