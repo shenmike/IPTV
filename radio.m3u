@@ -939,6 +939,9 @@ http://listen.radionomy.com:80/pandashowradio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mexicofmradios.com/wp-content/uploads/2015/09/Radio-BI-88.7-FM-Mexico-Online.jpg" group-title="MEXICO",Radio BI 88.7 FM Aguascalientes
 http://201.159.48.107:2860/
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mobzilla.vo.llnwd.net/o2/MobzillaRadio/400x400/31442.jpg" group-title="MEXICO",Radio Disney 99.3 FM Mexico City
+http://disneymxradio-lh.akamaihd.net/i/MXDisneyRADIO_1@147029/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.raddios.com/public/radios/grande/220_grande.jpg" group-title="MEXICO",Radio eXtremo Guadalajara
 http://89.46.67.143:9190/stream
 
@@ -1016,6 +1019,9 @@ http://199.167.150.105:8100/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://db.radioline.fr/pictures/radio_b4ce5884bb072d2e12c4a08448477961/logo200.jpg" group-title="ARGENTINA",Radio Deejay
 http://178.32.57.127:9638/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.enlaradio.com.ar/adjuntos/image/FM/elr_disney.png" group-title="ARGENTINA",Radio Disney 94.3 FM Buenos Aires
+http://disneyargradio-lh.akamaihd.net/i/ARG_Disney_RADIO@102438/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/a3/4b/20705/c175.png" group-title="ARGENTINA",Rock + Pop 95.9 FM
 http://blaster.cdn.sion.com:1935/rockandpop/audioweb/playlist.m3u
@@ -1238,6 +1244,9 @@ http://unlimited1-cl.dps.live/cooperativafm/aac/icecast.audio
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio38709_1470054272.jpg" group-title="CHILE",Radio Coyhaique 95.3 FM [AAC]
 http://stream5.eltelon.com/radio-coyhaique.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tu.taconeras.net/files/2008/11/datoradiodisney.jpg" group-title="CHILE",Radio Disney 104.9 FM Santiago
+http://unlimited2-us.dps.live/disney/mp364k/icecast.audio
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ke0Ferz.jpg" group-title="CHILE",Radio Definitiva 90.5 FM Tocopilla
 http://192.198.83.230:8772/;
@@ -1770,6 +1779,9 @@ http://72.29.89.35:9020/;
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/ecuador/flag-button-square-250.png" group-title="LABEL",~ Ecuador Radio ~
 http://www.lengua.com/anthems/Ecuador.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/29/65/29656fa8ca9c08420a5b11c9d08791fd.jpg" group-title="ECUADOR",Radio Disney 93.7 FM Guayaquil
+http://www.ecuadorstreaming.net:7100/;
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radiohuancavilca.com.ec/wp-content/uploads/2014/11/logo-2.png" group-title="ECUADOR",Radio Huancavilca 830 AM
 http://192.99.2.196:8181/stream.mp3
 
@@ -1822,16 +1834,19 @@ http://192.95.18.39:5556/;stream
 http://199.217.118.215:8238/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/13be849fbf011456bd15dbc9a8d69aaa.jpg" group-title="DOMINICAN REP",Premium FM 101.1 Santiago
-http://69.64.56.8:8210/
+http://69.64.56.8:8210/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/uws7yxqy3yh3.jpg" group-title="DOMINICAN REP",Radio Disney 97.3 FM Santo Domingo
+http://radio.domint.net:8026/;
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K2SnA9M.jpg" group-title="DOMINICAN REP",Radio Merengue 1210 AM Santo Domingo
 http://199.195.194.12:8132/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radio.linkscomdo.netdna-cdn.com/images/sobipro/entries/73/thumb_raices-102-9-onlinr-en-vivo.jpg" group-title="DOMINICAN REP",Raices 102.9 FM Santo Domingo
-http://69.64.56.8:8120/
+http://69.64.56.8:8120/;
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sonidosuave.fm/img/Logo_trans.png" group-title="DOMINICAN REP",Sonido Suave 99.3 FM Santo Domingo
-http://199.189.86.69:8002/
+http://199.189.86.69:8002/;
 
 #EXTINF:-1 tvg-logo="http://src.vengavisa.com/img/gj/bm/blg.png" group-title="LABEL",~ Paraguay Radio ~
 http://www.lengua.com/anthems/Paraguay.mp3
@@ -1841,6 +1856,9 @@ http://200.108.136.94:8000/envivo
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/903656719271813121/PwDYvXZD.jpg" group-title="PARAGUAY",ABC Cardinal 730 AM Asuncion
 http://sc.abc.com.py:8000/;stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-Q_gWaEu_mhs/VT15WOfn_NI/AAAAAAAAB3c/kwL8doEuYNE/s1600/dysneypy.jpg" group-title="PARAGUAY",Radio Disney 96.5 FM Asuncion
+http://83.170.105.153:9725/;
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Romania-01.png" group-title="LABEL",~ Romania Radio ~
 http://www.lengua.com/anthems/Romania.mp3
