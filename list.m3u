@@ -2208,7 +2208,7 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tHGr6ns.png" group-title="LATINO",Telemusica
 http://186.155.200.118:1935/live/telemusica/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://televisatvdepaga.com/wp-content/uploads/bfi_thumb/Tiin-my69p0bpb2psrtb8re139szah8ai55oai11rs3ghrk.png" group-title="LATINO",Tiin
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/mx_tiin_m.png" group-title="LATINO",Tiin
 http://live.izzitv.mx/Content/HLS/Live/Channel(TIIN)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/TLC-HD-Logo-630.png" group-title="LATINO",TLC
