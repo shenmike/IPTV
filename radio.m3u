@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="INFO",< Please Donate
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Nov.22.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Nov.29.2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -38,6 +38,9 @@ http://198.245.61.123:8000/noir
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://is2.mzstatic.com/image/thumb/Purple128/v4/2a/f5/b6/2af5b6a6-6393-9f0d-55a9-7f94b94a1ccb/source/1200x630bb.jpg" group-title="USA",Bloomberg Radio
 http://live-bloomberg-us-east.global.ssl.fastly.net/btv/desktop/bbr_radio.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/www.rokuchannels.tv/wp-content/uploads/2013/11/christmaslogo.jpg" group-title="USA",Christmas At The Drive-In!
+http://s2.voscast.com:12294/;stream.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s226064q.png" group-title="USA",Classic Rock 109
 http://209.222.19.108:10042/stream
