@@ -330,9 +330,6 @@ https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8YbXC9D.png" group-title="USA",NatGeo Wild
 http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/2606395058/ymqj6x1jd4rknwxqe0j7_400x400.jpeg" group-title="USA",PHL17 Philadelphia
-http://stream.memesyndicate.com/live/thx/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FSukyxY.png" group-title="USA",QVC
 http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
 
@@ -358,6 +355,9 @@ http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
 http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TWiT.svg/130px-TWiT.svg.png" group-title="USA",TWiT
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/viceland.jpg?fit=520%2C350&ssl=1&resize=350%2C200" group-title="USA",Viceland
+http://stream.memesyndicate.com/live/thx/index.m3u8
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RQdfZe6.png" group-title="USA",Velocity
