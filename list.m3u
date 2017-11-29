@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="INFO",< Please Donate
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Nov.22.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Nov.29.2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -847,9 +847,6 @@ https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-340
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/1zcz428.jpg" group-title="GERMANY",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.portmann-media.com/wp-content/uploads/2015/06/telebasel.png" group-title="GERMANY",Telebasel
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvaktuell.com/storage/thumbs/700x/r:1428659201/128312.jpg" group-title="GERMANY",TVA Ostbayern
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
 
@@ -1221,6 +1218,9 @@ http://www.lengua.com/anthems/Switzerland.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/0d1fd51e980e16909c0bf73a68767a97.jpeg" group-title="SWITZERLAND",TeleBarn
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.portmann-media.com/wp-content/uploads/2015/06/telebasel.png" group-title="SWITZERLAND",Telebasel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/83/TeleTicino.png" group-title="SWITZERLAND",TeleTicino (Italian)
 http://rtmp.infomaniak.ch:1935/livecast/teleticinolive/livestream.m3u8
