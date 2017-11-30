@@ -303,9 +303,6 @@ http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AwNQHqC.png" group-title="USA",The Country Network
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mahMQxJ.png" group-title="USA",D23 TV [Off]
-http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2015/03/destination-america.jpg" group-title="USA",Destination America [SD]
 http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
 
@@ -1223,9 +1220,6 @@ http://stream-09.dc3.dailymotion.com/15/dm/1/xl1km0/live.isml/events(live-149762
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HFyrVaS.png" group-title="FRANCE",Radio TeleBoston (USA)
 http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAnIAAAAJGFkMzVhNWY1LWJjYjgtNGE4ZC05YWQ4LTUzNGQ2MDU2OGIyYQ.png" group-title="FRANCE",TV5MONDE Amerique Latine
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-store.slidesharecdn.com/2470438d-37a2-49a1-9d3d-fb7aaf89e073-original.png" group-title="FRANCE",TV5MONDE Asie
 https://api-asia.tv5monde.com/Live/250600/4792245510001-5/tv5plusinfo/master.m3u8
@@ -2279,6 +2273,9 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(TRUTV)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VICta82.png" group-title="LATINO",TV Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAnIAAAAJGFkMzVhNWY1LWJjYjgtNGE4ZC05YWQ4LTUzNGQ2MDU2OGIyYQ.png" group-title="LATINO",TV5MONDE Amerique Latine
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/200px-Logo_UniM%C3%A1s.svg.png" group-title="LATINO",UniMas
 http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82
