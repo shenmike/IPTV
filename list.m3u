@@ -2664,7 +2664,7 @@ http://ar.watcha.live/ch5/hi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wPdfaAL.png" group-title="ARGENTINA",Encuentro
 http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="ARGENTINA",Fox Sports [?]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="ARGENTINA",Fox Sports
 http://35.196.195.222/hls/live/channel4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iLh4q2x.png" group-title="ARGENTINA",Garage TV
