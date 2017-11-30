@@ -129,7 +129,7 @@ http://54.225.64.228:1935/live/roku2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://christinprophecy.org/wp-content/uploads/GEB-america.jpg" group-title="CHRISTIANITY",GEB America (USA)
 http://184.173.203.50:1935/live/smil:geb/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/GLC_USA.jpg" group-title="CHRISTIANITY",GLC (USA)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/GLC_USA.jpg" group-title="CHRISTIANITY",God's Learning Channel (USA)
 http://fss27.streamhoster.com/lv_glc/_definst_/broadcast3/chuck.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/b7b87e8c8abd4ac5b39e5cce15ced5de-hd.jpg" group-title="CHRISTIANITY",GOD TV (USA)
