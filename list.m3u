@@ -567,6 +567,9 @@ http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cbsla.files.wordpress.com/2016/04/streaminglivenow_kcal_700x350.jpg" group-title="USA LOCAL",KCAL 9 News (Los Angeles)
 http://play-prod1.live.anvato.net/server/play/cbslocal-kcal-dfp/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2013/06/wave-logo.png" group-title="USA LOCAL",WAVE 3 News (Louisville)
+http://livestream-f.akamaihd.net/i/7458002_2820715_lsi39ipg22ufblipcz2_1@413844/master.m3u8?__b__=678&dw=80&hdnea=st=1512031698~exp=1512033498~acl=/i/7458002_2820715_lsi39ipg22ufblipcz2_1@413844/*~hmac=40f16fab9a73445a7a0d6f88556a9f639c3036dbbe98cc487633dbdc6cb95cb3&__a__=off
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.myfoxmemphiscom.cmgdigital.com/theme/images/placeholder-16x9.jpg" group-title="USA LOCAL",FOX 13 News (Memphis)
 http://cmghlslive-i.akamaihd.net/hls/live/224672/WHBQ/2564k/prog.m3u8
 
