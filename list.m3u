@@ -312,9 +312,6 @@ https://content-ausw4.uplynk.com/channel/db762a708aa64082a610346d36654186/h.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ksUrDyw.png" group-title="USA",Ditty TV
 http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/ism40Xo.png" group-title="USA",E!
-http://156.67.242.147:9981/stream/channelid/909964915
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media-exp2.licdn.com/mpr/mpr/AAEAAQAAAAAAAAdvAAAAJDk5YzBhMGY2LWZiOWItNDc1My1iNzVlLTlhMDg0ODNhY2M5Yw.png" group-title="USA",Evine Live
 http://shophqlivehls-i.akamaihd.net/hls/live/217490/onair/layer1.m3u8
 
@@ -683,6 +680,9 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cOSePHo.png" group-title="UK",Chelsea TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/ism40Xo.png" group-title="UK",E!
+http://156.67.242.147:9981/stream/channelid/909964915
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2j8tsJq.png" group-title="UK",Heart
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
