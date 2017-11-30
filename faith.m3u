@@ -6,14 +6,11 @@ http://191.252.102.161:8040/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free Religious TV
 http://191.252.102.161:8040/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Nov.07.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Nov.30.2017
 http://191.252.102.161:8040/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NKYFL5D.png" group-title="NEW!",@ Get the list!
-http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.icon2s.com/wp-content/uploads/2013/01/Hinduism-Om-icon-Golden-Brown.png" group-title="LABEL",~ Hinduism
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
@@ -108,6 +105,9 @@ http://aos01.3abn.adaptive.level3.net/hls-live/mediaoppremux-pro_multi/_definst_
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.amazingfactsministries.com/wp-content/uploads/2015/11/aftv.jpg" group-title="CHRISTIANITY",Amazing Facts TV (USA)
 http://amazingfacts.live-s.cdn.bitgravity.com/cdn-live/_definst_/amazingfacts/live/feed01/chunklist_w1921345467.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.absatellite.net/channel-img/ABS2-ABS6/bible_explorations_tv.png" group-title="CHRISTIANITY",Bible Explorations (USA)
+http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-Ej4WGyUiULY/AAAAAAAAAAI/AAAAAAAAAAA/18EVQ-ZWzXs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CHRISTIANITY",CBN (USA)
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
@@ -129,6 +129,9 @@ http://54.225.64.228:1935/live/roku2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://christinprophecy.org/wp-content/uploads/GEB-america.jpg" group-title="CHRISTIANITY",GEB America (USA)
 http://184.173.203.50:1935/live/smil:geb/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/GLC_USA.jpg" group-title="CHRISTIANITY",GLC (USA)
+http://fss27.streamhoster.com/lv_glc/_definst_/broadcast3/chuck.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/b7b87e8c8abd4ac5b39e5cce15ced5de-hd.jpg" group-title="CHRISTIANITY",GOD TV (USA)
 http://ooyalahd2-f.akamaihd.net/i/godtv01_delivery@17341/master.m3u8
 
@@ -137,6 +140,9 @@ http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://churchwatchcentral.files.wordpress.com/2016/05/hillsong-channel.jpg" group-title="CHRISTIANITY",Hillsong Channel (USA)
 http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hischannel.com/Pictures/Picon/1000P410.jpg" group-title="CHRISTIANITY",HisChannel (USA)
+http://www1.hischannel.com/Box-Tv-Live/BoxTvLive.isml/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hopetv.org/wp-content/uploads/2015/02/hopechannelroku.jpg" group-title="CHRISTIANITY",Hope Channel (USA)
 http://bcliveuniv-lh.akamaihd.net:80/i/HopeChannel_1@182961/master.m3u8
@@ -176,6 +182,9 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/Famil
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-VPghX48O-hU/Ug_1A4i06VI/AAAAAAAAAto/SSkrT3mljh8/s1600/The+Dove+TV+%2526+Radio+Channel+Icon.jpg" group-title="CHRISTIANITY",The Dove (USA)
 http://s1.thedove.us:1935/theDoveTV/3theDoveTV.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pathmegazine.com/wp-content/uploads/2013/03/the-word-network-logo.jpeg" group-title="CHRISTIANITY",The Word Network (USA)
+http://thewordhls-i.akamaihd.net/hls/live/217932-b/thewordhls/iOS/stream1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.ibb.co/nzpYrk/VTN_logo_1080x720.png" group-title="CHRISTIANITY",Victory Television Network (USA)
 http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
