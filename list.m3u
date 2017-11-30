@@ -21,8 +21,14 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BH4tuYc.png" group-title="WORLD NEWS",BBC World News (UK)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.btlive.tv/channels/29/cd6d275e25fa1e6f5f9aaa28973f192a.png" group-title="WORLD NEWS",Bloomberg TV Asia (Hong Kong)
+http://live-bloomberg-ap-north.global.ssl.fastly.net/ap/AP1000kb_live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="WORLD NEWS",Bloomberg TV Europe (UK)
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="WORLD NEWS",CGTN (China)
+http://live.cgtn.com/500/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EP482zT.png" group-title="WORLD NEWS",Channel NewsAsia (Singapore)
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
@@ -57,6 +63,9 @@ http://stream.dubstep.fm:80/256mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://when-will.net/images/artikel/2015/september/Black-Jesus.jpg" group-title="24/7",Black Jesus
 http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="24/7",Christmas Fireplace
+http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/n1AJtRokP_w/maxresdefault.jpg" group-title="24/7",Fish Tank
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 
@@ -89,9 +98,6 @@ http://54.255.155.24:1935/Live/_definst_/amlst:sweetbcha1novD327L240P/playlist.m
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" group-title="24/7",Williams Stream
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="24/7",Xmas Fireplace
-http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BTiGp2B.png" group-title="LABEL",~ Music Choice ~
 http://37.97.160.125:9128
@@ -224,6 +230,9 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channels.roku.com/images/b114d9aef1ab42caa262bd787fdc279a-hd.png" group-title="USA",The Weather Network
 http://stitcher.prod.pluto.tv/stitch/hls/channel/56747b22218fb5b73692cbd5/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/CGTN-America_Logo.png/1200px-CGTN-America_Logo.png" group-title="USA",CGTN America
+http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PH1Gg4p.png" group-title="USA",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
@@ -5102,12 +5111,6 @@ http://live-tx-hdl.huomaotv.cn/live/buxKMY24084.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://digitalspyuk.cdnds.net/17/24/980x490/landscape-1497630992-superhero-movies.jpg" group-title="CHINA",24/7 Superhero Movies
 http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="CHINA",CGTN
-http://live.cgtn.com/500/prog_index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/CGTN-America_Logo.png/1200px-CGTN-America_Logo.png" group-title="CHINA",CGTN America
-http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png" group-title="CHINA",CGTN Documentary
 http://live.cgtn.com/cctv-d.m3u8
 
@@ -5141,6 +5144,12 @@ http://eshare.live.otvcloud.com/otv/nyz/live/channel25/700.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newscctv.net/data/cctvnewsplatform//images/company/icon_10122_1493349547.jpg" group-title="CHINA",Oriental Finance Pudong
 http://w1.livecache.yicai.com/hls/live/dftv_hd/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="HONG KONG",RTHK 31 (Hong Kong)
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="HONG KONG",RTHK 32 (Hong Kong)
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-1O_rjcgmyds/AAAAAAAAAAI/AAAAAAAAAAA/tCoHqwYjv7w/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CHINA",Sichuan TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel18/700.m3u8
 
@@ -5158,24 +5167,6 @@ http://eshare.live.otvcloud.com/otv/nyz/live/channel24/700.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cn.itver.cc/wp-content/uploads/2015/03/ZJSTV-670x300.jpg" group-title="CHINA",Zhejiang TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel90/700.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.haotu.net/up/3881/512/154-Hong-kong.png" group-title="LABEL",~ Hong Kong TV ~
-http://www.lengua.com/anthems/HongKong.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.btlive.tv/channels/29/cd6d275e25fa1e6f5f9aaa28973f192a.png" group-title="HONG KONG",Bloomberg TV Asia
-http://live-bloomberg-ap-north.global.ssl.fastly.net/ap/AP1000kb_live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="HONG KONG",RTHK 31 [Geo]
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="HONG KONG",RTHK 32 [Geo]
-http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/8/88/ViuTV_logo.svg.png" group-title="HONG KONG",VIU TV
-http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/8/88/ViuTV_logo.svg.png" group-title="HONG KONG",VIU TV*
-http://viutv99-i.akamaihd.net/hls/live/265284/live1/stream4/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/tw.png" group-title="LABEL",~ Taiwan TV ~
 http://www.lengua.com/anthems/Taiwan.mp3
