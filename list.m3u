@@ -2724,7 +2724,7 @@ http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/ecuador/flag-button-square-250.png" group-title="LABEL",~ Ecuador TV ~
 http://www.lengua.com/anthems/Ecuador.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-leq2ZxhLvhc/AAAAAAAAAAI/AAAAAAAAAAA/lgA8SP2JZH4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ECUADOR",Ecuador 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-leq2ZxhLvhc/AAAAAAAAAAI/AAAAAAAAAAA/lgA8SP2JZH4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ECUADOR",Ecuador TV Canal 7
 http://api.new.livestream.com/accounts/22196143/events/6576568/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canela-TV.png" group-title="ECUADOR",Canela TV
