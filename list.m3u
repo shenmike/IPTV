@@ -2823,6 +2823,9 @@ http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist_p750000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.festivalarabemedellin.com/uploads/images/full/8710d95db18390ea1154995383274ed5.png" group-title="COLOMBIA",Canal U
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_07/large.Canal-UNO.png.e70c0776f11c309940c68f740e2ea9e6.png" group-title="COLOMBIA",Canal Uno
+http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-mlFvknLpfgE/VQy5lg2IcyI/AAAAAAAAAXc/w4LPztKxtKc/s320/CantinazoTV.jpg" group-title="COLOMBIA",Cantinazo TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 
