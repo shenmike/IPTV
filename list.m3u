@@ -2364,6 +2364,9 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8
 #EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="https://i.imgur.com/xomvDm7.png" group-title="MEXICO",FOROtv
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/2/27/GALA_TV.jpg" group-title="MEXICO",Gala TV Mexico City
+http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/QaUMABB.png" group-title="MEXICO",Golden
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/index.m3u8
 
@@ -2442,10 +2445,10 @@ http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9ggyiEM.png" group-title="MEXICO",Canal 26 Aguascalientes
 http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="https://i.imgur.com/JTswbtA.png" group-title="MEXICO",Gala TV Cancun
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/2/27/GALA_TV.jpg" group-title="MEXICO",Gala TV Cancun
 http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="https://i.imgur.com/JTswbtA.png" group-title="MEXICO",Gala TV Merida
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/2/27/GALA_TV.jpg" group-title="MEXICO",Gala TV Merida
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vYoOv48.png" group-title="MEXICO",Mexiquense Toluca
