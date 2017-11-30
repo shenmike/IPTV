@@ -2010,6 +2010,9 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_5692_7_22692.png" group-title="LATINO",Claro Cinema
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_CINEMA)/Stream(01)/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="LATINO",Claro Sports
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_SPORTS_LATAM_HD)/Stream(01)/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="LATINO",Comedy Central
 http://live.izzitv.mx/Content/HLS/Live/Channel(COMEDY_CENTRAL)/index.m3u8
 
@@ -2393,6 +2396,9 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/Stream(0
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aizYxAy.png" group-title="MEXICO",TV UNAM
 http://api.new.livestream.com/accounts/12380647/events/3843134/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_%282016-_%29.png" group-title="MEXICO",TVC Deportes
+http://144.217.74.63:25461/live/2130/2130/36837.m3u8?token=GRRYVhZQEwoXUQFWAgNeAlYCXwJUCgsDA1APDgEADgdXVQEHVA8JBgIQGEMVR0pWB1lmXQAQCQAHXQsOTkBMQwdEb14BGgsSBAcHVUQfGkcPWVwWXgIfEUEMXBtYQAABUAcSG0ddSURQQFoACmxcVhBdWlFGCF1GXQkUGw0MZlQHW1FZARoLEgQQGEMPQEgRXBZ4UAlbXVpCEUpYAQtWXkJ4UVQMV19RWRJQBEZnXV8DV1ZZEVxaUFAGUVYMB0oSThRSXhFKUERQEA5DVAcBB0QYG1cLR11HQxwaA0A3YBJOFFVPEV1fQ1xdWkNcEVUAEwwbGEZbQGxDAEtNEAdYXQdEEg1HCBMcF19VGTlQV10IUVpADV1dQBNfGgpAThtdDVhZQwpKbkBcVhZbRAoIBlYWRA==
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/yV3kYVz.png" group-title="MEXICO",Unicable
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNICABLE)/Stream(01)/index.m3u8
