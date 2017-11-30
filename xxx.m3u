@@ -12,26 +12,8 @@ http://184.173.142.117:21728/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/LMa8p2F.png" group-title="INFO",> Like Us!
 http://184.173.142.117:21728/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 1*
-http://publish2.firestormmedia.tv:1935/ingest_cellcast/livestream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 2
-http://publish2.firestormmedia.tv:1935/ingest_cellcast//livestream_two1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 3
-http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 4
-http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder31/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 5
-http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder51/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 6
-http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder71/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Soxm1RO.png" group-title="IPTV",ButGO
 http://edge2.everyon.Tv:1935/etv2sb/phd772/huraivza.m3u8
