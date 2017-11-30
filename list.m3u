@@ -4539,25 +4539,25 @@ http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-DiN0PHymkxk/UjqtR-oQY6I/AAAAAAAACGQ/mhgOj-8Lrn0/w1200-h630-p-k-no-nu/alsharqiya+news+live+tv.png" group-title="IRAQ",Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/sa.png" group-title="LABEL",~ KSA TV ~
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/sa.png" group-title="LABEL",~ Saudi Arabia TV ~
 http://www.lengua.com/anthems/SaudiArabia.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-G65MliGq-Ew/AAAAAAAAAAI/AAAAAAAAAAA/0RlM6JUhvMI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="KSA",24 Sport TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-G65MliGq-Ew/AAAAAAAAAAI/AAAAAAAAAAA/0RlM6JUhvMI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SAUDI",24 Sport TV
 http://streamer12.elementssys.com:8080/SAUDI-Channels/24_SPORT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/14uum1v.jpg" group-title="KSA",Masdar TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/14uum1v.jpg" group-title="SAUDI",Masdar TV
 http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.desifree.tv/wp-content/uploads/rotana-cinema.jpg" group-title="KSA",Rotana Cinema
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.desifree.tv/wp-content/uploads/rotana-cinema.jpg" group-title="SAUDI",Rotana Cinema
 http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=1599780920
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.egytvs.com/wp-content/uploads/2014/07/Rotana_Classic.jpeg" group-title="KSA",Rotana Classic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.egytvs.com/wp-content/uploads/2014/07/Rotana_Classic.jpeg" group-title="SAUDI",Rotana Classic
 http://185.27.116.54:1935/live/rotanaclassic/gmswf.m3u8?v=1599780920
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-Clip-logo.png" group-title="KSA",Rotana Clip
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-Clip-logo.png" group-title="SAUDI",Rotana Clip
 http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825192233_channelsbig.png" group-title="KSA",Wanasah
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825192233_channelsbig.png" group-title="SAUDI",Wanasah
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.oktranslation.cn/images/languages/Arabic.png" group-title="LABEL",~ UAE TV ~
