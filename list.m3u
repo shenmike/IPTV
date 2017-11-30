@@ -1857,6 +1857,9 @@ http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://andaluciainformacion.es/media/213886/460/382/nace-ondaluz-en-sevilla.jpg" group-title="SPAIN",Ondaluz Sevilla [NoKodi]
 http://cloud1.cdnstreamserver.com/olsevilla/livestream1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E3jwDtI.png" group-title="SPAIN",Pequeradio TV
+http://panel.cdnstreamserver.com/live/peque-pequetv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sotodelamarina.com/Logos/Populartv_Cantabria.jpg" group-title="SPAIN",Popular TV Cantabria
 http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
 
@@ -2096,6 +2099,9 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/Stream(0
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/ism40Xo.png" group-title="LATINO",E!
 http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nQoFljD.png" group-title="LATINO",El Chavo VOD
+http://3.sendvid.com/y00xutjl.mp4/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nQoFljD.png" group-title="LATINO",El Chavo VOD [NoRoku]
 https://goo.gl/8W1wKL
@@ -2724,6 +2730,9 @@ https://tycsportsalive-a.akamaihd.net/e0a4867c9f6e4c4aab00f511cbe29977/sa-east-1
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/cl.png" group-title="LABEL",~ Chile TV ~
 http://www.lengua.com/anthems/Chile.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8LNovve.png" group-title="CHILE",ArabTV
+http://149.56.17.92:1935/8404/8404/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ulango.tv/uploads/channels/97/aricatv.jpg" group-title="CHILE",Arica TV
 http://wow1.dallas.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/playlist.m3u8
 
@@ -2945,6 +2954,9 @@ http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Señal_Institucional_logo.svg/1200px-Señal_Institucional_logo.svg.png" group-title="COLOMBIA",Senal Institucional
 http://live10.cdnmedia.tv/rtvcsinstitucionallive/smil:live.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Tacho_Pistacho.png" group-title="COLOMBIA",Tacho Pistacho
+http://canalrcnhd.cdn.net.co/hlsme/envivoinfantil.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-3y0PLzhwrig/AAAAAAAAAAI/AAAAAAAAAAA/u423NXvcb_4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="COLOMBIA",Teleantioquia
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
