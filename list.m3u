@@ -312,6 +312,9 @@ https://content-ausw4.uplynk.com/channel/db762a708aa64082a610346d36654186/h.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ksUrDyw.png" group-title="USA",Ditty TV
 http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/ism40Xo.png" group-title="USA",E!
+http://156.67.242.147:9981/stream/channelid/909964915
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media-exp2.licdn.com/mpr/mpr/AAEAAQAAAAAAAAdvAAAAJDk5YzBhMGY2LWZiOWItNDc1My1iNzVlLTlhMDg0ODNhY2M5Yw.png" group-title="USA",Evine Live
 http://shophqlivehls-i.akamaihd.net/hls/live/217490/onair/layer1.m3u8
 
@@ -713,6 +716,24 @@ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_inde
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FSukyxY.png" group-title="UK",QVC 4
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e5/Sky_Action.png" group-title="UK",Sky Action
+http://156.67.242.147:9981/stream/channelid/1574094625
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Disney.png" group-title="UK",Sky Cinema Disney
+http://156.67.242.147:9981/stream/channelid/140659421
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b6/Sky_Comedy.png" group-title="UK",Sky Comedy
+http://156.67.242.147:9981/stream/channelid/1350065587
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/d/df/Sky_Family_HD_Italy_2010.png" group-title="UK",Sky Family
+http://156.67.242.147:9981/stream/channelid/1429447875
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3d/SKY_ONE_%28Sky_Mexico%29.png" group-title="UK",Sky One
+http://156.67.242.147:9981/stream/channelid/1830900951
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sky.com.mx/Code/templates/images/logos/sky-premierelogo.png" group-title="UK",Sky Premiere
+http://156.67.242.147:9981/stream/channelid/1744156733
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Ireland-01.png" group-title="LABEL",~ Ireland TV ~
 http://www.lengua.com/anthems/Ireland.mp3
