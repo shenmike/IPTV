@@ -348,6 +348,9 @@ http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b8prEVt.png" group-title="USA",Rev'n
 http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fashionrunwayblog.com/wp-content/uploads/2015/09/FashionRunwayLogo-No-Background.png" group-title="USA",Runway TV
+http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cv358rU.png" group-title="USA",Science Channel
 http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
 
@@ -2565,6 +2568,9 @@ http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w3rrFsy.png" group-title="ARGENTINA",Canal 79 Mar del Plata
 http://painel.serveron.com.br:1935/8168/8168/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/ar_ciudad-abierta_m.png" group-title="ARGENTINA",Canal de la Ciudad
+http://prepublish.f.qaotic.net/b06/ngrp:gcba_video3-100042_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.estabueno.com.ar/wp-content/uploads/2015/03/canal-local1.jpg" group-title="ARGENTINA",Canal Local Olavarria
 http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
 
@@ -2705,6 +2711,9 @@ http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.itvpatagonia.com/joomla/images/FotosArticulos/Itv.png" group-title="CHILE",ITV
 http://movilstream.digitalproserver.com/itv/itvvivo/mp4:livestream1/chunklist_w204765687.m3u8
+
+#EXTINF:0 tvg-logo="http://lared.cl/app/themes/lared-theme/img/icons/apple-touch-icon.png" group-title="CHILE",La Red
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://i.imgur.com/xBgH1Tw.jpg" group-title="CHILE",Maxima TV
 http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8
@@ -2958,6 +2967,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0010&mode=12
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fulltelevisiononline.com/wp-content/uploads/2016/06/CTC_TELEVISION.png" group-title="PERU",CTC TV Cusco
 http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/902547125799669762/AVoSOZLm_400x400.jpg" group-title="PERU",Latina
+http://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ssb.com.pe/images/monterrico%20tv.jpg" group-title="PERU",Monterrico TV
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 
@@ -3008,6 +3020,9 @@ http://201.217.3.212/TV/intercable/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kantar-ibopemedia.com.py/files/u1/ORIGINAL%20LOGO%20RPC%20vertical%20curvas.png" group-title="PARAGUAY",RPC
 http://70.36.100.38:1935/live/canal13_hq.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="PARAGUAY",SNT
+http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.okparaguay.com/wp-content/uploads/2016/06/Logo_telefuturo.jpg" group-title="PARAGUAY",Telefuturo
 http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
@@ -3060,8 +3075,14 @@ http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://teleredtelevision.com/images/logo.png" group-title="COSTA RICA",Telered
 http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-nHFCYDL5_2o/AAAAAAAAAAI/AAAAAAAAAAA/5nCxkCQReb8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="COSTA RICA",Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491520376303.png" group-title="COSTA RICA",TeleUno TV
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://scontent.cdninstagram.com/t51.2885-15/e35/17334246_287034935060991_7151647901104472064_n.jpg" group-title="COSTA RICA",Ticavision
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-NebSwXncBVs/AAAAAAAAAAI/AAAAAAAAAAA/scfimJJ3CGw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="COSTA RICA",TV Sur 14
 http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
@@ -3633,6 +3654,9 @@ http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-on.ru/images/tv/hardlife-tv.jpg" group-title="RUSSIA",HardLife TV
 http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/220902732_orig.png" group-title="RUSSIA",HD Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hdmedia.ru/common/resources/images/logo_hdmedia3d.png" group-title="RUSSIA",HD Media 3D [Stereo-3D]
 http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
 
@@ -3653,6 +3677,9 @@ http://nano.teleservice.su:8080/hls/nano_europe.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/O2tvlogo.png" group-title="RUSSIA",O2 TV
 http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bellmedia.ca/wp-content/uploads/2014/02/tv_fashion-490x490.png" group-title="RUSSIA",Public TV
+http://cdn-11.bonus-tv.ru/publictv/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="RUSSIA",RBC
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
