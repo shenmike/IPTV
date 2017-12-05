@@ -4269,9 +4269,6 @@ http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV-video=1892000-audio_AACL_
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/493882319854653440/IS5djWg6.jpeg" group-title="LABEL",~ Israel TV ~
 http://www.lengua.com/anthems/Israel.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.mako.co.il/2014/05/18/B-news_.jpg" group-title="ISRAEL",Channel 2 [Beta]
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_550_av-b.m3u8|User-Agent=Mozilla/5.0
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://xiptv.com/logos/hebrew/Channel9.png" group-title="ISRAEL",Channel 9 Israel Plus
 http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream3.m3u8
 
