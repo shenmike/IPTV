@@ -288,6 +288,9 @@ http://persik.by/stream/1417/252987/10317.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EvfdMSA.jpg" group-title="USA",Fox Business Network [NoKodi]
 http://fbntve-i.akamaihd.net/hls/live/200667/fbntve/HD.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MHcgYBr.png" group-title="USA",Fox News Channel
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXNEWS)/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cYXoeB0.png" group-title="USA",Fox News Radio
 http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
 
@@ -360,8 +363,11 @@ https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8YbXC9D.png" group-title="USA",NatGeo Wild
 http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5tEE0qP.png" group-title="USA",NBA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5tEE0qP.png" group-title="USA",NBA TV [Opt-1]
 http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5tEE0qP.png" group-title="USA",NBA TV [Opt-2]
+http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/2126_2.jpg" group-title="USA",NBC [Beta]
 http://live.field59.com/wjfw1/ngrp:wjfw1_all/playlist.m3u8
