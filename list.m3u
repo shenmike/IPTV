@@ -705,6 +705,9 @@ http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HCOqABQ.png" group-title="UK",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/s1jsUqd.gif" group-title="UK",MTV Live HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MTV_LIVE_HD)/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZBo8N7o.jpg" group-title="UK",MUTV
 http://tglmutvh-i.akamaihd.net/hls/live/514453/mutv_stb/01.m3u8
 
@@ -737,6 +740,9 @@ http://156.67.242.147:9981/stream/channelid/1830900951
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sky.com.mx/Code/templates/images/logos/sky-premierelogo.png" group-title="UK",Sky Premiere
 http://156.67.242.147:9981/stream/channelid/1744156733
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thenerdsuncanny.files.wordpress.com/2016/07/pre_1360449860__vh1_classic.jpg" group-title="UK",VH1 Classic
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(VH1_CLASSIC)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Ireland-01.png" group-title="LABEL",~ Ireland TV ~
 http://www.lengua.com/anthems/Ireland.mp3
