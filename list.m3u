@@ -228,9 +228,6 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="USA",Bloomberg TV [Opt-2]
 http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="USA",Bloomberg TV [Opt-3]
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BLOOMBERG)/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nSMaujc.png" group-title="USA",Bowie TV
 http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
 
@@ -2046,6 +2043,9 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AXN_HD)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.kidscreen.com/wp/wp-content/uploads/2016/02/babytv.jpg" group-title="LATINO",BabyTV
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BABYTV)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="LATINO",Bloomberg TV
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BLOOMBERG)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://is5.mzstatic.com/image/thumb/Purple71/v4/aa/e9/24/aae9249a-6450-adf6-260c-120c8aca72de/source/175x175bb.jpg" group-title="LATINO",Boomerang
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BOOMERANG)/index.m3u8
