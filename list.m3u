@@ -3907,14 +3907,11 @@ http://live.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="RUSSIA",Euronews
 http://evronovosti.mediacdn.ru/sr1/evronovosti/chunklist_b2658304.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="RUSSIA",First Music HD (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="RUSSIA",First Music (Opt-1)
 http://rtmp.one.by:2300/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="RUSSIA",First Music HD (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="RUSSIA",First Music (Opt-2)
 http://rtmp.one.by:1300/
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="RUSSIA",First Music 4K
-http://rtmp.one.by:1400/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dreamhack.se/dhs15/files/2015/05/SCREEN_GS_STUDIO_LIGHT.png" group-title="RUSSIA",Game Show Studio
 http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
