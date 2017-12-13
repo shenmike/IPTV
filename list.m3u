@@ -33,8 +33,11 @@ http://live-bloomberg-ap-north.global.ssl.fastly.net/ap/AP1000kb_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="WORLD NEWS",Bloomberg TV Europe
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="WORLD NEWS",CGTN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="WORLD NEWS",CGTN (Opt-1)
 http://live.cgtn.com/500/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="WORLD NEWS",CGTN (Opt-2)
+http://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EP482zT.png" group-title="WORLD NEWS",Channel NewsAsia
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
@@ -225,7 +228,7 @@ http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOHzcx2.png" group-title="USA",Biz TV
 http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="USA",Bloomberg TV (Opt-1_
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="USA",Bloomberg TV (Opt-1)
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="USA",Bloomberg TV (Opt-2)
@@ -261,7 +264,7 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/CGTN-America_Logo.png/1200px-CGTN-America_Logo.png" group-title="USA",CGTN America
 http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AgddyCM.png" group-title="USA",Channel 7 (NoRoku)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AgddyCM.png" group-title="USA",Channel 7 [NoRoku]
 http://radio.7chan.org:8000/CH7
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K03Eq0Z.png" group-title="USA",Classic Arts Showcase
@@ -282,10 +285,10 @@ http://189.216.247.113/Content/HLS/Live/Channel(CNN_HD)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aPGyO9l.png" group-title="USA",Daytona Beach TV
 http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2015/03/destination-america.jpg" group-title="USA",Destination America [SD]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2015/03/destination-america.jpg" group-title="USA",Destination America SD
 http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2015/03/destination-america.jpg" group-title="USA",Destination America [HD]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2015/03/destination-america.jpg" group-title="USA",Destination America HD
 https://content-ausw4.uplynk.com/channel/db762a708aa64082a610346d36654186/h.m3u8?pbs=7ef756186b5e4775bc6dec15cd74dd06
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xGjchpW.png" group-title="USA",District of Columbia Network
@@ -323,6 +326,15 @@ http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.get.tv/sites/all/themes/responsive/responsive_gettv_2/images/logo-asn.png" group-title="USA",getTV
 http://nitrotv.for-the.biz:25461/live/Tyson45/3WjBFxJsDb/7375.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yousenditcc.s3.amazonaws.com/Golf-Channel-white.png" group-title="USA",Golf Channel (Opt-1)
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yousenditcc.s3.amazonaws.com/Golf-Channel-white.png" group-title="USA",Golf Channel (Opt-2)
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yousenditcc.s3.amazonaws.com/Golf-Channel-white.png" group-title="USA",Golf Channel (Opt-3)
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yousenditcc.s3.amazonaws.com/Golf-Channel-white.png" group-title="USA",Golf Channel HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLF_CHANNEL_HD)/index.m3u8
@@ -1254,6 +1266,9 @@ http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/mas
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lepoint.fr/images/2016/06/07/4196567lpw-4196810-jpg_3591288.jpg" group-title="FRANCE",BFM Sport
 http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Cgtn.jpg" group-title="FRANCE",CGTN
+http://live.cgtn.com/1000f/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://maxnet.ua/wp-content/uploads/2014/10/chasse-peche.gif" group-title="FRANCE",Chasse et Peche
 http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
@@ -3886,8 +3901,20 @@ http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kt.trkpuls.ru/home/images/b_img25.jpg" group-title="RUSSIA",Avto 24
 http://62.76.26.81:8081/sport/auto24_09/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Cgtn.jpg" group-title="RUSSIA",CGTN
+http://live.cgtn.com/1000r/prog_index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="RUSSIA",Euronews
 http://evronovosti.mediacdn.ru/sr1/evronovosti/chunklist_b2658304.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="RUSSIA",First Music HD (Opt-1)
+http://rtmp.one.by:2300/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="RUSSIA",First Music HD (Opt-2)
+http://rtmp.one.by:1300/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="RUSSIA",First Music 4K
+http://rtmp.one.by:1400/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dreamhack.se/dhs15/files/2015/05/SCREEN_GS_STUDIO_LIGHT.png" group-title="RUSSIA",Game Show Studio
 http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
@@ -3915,6 +3942,9 @@ http://cdn-01.bonus-tv.ru/gtrkomsk/gtrkomsk/type/user/devname/LG-SmartTV/devid/L
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photouploads.com/images/f807ad.png" group-title="RUSSIA",Life News
 http://tv.life.ru/lifetv/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abload.de/img/musicv0pjo.png" group-title="RUSSIA",Music Box
+rtmp://musicbox.cdnvideo.ru:1935/musicbox playpath=musicbox.sdp swfUrl=http://www.aloha.cdnvideo.ru/aloha/slon/SlonPlayer_adv.swf pageUrl=http://www.russianmusicbox.tv/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ktv-informservice.ru/images/digitfiles/nano20tv.jpg" group-title="RUSSIA",Nano TV
 http://nano.teleservice.su:8080/hls/nano_europe.m3u8
@@ -3972,6 +4002,9 @@ http://app.live.112.events/hls/112hd_mid/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.start.crimea.ua/news/images/201410081430410.atr_n_b.jpg" group-title="UKRAINE",ATR (Crimea)
 http://stream.atr.ua/atr/live/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abload.de/img/musicv0pjo.png" group-title="UKRAINE",Music Box
+rtmp://212.26.132.86/live/ playpath=mb_ua swfUrl=http://radio.adamant.ua/video-js/video-js.swf pageUrl=http://radio.adamant.ua/adamant_player/mb_ua/mb_ua_v.html
 
 #EXTINF:-1 tvg-logo="http://www.haotu.net/up/3881/256/108-Moldova.png" group-title="LABEL",~ Moldova TV ~
 http://www.lengua.com/anthems/Moldova.mp3
@@ -4104,6 +4137,27 @@ http://www.lengua.com/anthems/Poland.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n-4-16.dcs.redcdn.pl/file/mm/multimedia/live/amazing/aMazingCover500x200.png" group-title="POLAND",aMazing TV [Off]
 http://n-4-16.dcs.redcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/EskaTV_logo_2011.png" group-title="POLAND",Eska TV Best Music
+rtmp://stream.smcdn.pl/best-t/best_720p
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/EskaTV_logo_2011.png" group-title="POLAND",Eska TV Party
+rtmp://stream.smcdn.pl/eska_party-t/eska_party_720p
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/EskaTV_logo_2011.png" group-title="POLAND",Eska TV Rock
+rtmp://stream.smcdn.pl/eska_rock-t/eska_rock_720p
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/99624d83677ffdbc6a0dc8b450606b4d-520x293.jpeg" group-title="POLAND",Music VOX TV
+rtmp://stream.smcdn.pl/vox2-p/stream1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1456433030.png" group-title="POLAND",Music VOX TV Old's Cool
+rtmp://stream.smcdn.pl/vox-t/vox_720p
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/pl/POLO_PARTY_TV.png" group-title="POLAND",Polo Party TV
+rtmp://stream.smcdn.pl/polo_party-t/polo_party_720p
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1454879544.png" group-title="POLAND",Wawa TV
+rtmp://stream.smcdn.pl/wawa-t/wawa_720p
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gigared.tv/wp-content/uploads/2017/06/FIGHT-BOX-300x140.png" group-title="POLAND",FightBox
 http://hls.redefine.pl/ECD95B41/1573/0/hls720/masterlist.m3u8
@@ -4687,6 +4741,9 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png" group-title="ARABIC NEWS",BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Cgtn.jpg" group-title="ARABIC NEWS",CGTN
+http://live.cgtn.com/1000a/prog_index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="ARABIC NEWS",Deutsche Welle
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 
@@ -5119,6 +5176,9 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m
 #EXTINF:-1 tvg-logo="http://www.i2clipart.com/cliparts/d/e/e/2/clipart-za-256x256-dee2.png" group-title="LABEL",~ South Africa TV ~
 http://www.lengua.com/anthems/SouthAfrica.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ann7.com/wp-content/uploads/sites/4/2016/02/ANN7-LOGO-EARTH-ROTATE.gif" group-title="SOUTH AFRICA",ANN7
+rtmp://46.4.25.213/live-ann7/ann7-hi.stream
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/FashionOneLogo.jpg/200px-FashionOneLogo.jpg" group-title="SOUTH AFRICA",Fashion One
 http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/playlist.m3u8
 
@@ -5147,7 +5207,7 @@ https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s29.postimg.org/jt0m1oqpj/jakarta_globe_news_channel_id.png" group-title="INDONESIA",Jakarta Globe (English)
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2121000.m3u8
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s28.postimg.org/lpinb43pp/indosiar.png" group-title="INDONESIA",Indosiar
 https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
