@@ -592,9 +592,6 @@ http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890454.1464300091!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (Brooklyn)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mediaweb.wsoctv.com/theme/images/placeholder-16x9.jpg" group-title="USA LOCAL",WSOC 9 News (Charlotte)
-http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/WCCB_CW_logo.png" group-title="USA LOCAL",WCCB News (Charlotte)
 http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
 
@@ -619,20 +616,11 @@ http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jacksonville.com/sites/default/files/styles/teaser__620x350/public/field/image/749636_web1_msms_CBS47.jpg" group-title="USA LOCAL",CBS 47 News (Jacksonville)
 http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/WJAX-TV_logo.png/1200px-WJAX-TV_logo.png" group-title="USA LOCAL",Fox News 30 (Jacksonville)
-http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890313.1464300030!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (Long Island)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cbsla.files.wordpress.com/2016/04/streaminglivenow_kcal_700x350.jpg" group-title="USA LOCAL",KCAL 9 News (Los Angeles)
 http://play-prod1.live.anvato.net/server/play/cbslocal-kcal-dfp/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2013/06/wave-logo.png" group-title="USA LOCAL",WAVE 3 News (Louisville)
-http://livestream-f.akamaihd.net/i/7458002_2820715_lsi39ipg22ufblipcz2_1@413844/master.m3u8?__b__=678&dw=80&hdnea=st=1512031698~exp=1512033498~acl=/i/7458002_2820715_lsi39ipg22ufblipcz2_1@413844/*~hmac=40f16fab9a73445a7a0d6f88556a9f639c3036dbbe98cc487633dbdc6cb95cb3&__a__=off
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.myfoxmemphiscom.cmgdigital.com/theme/images/placeholder-16x9.jpg" group-title="USA LOCAL",FOX 13 News (Memphis)
-http://cmghlslive-i.akamaihd.net/hls/live/224672/WHBQ/2564k/prog.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/WJMN-TV_2006_Logo.png/200px-WJMN-TV_2006_Logo.png" group-title="USA LOCAL",CBS 3 News (Michigan)
 http://wjmn-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
@@ -640,17 +628,8 @@ http://wjmn-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/events/000000000068bfe1/9052fb7b-99ee-4dcd-87fd-c1102bc5592e_30000.jpg" group-title="USA LOCAL",WXXV News 25 (Mississippi)
 http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newenglandone.com/images/stories/2016/wfxtfox25newsat4.jpg" group-title="USA LOCAL",FOX 25 News (New England)
-http://cmghlslive-i.akamaihd.net/hls/live/224671/WFXT/904k/prog.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://uncubed.com/wp-content/uploads/2014/07/cbslocal.png" group-title="USA LOCAL",CBS 2 News (New York)
 http://play-prod1.live.anvato.net/server/play/cbslocal-wcbsx-dfp/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/N2mDQbE.jpg" group-title="USA LOCAL",NBC 4 News (New York)
-http://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://content.13newsnow.com/photo/2014/09/10/13NEWS%20NOW%20Logo_Master_RGB_Dk_4875916_ver1.0.jpg" group-title="USA LOCAL",13 News Now (Norfolk)
-http://wvec-lh.akamaihd.net/i/WVEC_Shows_1@17197/index_2000_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://content.secondspace.com/ktvz/img/KTVZ_Widget.png" group-title="USA LOCAL",NewsChannel 21 (Oregon)
 http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
@@ -661,23 +640,14 @@ http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/C2hgdt4W8AEAJ3D.jpg" group-title="USA LOCAL",NBC 10 News (Philadelphia)
 http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mediaweb.wpxi.com/theme/images/placeholder-16x9.jpg" group-title="USA LOCAL",WPXI News (Pittsburg)
-http://cmghlslive-i.akamaihd.net:80/hls/live/224715/WPXI/904k/prog.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kutv2productions.com/images/KUTV2Productions_SplashImage_972x510.jpg" group-title="USA LOCAL",CBS 2 (Salt Lake City)
 http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/events/000000000033e132/78ad5b5b-7d1f-4f38-b1af-1060355a4061_30000.jpg" group-title="USA LOCAL",KOB 4 News (Santa Fe)
 https://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wanewscouncil.org/wp-content/uploads/2011/09/post-img_kiro-logo_v1.png" group-title="USA LOCAL",KIRO 7 News (Seattle)
-http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14552.jpg" group-title="USA LOCAL",CBS 13 News (Stockton)
 http://play-prod1.live.anvato.net/server/play/cbslocal-kovrx-dfp/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bellmonawards.com/wp-content/uploads/2014/08/sponsor-fox.png" group-title="USA LOCAL",KOKI Fox 23 (Tulsa)
-http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2013/06/wttg-logo_304x200.jpg" group-title="USA LOCAL",Fox 5 News (Washington DC)
 https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
