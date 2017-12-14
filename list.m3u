@@ -2892,8 +2892,8 @@ http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalcarnaval.cl/wp-content/uploads/2016/04/logo38sombra-slide.png" group-title="CHILE",Canal Carnaval 38
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/734190291620667392/hxLk95y3_400x400.jpg" group-title="CHILE",CDO Deportes
-http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/734190291620667392/hxLk95y3_400x400.jpg" group-title="CHILE",CDO
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/_NkxplKALmA8/TEzauMuNqNI/AAAAAAAAAPI/OgWgg0qB9go/s600-c/chv+2006.jpg" group-title="CHILE",Chilevision
 http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
