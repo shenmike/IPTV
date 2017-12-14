@@ -1398,11 +1398,17 @@ http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/500px-RAI_Movie_2010_Logo.svg_.png" group-title="ITALY",Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/500px-RAI_Movie_2010_Logo.svg_.png" group-title="ITALY",Rai Movie HD
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/500px-RAI_News24_2013.svg_.png" group-title="ITALY",Rai News 24
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wikitv.eu/wp-content/uploads/2016/01/Rai-Premium.jpg" group-title="ITALY",Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wikitv.eu/wp-content/uploads/2016/01/Rai-Premium.jpg" group-title="ITALY",Rai Premium HD
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.thelogodb.com/images/media/logo/vxuqsq1434616120.png" group-title="ITALY",Rai Scuola
 http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
@@ -1412,6 +1418,9 @@ http://everyrai-lh.akamaihd.net/i/raistoria_1@308058/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RAI_YoYo_2010_Logo.svg/1200px-RAI_YoYo_2010_Logo.svg.png" group-title="ITALY",Rai Yoyo
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RAI_YoYo_2010_Logo.svg/1200px-RAI_YoYo_2010_Logo.svg.png" group-title="ITALY",Rai Yoyo HD
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/19/Rete_55.png" group-title="ITALY",Rete 55
 http://live.youiptv.ch:1935/Rete55/ngrp:R55.stream_all/livestream.m3u8
@@ -5241,11 +5250,56 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/th.png" group-title="LABEL",~ Thailand TV ~
 http://www.lengua.com/anthems/Thailand.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbnail.instardara.com/channel/BlueSky.jpg" group-title="THAILAND",Bluesky Channel
+http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/cabletv.png" group-title="THAILAND",Cable TV
+http://202.173.216.8:1935/live/ch8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thaich2.com/images/logoch2-nm.png" group-title="THAILAND",Channel 2
+http://stream.rs.co.th/ch2-hi/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png" group-title="THAILAND",Channel 5
+http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvshow.tlcthai.com/wp-content/uploads/2016/08/Capture_2016_08_19_07_56_00_253111.png" group-title="THAILAND",Channel 7
+http://edge160.bugaboo.tv/liveedgech7_partner/_definst_/smil:auto.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/ch8.jpg" group-title="THAILAND",Channel 8
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Channel_9_MCOT_HD_2016.png" group-title="THAILAND",Channel 9
+http://lb-media.mcot.net:1935/9mcot_edge/smil:9mcot.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.thaitvonline.tv/wp-content/uploads/2010/03/13-Siamthai.jpg" group-title="THAILAND",Channel 13
+http://stream.13livetv.com:1935/live/13livetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/ddtv.png" group-title="THAILAND",DDTV
+http://203.156.63.20:1935/live/ddtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/etv.png" group-title="THAILAND",ETV
+http://61.19.244.112:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-4bDS8U_kohs/AAAAAAAAAAI/AAAAAAAAAAA/zqOD2HZnLFs/s900-c-k-no-mo-rj-c0xffffff/photo.jp" group-title="THAILAND",JCTV
+rtmp://vodjctv.aitstreaming.com:1935/live/live2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/m-channel.jpg" group-title="THAILAND",M Channel
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.policetv.tv/wp-content/uploads/2017/11/POLICETV_280-003_00149.jp" group-title="THAILAND",Police TV
+http://live.netdesignhost.com/policetvlive/policetvlive/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mazzflix.com/tmp/uploads_livetv_sabuyde_1_300x215.png" group-title="THAILAND",Sabaidee TV
 http://stream.rs.co.th/sbd-low/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/springnews.jpg" group-title="THAILAND",Spring News
+http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/8/89/Thairath_TV32.png/400px-Thairath_TV32.png" group-title="THAILAND",Thairath TV
 http://live.thairath.co.th/trtv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/you-channel.jpg" group-title="THAILAND",You Channel
+http://stream.rs.co.th/you-hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://is.alicdn.com/img/esite/member/200305570/5ba3755f39b04a018c962bf05fb89df1_original.png" group-title="LABEL",~ Japan TV ~
 http://www.lengua.com/anthems/Japan.mp3
@@ -5292,10 +5346,8 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/cs14.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J Sports 1
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs05.stream/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J Sports 2
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs06.stream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J Sports 3
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs07.stream/playlist.m3u8
