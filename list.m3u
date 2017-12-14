@@ -1206,6 +1206,9 @@ http://83.140.64.214/edge/_93pr0kxj_/93pr0kxj/chunklist_w404315212.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/be.png" group-title="LABEL",~ Belgium TV ~
 http://www.lengua.com/anthems/Belgium.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.antennecentre.tv/www/images/logoactvsite.png" group-title="BELGIUM",Antenne Centre TV (French)
+http://vm109.imust.org:1935/live/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-GC4XR_qwaBA/V8iEfhTgxPI/AAAAAAAABpI/gauZ-5_RPZQxcYB3GN1R8fGBrIIR6Ah9ACLcB/s1600/ATV%2BAntwerpen.jpg" group-title="BELGIUM",ATV (Dutch)
 http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/master.m3u8
 
@@ -1247,9 +1250,6 @@ http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/60/Logo-antenne-reunion-television-2011.png" group-title="FRANCE",Antenne Reunion
 http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.antennecentre.tv/www/images/logoactvsite.png" group-title="FRANCE",Antenne Centre TV
-http://vm109.imust.org:1935/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.monasterra.org/wp-content/uploads/2015/12/Arte-logo.png" group-title="FRANCE",Arte
 http://streaming-hub.com/stream/arte.m3u8
