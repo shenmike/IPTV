@@ -867,8 +867,17 @@ http://alex-stream.rosebud-media.de:80/live/smil:alexlivetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radioszene.de/wp-content/uploads/2016/12/allgaeu-tv-logo-fb-min.png" group-title="GERMANY",Allgau TV
 http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.live-stream.tv/picons/arte.png" group-title="GERMANY",Arte
+http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8|X-Forwarded-For=91.197.29.78
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iptvdigital.com/images/canal_live/22_canal_live_28_canal_live_baden_tv.png" group-title="GERMANY",Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.live-stream.tv/picons/br.png" group-title="GERMANY",Bayerischer Rundfunk (Opt-1)
+https://br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.live-stream.tv/picons/br.png" group-title="GERMANY",Bayerischer Rundfunk (Opt-2)
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8|X-Forwarded-For=91.197.29.78
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blizztv.png" group-title="GERMANY",Blizz TV
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
@@ -878,6 +887,9 @@ http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="GERMANY",Das Erste
 http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firmenpresse.de/adpics/501621.jpg" group-title="GERMANY",Der Aktionar TV
+http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="GERMANY",Deutsche Welle
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
@@ -914,6 +926,9 @@ http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/580346447574503424/CxEQwneb.png" group-title="GERMANY",Munchen TV
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/couch/channels/1033/extra_big_logo.png" group-title="GERMANY",N-TV
+http://p.live.fra.n-tv.de/hls-live/ntvlive/ntvlive_1500.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/240px-NDR_HD.svg.png" group-title="GERMANY",NDR Fernsehen
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
@@ -1232,6 +1247,9 @@ http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/60/Logo-antenne-reunion-television-2011.png" group-title="FRANCE",Antenne Reunion
 http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.antennecentre.tv/www/images/logoactvsite.png" group-title="FRANCE",Antenne Centre TV
+http://vm109.imust.org:1935/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.monasterra.org/wp-content/uploads/2015/12/Arte-logo.png" group-title="FRANCE",Arte
 http://streaming-hub.com/stream/arte.m3u8
