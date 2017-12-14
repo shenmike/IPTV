@@ -6,7 +6,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free IPTV
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Dec.13.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Dec.14.2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -702,6 +702,9 @@ http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PKF0ejC.png" group-title="UK",Arise News
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ocdn.eu/images/program-tv/NTU7MDA_/e7114237dc0731c7dd660c32d6822432.png" group-title="UK",English Club TV
+http://163.172.148.123:8081/RuOIYxwHD7sQiL2MnAnBaWaJsoF2Q4f9m0D43wVo2WsoRd9nc2NN6zBGJRkGcL/live/engclub_id86425/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
@@ -1010,6 +1013,9 @@ http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent.m3u8
 
 #EXTINF:-1 tvg-logo="https://bahaiprayers.net/Content/Images/flags/L%C3%ABtzebuergesch.png" group-title="LABEL",~ Luxembourg TV ~
 http://www.lengua.com/anthems/Luxembourg.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bbox-actus.com/img/upload/crime-district.jpg" group-title="LUXEMBOURG",Crime District
+http://live-s102.abweb.com/liveabs102/ngrp:crimedistrict.stream_bis/chunklist_wf1tv_b1096000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/8/8d/RTL-Tele-Luxembourg.jpg" group-title="LUXEMBOURG",RTL
 http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8
@@ -2841,6 +2847,9 @@ http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WT0Pe6k.png" group-title="ARGENTINA",Qm Noticias
 http://qmnoticiashls-lh.akamaihd.net/i/qmnoticiasTEST_hls@324831/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_09/large.57e29c46a43b8_QuieroMsicaTV.png.c8744ad128faccb060fc71fa96ba294e.png" group-title="ARGENTINA",Quiero Musica
+mms://200.42.92.6:1755/qmusica
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/G6ErEF2.png" group-title="ARGENTINA",Radio One
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 
@@ -3633,6 +3642,9 @@ http://fourcast.tv/hls/800.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/ro.png" group-title="LABEL",~ Romania TV ~
 http://www.lengua.com/anthems/Romania.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-CZuHo2_q8R8/WOP_Jz8kXiI/AAAAAAAAGR0/cVsU3pshwy4J12IG_TAHG4CuoHWJXRmQwCLcB/s1600/6%2Btv%2Bbucuresti%2Blive%2Bonline.jpg" group-title="ROMANIA",6TV
+rtmp://rtmp2.chrominance.ro/enescu/ playpath=encoder1 swfUrl=http://www.chrominance.ro/enescu/jwplayer/jwplayer.flash.swf pageUrl=http://www.chrominance.ro/enescu/
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://accenttv.ro/wp-content/uploads/2017/06/logoaccenttv-3-Copy-1-300x145.jpg" group-title="ROMANIA",Accent TV
 http://188.173.22.231:8080/video/emisie.m3u8
 
@@ -3675,11 +3687,17 @@ http://80.91.115.211:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4e/Kanal_D.png" group-title="ROMANIA",Kanal D
 http://80.86.107.169/iphone/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/800px-Logo_Pro_TV_%282017%29.svg.png" group-title="ROMANIA",Pro TV
+http://185.133.64.237/news/stream:1.stream/chunklist_w1324413730.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.forbes.ro/wp-content/uploads/2013/06/51b066754e457.jpg" group-title="ROMANIA",Realitatea TV
 http://realitatea.m247.ro/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wirelessbluetoothheadphones.com/wp-content/uploads/2017/06/tv-xxl.png" group-title="ROMANIA",STV
 http://s2.streamnet.ro:8035/stream.flv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/605312013183643648/AI8iGgcd_400x400.png" group-title="ROMANIA",Tele M Neamt
+http://telem.ambra.ro
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wirelessbluetoothheadphones.com/wp-content/uploads/2017/06/tv-xxl.png" group-title="ROMANIA",Telemoia
 http://89.35.208.130
@@ -3689,6 +3707,9 @@ http://193.34.109.10:8090
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvkit.ro/soon/images/tv-logo.png" group-title="ROMANIA",TV Kit
 http://webmobile.xdev.ro:81/tv9/playlist.m3u8
+http://tvm.ambra.ro/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/2410306071/tvm-piatraneamt.jpeg" group-title="ROMANIA",TVM Piatra Neamt
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/tv-plus-suceava.png" group-title="ROMANIA",TVPlus Suceava
 http://85.186.146.34:8080
@@ -3699,8 +3720,11 @@ http://185.53.161.149:8888/play/a00u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvsudest.ro/wp-content/uploads/2016/12/live.jpg" group-title="ROMANIA",TVSE Mangalia
 http://iptv.tvsatrm.ro/livestream/tvse.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/0/03/U-TV-HD.png" group-title="ROMANIA",U TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/0/03/U-TV-HD.png" group-title="ROMANIA",UTV (Opt-1)
 http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/0/03/U-TV-HD.png" group-title="ROMANIA",UTV (Opt-2)
+rtmp://82.76.40.76:80/utvedge/ playpath=utvlive swfUrl=http://www.utv.ro/player/jwplayer/jwplayer.flash.swf pageUrl=http://www.utv.ro/live/
 
 #EXTINF:-1 tvg-logo="http://www.emit.it/assets/images/icone/Albania.png" group-title="LABEL",~ Albania TV ~
 http://www.lengua.com/anthems/Albania.mp3
@@ -4164,8 +4188,17 @@ http://www.lengua.com/anthems/Hungary.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.moldova9.com/wp-content/uploads/1-music-channel1.png" group-title="HUNGARY",1Music
 http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.blog.hu/ne/nettv/image/adok/atv_logo.png" group-title="HUNGARY",ATV
+rtmp://nodes.stream.atv.hu/atvliveedge/_definst_/atvstream_2_aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.blog.hu/tv/tvtarsasagok/image/fixtv.jpg" group-title="HUNGARY",Fix TV
+rtmp://video.fixhd.tv/fix/hd.stream
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hirtv.hu/static/grid2_imgs/hirtvujlogo05.jpg" group-title="HUNGARY",Hir TV
 http://streamserver.mno.netrix.hu/delayed.php.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1456778523.png" group-title="HUNGARY",Konyha TV
+rtmpt://91.82.85.44:1935/live playpath=konyhatv swfUrl=http://wdsonline.gdsinfo.com/itplayer/player.swf pageUrl=http://wdsonline.gdsinfo.com/itplayer/konyhatv_inc.php
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mtsz.org/images/staticfilesimage/kunos/tv_m1_logo.png" group-title="HUNGARY",M1 TV
 http://cdns724ste1010secure.shooowit.net/m1tvlive/smil:live.smil/playlist.m3u8
