@@ -5286,7 +5286,7 @@ rtmp://vodjctv.aitstreaming.com:1935/live/live2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinethailand.net/tv_online/images/m-channel.jpg" group-title="THAILAND",M Channel
 http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.policetv.tv/wp-content/uploads/2017/11/POLICETV_280-003_00149.jp" group-title="THAILAND",Police TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.policetv.tv/wp-content/uploads/2017/11/POLICETV_280-003_00149.jpg" group-title="THAILAND",Police TV
 http://live.netdesignhost.com/policetvlive/policetvlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mazzflix.com/tmp/uploads_livetv_sabuyde_1_300x215.png" group-title="THAILAND",Sabaidee TV
