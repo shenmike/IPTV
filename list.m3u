@@ -670,9 +670,6 @@ http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/events/000000000033e132/78ad5b5b-7d1f-4f38-b1af-1060355a4061_30000.jpg" group-title="USA LOCAL",KOB 4 News (Santa Fe)
 https://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bcsrq.com/wp-content/uploads/2016/04/ABC-7-300x300.jpg" group-title="USA LOCAL",ABC 7 (Sarasota)
-http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wanewscouncil.org/wp-content/uploads/2011/09/post-img_kiro-logo_v1.png" group-title="USA LOCAL",KIRO 7 News (Seattle)
 http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8
 
