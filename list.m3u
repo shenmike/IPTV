@@ -192,9 +192,6 @@ http://www.lengua.com/anthems/USA.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CFHtVxO.png" group-title="USA",360 North
 http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bcsrq.com/wp-content/uploads/2016/04/ABC-7-300x300.jpg" group-title="USA",ABC 7 - WWSB (Sarasota)
-http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dhobbPt.jpg" group-title="USA",ABC 13 - KYUR (Anchorage)
 http://live.field59.com/kyur/ngrp:kyur2_all/master.m3u8
 
@@ -650,6 +647,9 @@ http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/events/000000000033e132/78ad5b5b-7d1f-4f38-b1af-1060355a4061_30000.jpg" group-title="USA LOCAL",KOB 4 News (Santa Fe)
 https://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bcsrq.com/wp-content/uploads/2016/04/ABC-7-300x300.jpg" group-title="USA",ABC 7 News (Sarasota)
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14552.jpg" group-title="USA LOCAL",CBS 13 News (Stockton)
 http://play-prod1.live.anvato.net/server/play/cbslocal-kovrx-dfp/master.m3u8
