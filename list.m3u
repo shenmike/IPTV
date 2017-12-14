@@ -204,6 +204,9 @@ http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/kHWW4Gg.jpg" group-title="USA",American Heroes Channel
 https://content-ausw3.uplynk.com/channel/7ba600dabdd44f5a92ffaf9842f1e9e8/h.m3u8?pbs=cb48fd2666074c06a4ebd1462fb4d565
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cjmproductions.com/wp-content/uploads/2016/04/logobar-amgtv-clr.png" group-title="USA",AMGTV
+rtmp://cp212391.live.edgefcs.net/live/T02027-amgtv@120244 swfUrl=http://vp.telvue.com/extra/jwplayer.swf swfVfy=1 live=1 pageUrl=http://vp.telvue.com/player?id=T02027&video=57269&mini=1&autoplay=true timeout=15
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BCQzAJ6.png" group-title="USA",Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
@@ -248,6 +251,9 @@ http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Buzzr_%28TV_Network%29_Logo.png" group-title="USA",Buzzr
 http://nitrotv.for-the.biz:25461/live/Tyson45/3WjBFxJsDb/6006.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="USA",BYUtv
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZKQfV3y.png" group-title="USA",C-SPAN
 http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
