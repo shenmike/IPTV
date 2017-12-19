@@ -1563,9 +1563,6 @@ http://45.43.208.2:1935/classique/classique/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/QdcfCnSdv2M/hqdefault.jpg" group-title="BRAZIL",CN Agitos
 http://wsemedia.com:1935/cn01/cn01/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.todavoce.com.br/wp-content/uploads/2010/04/filmes_online.jpg" group-title="BRAZIL",Filmes On-line
-http://45.43.208.2:1935/mandruva/mandruva/live.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tudotv.tv/fotos/089adfd02ebdb8d07e102e8eb58c87c8.jpg" group-title="BRAZIL",Globo Nordeste
 http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8
 
@@ -1652,6 +1649,9 @@ http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1677441762/logo_nova_400x400.jpg" group-title="BRAZIL",TVN Brasil
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/744342921516826624/z3DYuDwD.jpg" group-title="BRAZIL",TV na Ilha
+http://45.43.208.2:1935/mandruva/mandruva/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ucstv.com.br/wp-content/uploads/2015/02/logo_siteucstv.png" group-title="BRAZIL",UCSTV
 http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
