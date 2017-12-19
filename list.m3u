@@ -5058,20 +5058,14 @@ http://www.lengua.com/anthems/Egypt.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/b2/7d/63/b27d63c52f73b653d3da44668aeaf70d--live-stream-live-tv.jpg" group-title="EGYPT",Al Kahera Wal Nas
 http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-j2tQrXqcnbE/UJrfFKuhOVI/AAAAAAAAD9w/O1PAj3B0Wlw/s320/Screen_shot_2011-07-02_at_12.49.44_PM.png" group-title="EGYPT",CBC
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=cbc&t=ar
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-ioYYJZj_VXU/AAAAAAAAAAI/AAAAAAAAAAA/qs6dk9aMy34/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="EGYPT",CBC Drama
-tp://selevision9883-i.akamaihd.net/hls/live/219205/98831/1.m3u8
+http://selevision9883-i.akamaihd.net/hls/live/219205/98831/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://storage.googleapis.com/cbc-sofra-assets/images/sofra_logo_or.jpg" group-title="EGYPT",CBC Sofra
 http://selevision9895-i.akamaihd.net/hls/live/219368/98951/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bahgat.com/uploads/dream-logo-print0200.png" group-title="EGYPT",Dream TV
 http://selevision9883-i.akamaihd.net/hls/live/219253/98837/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7d/Logo-alsharq.png" group-title="EGYPT",El Sharq [Off]
-http://cdn.edge.tmed.pw:8081/elsharqtv_main/main/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live-sport.me/wp-content/uploads/2015/06/Mekameleen-TV.gif" group-title="EGYPT",Mekameleen
 http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist.m3u8
