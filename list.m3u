@@ -213,9 +213,6 @@ rtmp://cp212391.live.edgefcs.net/live/T02027-amgtv@120244 swfUrl=http://vp.telvu
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BCQzAJ6.png" group-title="USA",Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/1200px-Antenna_TV_logo.svg.png" group-title="USA",Antenna TV
-http://nitrotv.for-the.biz:25461/live/Tyson45/3WjBFxJsDb/7373.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Lh3tj0Q.png" group-title="USA",ASD TV
 http://64.22.99.223/AnchorageSchoolsAKLIVE/_definst_/AnchorageSchoolsAKLIVE.stream/chunklist.m3u8
 
@@ -252,9 +249,6 @@ http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/f5ZtDhj.png" group-title="USA",Buffalo TV
 http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Buzzr_%28TV_Network%29_Logo.png" group-title="USA",Buzzr
-http://nitrotv.for-the.biz:25461/live/Tyson45/3WjBFxJsDb/6006.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="USA",BYUtv
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 
@@ -290,9 +284,6 @@ http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sbgi.net/wp-content/uploads/2015/11/comet-logo.jpg" group-title="USA",Comet TV (Geo)
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.cozitv.com/designimages/cozi-logo.png" group-title="USA",Cozi TV
-http://nitrotv.for-the.biz:25461/live/Tyson45/3WjBFxJsDb/7372.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/CNN.png" group-title="USA",CNN
 http://189.216.247.113/Content/HLS/Live/Channel(CNN_HD)/index.m3u8
@@ -339,9 +330,6 @@ https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KfsVNlB.png" group-title="USA",Garland TV
 http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.get.tv/sites/all/themes/responsive/responsive_gettv_2/images/logo-asn.png" group-title="USA",getTV
-http://nitrotv.for-the.biz:25461/live/Tyson45/3WjBFxJsDb/7375.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yousenditcc.s3.amazonaws.com/Golf-Channel-white.png" group-title="USA",Golf Channel
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
@@ -353,9 +341,6 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uxUqIVT.png" group-title="USA",Greenbelt TV
 http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.grittv.com/wp-content/uploads/2014/07/gritl-ogo1.gif" group-title="USA",Grit
-http://nitrotv.for-the.biz:25461/live/Tyson45/3WjBFxJsDb/7376.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/t3EgjfU.png" group-title="USA",Home Shopping Network
 http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
@@ -386,9 +371,6 @@ http://173.199.158.79:1935/roku/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fi68GxG.png" group-title="USA",Laurel TV
 https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjkAGil.png" group-title="USA",MeTV
-http://nitrotv.for-the.biz:25461/live/Tyson45/3WjBFxJsDb/1263.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HuFEXXs.png" group-title="USA",Miami TV
 http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
@@ -521,9 +503,6 @@ http://stitcher.prod.pluto.tv/stitch/hls/channel/56747b22218fb5b73692cbd5/master
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/O2Pg8kR.png" group-title="USA",The Florida Channel
 http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thistv.com/images/this-logo-footer.png" group-title="USA",This TV
-http://nitrotv.for-the.biz:25461/live/Tyson45/3WjBFxJsDb/7381.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9qF7VJ8.png" group-title="USA",truTV
 http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
