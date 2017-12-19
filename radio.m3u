@@ -6,7 +6,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free Global Radio
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Nov.29.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Dec.18.2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -2465,6 +2465,9 @@ http://63.143.36.2:8888/Hindi
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lh3.googleusercontent.com/odzoE-14aMPkOScsC0SToFMQr7CPJ0fHAOCEXw40CtH_243saq8sLwXOe9fos4v89g=w300" group-title="INDIA",Radio Divya Jyoti
 http://74.50.122.103:9280/;stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.all-radios.in/sites/default/files/radio/red-fm-935-india.jpg" group-title="INDIA",Red FM 93.5 FM Delhi
+http://radionation.hidtechs.com:8001/delhi-93_5-ist.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/lJzULVZE1jP_93yntMVXdq__tx3eWs9JM5t9rRixlaYGXqX-yNjrGTsgq9_xYNM82aw=w300" group-title="INDIA",Sikhi Lehar Radio
 http://74.50.122.103:9314/;stream
