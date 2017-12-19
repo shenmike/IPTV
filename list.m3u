@@ -1464,9 +1464,6 @@ http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbed
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/tv_aperipe.jpg" group-title="BRAZIL",Aperipe TV
 http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s20.postimg.org/4szyd9mel/Canal_Conex_o.jpg" group-title="BRAZIL",Canal Conexao
-http://live.sba1.com:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/canaldoboib.png" group-title="BRAZIL",Canal do Boi
 http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
 
