@@ -1608,10 +1608,10 @@ http://stmv1.srvstm.com/tvarthd/tvarthd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www3.al.sp.gov.br/repositorio/noticia/N-06-2015/fg172134.jpg" group-title="BRAZIL",TV Assembleia SP
 http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ismaelcarvalho.com.br/wp-content/uploads/2016/06/tv-brasil.png" group-title="BRAZIL",TV Brasil (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ismaelcarvalho.com.br/wp-content/uploads/2016/06/tv-brasil.png" group-title="BRAZIL",TV Brasil
 http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ismaelcarvalho.com.br/wp-content/uploads/2016/06/tv-brasil.png" group-title="BRAZIL",TV Brasil (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ebc.com.br/institucional/sites/_institucional/files/thumbnails/image/tv_brasil_animada.jpg" group-title="BRAZIL",TV Brasil Animada
 http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://diariodosurdo.com.br/wp-content/uploads/2015/06/CfRkvHio_400x400.jpeg" group-title="BRAZIL",TV Camara
