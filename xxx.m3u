@@ -57,16 +57,16 @@ http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Sex Phone
 http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.thestudio66.com/img/s/v-3/p1815119917-3.jpg" group-title="IPTV",Studio 66 Ch. 12
+#EXTINF:-1 tvg-logo="http://www.thestudio66.com/img/s/v-3/p1815119917-3.jpg" group-title="IPTV",Studio 66
 http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel12/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.thestudio66.com/img/s/v-3/p1815119917-3.jpg" group-title="IPTV",Studio 66 Ch. 31
+#EXTINF:-1 tvg-logo="http://www.thestudio66.com/img/s/v-3/p1815119917-3.jpg" group-title="IPTV",Studio 66
 http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel31/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.thestudio66.com/img/s/v-3/p1815119917-3.jpg" group-title="IPTV",Studio 66 Ch. 33
+#EXTINF:-1 tvg-logo="http://www.thestudio66.com/img/s/v-3/p1815119917-3.jpg" group-title="IPTV",Studio 66
 http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel33/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.thestudio66.com/img/s/v-3/p1815119917-3.jpg" group-title="IPTV",Studio 66 Ch. 41
+#EXTINF:-1 tvg-logo="http://www.thestudio66.com/img/s/v-3/p1815119917-3.jpg" group-title="IPTV",Studio 66
 http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dPYGYvX.png" group-title="IPTV",The O
