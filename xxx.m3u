@@ -6,7 +6,7 @@ http://184.173.142.117:21728/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free Adult VOD
 http://184.173.142.117:21728/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Nov.29.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Dec.18.2017
 http://184.173.142.117:21728/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/LMa8p2F.png" group-title="INFO",> Like Us!
@@ -53,6 +53,21 @@ http://edge1.everyon.tv:1935/etv1sb/phd927/paz.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kqtyazi.png" group-title="IPTV",Sakura
 http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ksl1HhQ.png" group-title="IPTV",Sex Phone
+http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thestudio66.com/img/s/v-3/p1815119917-3.jpg" group-title="IPTV",Studio 66 Ch. 12
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel12/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thestudio66.com/img/s/v-3/p1815119917-3.jpg" group-title="IPTV",Studio 66 Ch. 31
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel31/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thestudio66.com/img/s/v-3/p1815119917-3.jpg" group-title="IPTV",Studio 66 Ch. 33
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel33/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thestudio66.com/img/s/v-3/p1815119917-3.jpg" group-title="IPTV",Studio 66 Ch. 41
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dPYGYvX.png" group-title="IPTV",The O
 http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
