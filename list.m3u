@@ -1503,9 +1503,6 @@ http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://es.live-tv-channels.net/pt-data/uploads/logo/br-multi-tv-cidades.jpg" group-title="BRAZIL",MultiTV Cidades
 http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s30.postimg.org/c6rieq3ch/Novo_Canal.png" group-title="BRAZIL",Novo Canal
-http://live.sba1.com:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/LcpPNw" group-title="BRAZIL",PUC TV Goias
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 
@@ -1536,7 +1533,7 @@ http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="BRAZIL",Record News
 http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?wowzasessionid=356495000
 
-#EXTINF:-1,  tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://s30.postimg.org/eymtgnmjl/logo_fundotransparente2.png" group-title="",Rede Atividade
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://s30.postimg.org/eymtgnmjl/logo_fundotransparente2.png" group-title="",Rede Atividade
 http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://portal4.files.wordpress.com/2016/06/rede-brasil-1.jpg" group-title="BRAZIL",Rede Brasil [Opt-1]
