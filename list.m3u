@@ -6,7 +6,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free IPTV
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Dec.19.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Dec.22.2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -4137,8 +4137,23 @@ http://egress.cdn.mind.ee/tallinnatv_live/_definst_/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/cz.png" group-title="LABEL",~ Czech Republic TV ~
 http://www.lengua.com/anthems/CzechRepublic.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://la.axn.com/sites/la.axn/files/logos/axn_0.png" group-title="CZECH REP",AXN
+http://69.39.239.166:5000/live/282/282.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://la.axn.com/sites/la.axn/files/logos/axn_0.png" group-title="CZECH REP",AXN 2
+http://69.39.239.166:5000/live/205/205.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pcdays.cz/wp-content/uploads/2016/10/3731506-logo-kanalu-ceskoslovensko-hd-1-620x83p0.png" group-title="CZECH REP",Ceskoslovensko
+http://65.254.55.10:4000/live/196/196.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elektrika.tv/elektrika-tv.jpg" group-title="CZECH REP",Elektrika TV
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.cz.prg.cmestatic.com/media/images/600x338/Jan2012/929458.jpg" group-title="CZECH REP",Nova
+http://69.39.239.166:5000/live/60/60.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nova-action-logo-2017.png" group-title="CZECH REP",Nova Action
+http://174.36.163.12:4000/live/304/304.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/3efa0aaaeb3a39c0380a38aaae7649db.jpeg" group-title="CZECH REP",Ocko
 http://se01.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_lq.m3u8
@@ -4155,14 +4170,35 @@ http://88.212.46.127:9000/rtp/232.232.64.21:5004
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cool.iprima.cz/sites/all/themes/prima_channels/images/logos/logo-cool-cover.jpg" group-title="CZECH REP",Prima Cool
 http://208.43.120.148/live/116/116.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg" group-title="CZECH REP",Retro
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://max.iprima.cz/sites/all/themes/prima_channels/images/logos/logo-max-cover.jpg" group-title="CZECH REP",Prima Max
+http://74.208.44.158:5000/live/518/518.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.narozeny.cz/sites/default/files/logo/rebel-rock-tv.png" group-title="CZECH REP",Rebel
+http://199.195.199.196:5000/live/410/410.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg" group-title="CZECH REP",Retro (Opt-1)
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg" group-title="CZECH REP",Retro (Opt-2)
+http://199.195.199.196:5000/live/412/412.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/DLsTRdoXkAEumh0.jpg" group-title="CZECH REP",Tuty TV
 http://stream.mediawork.cz/tuty/tutytv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/sk.png" group-title="LABEL",~ Slovakia TV ~
 http://www.lengua.com/anthems/Slovakia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.mediacentrum.sk/gallery/nwo/maxwidth/990/2087047.jpg" group-title="SLOVAKIA",Doma
+http://199.195.199.196:5000/live/368/368.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Markiza_logo.png" group-title="SLOVAKIA",Markiza
+http://5.63.149.252:5000/live/418/418.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.joj.sk/rx/78c61f2d0cdbde28c9ebe3af34299a98.png" group-title="SLOVAKIA",Plus
+http://http-stream.joj.sk/joj/jojplus/index-hq.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mediawatch.dog/wp-content/uploads/2015/01/Detskú-stanicu-RiK-do-svojej-ponuky-zaradil-aj-operátor-Orange-do-svojej-Fiber-TV.jpg" group-title="SLOVAKIA",RiK
+http://5.63.149.252:5000/live/499/499.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-N6timK5iplI/AAAAAAAAAAI/AAAAAAAAAAA/n42bODNmMfo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SLOVAKIA",Senzi
 http://109.74.144.130/live/senzihity/senzihity.m3u8
@@ -4172,6 +4208,9 @@ http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/Televizia+Myjava+(TVM)+logo_1003.png" group-title="SLOVAKIA",TVM
 http://s1.media-planet.sk:80/live/myjava1/BratuMarian.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Joj_logo_2015.jpg" group-title="SLOVAKIA",TV JOJ
+http://http-stream.joj.sk/joj/joj/index-hq.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/9e9d6d2b7e9c24a2773d97a576ab2476-196x126.jpeg" group-title="SLOVAKIA",TV Lux
 http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8
