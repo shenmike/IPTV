@@ -2049,7 +2049,7 @@ http://50.7.56.2:8016
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/yA8JpT1.png" group-title="LATINO",A+E
 http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/0mYHdap.png" group-title="LATINO",AMC HD [Opt-1]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/0mYHdap.png" group-title="LATINO",AMC
 http://live.izzitv.mx/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xE51fHv.png" group-title="LATINO",America Teve
@@ -2706,11 +2706,8 @@ http://181.198.10.23:1935/live2/smil:teradek.smil/chunklist_w151492058_b1024000_
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Colombia-01.png" group-title="LABEL",~ Colombia TV ~
 http://www.lengua.com/anthems/Colombia.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tatacabello.com/wp-content/uploads/2016/04/cablenoticias.png" group-title="COLOMBIA",Cable Noticias [Opt-1]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tatacabello.com/wp-content/uploads/2016/04/cablenoticias.png" group-title="COLOMBIA",Cable Noticias
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tatacabello.com/wp-content/uploads/2016/04/cablenoticias.png" group-title="COLOMBIA",Cable Noticias [Opt-2]
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CABLENOTICIAS_HD)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV.png" group-title="COLOMBIA",Cali TV
 http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
@@ -2718,11 +2715,8 @@ http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_07/large.Canal-UNO.png.e70c0776f11c309940c68f740e2ea9e6.png" group-title="COLOMBIA",Canal 1
 http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pasaelchismedotcom.files.wordpress.com/2017/03/logo-canal-trece-naranja.png" group-title="COLOMBIA",Canal 13 [Opt-1]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pasaelchismedotcom.files.wordpress.com/2017/03/logo-canal-trece-naranja.png" group-title="COLOMBIA",Canal 13
 https://streaming.logicideas.media/canal13live/smil:live2.smil/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pasaelchismedotcom.files.wordpress.com/2017/03/logo-canal-trece-naranja.png" group-title="COLOMBIA",Canal 13 [Opt-2]
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CANAL13)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/co_canal-14-cali_m.png" group-title="COLOMBIA",Canal 14
 http://181.143.238.252/live/livestream/index.m3u8
@@ -2733,12 +2727,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Canal_Capital_%28Bogotá%29_logo.svg/1200px-Canal_Capital_%28Bogotá%29_logo.svg.png" group-title="COLOMBIA",Canal Capital
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CANAL_CAPITAL)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-vsQAgvN5JtQ/AAAAAAAAAAI/AAAAAAAAAAA/0Xb-yTUf-bc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="COLOMBIA",Canal Claro
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CANAL_CLARO)/Stream(01)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Radiola_tv_logo.png" group-title="COLOMBIA",Canal Radiola TV
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RADIOLA)/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ing-sat.what.hu/images/logo-insert/satlogos/colombia/209-Canal-Tro[2].jpg" group-title="COLOMBIA",Canal Tro
 http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist_p750000.m3u8
 
@@ -2748,20 +2736,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-mlFvknLpfgE/VQy5lg2IcyI/AAAAAAAAAXc/w4LPztKxtKc/s320/CantinazoTV.jpg" group-title="COLOMBIA",Cantinazo TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.todocanales.net/wp-content/uploads/2015/11/caracol-263x300-263x300.jpg" group-title="COLOMBIA",Caracol TV [Opt-1]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.todocanales.net/wp-content/uploads/2015/11/caracol-263x300-263x300.jpg" group-title="COLOMBIA",Caracol TV
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.todocanales.net/wp-content/uploads/2015/11/caracol-263x300-263x300.jpg" group-title="COLOMBIA",Caracol TV [Opt-2]
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARACOL)/Stream(01)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.todocanales.net/wp-content/uploads/2015/11/caracol-263x300-263x300.jpg" group-title="COLOMBIA",Caracol TV HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARACOL_HD)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://viceltas.com/wp-content/uploads/2014/07/logo-cinema+.png" group-title="COLOMBIA",Cinema Plus
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINEMAPLUS)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/Citytv_1999_1.png" group-title="COLOMBIA",City TV
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CITY_TV)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/895766074452566016/uZx3koXo.jpg" group-title="COLOMBIA",CNC
 http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
@@ -2769,23 +2745,8 @@ http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/cana
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-19K43ULMe40/TrvUcbhyiiI/AAAAAAAAAlM/L7sXf72CeCA/s1600/cosmo+tv.png" group-title="COLOMBIA",Cosmovision
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dataifx.com/corporativo/images/logo/equis(2).png" group-title="COLOMBIA",Dataifx
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DATA_IFX)/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elextramedios.com/drupal/sites/default/files/images/stories/fotosarticulos/sept2010/prensa62-el-tiempo-tv.jpg" group-title="COLOMBIA",El Tiempo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="COLOMBIA",Fox Sports
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="COLOMBIA",Fox Sports 2
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="COLOMBIA",Fox Sports 3
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/INTI_Network_TV.png" group-title="COLOMBIA",INTI Network
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(INTI_HD)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-MJZ3A3u6E78/U-JWxeGtvrI/AAAAAAAACzg/mFikMtH2yW0/s1600/life_design_tv.png" group-title="COLOMBIA",Life Design
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
@@ -2805,20 +2766,8 @@ http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/playchannel.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisión_logo.svg/2000px-RCN_Televisión_logo.svg.png" group-title="COLOMBIA",RCN
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?exabytetv.info?.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://content.iptvprivateserver.tv:88/stalker_portal/misc/logos/240/881.png" group-title="COLOMBIA",RCN Novelas
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RCN_TELENOVELAS)/Stream(01)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Nuestra_Tele_logo.svg/1200px-RCN_Nuestra_Tele_logo.svg.png" group-title="COLOMBIA",RCN Nuestra Tele
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NUESTRA_TELE)/Stream(01)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Redmas_logo.png" group-title="COLOMBIA",Red Mas Colombia
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DIA_TV_HD)/Stream(01)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052014/untitled-1_56.png" group-title="COLOMBIA",Senal Colombia [Opt-1]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052014/untitled-1_56.png" group-title="COLOMBIA",Senal Colombia
 http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052014/untitled-1_56.png" group-title="COLOMBIA",Senal Colombia [Opt-2]
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SENAL_COLOMBIA_HD)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Señal_Institucional_logo.svg/1200px-Señal_Institucional_logo.svg.png" group-title="COLOMBIA",Senal Institucional
 http://live10.cdnmedia.tv/rtvcsinstitucionallive/smil:live.smil/master.m3u8
@@ -2832,11 +2781,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecafe11.png" group-title="COLOMBIA",Telecafe
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/1200px-Telecaribe2017.png" group-title="COLOMBIA",Telecaribe [Opt-1]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/1200px-Telecaribe2017.png" group-title="COLOMBIA",Telecaribe
 http://live10.cdnmedia.tv/telecaribelive/smil:live.smil/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/1200px-Telecaribe2017.png" group-title="COLOMBIA",Telecaribe [Opt-2]
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TELECARIBE)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/830175884283875328/oudc8eAY.jpg" group-title="COLOMBIA",Teleenvigado
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
