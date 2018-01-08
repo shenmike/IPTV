@@ -4965,6 +4965,12 @@ http://strhls.streamakaci.tv/str_afm_afm/str_afm_multi/str_afm_afm/str_afm_afm_3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.camer.be/UserFiles/file/images/caMeroun/xVision4-220616750.jpg.pagespeed.ic.sj9MCafUOv.jpg" group-title="CAMEROON",Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/256/Sierra-Leone-Flag-icon.png" group-title="LABEL",~ Sierra Leone TV ~
+http://www.lengua.com/anthems/SierraLeone.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cfmstreaming.com/img/ayvtv__Ayvnewlogo1.jpg" group-title="SIERRA LEONE",AYV TV
+http://gghdlive-lh.akamaihd.net/i/ayvtv5_1@323148/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.i2clipart.com/cliparts/d/e/e/2/clipart-za-256x256-dee2.png" group-title="LABEL",~ South Africa TV ~
 http://www.lengua.com/anthems/SouthAfrica.mp3
 
