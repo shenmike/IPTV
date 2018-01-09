@@ -6,7 +6,7 @@ http://191.252.102.161:8040/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free Religious TV
 http://191.252.102.161:8040/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Jan.08.2018
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Jan.09.2018
 http://191.252.102.161:8040/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -186,7 +186,7 @@ http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/616609783274164224/waq5RhQO_400x400.png" group-title="CHRISTIANITY",Rap Resurrection (USA)
 http://edge2.tikilive.com:1935/unrestricted_tikilive/36008/amlst:amKEQ2Y2gYN4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/742438d2db584d6b93a617eacf0ad1f8-hd.jpg" group-title="CHRISTIANITY",SafeTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/742438d2db584d6b93a617eacf0ad1f8-hd.jpg" group-title="CHRISTIANITY",SafeTV (USA)
 http://live.ipointcable.com/safetv/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Smile_TV.jpg" group-title="CHRISTIANITY",Smile TV (USA)
@@ -239,6 +239,8 @@ http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.wixstatic.com/media/c38be3_0cf530338264f47420d5237f029b2d6d.png_512" group-title="CHRISTIANITY",Vision Celestial (USA) [ES]
 http://streaming.omeganet.org:1935/vc/envivo/chunklist_w1068747420.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.unored.tv/wp-content/uploads/2015/07/cdm-int.jpg" group-title="CHRISTIANITY",Cadena del Milagro (Puerto Rico)
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Daystar_TV.PNG" group-title="CHRISTIANITY",Daystar (Canada)
 http://bcsecurelivehls-i.akamaihd.net/hls/live/261547/1539097700001/master_1080p.m3u8
