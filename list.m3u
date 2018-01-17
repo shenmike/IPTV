@@ -2679,9 +2679,6 @@ https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BITLZHE.png" group-title="CHILE",Niu TV
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15074361401.jpg" group-title="CHILE",Nuble TV
-https://593b04c4c5670.streamlock.net:443/tvdaniel/tvdaniel/playlist.m3u8 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpinguino.com/web2012/logo.png" group-title="CHILE",Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
 
