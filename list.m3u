@@ -363,6 +363,9 @@ http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FSukyxY.png" group-title="USA",QVC
 http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img00.deviantart.net/1bbc/i/2012/242/e/a/random_channel_by_peaceful_peas-d5bkqjg.jpg" group-title="USA",Random Channel
+http://stream.memesyndicate.com/live/thx/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="USA",Red Bull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 
@@ -440,9 +443,6 @@ http://ucsdtv-wowza.ucsd.edu:1935/live/live_800/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Lr3bC2u.png" group-title="USA",UGA TV
 http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/viceland.jpg?fit=520%2C350&ssl=1&resize=350%2C200" group-title="USA",Viceland
-http://stream.memesyndicate.com/live/thx/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RQdfZe6.png" group-title="USA",Velocity
 http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
