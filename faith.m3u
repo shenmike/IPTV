@@ -6,7 +6,7 @@ http://191.252.102.161:8040/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free Religious TV
 http://191.252.102.161:8040/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Jan.09.2018
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Jan.17.2018
 http://191.252.102.161:8040/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -275,8 +275,14 @@ http://video.crearchile.info:8080/live/tnetv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/7CAp43AuvzB0CmUcDXCxuTuT5dkz80zYzGbvttDNhPGJ1joBnTpGG4YOiMj7dulSZaA=w300" group-title="CHRISTIANITY",Gracia TV (Chile)
 http://v1.streaminglatinoamerica.com:1935/graciatv/graciatv/chunklist_w84519623.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/7CAp43AuvzB0CmUcDXCxuTuT5dkz80zYzGbvttDNhPGJ1joBnTpGG4YOiMj7dulSZaA=w300" group-title="CHRISTIANITY",Gracia TV (Chile)*
+http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nuevotiempo.org/radio/files/Radio-Nuevo-Tiempo-Logo.jpg" group-title="CHRISTIANITY",Nuevo Tiempo (Chile)
 http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://chileiptv.cl/img/logos/logo_14872746571.png" group-title="CHRISTIANITY",Televida Chillan (Chile)
+http://unlimited5-cl.dps.live/tlvida/tlvida.smil/tlvida/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i68.tinypic.com/2qauuep.png" group-title="CHRISTIANITY",G12 Vision (Colombia)
 http://wowzaprod8-lh.akamaihd.net/i/e05c0eb8_1@44165/master.m3u8
