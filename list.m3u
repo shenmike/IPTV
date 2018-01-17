@@ -5219,6 +5219,9 @@ http://218.60.94.32:1935/live/cs08.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.i.haymarketmedia.asia/?n=finance-asia%2Fcontent%2FBain+Jupiter.png" group-title="JAPAN",Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sky-a.co.jp/img/ogimage.png" group-title="JAPAN",Sky A Sports
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs23.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.spaceshowertv.com/images/icon/sstv_100x100.png" group-title="JAPAN",Space Shower TV
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs30.stream/playlist.m3u8
 
@@ -5227,9 +5230,6 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/cs28.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prtimes.jp/i/3065/456/resize/d3065-456-913135-0.jpg" group-title="JAPAN",TBS News Bird
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs15.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="JAPAN",Unknown
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs23.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kr.png" group-title="LABEL",~ South Korea TV ~
 http://www.lengua.com/anthems/SouthKorea.mp3
