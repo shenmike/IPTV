@@ -4257,10 +4257,10 @@ http://bloomtv.live-s.cdn.bitgravity.com/cdn-live-b5/_definst_/bloomtv/live/feed
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2017/03/britasiatv001-800x800.jpg" group-title="INDIA",Brit Asia TV (UK)
 http://46.249.213.87/iPhone/broadcast/brit_asia_tv-tablet.3gp.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/823402115565400064/kDJQPUMQ.jpg" group-title="INDIA",CNBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/823402115565400064/kDJQPUMQ.jpg" group-title="INDIA",CNBC Awaaz
 http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bestmediainfo.com/wp-content/uploads/2016/04/Cnn_news18.jpg" group-title="INDIA",CNN-News 18 (English)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bestmediainfo.com/wp-content/uploads/2016/04/Cnn_news18.jpg" group-title="INDIA",CNN-News 18
 http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://storiesofworld.com/wp-content/uploads/2016/03/8-9.jpg" group-title="INDIA",DD News
@@ -4269,10 +4269,10 @@ http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newsgalaxy.org/wp-content/uploads/2016/10/DD-Punjabi-logo-400x150.jpg" group-title="INDIA",DD Punjabi
 http://nicls3-lh.akamaihd.net/i/ddpunjabi_1@122402/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/056bb4aa-a8a4-48d1-bad0-22b18089d22d.jpg" group-title="INDIA",Desi Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/056bb4aa-a8a4-48d1-bad0-22b18089d22d.jpg" group-title="INDIA",Desi Channel (Opt-1)
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/056bb4aa-a8a4-48d1-bad0-22b18089d22d.jpg" group-title="INDIA",Desi Channel*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/056bb4aa-a8a4-48d1-bad0-22b18089d22d.jpg" group-title="INDIA",Desi Channel (Opt-2)
 http://live.wmncdn.net/desibeat/e09ed9b1bf87b35650da39a2924bc5ff.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hdonlinetv.live/Images/Channels/eet_tv.png" group-title="INDIA",EET TV Tamil (Canada)
@@ -4292,6 +4292,9 @@ http://etvurdulive-lh.akamaihd.net:80/i/etv_urdu_live_1@373059/index_1_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-yBEGFLcKqDU/WKWbXEkvQmI/AAAAAAAADoc/q05Vd_g1bAU/s640/625.jpg" group-title="INDIA",ETV Uttar Pradesh
 http://etv_up_hls-lh.akamaihd.net/i/etv_up_hls_1@175735/index_1_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image3.mouthshut.com/images/imagesp/925599137s.jpg" group-title="INDIA",IBN Lokmat
+http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jadootv.com/wp-content/uploads/2015/05/ai1.png" group-title="INDIA",India TV
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
@@ -4323,7 +4326,7 @@ http://ndtvstream-lh.akamaihd.net:80/i/ndtv_24x7_1@300633/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-z-DeHLjzo4M/AAAAAAAAAAI/AAAAAAAAAAA/xz8h1oFDw7k/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="INDIA",NDTV Prime
 http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/testmultibitrate.smil/chunklist_w1017334011_b512000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.thenewsminute.com/sites/default/files/styles/news_detail/public/News%20X%20Facebook.jpg" group-title="INDIA",NewsX (English)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.thenewsminute.com/sites/default/files/styles/news_detail/public/News%20X%20Facebook.jpg" group-title="INDIA",NewsX
 http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.bestmediainfo.com/wp-content/uploads/2016/11/New18-India-logo.jpg" group-title="INDIA",News 18
