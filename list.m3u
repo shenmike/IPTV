@@ -2745,7 +2745,7 @@ http://192.95.25.203:554/canal1/radiostation.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-leq2ZxhLvhc/AAAAAAAAAAI/AAAAAAAAAAA/lgA8SP2JZH4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ECUADOR",Ecuador TV Canal 7
 http://api.new.livestream.com/accounts/22196143/events/6576568/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="hhttps://i.imgur.com/8D1LrKO.png" group-title="ECUADOR",Canela TV (New!)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8D1LrKO.png" group-title="ECUADOR",Canela TV (New!)
 http://servicioamerica.com:1935/8200/8200/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/200px-Oromar_logo.png" group-title="ECUADOR",Oromar TV
