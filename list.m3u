@@ -2238,6 +2238,9 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RcHaKDY.png" group-title="MEXICO",Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvdxtips.com/canal10chiapas2015.jpg" group-title="MEXICO",Canal 10 Chiapas
+http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9ggyiEM.png" group-title="MEXICO",Canal 26 Aguascalientes
 http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8
 
@@ -3215,6 +3218,9 @@ http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/708080483704377344/FLWBhNnC.jpg" group-title="VENEZUELA",TLT
 http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/843936106127249408/F21QBx3L.jpg" group-title="VENEZUELA",TV Venezuela
+http://vivoplay-i.akamaihd.net/hls/live/255338/tvvenezuela/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="VENEZUELA",TVes
 http://controlstreams.com:1935/tves2/tves2/playlist.m3u8
