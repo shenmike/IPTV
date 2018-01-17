@@ -882,10 +882,10 @@ rtmp://streaming.austria24.tv/live/stream_360p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nossojogo.at/wp-content/uploads/2014/04/CI-Dorf-v3.jpg" group-title="AUSTRIA",Dorf TV [Off]
 http://dorf.openplayout.org/hls/dorf_high/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg" group-title="AUSTRIA",KroneHit
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg" group-title="AUSTRIA",KroneHit (Opt-1)
 http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg" group-title="AUSTRIA",KroneHit*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg" group-title="AUSTRIA",KroneHit (Opt-2)
 http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.campusfernsehen.at/wp-content/themes/Orion/images/logo_okto.png" group-title="AUSTRIA",Okto TV
@@ -1104,10 +1104,10 @@ http://live.stream.vrt.be/vrt_mnm_live/smil:vrt_mnm_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/08d35767e0675ecd4d321b8274b21ee4.jpeg" group-title="BELGIUM",Notele (French)
 http://streaming06.axeweb.be/live/direct.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV (French)
-http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV (Opt-1)
+http://5.196.138.6:1935/live/nrjbelgique/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV* (French)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV (Opt-2)
 http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rtl.be/tv/files/library/_mini/RTL_TVI-1024x1024_meta_facebook_1200_630_crop.jpg" group-title="BELGIUM",RTL-TVI
