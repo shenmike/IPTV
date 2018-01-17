@@ -87,6 +87,9 @@ https://5905415e30c74.streamlock.net:8443/live/_jcn_/amlst:Mariavision/chunklist
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://montemaria.org/web/web2/img/logo6.png" group-title="CATHOLICISM",Monte Maria (Mexico)
 http://162.212.176.51:1935/live/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://chileiptv.cl/img/logos/logo_15074361401.jpg" group-title="CATHOLICISM",Nuble TV (Chile)
+https://593b04c4c5670.streamlock.net:443/tvdaniel/tvdaniel/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-39-sv.png" group-title="CATHOLICISM",TVCA (El Salvador)
 http://streamserver3.us:1935/tvcaelsalvador/live/playlist.m3u8
 
