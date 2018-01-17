@@ -4377,7 +4377,7 @@ http://etnowweblive-lh.akamaihd.net/i/Etnow-TIL-WAP/ETNowweb_1@348070/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindi.news18.com/js/image/ETV%20MpCg.png" group-title="INDIA",ETV Madhya Pradesh
 http://etv_mp_hls-lh.akamaihd.net/i/etv_mp_hls_1@175737/index_1_av-b.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="INDIA",ETV Rajasthan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvimages.burrp.com/images/channels2/entertainment/Etv-Rajasthan.png" group-title="INDIA",ETV Rajasthan
 http://etv_rajasthan_hl-lh.akamaihd.net/i/etv_rajasthan_hls_1@175738/index_1_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.desifree.tv/wp-content/uploads/etv-1.jpg" group-title="INDIA",ETV Urdu
