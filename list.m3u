@@ -738,6 +738,21 @@ http://www.lengua.com/anthems/Grenada.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onecaribbeanmedia.net/wp-content/uploads/2014/03/GBN-Broad-Casting-Network.png" group-title="GRENADA",GBN
 http://172.93.120.62:8080/gbnlive/livestream/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/256/Sierra-Leone-Flag-icon.png" group-title="LABEL",~ Sierra Leone TV ~
+http://www.lengua.com/anthems/SierraLeone.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cfmstreaming.com/img/ayvtv__Ayvnewlogo1.jpg" group-title="SIERRA LEONE",AYV TV
+http://gghdlive-lh.akamaihd.net/i/ayvtv5_1@323148/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.i2clipart.com/cliparts/d/e/e/2/clipart-za-256x256-dee2.png" group-title="LABEL",~ South Africa TV ~
+http://www.lengua.com/anthems/SouthAfrica.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://businesstech.co.za/news/wp-content/uploads/2013/10/ANN7.jpg" group-title="SOUTH AFRICA",ANN7
+rtmp://46.4.25.213/live-ann7/ann7-hi.stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/FashionOneLogo.jpg/200px-FashionOneLogo.jpg" group-title="SOUTH AFRICA",Fashion One
+http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/de.png" group-title="LABEL",~ Germany TV ~
 http://www.lengua.com/anthems/Germany.mp3
 
@@ -1232,6 +1247,30 @@ http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MFFnTsV.png" group-title="HAITI",Ynet TV
 http://162.244.83.199:1935/ynettv/ynettv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/09/53/cameroon-156218_960_720.png" group-title="LABEL",~ Cameroon TV ~
+http://www.lengua.com/anthems/Cameroon.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/--VHC5kF57y8/VLsbhkNP4rI/AAAAAAAAAIg/-SjUfCZVxoY/s1600/1-1416787882-AfriqueMedia-2.png" group-title="CAMEROON",Afrique Media
+http://strhls.streamakaci.tv/str_afm_afm/str_afm_multi/str_afm_afm/str_afm_afm_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.camer.be/UserFiles/file/images/caMeroun/xVision4-220616750.jpg.pagespeed.ic.sj9MCafUOv.jpg" group-title="CAMEROON",Vision 4
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/cote-d-ivoire/flag-3d-round-250.png" group-title="LABEL",~ Ivory Coast TV ~
+http://www.lengua.com/anthems/IvoryCoast.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://regardscroises.ivoire-blog.com/media/00/00/1357824147.jpg" group-title="IVORY COAST",RTI 1
+http://185.59.221.143:1935/edge/rti1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/RTI_2.jpg" group-title="IVORY COAST",RTI 2
+http://185.59.221.143:1935/edge/rti2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Rwanda-icon.png" group-title="LABEL",~ Rwanda TV ~
+http://www.lengua.com/anthems/Rwanda.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rba.co.rw/IMG/rtv_logo.png" group-title="RWANDA",RTV
+http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 
 #EXTINF:-1 tvg-logo="http://gevrilgroup.com/images/Baselworld%202012/Switzerland.GIF" group-title="LABEL",~ Switzerland TV ~
 http://www.lengua.com/anthems/Switzerland.mp3
@@ -4956,11 +4995,7 @@ http://185.53.161.149:8888/play/a01a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.raxanreeb.com/wp-content/uploads/2014/02/universal_somali_tv.png" group-title="SOMALIA",Universal TV
 http://185.53.161.149:8888/play/a010
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Rwanda-icon.png" group-title="LABEL",~ Rwanda TV ~
-http://www.lengua.com/anthems/Rwanda.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rba.co.rw/IMG/rtv_logo.png" group-title="RWANDA",RTV
-http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 
 #EXTINF:-1 tvg-logo="http://topbandeiras.com.br/images/botoes/Nigeria-01.png" group-title="LABEL",~ Nigeria TV ~
 http://www.lengua.com/anthems/Nigeria.mp3
@@ -4970,30 +5005,6 @@ http://77.92.76.135:1935/tvce/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.consat.tv/images/1475327925.jpg" group-title="NIGERIA",TVC News
 http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/09/53/cameroon-156218_960_720.png" group-title="LABEL",~ Cameroon TV ~
-http://www.lengua.com/anthems/Cameroon.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/--VHC5kF57y8/VLsbhkNP4rI/AAAAAAAAAIg/-SjUfCZVxoY/s1600/1-1416787882-AfriqueMedia-2.png" group-title="CAMEROON",Afrique Media
-http://strhls.streamakaci.tv/str_afm_afm/str_afm_multi/str_afm_afm/str_afm_afm_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.camer.be/UserFiles/file/images/caMeroun/xVision4-220616750.jpg.pagespeed.ic.sj9MCafUOv.jpg" group-title="CAMEROON",Vision 4
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/256/Sierra-Leone-Flag-icon.png" group-title="LABEL",~ Sierra Leone TV ~
-http://www.lengua.com/anthems/SierraLeone.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cfmstreaming.com/img/ayvtv__Ayvnewlogo1.jpg" group-title="SIERRA LEONE",AYV TV
-http://gghdlive-lh.akamaihd.net/i/ayvtv5_1@323148/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.i2clipart.com/cliparts/d/e/e/2/clipart-za-256x256-dee2.png" group-title="LABEL",~ South Africa TV ~
-http://www.lengua.com/anthems/SouthAfrica.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://businesstech.co.za/news/wp-content/uploads/2013/10/ANN7.jpg" group-title="SOUTH AFRICA",ANN7
-rtmp://46.4.25.213/live-ann7/ann7-hi.stream
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/FashionOneLogo.jpg/200px-FashionOneLogo.jpg" group-title="SOUTH AFRICA",Fashion One
-http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://jasatamadm.com/img/team/my.jpg" group-title="LABEL",~ Malaysia TV ~
 http://www.lengua.com/anthems/Malaysia.mp3
