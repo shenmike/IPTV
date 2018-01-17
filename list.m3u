@@ -777,10 +777,10 @@ http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firmenpresse.de/adpics/501621.jpg" group-title="GERMANY",Der Aktionar TV
 http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="GERMANY",Deutsche Welle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="GERMANY",Deutsche Welle (Opt-1)
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="GERMANY",Deutsche Welle*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="GERMANY",Deutsche Welle (Opt-2)
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s100563q.png" group-title="GERMANY",Elbekanal
