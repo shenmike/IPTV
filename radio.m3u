@@ -72,20 +72,17 @@ http://s2.voscast.com:11034/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/V5lHI3bct5Q/hqdefault.jpg" group-title="USA",Hot 108 JAMZ
 http://66.85.88.174:80/hot108
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MmWQqsX.png" group-title="USA",iHeartRadio - 80s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MmWQqsX.png" group-title="USA",iHeartRadio 80s
 http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1Jcwc5O.png" group-title="USA",iHeartRadio Countdown [AAC]
 http://18073.live.streamtheworld.com:80/IHR_IHRCAAC.aac
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qLJiAuy.png" group-title="USA",iHeartRadio Kids Club [AAC]
-http://18073.live.streamtheworld.com/IHR_KIDSCLUBAAC.aac
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/By8OGzZ.png" group-title="USA",iHeartRadio Nick Radio
-http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fezei9Y.png" group-title="USA",iHeartRadio Christmas [AAC]
 http://14833.live.streamtheworld.com:80/IHR_IHADAAC.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qLJiAuy.png" group-title="USA",iHeartRadio Kids Club [AAC]
+http://18073.live.streamtheworld.com/IHR_KIDSCLUBAAC.aac
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://secureimg.stitcher.com/feedimagesplain328/68797.jpg" group-title="USA",InfoWars - Alex Jones Show
 http://192.240.107.134:80/alexjonesshow
@@ -138,6 +135,12 @@ http://206.190.136.140:9542/;stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BsxQzmg.png" group-title="USA",News Radio 1450 AM Wilmington
 http://c10icy.prod.playlists.ihrhls.com/465_icy
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/By8OGzZ.png" group-title="USA",Nick Radio (Opt-1)
+http://nick-fl.akacast.akamaistream.net/7/645/234590/v1/auth.akacast.akamaistream.net/nick-fl
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/By8OGzZ.png" group-title="USA",Nick Radio (Opt-2)
+http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/832355311155572736/JXqwkgbm.jpg" group-title="USA",NPR Illinois
 http://64.202.98.51:7800/event
 
@@ -162,7 +165,10 @@ http://75.144.206.66:8042/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.smoothjazz.com/themes/smoothjazz/images/sj-circle-logo.png" group-title="USA",SmoothJazz.com Global Radio
 http://144.217.153.67:80/live
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vau9Z0B.png" group-title="USA",Smooth Jazz 107.1 FM Sacramento
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vau9Z0B.png" group-title="USA",Smooth Jazz 107.1 FM Sacramento (Opt-1)
+http://smoothjazz.akacast.akamaistream.net/7/418/49381/v1/auth.akacast.akamaistream.net/smoothjazz
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vau9Z0B.png" group-title="USA",Smooth Jazz 107.1 FM Sacramento (Opt-2)
 http://c9.prod.playlists.ihrhls.com/4242/playlist.m3u8?listeningSessionID=573aa3a50116edba_230911_zluekKxF_0000000ofY5&downloadSessionID=0&at=0&clientType=web&fb_broadcast=0&init_id=8169&modTime=1463691594128&pname=OrganicWeb&profileid=248665060&birthYear=null&territory=US&host=webapp.US&listenerId=2af9feef0b0210de61e97b0c25264388&uid=1463690853820&gender=null&age=null&amsparams=playerid:iHeartRadioWebPlayer;skey:1463691594&terminalid=159&zipcode=null&awparams=g:null;n:null;ccaud:["10358","10410","10385","10032","10093","10379","10488","10290","10085","10167","10404","10022","10097","10078","10029","10359","10010","10277","all","10018","10275","10202","10019","10028","10396","10407","10008","10043","10094","10030","10393","10103","10017","10088","10468","10086"];companionAds:true&playedFrom=338
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jazzgroove.org/theme/16/img/logo-circle-white1-no-org.png" group-title="USA",The Jazz Groove
