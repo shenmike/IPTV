@@ -2610,8 +2610,8 @@ http://painel.serveron.com.br:1935/8172/8172/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://k61.kn3.net/D/D/1/0/1/0/ED5.png" group-title="ARGENTINA",TV Publica [NoKodi]
 http://ar.watcha.live/ch4/hi.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/552133013488685056/_YL6wRw3.jpeg" group-title="ARGENTINA",TyC Sports
-https://tycsportsalive-a.akamaihd.net/e0a4867c9f6e4c4aab00f511cbe29977/sa-east-1/5395474896001/profile_1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/552133013488685056/_YL6wRw3.jpeg" group-title="ARGENTINA",TyC Sports (New!)
+https://vivoplay-i.akamaihd.net/hls/live/579609/tyc/master1000k.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/cl.png" group-title="LABEL",~ Chile TV ~
 http://www.lengua.com/anthems/Chile.mp3
@@ -2739,11 +2739,14 @@ http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/ecuador/flag-button-square-250.png" group-title="LABEL",~ Ecuador TV ~
 http://www.lengua.com/anthems/Ecuador.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/ecotel.jpg" group-title="ECUADOR",Ecotel TV
+http://192.95.25.203:554/canal1/radiostation.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-leq2ZxhLvhc/AAAAAAAAAAI/AAAAAAAAAAA/lgA8SP2JZH4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ECUADOR",Ecuador TV Canal 7
 http://api.new.livestream.com/accounts/22196143/events/6576568/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canela-TV.png" group-title="ECUADOR",Canela TV
-http://servicioamerica.net:1935/8344/8344/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="hhttps://i.imgur.com/8D1LrKO.png" group-title="ECUADOR",Canela TV (New!)
+http://servicioamerica.com:1935/8200/8200/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/200px-Oromar_logo.png" group-title="ECUADOR",Oromar TV
 http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
