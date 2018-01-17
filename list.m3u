@@ -5145,6 +5145,9 @@ http://www.lengua.com/anthems/Japan.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="JAPAN",Animax
 http://218.60.94.32:1935/live/cs25.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs219.gif" group-title="JAPAN",CS219
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs18.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png" group-title="JAPAN",Discovery Channel
 http://218.60.94.32:1935/live/cs13.stream/playlist.m3u8
 
