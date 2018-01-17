@@ -4407,10 +4407,10 @@ http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgsafe.org/99603b2597.png" group-title="PAKISTAN",ARY News
 http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dunyanews.tv/images/dunyalogo.png" group-title="PAKISTAN",Dunya TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dunyanews.tv/images/dunyalogo.png" group-title="PAKISTAN",Dunya TV (Opt-1)
 http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/902021364596531200/lIV36TLA.jpg" group-title="PAKISTAN",Dunya News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dunyanews.tv/images/dunyalogo.png" group-title="PAKISTAN",Dunya TV (Opt-2)
 http://stream1.qtelmedia.com:1936/live/duniyanewsweb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i66.tinypic.com/16lycyo.jpg" group-title="PAKISTAN",Eye 95 TV (US)
