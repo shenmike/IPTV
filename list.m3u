@@ -3678,7 +3678,7 @@ http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ruclip.com/chimg/fe/UCaXUod8kwhFmCMlHQszqDdw.jpg" group-title="RUSSIA",Kuraj TV
 http://cdn-01.bonus-tv.ru/bst/kurai/type/user/devname/LG-SmartTV/devid/LG-1469279536/eol/20200101T0000/hash/334a029798def9a4f0cea0d413db75fa0af6a027/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hh.ru/employer-logo/1384170.png" group-title="RUSSIA",Leomax
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tech1and.ru/assets/components/phpthumbof/cache/Leomax.9ba9f00fea1d4ad7219acd332afbdec6.jpg" group-title="RUSSIA",Leomax
 http://cdn-11.bonus-tv.ru:80/Leomax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photouploads.com/images/f807ad.png" group-title="RUSSIA",Life News
