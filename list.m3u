@@ -1428,6 +1428,9 @@ http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbed
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/tv_aperipe.jpg" group-title="BRAZIL",Aperipe TV
 http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Band_Internacional_logo.svg/1200px-Band_Internacional_logo.svg.png" group-title="BRAZIL",Band Internacional
+https://latamonly-lh.akamaihd.net/i/bandint_1@314008/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/canaldoboib.png" group-title="BRAZIL",Canal do Boi
 http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
 
@@ -1740,8 +1743,11 @@ https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="SPAIN",Canal 7
 http://163.172.15.219:1935/live/vivatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kLzKyaA.jpg" group-title="SPAIN",Canal 24 Horas
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kLzKyaA.jpg" group-title="SPAIN",Canal 24 Horas (Opt-1)
 http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kLzKyaA.jpg" group-title="SPAIN",Canal 24 Horas (Opt-2)
+https://latamonly-lh.akamaihd.net/i/24htve_1@578068/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal25tv.es/images/template-content/untitled.png" group-title="SPAIN",Canal 25
 http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
@@ -1869,6 +1875,9 @@ http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_s
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.vimeocdn.com/portrait/2838028_300x300" group-title="SPAIN",Mirame TV
 http://controlstreams.com:1935/mirametv/mirametv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/pKxB4ER.jpg" group-title="SPAIN",Mis Peliculas
+https://latamonly-lh.akamaihd.net/i/mispeliculas_1@321856/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/657174095382106112/CCEPbIKi.jpg" group-title="SPAIN",Mogan TV
 http://teledifusion.tv:1935/mogan/moganlive/playlist.m3u8
 
@@ -1949,6 +1958,9 @@ http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/sfc_tv.jpg" group-title="SPAIN",Sevilla FC TV
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_57600.png" group-title="SPAIN",Star TVE
+https://latamonly-lh.akamaihd.net/i/startvehd_1@578071/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.xal.cat/media/entity/logo/45244/tac12.jpg" group-title="SPAIN",TAC12
 http://cdnlive.shooowit.net/tac12live/amlst:live/chunklist_b900000.m3u8
@@ -2091,6 +2103,9 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nQoFljD.png" group-title="LATINO",El Chavo VOD [NoRoku]
 https://goo.gl/8W1wKL
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fixundfoxi.tv/fileadmin/img/fixundfoxi.png" group-title="LATINO",Fix & Foxi
+https://latamonly-lh.akamaihd.net/i/fixfoxi_1@576421/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Fusion_TV_2013_logo.png" group-title="LATINO",Fusion
 http://189.216.247.113/Content/HLS/Live/Channel(FUSION)/Stream(05)/index.m3u8
 
@@ -2145,8 +2160,14 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/iDYzBh7.png" group-title="LATINO",Paramount Channel
 http://189.216.247.113/Content/HLS/Live/Channel(PARAMOUNT_CHANNEL)/Stream(05)/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_01/large.PX-Sports.png.c552f2462e893fd44d90b9f1b4346cf9.png" group-title="LATINO",PX Sports
+https://latamonly-lh.akamaihd.net/i/pxtv_1@576425/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OFvdVlA.png" group-title="LATINO",RT
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.mobiletv.mobibase.com/html/logo/hd/channel_ld_709.png" group-title="LATINO",Show Business TV
+https://latamonly-lh.akamaihd.net/i/showbusiness_1@576899/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/33.png" group-title="LATINO",Space
 http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8
