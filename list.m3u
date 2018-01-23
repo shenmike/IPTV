@@ -4659,9 +4659,6 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/sa.png" group-title="LABEL",~ Saudi Arabia TV ~
 http://www.lengua.com/anthems/SaudiArabia.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-G65MliGq-Ew/AAAAAAAAAAI/AAAAAAAAAAA/0RlM6JUhvMI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SAUDI ARABIA",24 Sport TV
-http://streamer12.elementssys.com:8080/SAUDI-Channels/24_SPORT/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/14uum1v.jpg" group-title="SAUDI ARABIA",Masdar TV
 http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
 
