@@ -6,7 +6,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free IPTV
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Jan.22.2018
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Jan.23.2018
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -4110,14 +4110,8 @@ http://www.lengua.com/anthems/Turkey.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.montajuyduservisi.com/uploads/haber/7MvwpwQ9amvu-1QzZSrLBdWAmyy4KIpt.jpg" group-title="TURKEY",1AN TV
 http://broadcasttr.com:1935/birantv/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.parsatv.com/index_files/channels/aspor.png" group-title="TURKEY",A Spor HD
-http://85.132.71.6/turk/aspor/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/o3G9ddv.png" group-title="TURKEY",AKSU TV
 http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://haber.sol.org.tr/sites/default/files/bengu.png" group-title="TURKEY",Benguturk TV
-http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8?wowzasessionid=379483538
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com/images/reydddd/bloomberght.jpg" group-title="TURKEY",Bloomberg HT
 http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/playlist.m3u8
@@ -4152,9 +4146,6 @@ rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sentezyapi.com/Files/referanskanal242794433.jpg" group-title="TURKEY",Kanal 24
 http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/tr/KANAL_A.png" group-title="TURKEY",Kanal A
-http://stream.n3.noc.com.tr/kanala/kanala/chunklist_w1082384770.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 
@@ -4175,9 +4166,6 @@ http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/S/semerkand-logo-0D9C64B470-seeklogo.com.png" group-title="TURKEY",Semerkand HD
 http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sunlifeturkiye.com/images/habergaleri/6722400.jpg" group-title="TURKEY",Show Max
-http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitaltveurope.com/files/2014/06/SkyTurk-360.png" group-title="TURKEY",Sky Turk 360
 http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
@@ -4224,9 +4212,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Trt_turk.png" group-title="TURKEY",TRT Turk
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.esmedya.com.tr/assets/img/source/png/tv4.png" group-title="TURKEY",TV 4
-http://mn-l.mncdn.com:1935/r_karamel/karamel/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kurtcetvizle.com/wp-content/uploads/2014/03/tv-10-canli-zindi-izle.jpg" group-title="TURKEY",TV 10
 rtmp://5.135.142.60:1935/tv10/xetero
 
@@ -4238,9 +4223,6 @@ rtmp://stream.taksimbilisim.com/tv52/bant1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.frocus.net/images/logotv/original/TV2000-Turkey.jpg" group-title="TURKEY",TV 2000
 rtmp://stream.taksimbilisim.com/tv2000/bant1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvnet.com.tr/dist/img/index-image.jpg" group-title="TURKEY",TVNET
-http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b850000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canlitv.world/images/channels/vuslat-tv.png" group-title="TURKEY",Vulsat TV
 http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
