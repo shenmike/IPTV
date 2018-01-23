@@ -500,8 +500,11 @@ http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1376954935.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/08/Tayba-TV-Sudan-live.jpg" group-title="ISLAM",Tayba TV* (Sudan)
 http://199.167.151.237:1935/live/sp15_17.stream/gmswf.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/08/Tayba-TV-Sudan-live.jpg" group-title="ISLAM",Tayba TV** (Sudan)
-http://37.152.128.66:7009/play/a00q
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/S/semerkand-logo-0D9C64B470-seeklogo.com.png" group-title="ISLAM",Semerkand SD (Turkey)
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/S/semerkand-logo-0D9C64B470-seeklogo.com.png" group-title="ISLAM",Semerkand HD (Turkey)
+http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.duzicimuftulugu.gov.tr/resimler/bag/1cf553078842fce52c1d2edebaa51f69.jpg" group-title="ISLAM",TRT Diyanet (Turkey)
 http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
