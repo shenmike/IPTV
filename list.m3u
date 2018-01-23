@@ -3756,7 +3756,7 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/554481052107157504/RMD2PgUm.jpeg" group-title="RUSSIA",TVM Channel
 http://cdn-03.bonus-tv.ru/tvm/tvm/type/none/eol/20200101T0000/hash/9ee236eb709eaaba97b5722f1eedae4af79377c7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/2/27/Вместе-РФ.png" group-title="RUSSIA",Vmeste RF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mywayfestival.ru/wp-content/uploads/2015/06/687_400x400.png" group-title="RUSSIA",Vmeste RF
 http://cdn-10.bonus-tv.ru:80/vmesterf/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.parsatv.com/index_files/channels/worldfashion.jpg" group-title="RUSSIA",World Fashion (Opt-1)
