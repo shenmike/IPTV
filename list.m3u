@@ -2100,9 +2100,6 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(CARTOON_NETWORK)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_04/medium.LOGO-CGNT.png.52eafa2ce7531ef70e79455e97d6a671.png" group-title="LATINO",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.tvtropes.org/pmwiki/pub/images/chespirito.jpg" group-title="LATINO",Chespirito TV
-https://clutch.vaughnsoft.net/ord/vl/chespirito_tv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/cienciaficcion_320.jpg" group-title="LATINO",Ciencia Ficcion
 https://clutch.vaughnsoft.net/ord/vl/cienciaficcion01.m3u8
 
@@ -2135,9 +2132,6 @@ http://189.216.247.113/Content/HLS/Live/Channel(FUSION)/Stream(05)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gamba.fm/wp/wp-content/uploads/2017/09/Futurama.jpg" group-title="LATINO",Futurama VOD [NoRoku]
 https://goo.gl/DZSUJc
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/goku_tv_320.jpg" group-title="LATINO",Goku TV
-https://clutch.vaughnsoft.net/ord/vl/goku_tv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/pLT4SP6.png" group-title="LATINO",H2
 http://live.izzitv.mx/Content/HLS/Live/Channel(H2)/index.m3u8
