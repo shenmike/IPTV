@@ -2490,14 +2490,14 @@ http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8?wowzasessi
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://k61.kn3.net/A/C/0/B/5/5/DD0.png" group-title="ARGENTINA",Canal 11 Ushuaia
 http://01.solumedia.com.ar:1935/c11/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5HTSXV4.png" group-title="ARGENTINA",Canal 26 Buenos Aires
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5HTSXV4.png" group-title="ARGENTINA",Canal 26 Buenos Aires (Opt-1)
 http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5HTSXV4.png" group-title="ARGENTINA",Canal 26 Buenos Aires (Opt-2)
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/6.png" group-title="ARGENTINA",Canal 13 [NoKodi]
 http://ar.watcha.live/ch7/hi.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5HTSXV4.png" group-title="ARGENTINA",Canal 26 Buenos Aires*
-http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w3rrFsy.png" group-title="ARGENTINA",Canal 79 Mar del Plata
 http://painel.serveron.com.br:1935/8168/8168/live.m3u8
