@@ -3435,6 +3435,30 @@ http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/0/03/U-TV-HD.png" group-title="ROMANIA",UTV (Opt-2)
 rtmp://82.76.40.76:80/utvedge/ playpath=utvlive swfUrl=http://www.utv.ro/player/jwplayer/jwplayer.flash.swf pageUrl=http://www.utv.ro/live/
 
+#EXTINF:-1 tvg-logo="http://www.haotu.net/up/3881/256/108-Moldova.png" group-title="LABEL",~ Moldova TV ~
+http://www.lengua.com/anthems/Moldova.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://acasatv.perfecte.md/design/acasatv_md/images/acasa_in_moldova_logo5.png" group-title="MOLDOVA",Acasa TV
+http://hls.protv.md/acasatv/acasatv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/469252/logo_actualitatea%20tv1.png" group-title="MOLDOVA",Actualitatea
+http://188.210.224.6:81/tv4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logowow.net/logos/thumb-BY7M7cbZj.png" group-title="MOLDOVA",Pro TV
+http://hls.protv.md/hls/protv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media-azi.md/sites/default/files/logo%20publika.jpg" group-title="MOLDOVA",Publika TV
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.manutv.net/wp-content/uploads/893793546.png" group-title="MOLDOVA",Tele M
+http://webmobile.xdev.ro:81/tv16/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="MOLDOVA",TV Buzau
+http://95.77.16.72:81/tv20/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.moldova9.com/wp-content/uploads/elita-tv-aici.png" group-title="MOLDOVA",TV Elita
+http://46.55.111.242:8080/Rezina.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.emit.it/assets/images/icone/Albania.png" group-title="LABEL",~ Albania TV ~
 http://www.lengua.com/anthems/Albania.mp3
 
@@ -3803,30 +3827,6 @@ http://stream.atr.ua/atr/live/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abload.de/img/musicv0pjo.png" group-title="UKRAINE",Music Box
 rtmp://212.26.132.86/live/ playpath=mb_ua swfUrl=http://radio.adamant.ua/video-js/video-js.swf pageUrl=http://radio.adamant.ua/adamant_player/mb_ua/mb_ua_v.html
-
-#EXTINF:-1 tvg-logo="http://www.haotu.net/up/3881/256/108-Moldova.png" group-title="LABEL",~ Moldova TV ~
-http://www.lengua.com/anthems/Moldova.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://acasatv.perfecte.md/design/acasatv_md/images/acasa_in_moldova_logo5.png" group-title="MOLDOVA",Acasa TV
-http://hls.protv.md/acasatv/acasatv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/469252/logo_actualitatea%20tv1.png" group-title="MOLDOVA",Actualitatea
-http://188.210.224.6:81/tv4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logowow.net/logos/thumb-BY7M7cbZj.png" group-title="MOLDOVA",Pro TV
-http://hls.protv.md/hls/protv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media-azi.md/sites/default/files/logo%20publika.jpg" group-title="MOLDOVA",Publika TV
-http://livebeta.publika.md/LIVE/P/6810.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.manutv.net/wp-content/uploads/893793546.png" group-title="MOLDOVA",Tele M
-http://webmobile.xdev.ro:81/tv16/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="MOLDOVA",TV Buzau
-http://95.77.16.72:81/tv20/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.moldova9.com/wp-content/uploads/elita-tv-aici.png" group-title="MOLDOVA",TV Elita
-http://46.55.111.242:8080/Rezina.m3u8
 
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag/256/Bulgaria-icon.png" group-title="LABEL",~ Bulgaria TV ~
 http://www.lengua.com/anthems/Bulgaria.mp3
