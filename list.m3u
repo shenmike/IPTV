@@ -2388,6 +2388,9 @@ http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/yV3kYVz.png" group-title="MEXICO",Unicable
 http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Lg_videorola-300x199.png" group-title="MEXICO",Video Rola
+https://latamonly-lh.akamaihd.net/i/videorolahd_1@578065/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Argentina-01.png" group-title="LABEL",~ Argentina TV ~
 http://www.lengua.com/anthems/Argentina.mp3
 
