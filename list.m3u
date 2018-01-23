@@ -2265,6 +2265,9 @@ https://latamonly-lh.akamaihd.net/i/cineplatino_1@578062/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.lawalocos.com/imagenes-canales/cinemexicano.jpeg" group-title="MEXICO",CineMexicano
 https://latamonly-lh.akamaihd.net/i/cinemex_1@578060/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO.jpeg" group-title="MEXICO",Claro Sports
+https://latamonly-lh.akamaihd.net/i/clarosports_1@576705/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://televisa-networks.com/wp-content/uploads/2016/03/distrito-comedia.png" group-title="MEXICO",Distrito Comedia
 http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
 
