@@ -6,7 +6,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free IPTV
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Jan.17.2018
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Jan.22.2018
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -5183,9 +5183,6 @@ http://www.lengua.com/anthems/SouthKorea.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="SOUTH KOREA",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="SOUTH KOREA",Arirang [Opt-2]
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ARIRANG)/Stream(01)/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1458422731.png" group-title="SOUTH KOREA",CBS TV
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
 
@@ -5197,15 +5194,6 @@ http://122.202.129.136:1935/live/ch5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://livesport.im/wp-content/uploads/2015/11/KCTV-N.gif" group-title="SOUTH KOREA",KCTV-N
 http://122.202.129.136:1935/live/ch4/hasbahca.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.tumblr.com/b93be2a5558dc60336f00e0c50bdddc4/ff8iytb/qrYoky9iv/tumblr_static_3gybfn8nbji8sgs80c4ow0kk0_640_v2.png" group-title="SOUTH KOREA",Kids TV
-http://edge2.everyon.tv/etv2/phd1043/HasBahCa.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i68.tinypic.com/28v99if.png" group-title="SOUTH KOREA",KTV
-http://111.118.21.79/etv1/phd393/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-qmLWm9FFEDA/UdWIdPyqvtI/AAAAAAAAAdg/dOSv-sogcxg/s960/mbc.jpg" group-title="SOUTH KOREA",MBC
-http://119.202.61.202:1935/live/livetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/tv8/tvchosum.jpg" group-title="SOUTH KOREA",TV Chosun
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
