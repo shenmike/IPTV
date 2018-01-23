@@ -2208,11 +2208,11 @@ http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/BVHX10Z.jpg" group-title="MEXICO",Azteca Cinema
 https://latamonly-lh.akamaihd.net/i/azcinema_1@571259/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/mlfKITa.jpg" group-title="MEXICO",Azteca Corazon
-https://latamonly-lh.akamaihd.net/i/azcorazon_1@571257/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/nnRZ1SP.jpg" group-title="MEXICO",Azteca Clic
 https://latamonly-lh.akamaihd.net/i/azclick_1@571255/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/mlfKITa.jpg" group-title="MEXICO",Azteca Corazon
+https://latamonly-lh.akamaihd.net/i/azcorazon_1@571257/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/ughwriM.jpg" group-title="MEXICO",Azteca Mundo
 https://latamonly-lh.akamaihd.net/i/azmundo_1@571254/master.m3u8
