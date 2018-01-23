@@ -2328,6 +2328,9 @@ https://latamonly-lh.akamaihd.net/i/multipremier_1@576702/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dJn881g.png" group-title="MEXICO",Noticias MVS
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newslinereport.com/online/nota_mvs-suma-a-su-portfolio-al-canal-nu-music_350x263.jpg" group-title="MEXICO",Nu Music
+https://latamonly-lh.akamaihd.net/i/numusic_1@576703/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EUkatRJ.png" group-title="MEXICO",OchoTV Guadalajara
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
 
