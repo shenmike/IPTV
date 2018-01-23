@@ -3117,8 +3117,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" group-title="DOMINICAN REP",Telemicro Canal 5 HD
 http://api.new.livestream.com/accounts/736348/events/5522678/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mekstream.com/clients/telesistema/telesistema_poster.png" group-title="DOMINICAN REP",Telesistema Canal 11
-http://mek6.mekstream.com/telesistema/live/chunklist_w743063287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mekstream.com/clients/telesistema/telesistema_poster.png" group-title="DOMINICAN REP",Telesistema Canal 11 (New!)
+http://69.64.69.92:1935/hits-tv-ch11app/studio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP",Telenord Canal 8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0026&mode=12
