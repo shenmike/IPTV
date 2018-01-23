@@ -1959,7 +1959,7 @@ http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/sfc_tv.jpg" group-title="SPAIN",Sevilla FC TV
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_57600.png" group-title="SPAIN",Star TVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_57600.png" group-title="SPAIN",Star TVE HD
 https://latamonly-lh.akamaihd.net/i/startvehd_1@578071/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.xal.cat/media/entity/logo/45244/tac12.jpg" group-title="SPAIN",TAC12
