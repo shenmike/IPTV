@@ -3624,7 +3624,7 @@ http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/850265253849911296/Vjzwsr3n.jpg" group-title="RUSSIA",Astrakhan 24
 http://cdn-01.bonus-tv.ru/astrakhan/astrakhan24/type/user/devname/LG-SmartTV/devid/LG-1462523553/eol/20200101T000000/hash/6e03328c523da2fa9031f82301e3c56c69702a8f/hls.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/0/07/БСТ_5.png" group-title="RUSSIA",BST
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://online-red.com/images/tv/bash-tv.png" group-title="RUSSIA",BST
 http://cdn-01.bonus-tv.ru:7778/bst/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Cgtn.jpg" group-title="RUSSIA",CGTN
