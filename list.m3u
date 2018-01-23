@@ -18,8 +18,11 @@ http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="WORLD NEWS",Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BH4tuYc.png" group-title="WORLD NEWS",BBC World News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BH4tuYc.png" group-title="WORLD NEWS",BBC World News (Opt-1)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BH4tuYc.png" group-title="WORLD NEWS",BBC World News (Opt-2)
+https://latamonly-lh.akamaihd.net/i/bbclatam_1@81925/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="WORLD NEWS",Bloomberg TV Europe
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
@@ -2073,8 +2076,11 @@ https://clutch.vaughnsoft.net/ord/vl/cine_star.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uXp0iUW.png" group-title="LATINO",Cuenca Vision
 http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="LATINO",Deutsche Welle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="LATINO",Deutsche Welle (Opt-1)
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="LATINO",Deutsche Welle (Opt-2)
+https://latamonly-lh.akamaihd.net/i/dw_1@576290/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/b/b8/Disney_junior_04.jpg" group-title="LATINO",Disney Junior
 http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
