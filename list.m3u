@@ -2238,6 +2238,12 @@ http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AlG8pAu.png" group-title="MEXICO",Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_06/thumb.507_tvc-platino.png.9a062e386a1e8460ad2ebf323df9fae9.png" group-title="MEXICO",Cinema Platino
+https://latamonly-lh.akamaihd.net/i/cineplatino_1@578062/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.lawalocos.com/imagenes-canales/cinemexicano.jpeg" group-title="MEXICO",CineMexicano
+https://latamonly-lh.akamaihd.net/i/cinemex_1@578060/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://televisa-networks.com/wp-content/uploads/2016/03/distrito-comedia.png" group-title="MEXICO",Distrito Comedia
 http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
 
@@ -2289,11 +2295,17 @@ http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/ajBGBm5.png" group-title="MEXICO",Multimedios Monterrey (Opt-2)
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="MEXICO",MultiPremier
+https://latamonly-lh.akamaihd.net/i/multipremier_1@576702/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dJn881g.png" group-title="MEXICO",Noticias MVS
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EUkatRJ.png" group-title="MEXICO",OchoTV Guadalajara
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6e/Canal_Panico_HD.png" group-title="MEXICO",Panico HD
+https://latamonly-lh.akamaihd.net/i/panicohd_1@578061/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1iWzKQH.png" group-title="MEXICO",Puebla TV
 http://189.203.247.136/live/pueblatv/playlist.m3u8
