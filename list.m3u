@@ -3717,10 +3717,10 @@ http://cdn-01.bonus-tv.ru/btv/russiahd/type/user/devname/LG-SmartTV/devid/LG-146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.advertology.ru/images/content/aimages/2014/10/27/b768ac.png" group-title="RUSSIA",Shop 24
 http://cdn-01.bonus-tv.ru:8080/shop24_edge/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://publishernews.ru/images/PressReleases/press_r_0C6F8A13-C3A8-41C7-8A88-916D0F1AD17D.jpg" group-title="RUSSIA",ТNТ Music (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://publishernews.ru/images/PressReleases/press_r_0C6F8A13-C3A8-41C7-8A88-916D0F1AD17D.jpg" group-title="RUSSIA",TNT Music (Opt-1)
 http://cdn-g.bonus-tv.ru:80/tntmusic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://publishernews.ru/images/PressReleases/press_r_0C6F8A13-C3A8-41C7-8A88-916D0F1AD17D.jpg" group-title="RUSSIA",ТNТ Music (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://publishernews.ru/images/PressReleases/press_r_0C6F8A13-C3A8-41C7-8A88-916D0F1AD17D.jpg" group-title="RUSSIA",TNT Music (Opt-2)
 http://cdn-01.bonus-tv.ru/btv/tntmusic/type/user/devname/LG-SmartTV/devid/LG-1469013493/eol/20200101T0000/hash/31f1cdfc91072d63a48690432c5baf7c6163c352/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tnv.ru/images/cms/data/logotipy/tnv-planeta.png" group-title="RUSSIA",TNV Planeta (Opt-1)
@@ -3882,7 +3882,7 @@ http://174.36.163.12:4000/live/304/304.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/3efa0aaaeb3a39c0380a38aaae7649db.jpeg" group-title="CZECHIA",Ocko
 http://se01.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_lq.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/cbb9f661fc8f64b874acca0aa4d21a02.jpeg" group-title="CZECH REP",Ocko Express
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/cbb9f661fc8f64b874acca0aa4d21a02.jpeg" group-title="CZECHIA",Ocko Express
 http://se03.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko_expres/live_hq.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/2bbab18fa09352f91d2ecb59d6e17fdb.jpeg" group-title="CZECHIA",Ocko Gold
