@@ -3861,38 +3861,14 @@ rtmp://212.26.132.86/live/ playpath=mb_ua swfUrl=http://radio.adamant.ua/video-j
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/cz.png" group-title="LABEL",~ Czechia TV ~
 http://www.lengua.com/anthems/CzechRepublic.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://la.axn.com/sites/la.axn/files/logos/axn_0.png" group-title="CZECHIA",AXN
-http://69.39.239.166:5000/live/282/282.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://la.axn.com/sites/la.axn/files/logos/axn_0.png" group-title="CZECHIA",AXN 2
-http://69.39.239.166:5000/live/205/205.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pcdays.cz/wp-content/uploads/2016/10/3731506-logo-kanalu-ceskoslovensko-hd-1-620x83p0.png" group-title="CZECHIA",Ceskoslovensko
 http://65.254.55.10:4000/live/196/196.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elektrika.tv/elektrika-tv.jpg" group-title="CZECHIA",Elektrika TV
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.cz.prg.cmestatic.com/media/images/600x338/Jan2012/929458.jpg" group-title="CZECHIA",Nova
-http://69.39.239.166:5000/live/60/60.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nova-action-logo-2017.png" group-title="CZECHIA",Nova Action
 http://174.36.163.12:4000/live/304/304.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/3efa0aaaeb3a39c0380a38aaae7649db.jpeg" group-title="CZECHIA",Ocko
-http://se01.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_lq.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/cbb9f661fc8f64b874acca0aa4d21a02.jpeg" group-title="CZECHIA",Ocko Express
-http://se03.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko_expres/live_hq.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/2bbab18fa09352f91d2ecb59d6e17fdb.jpeg" group-title="CZECHIA",Ocko Gold
-http://se03.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.r1jih.cz/userFiles/rt-logo.png" group-title="CZECHIA",Regionalni Televize
-http://88.212.46.127:9000/rtp/232.232.64.21:5004
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cool.iprima.cz/sites/all/themes/prima_channels/images/logos/logo-cool-cover.jpg" group-title="CZECHIA",Prima Cool
-http://208.43.120.148/live/116/116.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://max.iprima.cz/sites/all/themes/prima_channels/images/logos/logo-max-cover.jpg" group-title="CZECHIA",Prima Max
 http://74.208.44.158:5000/live/518/518.m3u8
