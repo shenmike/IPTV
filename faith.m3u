@@ -6,7 +6,7 @@ http://191.252.102.161:8040/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free Religious TV
 http://191.252.102.161:8040/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Jan.17.2018
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Jan.22.2018
 http://191.252.102.161:8040/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -36,7 +36,7 @@ http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://shemeshnet.co.il/uploads/w-480/1494574673.7257.jpg" group-title="JUDAISM",Kabbalah for the People (Israel)
 http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name=""  tvg-logo="https://yt3.ggpht.com/-F8XZlOJLDxc/AAAAAAAAAAI/AAAAAAAAAAA/w5Pj2IFP92E/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="World",Meir TV (Israel)
+#EXTINF:-1 tvg-ID="" tvg-name=""  tvg-logo="https://yt3.ggpht.com/-F8XZlOJLDxc/AAAAAAAAAAI/AAAAAAAAAAA/w5Pj2IFP92E/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="JUDAISM",Meir TV (Israel)
 http://stream.meirtv.co.il:1935/live/live1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="JUDAISM",Musayof (Israel)
