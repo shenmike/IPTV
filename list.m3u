@@ -3718,7 +3718,7 @@ http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" group-title="RUSSIA",RT
-LG-1469118640/eol/20200101T0000/hash/d962836f9b6019fd17a5200dac1973a97044ead2/playlist.m3u8
+http://cdn-01.bonus-tv.ru/btv/rtdoc/type/user/devname/LG-SmartTV/devid/LG-1469191659/eol/20200101T00/hash/ffea5a73940afa146f5411783313f1e76ae71a46/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="RUSSIA",RT Documentary (Russian)
 http://cdn-01.bonus-tv.ru/btv/rtdoc/type/user/devname/LG-SmartTV/devid/LG-1469191659/eol/20200101T00/hash/ffea5a73940afa146f5411783313f1e76ae71a46/playlist.m3u8
