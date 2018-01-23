@@ -1482,9 +1482,6 @@ http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/SYPYeHt.jpg" group-title="BRAZIL",Cine+
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-MxFVv8kb3V4/VOY5A8D-VaI/AAAAAAAAAPA/hsjTaa44_3s/s1600/icon.png" group-title="BRAZIL",Cine On Demand
-http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/6FepRzn.png" group-title="BRAZIL",Classique TV
 http://45.43.208.2:1935/classique/classique/live.m3u8
 
