@@ -3627,6 +3627,36 @@ http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TV1_Bosnia_and_Herzegovina_logo.jpg" group-title="BOSNIA",TV1
 http://de2-2.nettvplus.com:8080/stream/?channel=promotvsi3btv&stream=1mb&sp=nettvplus?u=
 
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag/256/Bulgaria-icon.png" group-title="LABEL",~ Bulgaria TV ~
+http://www.lengua.com/anthems/Bulgaria.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logos.kodibg.org/citytv.png" group-title="BULGARIA",City TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2788.jpeg" group-title="BULGARIA",Heavy Metal Television
+http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/MM_Television_logo_%28former_TV_station_in_Bulgaria%29.png" group-title="BULGARIA",MM TV
+http://live-24.viewer.dacast.com/i/dclive_1@407356/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/qxpvvw1441477620.png" group-title="BULGARIA",Planeta HD
+http://84.43.207.130/planetahd/planetahd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-vhxMefIdkA4/AAAAAAAAAAI/AAAAAAAAAAA/10vB6Rm4S20/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="BULGARIA",Tatai Televizio
+http://91.82.85.41:1935/liverelay/tataitv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.traveltv.bg/wp-content/uploads/sites/2/2014/12/TRAVEL_CURVES_SHADOW-728x288.png" group-title="BULGARIA",Travel HD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.byalareka.com/ikoni/kanal/bg-stoychevtv.png" group-title="BULGARIA",TV Stoichev
+http://ios.cdn.bg:2015/fls/tvstoichev.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ТheVoiceTV-logo.png" group-title="BULGARIA",The Voice
+http://31.13.217.76:1935/rtplive/thevoice_live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vibee.tv/wp-content/uploads/2016/12/vibeelogotvtv.png" group-title="BULGARIA",Vibee TV
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://ru.seaicons.com/wp-content/uploads/2016/03/Russia-icon.png" group-title="LABEL",~ Russia TV ~
 http://www.lengua.com/anthems/Russia.mp3
 
@@ -3827,36 +3857,6 @@ http://stream.atr.ua/atr/live/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abload.de/img/musicv0pjo.png" group-title="UKRAINE",Music Box
 rtmp://212.26.132.86/live/ playpath=mb_ua swfUrl=http://radio.adamant.ua/video-js/video-js.swf pageUrl=http://radio.adamant.ua/adamant_player/mb_ua/mb_ua_v.html
-
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag/256/Bulgaria-icon.png" group-title="LABEL",~ Bulgaria TV ~
-http://www.lengua.com/anthems/Bulgaria.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logos.kodibg.org/citytv.png" group-title="BULGARIA",City TV
-http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2788.jpeg" group-title="BULGARIA",Heavy Metal Television
-http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/MM_Television_logo_%28former_TV_station_in_Bulgaria%29.png" group-title="BULGARIA",MM TV
-http://live-24.viewer.dacast.com/i/dclive_1@407356/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/qxpvvw1441477620.png" group-title="BULGARIA",Planeta HD
-http://84.43.207.130/planetahd/planetahd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-vhxMefIdkA4/AAAAAAAAAAI/AAAAAAAAAAA/10vB6Rm4S20/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="BULGARIA",Tatai Televizio
-http://91.82.85.41:1935/liverelay/tataitv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.traveltv.bg/wp-content/uploads/sites/2/2014/12/TRAVEL_CURVES_SHADOW-728x288.png" group-title="BULGARIA",Travel HD
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.byalareka.com/ikoni/kanal/bg-stoychevtv.png" group-title="BULGARIA",TV Stoichev
-http://ios.cdn.bg:2015/fls/tvstoichev.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ТheVoiceTV-logo.png" group-title="BULGARIA",The Voice
-http://31.13.217.76:1935/rtplive/thevoice_live.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vibee.tv/wp-content/uploads/2016/12/vibeelogotvtv.png" group-title="BULGARIA",Vibee TV
-http://46.101.21.42:8081/live/live2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.meloteca.com/imagens/flag500/latvia.jpg" group-title="LABEL",~ Latvia TV ~
 http://www.lengua.com/anthems/Latvia.mp3
