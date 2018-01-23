@@ -4206,12 +4206,6 @@ http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rumelitv.com.tr/img/rumelilogo.png" group-title="TURKEY",Rumeli TV
 http://yayin3.canlitv.com:1935/live/rumelitv/HasBahCa.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/S/semerkand-logo-0D9C64B470-seeklogo.com.png" group-title="TURKEY",Semerkand SD
-http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/S/semerkand-logo-0D9C64B470-seeklogo.com.png" group-title="TURKEY",Semerkand HD
-http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitaltveurope.com/files/2014/06/SkyTurk-360.png" group-title="TURKEY",Sky Turk 360
 http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
 
