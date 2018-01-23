@@ -3549,21 +3549,6 @@ http://95.107.132.100/out/u/299_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/08/Vizion-Plus-TV-Albania.png" group-title="ALBANIA",Vizion Plus
 http://95.107.132.100/out/u/412_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/macedonia/flag-button-square-250.png" group-title="LABEL",~ Macedonia TV ~
-http://www.lengua.com/anthems/Macedonia.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-YuVp5w9swnI/Ve1_NZe7StI/AAAAAAAAAMw/-LxxTHguJg8/s1600/h1.jpg" group-title="MACEDONIA",Hugo TV
-http://h1.servemp3.com:1935/live/h1/hugo1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="MACEDONIA",Plus TV
-http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvkanal.altervista.org/wp-content/uploads/2017/05/SkyFolkTV.jpg" group-title="MACEDONIA",Sky Folk TV
-http://skyfolk.mk/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-R8suY1txhzs/AAAAAAAAAAI/AAAAAAAAAAA/_77de3FYqV8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MACEDONIA",TVPlus
-http://141.136.14.18/kanal1/kanal1.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.olimpikbeograd.com/wp-content/uploads/2013/06/serbia0.png" group-title="LABEL",~ Serbia TV ~
 http://www.lengua.com/anthems/Serbia.mp3
 
@@ -3602,6 +3587,21 @@ http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TV1_Bosnia_and_Herzegovina_logo.jpg" group-title="BOSNIA",TV1
 http://de2-2.nettvplus.com:8080/stream/?channel=promotvsi3btv&stream=1mb&sp=nettvplus?u=
+
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/macedonia/flag-button-square-250.png" group-title="LABEL",~ Macedonia TV ~
+http://www.lengua.com/anthems/Macedonia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-YuVp5w9swnI/Ve1_NZe7StI/AAAAAAAAAMw/-LxxTHguJg8/s1600/h1.jpg" group-title="MACEDONIA",Hugo TV
+http://h1.servemp3.com:1935/live/h1/hugo1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="MACEDONIA",Plus TV
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvkanal.altervista.org/wp-content/uploads/2017/05/SkyFolkTV.jpg" group-title="MACEDONIA",Sky Folk TV
+http://skyfolk.mk/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-R8suY1txhzs/AAAAAAAAAAI/AAAAAAAAAAA/_77de3FYqV8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MACEDONIA",TVPlus
+http://141.136.14.18/kanal1/kanal1.m3u8
 
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag/256/Bulgaria-icon.png" group-title="LABEL",~ Bulgaria TV ~
 http://www.lengua.com/anthems/Bulgaria.mp3
