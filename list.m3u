@@ -2205,11 +2205,26 @@ http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Logo_Azteca_7.png" group-title="MEXICO",Azteca 7
 http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/BVHX10Z.jpg" group-title="MEXICO",Azteca Cinema
+https://latamonly-lh.akamaihd.net/i/azcinema_1@571259/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/mlfKITa.jpg" group-title="MEXICO",Azteca Corazon
+https://latamonly-lh.akamaihd.net/i/azcorazon_1@571257/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/nnRZ1SP.jpg" group-title="MEXICO",Azteca Clic
+https://latamonly-lh.akamaihd.net/i/azclick_1@571255/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/ughwriM.jpg" group-title="MEXICO",Azteca Mundo
+https://latamonly-lh.akamaihd.net/i/azmundo_1@571254/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_10/large.59f01991ea5b2_AztecaUno.png.7af86b58cd5ac04059264491a40068e9.png" group-title="MEXICO",Azteca Uno
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO",Azteca Mas
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/894015848574103554/2pl3kbYA.jpg" group-title="MEXICO",AYM Sports
+https://latamonly-lh.akamaihd.net/i/aymsports_1@576423/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/RGUbr5h.png" group-title="MEXICO",Bandamax
 http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
@@ -2226,6 +2241,9 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvdxtips.com/canal10chiapas2015.jpg" group-title="MEXICO",Canal 10 Chiapas
 http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6e/Canal_22_logo.gif" group-title="MEXICO",Canal 22 Mexico City
+https://latamonly-lh.akamaihd.net/i/canal22_1@576296/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9ggyiEM.png" group-title="MEXICO",Canal 26 Aguascalientes
 http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8
 
@@ -2235,8 +2253,11 @@ http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PV6BVbi.png" group-title="MEXICO",Canal Judicial
 http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AlG8pAu.png" group-title="MEXICO",Canal Once
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AlG8pAu.png" group-title="MEXICO",Canal Once (Opt-1)
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AlG8pAu.png" group-title="MEXICO",Canal Once (Opt-2)
+https://latamonly-lh.akamaihd.net/i/oncetv_1@574620/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_06/thumb.507_tvc-platino.png.9a062e386a1e8460ad2ebf323df9fae9.png" group-title="MEXICO",Cinema Platino
 https://latamonly-lh.akamaihd.net/i/cineplatino_1@578062/master.m3u8
@@ -2286,6 +2307,12 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 #EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="https://i.imgur.com/qcJ5lk3.png" group-title="MEXICO",Milenio TV   (Opt-2)
 https://dl.dropboxusercontent.com/s/dh5k6plvgjwgbic/milenio.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/pKxB4ER.jpg" group-title="MEXICO",Mis Peliculas
+https://latamonly-lh.akamaihd.net/i/mispeliculas_1@321856/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XXGxqFR.jpg" group-title="MEXICO",Multicinema HD
+https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/ajBGBm5.png" group-title="MEXICO",Multimedios Laguna
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
 
@@ -2306,6 +2333,9 @@ http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6e/Canal_Panico_HD.png" group-title="MEXICO",Panico HD
 https://latamonly-lh.akamaihd.net/i/panicohd_1@578061/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/49urveI.jpg" group-title="MEXICO",Pasiones
+https://latamonly-lh.akamaihd.net/i/pasiones_1@580283/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1iWzKQH.png" group-title="MEXICO",Puebla TV
 http://189.203.247.136/live/pueblatv/playlist.m3u8
@@ -2348,6 +2378,9 @@ http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AfSXooZ.png" group-title="MEXICO",TvAcapulco
 http://stream.duplika.com:1935/tvacapulco/tvacapulco/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/53.jpg.png" group-title="MEXICO",TVC Deportes
+https://latamonly-lh.akamaihd.net/i/tvcdeporteshd_1@578064/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0HnNJKm.png" group-title="MEXICO",TVMAS Veracruz
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
