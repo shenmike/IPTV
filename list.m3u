@@ -3990,9 +3990,6 @@ http://94.246.169.19/ttv_hls/live_270p/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.meloteca.com/imagens/flag500/latvia.jpg" group-title="LABEL",~ Latvia TV ~
 http://www.lengua.com/anthems/Latvia.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.operetesfonds.lv/uploads/1/8/1/4/18144541/9661549.jpg" group-title="LATVIA",24 Riga TV
-http://player.tvnet.lv/live/amlst:11/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-jEVyYmA7My4/AAAAAAAAAAI/AAAAAAAAAAA/rVNF0_izisA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LATVIA",Chau TV
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 
