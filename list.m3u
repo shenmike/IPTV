@@ -3954,7 +3954,7 @@ rtmp://video.fixhd.tv/fix/hd.stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hirtv.hu/static/grid2_imgs/hirtvujlogo05.jpg" group-title="HUNGARY",Hir TV
 http://streamserver.mno.netrix.hu/delayed.php.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png" group-title="HUNGARY",HitMusic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png" group-title="HUNGARY",Hit Music Channel
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1456778523.png" group-title="HUNGARY",Konyha TV
