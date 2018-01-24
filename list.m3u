@@ -1200,6 +1200,9 @@ http://live-trl101.abweb.com/liveabtrl101/ngrp:scienceetvie.stream_bis/chunklist
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-store.slidesharecdn.com/2470438d-37a2-49a1-9d3d-fb7aaf89e073-original.png" group-title="FRANCE",TV5MONDE Asie
 https://api-asia.tv5monde.com/Live/250600/4792245510001-5/tv5plusinfo/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/649226291506475008/bhxaORhF.png" group-title="FRANCE",TV5 Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nordbretagne.fr/photo/art/default/1736504-2352454.jpg" group-title="FRANCE",Tebeo
 http://live2.awedia.com/hls/tebeo.m3u8
 
@@ -3360,11 +3363,17 @@ http://hls.protv.md/acasatv/acasatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/469252/logo_actualitatea%20tv1.png" group-title="MOLDOVA",Actualitatea
 http://188.210.224.6:81/tv4/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7N6vZTd.jpg" group-title="MOLDOVA",NTV
+http://93.115.137.166/hls/ntvm.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logowow.net/logos/thumb-BY7M7cbZj.png" group-title="MOLDOVA",Pro TV
 http://hls.protv.md/hls/protv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media-azi.md/sites/default/files/logo%20publika.jpg" group-title="MOLDOVA",Publika TV
 http://livebeta.publika.md/LIVE/P/6810.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.moldova9.com/wp-content/uploads/ru-tv.png" group-title="MOLDOVA",RUTV
+http://217.12.116.122/hls/rutv_direct.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.manutv.net/wp-content/uploads/893793546.png" group-title="MOLDOVA",Tele M
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
@@ -3732,6 +3741,9 @@ http://www.lengua.com/anthems/Belarus.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://belarus24.by/upload/iblock/a54/a5430290b155c789334a043833bebae1.png" group-title="BELARUS",Belarus 24
 http://video.tvr.by:1935/belarus24/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.borovik.by/assets/uploads/img/raznoe/ont.jpg" group-title="BELARUS",ONT
+http://93.125.31.151:1935/live/ont.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oboz.by/wp-content/uploads/2016/10/1377853613_stv.jpg" group-title="BELARUS",STV
 http://93.125.30.18:1935/ctv/live.stream/manifest.m3u8
 
@@ -3750,8 +3762,17 @@ http://stream.atr.ua/atr/live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abload.de/img/musicv0pjo.png" group-title="UKRAINE",Music Box
 rtmp://212.26.132.86/live/ playpath=mb_ua swfUrl=http://radio.adamant.ua/video-js/video-js.swf pageUrl=http://radio.adamant.ua/adamant_player/mb_ua/mb_ua_v.html
 
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag/256/Kazakhstan-icon.png" group-title="LABEL",~ Kazakhstan TV ~
+http://www.lengua.com/anthems/Kazakhstan.mp3
+
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/cz.png" group-title="LABEL",~ Czechia TV ~
 http://www.lengua.com/anthems/CzechRepublic.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ycgb4R2.jpg" group-title="KAZAKHSTAN",7 Kanal
+http://78.40.108.218/7channel/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1tv.kz/wp-content/uploads/2017/11/LOG.png" group-title="KAZAKHSTAN",Channel One Eurasia
+http://streams.almaata.kcell.lfstrm.tv/perviy_evrasia/1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pcdays.cz/wp-content/uploads/2016/10/3731506-logo-kanalu-ceskoslovensko-hd-1-620x83p0.png" group-title="CZECHIA",Ceskoslovensko
 http://65.254.55.10:4000/live/196/196.m3u8
@@ -3831,7 +3852,10 @@ rtmp://stream.smcdn.pl/eska_party-t/eska_party_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/EskaTV_logo_2011.png" group-title="POLAND",Eska TV Rock
 rtmp://stream.smcdn.pl/eska_rock-t/eska_rock_720p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/99624d83677ffdbc6a0dc8b450606b4d-520x293.jpeg" group-title="POLAND",Music VOX TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/99624d83677ffdbc6a0dc8b450606b4d-520x293.jpeg" group-title="POLAND",Music Vox TV (Opt-1)
+http://stream.cdn.smcloud.net/vox2-p/stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/99624d83677ffdbc6a0dc8b450606b4d-520x293.jpeg" group-title="POLAND",Music VOX TV (Opt-2)
 rtmp://stream.smcdn.pl/vox2-p/stream1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1456433030.png" group-title="POLAND",Music VOX TV Old's Cool
@@ -3890,6 +3914,9 @@ rtmp://video.fixhd.tv/fix/hd.stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hirtv.hu/static/grid2_imgs/hirtvujlogo05.jpg" group-title="HUNGARY",Hir TV
 http://streamserver.mno.netrix.hu/delayed.php.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png" group-title="HUNGARY",HitMusic
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1456778523.png" group-title="HUNGARY",Konyha TV
 rtmpt://91.82.85.44:1935/live playpath=konyhatv swfUrl=http://wdsonline.gdsinfo.com/itplayer/player.swf pageUrl=http://wdsonline.gdsinfo.com/itplayer/konyhatv_inc.php
