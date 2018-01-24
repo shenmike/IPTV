@@ -2526,7 +2526,7 @@ http://ar.watcha.live/ch4/hi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/552133013488685056/_YL6wRw3.jpeg" group-title="ARGENTINA",TyC Sports
 https://vivoplay-i.akamaihd.net/hls/live/579609/tyc/master1000k.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/952877982976217089/ITgyKDNQ_400x400.jpg" group-title="ARGENTINA",Urban 106 FM Pehuajo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/952877982976217089/ITgyKDNQ_400x400.jpg" group-title="ARGENTINA",Urban 106.1 FM Pehuajo
 http://ar.solumedia.com.ar:1935/2/myStream/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/cl.png" group-title="LABEL",~ Chile TV ~
