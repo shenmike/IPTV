@@ -3777,6 +3777,9 @@ http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.start.crimea.ua/news/images/201410081430410.atr_n_b.jpg" group-title="UKRAINE",ATR (Crimea)
 http://stream.atr.ua/atr/live/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Qwwhqh9.jpg" group-title="UKRAINE",Hromadske TV
+http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://detector.media/doc/images/news/archive/2016/122748/ArticleImage_122748.jpg" group-title="UKRAINE",ICTV
 http://live.ictv.ua/hls/ICTV.m3u8
 
