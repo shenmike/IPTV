@@ -6,7 +6,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free IPTV
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Jan.23.2018
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Jan.24.2018
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -2556,6 +2556,9 @@ http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalcarnaval.cl/wp-content/uploads/2016/04/logo38sombra-slide.png" group-title="CHILE",Canal Carnaval 38
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://candelafm.digitalproserver.com/player/a/candelam.jpg" group-title="CHILE",Candela 95.3 FM Santiago
+http://unlimited1-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/734190291620667392/hxLk95y3_400x400.jpg" group-title="CHILE",CDO
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
@@ -3977,6 +3980,9 @@ http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.doriforikanea.gr/sub/news/sbctv-logo.jpg" group-title="GREECE",SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/593668535546707968/Ac8GeONH.jpg" group-title="GREECE",Rythmos 94.3 FM Zakynthos
+http://rythmoscam.dyndns.org:1935/live/myStream/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://syrosrace.gr/gr/wp-content/uploads/2011/08/TV1.jpg" group-title="GREECE",Syros TV1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
