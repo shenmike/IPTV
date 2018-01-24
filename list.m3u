@@ -261,6 +261,9 @@ http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uPvJzrz.png" group-title="USA",Investigation Discovery HD
 https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
 
+#EXTINF:-1 tvg-logo="https://bdfa30d81b75f9f67a08-6fd1a145e6552bb032ac33726f2a2e11.ssl.cf5.rackcdn.com/global/IONLifeDefault.jpg" group-title="USA",Ion Life [Beta]
+http://209.6.202.89:9981/stream/channelid/1246992304
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0oRXnzz.png" group-title="USA",KBVR TV
 http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
 
