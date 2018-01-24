@@ -3567,6 +3567,12 @@ http://cdn-01.bonus-tv.ru:8080/1HDmusic/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.issueno206.com/wp-content/uploads/2015/04/rot-neu.jpg" group-title="RUSSIA",7 TV
 http://78.40.108.218/7channel/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hlamer.ru/content/user-photo/349/349055/2e478160030b07ee_original.jpg" group-title="RUSSIA",8 Kanal
+http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pp.userapi.com/c621919/v621919030/1f9d1/IVBWysJViwM.jpg" group-title="RUSSIA",8 Kanal Novosibirsk
+http://93.171.230.144:1935/8knsk-mpegts/stream1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iformula.ru/wp-content/themes/iformula/images/tv/logos/9-volna.png" group-title="RUSSIA",9 Volna
 http://cdn-01.bonus-tv.ru/btv/9volna/type/user/devname/LG-SmartTV/devid/LG-1466490474/eol/20200101T0000/hash/706a3fe43fbf28dbe6f25d303072235c4a94ef86/playlist.m3u8
 
@@ -3578,6 +3584,9 @@ http://cdn-01.bonus-tv.ru:7780/omsk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://telebegun.ru/uploads/channels/thumb_5fc49038d168b7d2f5e1a9ed91711f74.png" group-title="RUSSIA",26 Region
 http://serv24.vintera.tv:8081/26region/26region1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aJJWQkg.png" group-title="RUSSIA",43 Kanal
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://m3u-iptv.ru/wp-content/uploads/2016/11/tv-300x294.png" group-title="RUSSIA",Akudji TV
 http://hls.goodgame.ru/hls/5346.m3u8
