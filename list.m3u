@@ -1776,6 +1776,12 @@ http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://files.antenista.webnode.es/200002504-5844f5c19b/costa%20del%20sol%20tv%20abm%20antenista%20en%20malaga.png" group-title="SPAIN",Costa del Sol TV
 http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/01/Cuatro-TV-Es-Logo-300x300.jpg" group-title="SPAIN",Cuatro
+http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" group-title="SPAIN",Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.eldia.tv/images/logo-cabecera-u103.png" group-title="SPAIN",El Dia TV
 http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8
 
@@ -1910,6 +1916,9 @@ http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.karpinabentura.com/images/Karpin/imagenes_web_karpin/medios_amigos/logo_tbilbao.jpg" group-title="SPAIN",TeleBilbao
 http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png" group-title="SPAIN",Telecinco
+http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teleelx.es/eniusimg/enius2/2016/01/adj_569e704973b6d.jpg" group-title="SPAIN",TeleElx
 http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
