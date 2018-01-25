@@ -2007,7 +2007,7 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="LATINO",Deutsche Welle (Opt-2)
 https://latamonly-lh.akamaihd.net/i/dw_1@576290/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/b/b8/Disney_junior_04.jpg" group-title="LATINO",Disney Junior
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/b/b8/Disney_junior_04.jpg" group-title="LATINO",Disney Junior (Off)
 http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/ism40Xo.png" group-title="LATINO",E!
@@ -2331,7 +2331,7 @@ https://latamonly-lh.akamaihd.net/i/tvcdeporteshd_1@578064/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0HnNJKm.png" group-title="MEXICO",TVMAS Veracruz
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/yV3kYVz.png" group-title="MEXICO",Unicable
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/yV3kYVz.png" group-title="MEXICO",Unicable (Off)
 http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Lg_videorola-300x199.png" group-title="MEXICO",Video Rola
