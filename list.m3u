@@ -3570,7 +3570,7 @@ http://78.40.108.218/7channel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hlamer.ru/content/user-photo/349/349055/2e478160030b07ee_original.jpg" group-title="RUSSIA",8 Kanal
 http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pp.userapi.com/c621919/v621919030/1f9d1/IVBWysJViwM.jpg" group-title="RUSSIA",8 Kanal Novosibirsk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6AvCMve.jpg" group-title="RUSSIA",8 Kanal Novosibirsk
 http://93.171.230.144:1935/8knsk-mpegts/stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iformula.ru/wp-content/themes/iformula/images/tv/logos/9-volna.png" group-title="RUSSIA",9 Volna
@@ -3810,7 +3810,7 @@ http://wse.planeta-online.tv:1935/live/channel_5/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rustur.ru/wp-content/uploads/2017/04/1tv-rus.jpg" group-title="RUSSIA",Perviy Kanal
 http://tvm10.gcdn.co/piktv/ngrp:piktv_all/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://оренбург.телепрограмма-на-сегодня.рф/logo/380.gif" group-title="RUSSIA",Phoenix Plus Kino
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvmany.com/logos/im81595" group-title="RUSSIA",Phoenix Plus Kino
 http://cdn-01.bonus-tv.ru/btv/fenixikino/type/user/devname/LG-SmartTV/devid/LG-1445617990/eol/20200101T000000/hash/6c73af80a8160022573f45223a277bfb59ef2325/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.s-tv.ru/logos/prodvige.jpg" group-title="RUSSIA",Prodvizhenie
@@ -3885,7 +3885,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:strana.smil/chunklist_b1600000.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.li/d4STq/14904cadcdedfa7151d92e37923398e37fc62fc0.gif" group-title="RUSSIA",STRK
 http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://murmansk.bezformata.ru/content/image262956393.jpg" group-title="RUSSIA",TV-21 Murmansk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4jujUGU.jpg" group-title="RUSSIA",TV-21 Murmansk
 http://tv21.inmurmansk.ru/full_stream.flv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://top-tv.net/images/tamyr-tv-small.jpg" group-title="RUSSIA",Tamyr
