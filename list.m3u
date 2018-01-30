@@ -3330,17 +3330,20 @@ http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/9/99/RTSH-HD.png" group-title="ALBANIA",RTSH
 http://95.107.132.100/out/u/246_3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/RTK_logo.png/1200px-RTK_logo.png" group-title="ALBANIA",RTK 1 [Kosovo]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/RTK_logo.png/1200px-RTK_logo.png" group-title="ALBANIA",RTK 1 Kosovo
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/RTK_logo.png/1200px-RTK_logo.png" group-title="ALBANIA",RTK 2 [Kosovo]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/RTK_logo.png/1200px-RTK_logo.png" group-title="ALBANIA",RTK 2 Kosovo
 http://stream2.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/RTK_logo.png/1200px-RTK_logo.png" group-title="ALBANIA",RTK 3 [Kosovo]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/RTK_logo.png/1200px-RTK_logo.png" group-title="ALBANIA",RTK 3 Kosovo
 http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/RTK_logo.png/1200px-RTK_logo.png" group-title="ALBANIA",RTK 4 [Kosovo]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/RTK_logo.png/1200px-RTK_logo.png" group-title="ALBANIA",RTK 4 Kosovo
 http://84.22.56.10:1935/rtk4stream/rtk4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://shqiperiatv.com/Picture/21Mix.png" group-title="ALBANIA",RTV 21 Mix
+http://95.107.132.102/out/u/343_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/RtvZik_logo_58ffc167a169e.png" group-title="ALBANIA",RTV Zik (Denmark)
 http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
@@ -3369,11 +3372,20 @@ http://95.107.132.100/out/u/260_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tring.al/download/brandi/TringLogoRGBpositiveSecondary-l.png" group-title="ALBANIA",Tring World
 http://95.107.132.100/out/u/299_1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ulango.tv/uploads/channels/27074/logo_%20tv%20dukagjini%20.png" group-title="ALBANIA",TV Dukagjini
+http://95.107.132.102/out/u/336_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/03/Logo_FB.jpg" group-title="ALBANIA",TV Syri Vision
+http://95.107.132.102/out/u/304_218.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/08/Vizion-Plus-TV-Albania.png" group-title="ALBANIA",Vizion Plus
 http://95.107.132.100/out/u/412_3.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.olimpikbeograd.com/wp-content/uploads/2013/06/serbia0.png" group-title="LABEL",~ Serbia TV ~
 http://www.lengua.com/anthems/Serbia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1828812683/mlava.jpg" group-title="SERBIA",RTV Mlava
+http://109.72.63.194:5900
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ligabuducihsampiona.rs/sites/default/files/onZYtGQ.png" group-title="SERBIA",SOS Kanal
 http://edge-de-01.maksnet.tv/soskanal/soskanal/playlist.m3u8
@@ -3386,9 +3398,6 @@ http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.partizan.tv/tv_00000.png" group-title="SERBIA",TV Partizan
 http://212.200.102.3:5000/udp/239.99.99.99:23999
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1828812683/mlava.jpg" group-title="SERBIA",RTV Mlava
-http://109.72.63.194:5900
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.softskillsacademy.rs/assets/uploads/2016/05/KCN_KOPERNIKUS_bez-1_update-11.png" group-title="SERBIA",TVKopernikus 1
 http://212.200.102.3:5000/rtp/239.0.0.1:5000
@@ -4341,6 +4350,9 @@ http://85.132.71.6/turk/cbc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ecanlitvizle.net/logo/dunya-tv-az.png" group-title="AZERBAIJAN",Dunya TV
 http://85.132.71.6/turk/dunya/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://eurod.kanald.com.tr/assets/img/eurod_footer.png" group-title="AZERBAIJAN",Euro D
+http://85.132.71.6/turk/euro_d/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/İctimai_Television_Logo_2013.png" group-title="AZERBAIJAN",Ictimai TV
 http://85.132.71.6/iptv_ictimai/index.m3u8
 
@@ -4353,8 +4365,14 @@ http://85.132.71.6/iptv_lider/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azerice.tvfrekansi.com/wp-content/uploads/2015/02/medeniyyet-tv.png" group-title="AZERBAIJAN",Medeniyyet TV
 http://85.132.71.6/turk/medeniyyet/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.giniko.com/logos/190x110/404.png" group-title="AZERBAIJAN",Minika Cocuk
+http://85.132.71.6/turk/minika_cocuk/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://baku.ws/uploads/posts/2015-07/1435986886_space_tv_logo_020715.jpg" group-title="AZERBAIJAN",Space TV
 http://85.132.71.6/iptv_space/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/1b/cd/5e/1bcd5ef40f9d2fdeef99a366d87ce314.jpg" group-title="AZERBAIJAN",TV8 Int
+http://85.132.71.6/turk/tv8_int/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a3/Xezer_TV_logo.jpg" group-title="AZERBAIJAN",Xezer TV
 http://85.132.71.6/iptv_xazar/index.m3u8
