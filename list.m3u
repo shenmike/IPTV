@@ -4116,14 +4116,8 @@ http://www.lengua.com/anthems/Greece.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14792.png" group-title="GREECE",4E TV
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvgreece.tk/acheloos.jpg" group-title="GREECE",Acheloos TV
-http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rodiaki.gr/articles/2013-12-09/267507/thumb_640.jpg" group-title="GREECE",Aigaio TV
 http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/VnrR3mN.png" group-title="GREECE",Alpha Cinema (AU)
-http://web.alphastream.eu:1935/neakrith/neakrith/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://greektv.pbworks.com/f/ANT1.png" group-title="GREECE",ANT1
 http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
@@ -4164,9 +4158,6 @@ http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.greekradio.net/graphics/chwb.png" group-title="GREECE",Montreal Greek TV (CA)
 http://138.197.136.102:8081/live/greektv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mpaxalotv.magicstreams.net/mpaxalologo.jpg" group-title="GREECE",Mpaxalo TV
-http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926622/NEA_TV.png" group-title="GREECE",Nea TV
 http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
 
@@ -4185,9 +4176,6 @@ http://rythmoscam.dyndns.org:1935/live/myStream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://syrosrace.gr/gr/wp-content/uploads/2011/08/TV1.jpg" group-title="GREECE",Syros TV1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/02f9ff0c940d52c67dc7a5aac7e9c235.jpeg" group-title="GREECE",Tilesport TV
-http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193860/TV_100.png" group-title="GREECE",TV 100
 http://178.62.176.153/hls/tv100/index.m3u8
 
@@ -4197,8 +4185,8 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.livetvgr.com/wp-content/uploads/2013/01/vouli-tv-CHANNELS-GREEK-TV.jpg" group-title="GREECE",Vouli TV
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/dW08jNe.png" group-title="GREECE",Zougla TV
-http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/dW08jNe.png" group-title="GREECE",Zougla TV (New!)
+http://zouglacam.mdc.akamaized.net/zouglalive/main/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://rlv.zcache.com/cyprus_national_world_flag_square_sticker-r38fa1b624e1c483ea70d516fbd66397f_v9wf3_8byvr_324.jpg" group-title="LABEL",~ Cyprus TV ~
 http://www.lengua.com/anthems/Cyprus.mp3
