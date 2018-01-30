@@ -2115,6 +2115,9 @@ https://ssh101.com/m3u8/dyn/unonuevo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="LATINO",Univision (Opt-2)
 http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/98/Univision_tdn_1.png" group-title="LATINO",Univision TDN
+http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.playhdtv.pw/img/vh1megahits.png" group-title="LATINO",VH1 Mega Hits
 http://str02.ddns.net/040/myStream/playlist.m3u8
 
