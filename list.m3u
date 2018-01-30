@@ -2286,6 +2286,9 @@ http://01.solumedia.com.ar:1935/c7/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OBLO4Ac.png" group-title="ARGENTINA",Canal 9 Salta
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/ar_canal-10-de-cordoba_m.png" group-title="ARGENTINA",Canal 10 Cordoba
+http://dcunilive30-lh.akamaihd.net:80/i/dclive_1@535534/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://k60.kn3.net/6/8/1/4/9/A/64F.png" group-title="ARGENTINA",Canal 10 Rionegrina
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 
@@ -2315,6 +2318,9 @@ http://prepublish.f.qaotic.net/b06/ngrp:gcba_video3-100042_all/Playlist.m3u8|Ref
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.estabueno.com.ar/wp-content/uploads/2015/03/canal-local1.jpg" group-title="ARGENTINA",Canal Local Olavarria
 http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/ar_canal-orbe-21_m.png" group-title="ARGENTINA",Canal Orbe 21
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1897151/e/1_2yqsgxqj/sd/6000/t/NuYL4ms8KUQM69Sc1u_KLg/index-s32.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TpRgjdj.png" group-title="ARGENTINA",Canal Provincial San Miguel
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
@@ -2726,6 +2732,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0010&mode=12
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fulltelevisiononline.com/wp-content/uploads/2016/06/CTC_TELEVISION.png" group-title="PERU",CTC TV Cusco
 http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/Digital_TV_Peru.jpg" group-title="PERU",Digital TV
+http://uvodscp-lh.akamaihd.net:80/i/ped001rtmp_1@460473/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/902547125799669762/AVoSOZLm_400x400.jpg" group-title="PERU",Latina
 http://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
