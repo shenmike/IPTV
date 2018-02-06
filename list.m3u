@@ -3324,9 +3324,6 @@ http://95.107.132.218/out/u/151_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/Jolly_logo_59671ba749413.png" group-title="ALBANIA",Jolly HD
 http://95.107.132.100/out/u/231_1.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://widgetlist.ulango.tv/uploads/channels/52/061fa202c31d544ce23a4d0b344f07d7-1.png" group-title="ALBANIA",Jug TV
-http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-CT-4QuU4h2E/V0fKLLNo9NI/AAAAAAAAEIU/tZfdOG3I5e8gb_ENeGB9tF1MgoTtHjIrQCK4B/s1600/living%2Bvector%2Blogo.pn" group-title="ALBANIA",Living TV
 http://95.107.132.100/out/u/212_3.m3u8
 
