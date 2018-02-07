@@ -4365,6 +4365,9 @@ http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/pK2p5ey.png" group-title="GREECE",New Generation
 http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nrg91.gr/wp-content/uploads/2017/07/originalNRG-300x128.png" group-title="GREECE",NRG 91 FM
+http://77.92.76.135:1935/jayzee/livestream/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.doriforikanea.gr/sub/news/sbctv-logo.jpg" group-title="GREECE",SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 
