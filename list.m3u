@@ -4041,9 +4041,6 @@ http://199.195.199.196:5000/live/365/365.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/ČT2_logo_2012.svg/1200px-ČT2_logo_2012.svg.png" group-title="CZECHIA",CT2
 http://199.195.199.196:5000/live/366/366.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.mediacentrum.sk/gallery/nwo/maxwidth/990/2087047.jpg" group-title="CZECHIA",Doma
-http://199.195.199.196:5000/live/368/368.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elektrika.tv/elektrika-tv.jpg" group-title="CZECHIA",Elektrika TV
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 
@@ -4074,9 +4071,6 @@ http://stream.mediawork.cz/tuty/tutytv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2016/10/TV-Barrandov.png" group-title="CZECHIA",TV Barrandov
 http://208.43.120.148:5000/live/121/121.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IVwikzb.jpg" group-title="CZECHIA",TV Joj
-http://199.195.199.196:5000/live/367/367.m3u8
-
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/sk.png" group-title="LABEL",~ Slovakia TV ~
 http://www.lengua.com/anthems/Slovakia.mp3
 
@@ -4101,8 +4095,11 @@ http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/Televizia+Myjava+(TVM)+logo_1003.png" group-title="SLOVAKIA",TVM
 http://s1.media-planet.sk:80/live/myjava1/BratuMarian.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Joj_logo_2015.jpg" group-title="SLOVAKIA",TV JOJ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Joj_logo_2015.jpg" group-title="SLOVAKIA",TV JOJ (Opt-1)
 http://http-stream.joj.sk/joj/joj/index-hq.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Joj_logo_2015.jpg" group-title="SLOVAKIA",TV JOJ (Opt-2)
+http://199.195.199.196:5000/live/367/367.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/9e9d6d2b7e9c24a2773d97a576ab2476-196x126.jpeg" group-title="SLOVAKIA",TV Lux
 http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8
