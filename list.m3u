@@ -4116,6 +4116,9 @@ http://s1.media-planet.sk:80/live/pezinok/BratuMarian.m3u8
 #EXTINF:-1 tvg-logo="https://www.prazynka.pl/image/pl64.png" group-title="LABEL",~ Poland TV ~
 http://www.lengua.com/anthems/Poland.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ocdn.eu/images/program-tv/ZDU7MDA_/dd0f17239d25d0ddf590175be0d4d4c0.png" group-title="POLAND",Disco Polo Music
+http://hls.redefine.pl/E33F843E/10260/0/hls576/576p/list.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="POLAND",Duck TV
 http://hls.redefine.pl/1CAD6ACA/4325/0/hls576/masterlist.m3u8
 
@@ -4140,10 +4143,7 @@ rtmp://stream.smcdn.pl/vox2-p/stream1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1456433030.png" group-title="POLAND",Music VOX TV Old's Cool
 rtmp://stream.smcdn.pl/vox-t/vox_720p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/pl/POLO_PARTY_TV.png" group-title="POLAND",Polo Party TV (Opt-1)
-http://hls.redefine.pl/E33F843E/10260/0/hls576/576p/list.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/pl/POLO_PARTY_TV.png" group-title="POLAND",Polo Party TV (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/pl/POLO_PARTY_TV.png" group-title="POLAND",Polo Party TV
 rtmp://stream.smcdn.pl/polo_party-t/polo_party_720p
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ocdn.eu/images/program-tv/NDg7MDA_/d3cf17ada98e7a4343adfc892c45084a.png" group-title="POLAND",Polsat 2
