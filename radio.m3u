@@ -6,7 +6,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free Global Radio
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Jan.16.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Feb.06.2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -236,6 +236,12 @@ http://158.69.227.214:8000/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/d4/a3/d4a32d46d94658c54e758ca9a5828480.jpg" group-title="CANADA",XL Gurbani Kirtan 24/7
 http://173.192.105.231:8459/Live
+
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/bahamas/flag-3d-round-250.png" group-title="LABEL",~ Bahamas Radio ~
+http://www.lengua.com/anthems/bahamas.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://100jamz.streamon.fm/custom/images/100JAMZ-logo.jpg" group-title="BAHAMAS",100 Jamz 100.3 FM Nassau
+http://100jamz.streamon.fm/hls/100JAMZ-24k.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/gb.png" group-title="LABEL",~ UK Radio ~
 http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
