@@ -4035,8 +4035,20 @@ http://www.lengua.com/anthems/CzechRepublic.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pcdays.cz/wp-content/uploads/2016/10/3731506-logo-kanalu-ceskoslovensko-hd-1-620x83p0.png" group-title="CZECHIA",Ceskoslovensko
 http://65.254.55.10:4000/live/196/196.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ČT1_logo_2012.svg/1200px-ČT1_logo_2012.svg.png" group-title="CZECHIA",CT1
+http://199.195.199.196:5000/live/365/365.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/ČT2_logo_2012.svg/1200px-ČT2_logo_2012.svg.png" group-title="CZECHIA",CTV2
+http://199.195.199.196:5000/live/366/366.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.mediacentrum.sk/gallery/nwo/maxwidth/990/2087047.jpg" group-title="CZECHIA",Doma
+http://199.195.199.196:5000/live/368/368.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elektrika.tv/elektrika-tv.jpg" group-title="CZECHIA",Elektrika TV
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/ttte/images/3/31/Nickelodeonlogo.png" group-title="CZECHIA",Nickelodeon
+http://65.254.55.10:4000/live/195/195.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nova-action-logo-2017.png" group-title="CZECHIA",Nova Action
 http://174.36.163.12:4000/live/304/304.m3u8
@@ -4053,8 +4065,17 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg" group-title="CZECHIA",Retro (Opt-2)
 http://199.195.199.196:5000/live/412/412.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://okteve.com/wp-content/uploads/media/b37a36c495f6dc9b84bd8c5077a89f70-520x293.jpeg" group-title="CZECHIA",Spektrum Home
+http://199.195.199.196:5000/live/312/312.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/DLsTRdoXkAEumh0.jpg" group-title="CZECHIA",Tuty TV
 http://stream.mediawork.cz/tuty/tutytv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2016/10/TV-Barrandov.png" group-title="CZECHIA",TV Barrandov
+http://208.43.120.148:5000/live/121/121.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IVwikzb.jpg" group-title="CZECHIA",TV Joj
+http://199.195.199.196:5000/live/367/367.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/sk.png" group-title="LABEL",~ Slovakia TV ~
 http://www.lengua.com/anthems/Slovakia.mp3
@@ -4098,8 +4119,8 @@ http://s1.media-planet.sk:80/live/pezinok/BratuMarian.m3u8
 #EXTINF:-1 tvg-logo="https://www.prazynka.pl/image/pl64.png" group-title="LABEL",~ Poland TV ~
 http://www.lengua.com/anthems/Poland.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n-4-16.dcs.redcdn.pl/file/mm/multimedia/live/amazing/aMazingCover500x200.png" group-title="POLAND",aMazing TV [Off]
-http://n-4-16.dcs.redcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="POLAND",Duck TV
+http://hls.redefine.pl/1CAD6ACA/4325/0/hls576/masterlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/EskaTV_logo_2011.png" group-title="POLAND",Eska TV Best Music
 rtmp://stream.smcdn.pl/best-t/best_720p
@@ -4110,6 +4131,9 @@ rtmp://stream.smcdn.pl/eska_party-t/eska_party_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/EskaTV_logo_2011.png" group-title="POLAND",Eska TV Rock
 rtmp://stream.smcdn.pl/eska_rock-t/eska_rock_720p
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gigared.tv/wp-content/uploads/2017/06/FIGHT-BOX-300x140.png" group-title="POLAND",FightBox
+http://hls.redefine.pl/ECD95B41/1573/0/hls720/masterlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/99624d83677ffdbc6a0dc8b450606b4d-520x293.jpeg" group-title="POLAND",Music Vox TV (Opt-1)
 http://stream.cdn.smcloud.net/vox2-p/stream1/playlist.m3u8
 
@@ -4119,14 +4143,23 @@ rtmp://stream.smcdn.pl/vox2-p/stream1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1456433030.png" group-title="POLAND",Music VOX TV Old's Cool
 rtmp://stream.smcdn.pl/vox-t/vox_720p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/pl/POLO_PARTY_TV.png" group-title="POLAND",Polo Party TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/pl/POLO_PARTY_TV.png" group-title="POLAND",Polo Party TV (Opt-1)
+http://hls.redefine.pl/E33F843E/10260/0/hls576/576p/list.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/pl/POLO_PARTY_TV.png" group-title="POLAND",Polo Party TV (Opt-2)
 rtmp://stream.smcdn.pl/polo_party-t/polo_party_720p
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1454879544.png" group-title="POLAND",Wawa TV
-rtmp://stream.smcdn.pl/wawa-t/wawa_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ocdn.eu/images/program-tv/NDg7MDA_/d3cf17ada98e7a4343adfc892c45084a.png" group-title="POLAND",Polsat 2
+http://hls.redefine.pl/E30464E3/10258/0/hls720/masterlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gigared.tv/wp-content/uploads/2017/06/FIGHT-BOX-300x140.png" group-title="POLAND",FightBox
-http://hls.redefine.pl/ECD95B41/1573/0/hls720/masterlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Polsat_News_Logo.svg/1200px-Polsat_News_Logo.svg.png" group-title="POLAND",Polsat News
+http://hls.redefine.pl/3C93EDDB/1574/0/hls720/masterlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Polsat_News_2.png" group-title="POLAND",Polsat News 2
+http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Polsat_Café_-_Logo.svg/2000px-Polsat_Café_-_Logo.svg.png" group-title="POLAND",Polsat Cafe
+http://hls.redefine.pl/97100F84/1577/0/hls576/576p/list.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.wp.pl/a/f/png/32041/stars-tv-logo.png" group-title="POLAND",Stars TV
 http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8
@@ -4134,8 +4167,86 @@ http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.wirtualnemedia.pl/media/top/tvrepublika2015.jpg" group-title="POLAND",Telewizja Republika [Off]
 http://stream4.videostar.pl/999_tvrtest/smil:4321abr.ism/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://93.159.131.123/gabi/insert/img/programy/twojatv.png" group-title="POLAND",Twoja TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvlider.pl/wp-content/uploads/2013/10/tv-asta-logo.png" group-title="POLAND",TV Asta
+http://xeon.asta-net.pl/trans.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://okteve.com/wp-content/uploads/media/1dce1414e29f97a89d588b47ba9e63a3.jpeg" group-title="POLAND",TV Kujawy (Opt-1)
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://okteve.com/wp-content/uploads/media/1dce1414e29f97a89d588b47ba9e63a3.jpeg" group-title="POLAND",TV Kujawy (Opt-2)
+rtmp://stream.tvkujawy.pl/live/broadcast
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.toruntv.pl/public/img/new/logo.png" group-title="POLAND",TV Torun
+http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ocdn.eu/images/program-tv/YjI7MDA_/2073d209b23c7e8fa91b433eccabe863.png" group-title="POLAND",TV Trwam
+http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Bialystok
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Bydgoszcz
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Gdansk
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Gorzow Wielkopolski
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Info
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Katowice
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Kielce
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Krakow
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Lodz
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Lublin
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Olsztyn
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Opole
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Poznan
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Rzeszow
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Szczecin
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Warszawa
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="POLAND",TVP3 Wroclaw
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://haldajazz.com/2016/images/sponsor/tvt.jpg" group-title="POLAND",TVT Zgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://93.159.131.123/gabi/insert/img/programy/twojatv.png" group-title="POLAND",Twoja TV (Opt-1)
 http://94.246.169.19/ttv_hls/live_270p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://93.159.131.123/gabi/insert/img/programy/twojatv.png" group-title="POLAND",Twoja TV (Opt-2)
+http://94.246.169.19/ttv_hls/live_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1454879544.png" group-title="POLAND",Wawa TV
+rtmp://stream.smcdn.pl/wawa-t/wawa_720p
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.wp.pl/a/i/wptv2/2010/logo_fb.png" group-title="POLAND",WP TV
+https://av-cdn-2.wpimg.pl/tv24/ngrp:wp1/chunklist_.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.meloteca.com/imagens/flag500/latvia.jpg" group-title="LABEL",~ Latvia TV ~
 http://www.lengua.com/anthems/Latvia.mp3
