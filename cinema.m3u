@@ -6,7 +6,7 @@ http://149.56.23.7:20082/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free VOD
 http://149.56.23.7:20082/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Jan.16.2018
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Feb.06.2018
 http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -18,7 +18,7 @@ http://149.56.23.7:20082/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/a2mGlFT.jpg" group-title="MOVIES",Agent (2017) [AR-Subs]
 https://archive.org/download/Agent_2017/Agent%202017.mp4
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/05/Alien-Covenant-2.jpg" group-title="MOVIES",Alien - Covenant (2017)*
+#EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/05/Alien-Covenant-2.jpg" group-title="MOVIES",Alien - Covenant (2017)
 https://ia601505.us.archive.org/27/items/Cheverefans0022017.mkv/Cheverefans%200022017.mkv.mp4
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/05/Alien-Covenant-2.jpg" group-title="MOVIES",Alien - Covenant (2017) [Dual-EN]
@@ -33,9 +33,6 @@ https://archive.org/download/AwakeningTheZodiac2017/Awakening%20the%20Zodiac%202
 #EXTINF:-1 tvg-logo="http://legionofleia.com/wp-content/uploads/screen-shot-2017-04-19-at-9-32-34-am-copy.jpg" group-title="MOVIES",Baywatch (2017)
 http://dl.my-film.in/s1/Movie/Baywatch.2017/Baywatch.2017.UNRATED.720p.MkvCage-[My-Film].mkv
 
-#EXTINF:-1 tvg-logo="https://usercontent2.hubstatic.com/13466999.jpg" group-title="MOVIES",Beauty and the Beast (2017)
-http://media.bia4music.com/movie/2017/Film/6/Beauty%20and%20the%20Beast%202017%20720p%20Farsi%20Dubbed.mkv
-
 #EXTINF:-1 tvg-logo="http://www.mongrelmedia.com/MongrelMedia/files/04/0411c9ac-89a8-4ad8-a476-989284573e57.jpg" group-title="MOVIES",Black Site Delta (2017) [AR-Subs]
 https://archive.org/download/BlackSiteDelta2017/Black%20Site%20Delta%202017.mp4
 
@@ -44,9 +41,6 @@ https://archive.org/download/FiftyShadesDarker2017720pYTS.AG/Fifty.Shades.Darker
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/tiffanyyong.com/wp-content/uploads/2017/04/Gifted-SG-Poster.jpg " group-title="MOVIES",Gifted (2017)
 https://ia601504.us.archive.org/19/items/Family1960196003/Family_1960-196003.mp4
-
-#EXTINF:-1 tvg-logo="http://www.hollywoodreporter.com/sites/default/files/custom/Aaron/GOTG2_Teaser_Online_1_Sheet_v2_Lg.jpg" group-title="MOVIES",Guardians of the Galaxy Vol.2 (2017)
-http://media.bia4music.com/movie/2017/Film/8/Guardians.of.the.Galaxy.Vol.2.2017.720p.WEB-DL.mkv
 
 #EXTINF:-1 tvg-logo="https://i.imgbox.com/CEFrgVi9.jpg" group-title="MOVIES",King Arthur - Legend of the Sword (2017)
 https://archive.org/download/KingArthurLegendOfTheSword2017720pBRripX265HEVC10bitPoOlLa/King%20Arthur%20Legend%20of%20the%20Sword%202017%20720p%20BRrip%20x265%20HEVC%2010bit%20PoOlLa.mp4
@@ -57,23 +51,8 @@ https://archive.org/download/Kong.Skull.Island.2017.1080p.WEBDL.akoam.com/Kong.S
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VkEOtTI.jpg" group-title="MOVIES",Life (2017) [AR-Subs]
 https://archive.org/download/Life2017/Life%202017.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/Logan_2017_poster.jpg" group-title="MOVIES",Logan (2017)*
-http://media.bia4music.com/movie/2017/Film/5/Logan.2017.DVDRip.mkv
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/Logan_2017_poster.jpg" group-title="MOVIES",Logan (2017) [AR-Subs]
 https://archive.org/download/Logan2017/Logan%202017.mp4
-
-#EXTINF:-1 tvg-logo="http://i.dailymail.co.uk/i/pix/2017/02/20/16/3D74068400000578-4242746-image-a-9_1487609255702.jpg" group-title="MOVIES",Pirates of the Caribbean - Dead Men Tell No Tales (2017)
-http://media.bia4music.com/movie/2017/Film/7/Pirates.Of.The.Caribbean.5.2017.HDTS.mkv
-
-#EXTINF:-1 tvg-logo="http://i.dailymail.co.uk/i/pix/2017/02/20/16/3D74068400000578-4242746-image-a-9_1487609255702.jpg" group-title="MOVIES",Pirates of the Caribbean - Dead Men Tell No Tales (2017)*
-http://media.bia4music.com/movie/2017/Film/7/Pirates.Of.The.Caribbean.5.2017.HDTS.mkv
-
-#EXTINF:-1 tvg-logo="https://cdn.traileraddict.com/content/lionsgate/power-rangers-poster-27.jpg" group-title="MOVIES",Power Rangers (2017)
-http://media.bia4music.com/movie/2017/Film/6/Power.Rangers.2017.720p.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="http://edgecast.buscafs.com/www.levelup.com/public/uploads/images/497264_832x1212.jpg" group-title="MOVIES",Resident Evil - Vendetta (2017)
-http://media.bia4music.com/movie/2017/Film/6/Resident.Evil.Vendetta.2017.720p.WEB-DL.mkv
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Kcxcs5O7vj8/movieposter.jpg" group-title="MOVIES",T2 Trainspotting (2017)
 https://archive.org/download/T2.Trainspotting.2017.1080p.BluRay.AVC.DTSHD.MA.5.1FGTrarbg.to/BDMV/STREAM/00001.mp4
@@ -81,10 +60,7 @@ https://archive.org/download/T2.Trainspotting.2017.1080p.BluRay.AVC.DTSHD.MA.5.1
 #EXTINF:-1 tvg-logo="https://assets.voxcinemas.com/posters/P_HO00004718.jpg" group-title="MOVIES",The Big Sick (2017) [Dual-EN]
 https://ia601502.us.archive.org/33/items/chayoterodance_Track066/chayoterodance_Track066.mp4?CONEXION?null=?mkv
 
-#EXTINF:-1 tvg-logo="http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2017/04-abril/hitmantrailerposter.jpg" group-title="MOVIES",The Hitman's Bodyguard (2017)
-http://media.bia4music.com/movie/2017/Film/8/The.Hitmans.Bodyguard.2017.720p.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="http://horrornews.net/wp-content/uploads/2016/12/The-snare-2017-movie-poster.jpg" group-title="MOVIES",The Snare (2017)*
+#EXTINF:-1 tvg-logo="http://horrornews.net/wp-content/uploads/2016/12/The-snare-2017-movie-poster.jpg" group-title="MOVIES",The Snare (2017)
 https://archive.org/download/TheSnare2017/The%20Snare%20(2017).mp4
 
 #EXTINF:-1 tvg-logo="https://myegy.tv/files/img/content/3/120/1494046678.original.jpg" group-title="MOVIES",xXx - Return of Xander Cage (2017) [Dual-ES]
@@ -117,9 +93,6 @@ https://archive.org/download/A001.2016.1080pDualLat_201608/A-001-.2016.1080p-dua
 #EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="MOVIES",Bad Santa 2 (2016)*
 https://archive.org/download/BadSanta22016UNRATED1080pRemux/Bad%20Santa%202%20(2016)%20UNRATED%201080p%20Remux.mp4
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/37/93/ce/3793ceb2327983a8046b8977a5f46d0f.jpg" group-title="MOVIES",Batman vs Superman - Dawn of Justice (2016)
-http://media.bia4music.com/movie/20166666/film/7/Batman.v.Superman.Dawn.of.Justice.2016.720p.Exclusive.Farsi.Dubbed.mkv
-
 #EXTINF:-1 tvg-logo="https://i2.wp.com/teaser-trailer.com/wp-content/uploads/Colossal-new-poster-1.jpg" group-title="MOVIES",Colossal (2016)
 https://ia601501.us.archive.org/22/items/LaMaravillasDeLaVida201702/LaMaravillasDeLaVida2017_02.mp4
 
@@ -150,10 +123,7 @@ https://ia801603.us.archive.org/20/items/02052017AQCMRAQC020517/02052017AQC.mp4
 #EXTINF:-1 tvg-logo="http://orig02.deviantart.net/0fd5/f/2016/164/a/7/suicide_squad__2016____poster_6_by_camw1n-da5djpl.jpg" group-title="MOVIES",Suicide Squad (2016) [AR-Subs]
 https://archive.org/download/Suicide.Squad.2016.EXTENDED.1080p.BluRay.akoam.com/Suicide.Squad.2016.EXTENDED.1080p.BluRay.akoam.com.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8zxMvVUjXjk/movieposter.jpg" group-title="MOVIES",The Conjuring 2 (2016)***
-http://media.bia4music.com/movie/20166666/film/9/The%20Conjuring%202%202016%20720p%20Farsi%20Dubbed.mkv
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RqbqQny.jpg" group-title="MOVIES",The Great Wall (2016)*
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RqbqQny.jpg" group-title="MOVIES",The Great Wall (2016)
 https://archive.org/download/The.Great.Wall.2016.1080p.BluRay.AVC.TrueHD.7.1.AtmosFGTrarbg.to/BDMV/STREAM/00245.mp4
 
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/the-jungle-book-2016/large_vOipe2myi26UDwP978hsYOrnUWC.jpg" group-title="MOVIES",The Jungle Book (2016) [Dual-ES]
@@ -179,9 +149,6 @@ https://archive.org/download/Ooops.Noah.Is.Gone.2015.BluRay.1080p.5.1CH.x264.Gan
 
 #EXTINF:-1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2015/10/BRIDGE-OF-SPIES-1-SHEET-UK.jpg" group-title="MOVIES",Bridge of Spies (2015)
 https://archive.org/download/Bridge.of.Spies.2015.1080p.BluRay.x264SPARKS/Bridge.of.Spies.2015.1080p.BluRay.x264-SPARKS.mp4
-
-#EXTINF:-1 tvg-logo="http://cdn.collider.com/wp-content/uploads/2015/07/fantastic-four-poster-international.jpg" group-title="MOVIES",Fantastic Four (2015)
-http://media.bia4music.com/movie/2015/film/11/Fantastic.Four.2015.720p.Bia4music.com.mkv
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/home-2015.35899.jpg" group-title="MOVIES",Home (2015)
 https://archive.org/download/Home.2015.720p.YIFYTopArchive.IR/Home.2015.720p.YIFY_TopArchive.IR.mp4
@@ -212,9 +179,6 @@ https://archive.org/download/Terminator.Genisys.2015.1080p.3D.HSBS.BluRay.x264.Y
 
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/the-hateful-eight-2015/large_large_fqe8JxDNO8B8QfOGTdjh6sPCdSC.jpg" group-title="MOVIES",The Hateful Eight (2015)
 https://archive.org/download/TheHatefulEight20151080pX26510bitJoy/The%20Hateful%20Eight%202015%20(1080p%20x265%2010bit%20Joy).mp4
-
-#EXTINF:-1 tvg-logo="http://axxomovies.org/wp-content/uploads/2015/10/The-Ouija-Exorcism-2015-movie-poster.jpg" group-title="MOVIES",The Ouija Exorcism (2015)
-http://media.bia4music.com/movie/2016/2/The.Ouija.Exorcism.2015.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="https://sorryneverheardofit.files.wordpress.com/2015/08/rise-of-the-krays.jpg" group-title="MOVIES",The Rise of the Krays (2015)
 https://archive.org/download/The.Rise.of.the.Krays.2015.1080p.BluRay.x264.YIFY/The.Rise.of.the.Krays.2015.1080p.BluRay.x264.YIFY.mp4
@@ -269,9 +233,6 @@ http://www.deadlyblogger.com/NewRelease/sherman2014.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Need_For_Speed_poster.jpg/220px-Need_For_Speed_poster.jpg" group-title="MOVIES",Need for Speed (2014)
 http://www.deadlyblogger.com/NewRelease/needforspeed.mp4
-
-#EXTINF:-1 tvg-logo="http://hdpopcorns.com/wp-content/uploads/2016/08/Cover_image-Ninja-Immovable-Heart-2014.jpg" group-title="MOVIES",Ninja Immovable Heart (2014)
-http://media.bia4music.com/movie/2015/film/12/Ninja.Immovable.Heart.2014.BluRay.720p.mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Non-Stop2014Poster.jpg" group-title="MOVIES",Non-Stop (2014)
 http://www.deadlyblogger.com/NewRelease/nonstop2014.mp4
@@ -728,9 +689,6 @@ https://archive.org/download/TomCruiseMovies2016/Tom%20Cruise%20Movies%202016.mp
 
 #EXTINF:-1 tvg-logo="https://movieposters2.com/images/702406-b.jpg" group-title="MOVIES",Paranormal Activity 2 (2010) [ES-Subs]
 http://moviecity-i.akamaihd.net/i/LongForm/MP4/33/460/127502D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/9543/movieposter/prince-of-persia-the-sands-of-time-5738462308066.jpg" group-title="MOVIES",Prince of Persia: The Sands of Time (2010)
-http://media.bia4music.com/movie/2017/Film/2/Prince.of.Persia.The.Sands.of.Time.2010.720p.Farsi.Dubbed.mkv
 
 #EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/headhuntershorrorhouse/images/2/26/Saw_3D_-_The_Final_Chapter.jpg" group-title="MOVIES",Saw 3D - The Final Chapter (2010)
 http://www.deadlyblogger.com/NewRelease/saw7.mp4
