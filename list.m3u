@@ -4335,6 +4335,9 @@ http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.greekradio.net/graphics/chwb.png" group-title="GREECE",Montreal Greek TV (CA)
 http://138.197.136.102:8081/live/greektv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RD4kBVD.jpg" group-title="GREECE",Mpaxalo TV Agrinio
+http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926622/NEA_TV.png" group-title="GREECE",Nea TV
 http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
 
@@ -5165,6 +5168,9 @@ http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Libya%20(New)-01.png" group-title="LABEL",~ Libya TV ~
 http://www.lengua.com/anthems/Libya.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fc3yJVn.png" group-title="LIBYA",Libya Alhadath
+http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/wKJikLm.gif" group-title="LIBYA",Libya TV
 http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
