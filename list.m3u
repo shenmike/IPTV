@@ -396,7 +396,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oTHXLf8.png" group-title="USA",WHOH TV
 http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://livedetroit.tv/TVPops/images/WPHRst.jpg" group-title="USA",WHPR 33 Detroit
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://livedetroit.tv/TVPops/images/WPHRst.jpg" group-title="USA",WHPR TV 33 Detroit
 http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mF6qbpX.png" group-title="USA",Wilderness Channel
