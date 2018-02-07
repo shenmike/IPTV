@@ -4038,7 +4038,7 @@ http://65.254.55.10:4000/live/196/196.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ČT1_logo_2012.svg/1200px-ČT1_logo_2012.svg.png" group-title="CZECHIA",CT1
 http://199.195.199.196:5000/live/365/365.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/ČT2_logo_2012.svg/1200px-ČT2_logo_2012.svg.png" group-title="CZECHIA",CTV2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/ČT2_logo_2012.svg/1200px-ČT2_logo_2012.svg.png" group-title="CZECHIA",CT2
 http://199.195.199.196:5000/live/366/366.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.mediacentrum.sk/gallery/nwo/maxwidth/990/2087047.jpg" group-title="CZECHIA",Doma
