@@ -2382,6 +2382,9 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AlG8pAu.png" group-title="MEXICO",Canal Once Mexico City (Opt-2)
 https://latamonly-lh.akamaihd.net/i/oncetv_1@574620/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cinemadinamita.com/img/logos/Inicio.png" group-title="MEXICO",Cinema Dinamita
+http://3-120heat.pulsedmedia.com/public-llave1/kr/cinema_dinamita/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_06/thumb.507_tvc-platino.png.9a062e386a1e8460ad2ebf323df9fae9.png" group-title="MEXICO",Cinema Platino
 https://latamonly-lh.akamaihd.net/i/cineplatino_1@578062/master.m3u8
 
@@ -2394,14 +2397,50 @@ https://latamonly-lh.akamaihd.net/i/clarosports_1@576705/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO.jpeg" group-title="MEXICO",Claro Sports (Opt-2)
 http://3-120heat.pulsedmedia.com/public-llave1/kr/clspo/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.televisa.com/2017/04/logo_de_pelicula.jpg" group-title="MEXICO",De Pelicula
+http://3-120heat.pulsedmedia.com/public-llave1/kr/depelicula/index.m3
+
 #EXTINF:-1 tvg-id="EfektoTV" tvg-name="EfektoTV" tvg-logo="https://i.imgur.com/y5vozsr.png" group-title="MEXICO",Efekto TV
 http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="https://i.imgur.com/xomvDm7.png" group-title="MEXICO",FOROtv (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="MEXICO",ESPN
+http://3-120heat.pulsedmedia.com/public-llave1/kr/espn/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sc.dish.com/shared/images/station-logos/espn2.png" group-title="MEXICO",ESPN 2
+http://3-120heat.pulsedmedia.com/public-llave1/kr/espn2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://txmgv24xack1i8jje2nayxpr.wpengine.netdna-cdn.com/us/files/2012/04/ESPN3-Logo.jpg" group-title="MEXICO",ESPN 3
+http://3-120heat.pulsedmedia.com/public-llave1/kr/espn3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" group-title="MEXICO",ESPN Plus
+http://3-120heat.pulsedmedia.com/public-llave1/kr/espn_plus/index.m3u8
+
+#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="https://i.imgur.com/xomvDm7.png" group-title="MEXICO",FOROtv
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/05/fox_logo_1.jpg" group-title="MEXICO",Fox
+http://3-120heat.pulsedmedia.com/public-llave1/kr/f0x_mx/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cinestrenostv.tv/img/foxaction.png" group-title="MEXICO",Fox Action
+http://3-120heat.pulsedmedia.com/public-llave1/kr/f0x_action_mx/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="MEXICO",Fox Sports
+http://3-120heat.pulsedmedia.com/public-llave1/kr/f0xsportsmx/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="MEXICO",Fox Sports 2
+http://3-120heat.pulsedmedia.com/public-llave1/kr/f0xsports2mx/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="MEXICO",Fox Sports 3
+http://3-120heat.pulsedmedia.com/public-llave1/kr/f0xsports3mx/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yousenditcc.s3.amazonaws.com/FX_w.svg.png" group-title="MEXICO",FX
+http://3-120heat.pulsedmedia.com/public-llave1/kr/fx_mx/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/2/27/GALA_TV.jpg" group-title="MEXICO",Gala TV Merida
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="MEXICO",Golden
+http://3-120heat.pulsedmedia.com/public-llave1/kr/golden/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 2 HD" tvg-name="Canal 2 HD" tvg-logo="https://i.imgur.com/8kw91e7.png" group-title="MEXICO",Las Estrellas (Geo)
 http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
@@ -2435,6 +2474,12 @@ https://latamonly-lh.akamaihd.net/i/multipremier_1@576702/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="MEXICO",MultiPremier (Opt-2)
 http://3-120heat.pulsedmedia.com/public-llave1/kr/multipremier/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.ngsversion.1475151192637.adapt.1900.1.jpg" group-title="MEXICO",National Geographic
+http://3-120heat.pulsedmedia.com/public-llave1/kr/natgeo_mx/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/battlefordreamisland/images/d/db/Nat-geo_Kids.png" group-title="MEXICO",NatGeo Kids
+http://3-120heat.pulsedmedia.com/public-llave1/kr/natgeo_kids_mx/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dJn881g.png" group-title="MEXICO",Noticias MVS
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
@@ -2492,6 +2537,9 @@ https://latamonly-lh.akamaihd.net/i/tvcdeporteshd_1@578064/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0HnNJKm.png" group-title="MEXICO",TVMAS Veracruz
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1884227983/unicablelogo_400x400.jpg" group-title="MEXICO",Unicable
+http://3-120heat.pulsedmedia.com/public-llave1/kr/unicable/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Lg_videorola-300x199.png" group-title="MEXICO",Video Rola
 https://latamonly-lh.akamaihd.net/i/videorolahd_1@578065/master.m3u8
