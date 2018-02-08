@@ -1932,9 +1932,6 @@ http://92.222.37.18/hls/tvaxa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.enetres.tv/img/slider-projects/mediterraneo-tv.jpg" group-title="SPAIN",TV Mediterraneo
 http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="SPAIN",TVE
-http://3-120heat.pulsedmedia.com/public-llave1/kr/tve/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://parrillatv.mundo-r.com/parrillatv/imagenes/canales/vaughan-tv.jpg" group-title="SPAIN",Vaughan TV
 http://vaughantv.streaming-pro.com:1935/live/vaughantv/playlist.m3u8
 
@@ -2050,9 +2047,6 @@ http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.playhdtv.pw/img/vh1megahits.png" group-title="LATINO",VH1 Mega Hits
 http://str02.ddns.net/040/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="LATINO",Warner TV
-http://3-120heat.pulsedmedia.com/public-llave1/kr/warner/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/zonafilms_320.jpg" group-title="LATINO",Zona Films
 https://clutch.vaughnsoft.net/ord/vl/zonafilmsterror.m3u8
