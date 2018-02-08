@@ -279,9 +279,6 @@ http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5tEE0qP.png" group-title="USA",NBA TV
 http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.nbc.com/generetic/images/nbc_logo_og.jpg" group-title="USA",NBC (CST)
-http://live.field59.com/wjfw1/ngrp:wjfw1_all/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.destinationnetwork.com/images/channel_logos/notv_logo.png" group-title="USA",New Orleans TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 
