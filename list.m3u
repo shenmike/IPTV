@@ -2670,6 +2670,9 @@ http://173.244.209.235:1935/viviloendirecto/psigroup/chunklist_w349709429.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/96.png" group-title="ARGENTINA",El Nueve
 http://ar.watcha.live/ch5/hi.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DOOd3M7.jpg" group-title="ARGENTINA",elgourmet
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/elgourmet.php/Stream(04)/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wPdfaAL.png" group-title="ARGENTINA",Encuentro
 http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/master.m3u8
 
@@ -2678,6 +2681,9 @@ http://35.196.195.222/hls/live/channel4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iLh4q2x.png" group-title="ARGENTINA",Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/I_sat.jpg" group-title="ARGENTINA",I.Sat
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/isat.php/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ_400x400.jpg" group-title="ARGENTINA",Litus TV Santa Fe
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
