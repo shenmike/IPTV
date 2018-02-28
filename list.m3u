@@ -549,41 +549,32 @@ http://163.172.38.45:8081/btsp/sp1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cartoonnetwork.com/static/images/global/ogLogo.png" group-title="UK",Cartoon Network
 http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t6eIQHt.png" group-title="UK",Discovery Turbo
-Discovery_Turbo_800.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ocdn.eu/images/program-tv/NTU7MDA_/e7114237dc0731c7dd660c32d6822432.png" group-title="UK",English Club TV
-http://163.172.148.123:8081/RuOIYxwHD7sQiL2MnAnBaWaJsoF2Q4f9m0D43wVo2WsoRd9nc2NN6zBGJRkGcL/live/engclub_id86425/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qj9MV9F.jpg" group-title="UK",History
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/History_HD/History_HD_800.m3u8
-
-#EXTINF:-1 tvg-logo="http://media.gizmodo.co.uk/wp-content/uploads/2015/09/itv-hub-460x259.jpg" group-title="UK",ITV Live Events
-https://itvliveevents-i.akamaihd.net/hls/live/203496/itvliveevents/ITVEVTMN/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P8xM9SB.jpg" group-title="UK",Sony BBC Earth
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_BBC_Earth_HD_English/Sony_BBC_Earth_HD_English_800.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XCBnJzR.png" group-title="UK",RT UK
-https://secure-streams.akamaized.net/rt-uk/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uYEvE4q.png" group-title="UK",Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cOSePHo.png" group-title="UK",Chelsea TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t6eIQHt.png" group-title="UK",Discovery Turbo
+Discovery_Turbo_800.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ocdn.eu/images/program-tv/NTU7MDA_/e7114237dc0731c7dd660c32d6822432.png" group-title="UK",English Club TV
+http://163.172.148.123:8081/RuOIYxwHD7sQiL2MnAnBaWaJsoF2Q4f9m0D43wVo2WsoRd9nc2NN6zBGJRkGcL/live/engclub_id86425/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2j8tsJq.png" group-title="UK",Heart
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qj9MV9F.jpg" group-title="UK",History
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/History_HD/History_HD_800.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wCN0Llv.png" group-title="UK",IdealWorld
 http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Hvshq0m.png" group-title="UK",Insight
 http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://media.gizmodo.co.uk/wp-content/uploads/2015/09/itv-hub-460x259.jpg" group-title="UK",ITV Live Events
+https://itvliveevents-i.akamaihd.net/hls/live/203496/itvliveevents/ITVEVTMN/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lhHx6by.png" group-title="UK",Jewellery Maker
 http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
@@ -608,6 +599,12 @@ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_inde
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FSukyxY.png" group-title="UK",QVC 4
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XCBnJzR.png" group-title="UK",RT UK
+https://secure-streams.akamaized.net/rt-uk/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P8xM9SB.jpg" group-title="UK",Sony BBC Earth
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_BBC_Earth_HD_English/Sony_BBC_Earth_HD_English_800.m3u8
