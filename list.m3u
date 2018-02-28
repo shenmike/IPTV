@@ -6,7 +6,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free IPTV
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Feb.26.2018
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Feb.28.2018
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -50,6 +50,9 @@ http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UjIHTlp.jpg" group-title="WORLD NEWS",Press TV
 http://efusion1-i.akamaihd.net/hls/live/252882/ptven/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="WORLD NEWS",Sky News
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="WORLD NEWS",TRT World
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
@@ -525,6 +528,9 @@ http://live.streamjo.com:1935/cctv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AMYIUUl.png" group-title="CANADA",The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c3/TNA_Wrestling_Logo.png" group-title="CANADA",TNA Wrestling
+https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CtwC4Z_y2W4Q39nwoprV9DO1RrK7TgMh_XpqtCl2Mv8IPrj4a37XVfdnG7HYHNaMx-dOB7jSThKB47A7ZQrTtcKxKo2lvt9tymeiSHERgNA8ygwiG7IwomNaa_MvXh61nKOZsnCzjN9xSq5CEuiuTo2UzzktLhiHDl_Ob9Zv9gN9NdGvUQOQ0IMpnH4nc7F35mF2mtleCn1kPZcCmCZX3AqrYrMsvxTGgNMs7fqSWDrcp1JPOdk8a4WfXkuwFgMN4KECjHutRTf4otCL6GAJrK7oFjISP9IeMRyqznYhv3pLdKzwTRe1m6HxBpfjJ-jztSEWfbj5v5dcy3Q1js-fq48rrAruqzRZo2A92RRi7TQYQf4bph6LVZwsA5_6vkatL-M-dfI7Ojc0ZGGRLiH2tLgXG_xY8cHeTi03W5r6vLAVdwT74d1mqwS0MUDlOWrQmYaaAyIaoJLG1Xo9bVAHEhBegjZ20v8zv8_UcfAN9m1PGgyi1wInM_vImFEgOto.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/jeopardyhistory/images/3/32/Cjon_ntv_st_john.png" group-title="CANADA",NTV Newfoundland
 http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
 
@@ -534,17 +540,32 @@ http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PKF0ejC.png" group-title="UK",Arise News
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ocdn.eu/images/program-tv/NTU7MDA_/e7114237dc0731c7dd660c32d6822432.png" group-title="UK",English Club TV
-http://163.172.148.123:8081/RuOIYxwHD7sQiL2MnAnBaWaJsoF2Q4f9m0D43wVo2WsoRd9nc2NN6zBGJRkGcL/live/engclub_id86425/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tpqKLRl.jpg" group-title="UK",AXN
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/AXN_HD/AXN_HD_800.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BQL23Df.jpg" group-title="UK",BT Sport
+http://163.172.38.45:8081/btsp/sp1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cartoonnetwork.com/static/images/global/ogLogo.png" group-title="UK",Cartoon Network
 http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t6eIQHt.png" group-title="UK",Discovery Turbo
+Discovery_Turbo_800.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ocdn.eu/images/program-tv/NTU7MDA_/e7114237dc0731c7dd660c32d6822432.png" group-title="UK",English Club TV
+http://163.172.148.123:8081/RuOIYxwHD7sQiL2MnAnBaWaJsoF2Q4f9m0D43wVo2WsoRd9nc2NN6zBGJRkGcL/live/engclub_id86425/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qj9MV9F.jpg" group-title="UK",History
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/History_HD/History_HD_800.m3u8
+
+#EXTINF:-1 tvg-logo="http://media.gizmodo.co.uk/wp-content/uploads/2015/09/itv-hub-460x259.jpg" group-title="UK",ITV Live Events
+https://itvliveevents-i.akamaihd.net/hls/live/203496/itvliveevents/ITVEVTMN/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News (Americas)
-http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P8xM9SB.jpg" group-title="UK",Sony BBC Earth
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_BBC_Earth_HD_English/Sony_BBC_Earth_HD_English_800.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XCBnJzR.png" group-title="UK",RT UK
 https://secure-streams.akamaized.net/rt-uk/index.m3u8
@@ -587,6 +608,9 @@ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_inde
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FSukyxY.png" group-title="UK",QVC 4
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P8xM9SB.jpg" group-title="UK",Sony BBC Earth
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_BBC_Earth_HD_English/Sony_BBC_Earth_HD_English_800.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Ireland-01.png" group-title="LABEL",~ Ireland TV ~
 http://www.lengua.com/anthems/Ireland.mp3
@@ -3510,6 +3534,9 @@ http://rtmp.one.by:1300/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="RUSSIA",First Music (Opt-3)
 http://rtmp.one.by:1200
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/2f/00/7b/2f007b092b3650e3934551c91c6e75f0.jpg" group-title="RUSSIA",Fox Life
+http://185.231.160.49/224/2/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.vefire.ru/l/250x150/ru/Freshtv.png" group-title="RUSSIA",FreshTV
 http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
 
@@ -3663,6 +3690,9 @@ http://cdn-g.bonus-tv.ru:80/ovideo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prnews.io/content/platform/999/logo.jpeg" group-title="RUSSIA",Ovideo Trailer TV (Opt-2)
 http://wse.planeta-online.tv:1935/live/channel_5/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.thewrap.com/wp-content/uploads/2014/10/Paramount-Channel-logo.jpg" group-title="RUSSIA",Paramount Channel
+http://185.231.160.49/62/2/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rustur.ru/wp-content/uploads/2017/04/1tv-rus.jpg" group-title="RUSSIA",Perviy Kanal
 http://tvm10.gcdn.co/piktv/ngrp:piktv_all/tracks-v1a1/index.m3u8
 
@@ -3734,6 +3764,9 @@ http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://online-red.com/images/tv/smilik-tv.png" group-title="RUSSIA",Smilik TV
 http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/99olwxb.jpg" group-title="RUSSIA",Sony Channel
+http://185.231.160.49/188/2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://strana-tv.ru/logo_strana_outlines.png" group-title="RUSSIA",Strana TV
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:strana.smil/chunklist_b1600000.m3u8
