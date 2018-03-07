@@ -15,6 +15,9 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/EN_language_symbol_in_blue_letters_in_a_blue_square.svg/2000px-EN_language_symbol_in_blue_letters_in_a_blue_square.svg.png" group-title="LABEL",~ MOVIES
 http://149.56.23.7:20082/stream
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5VA80lB.jpg" group-title="MOVIES",Hellraiser: Judgment (2018)
+https://bobmovies.net/hl/Hellraiser.Judgment.2018.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/a2mGlFT.jpg" group-title="MOVIES",Agent (2017) [AR-Subs]
 https://archive.org/download/Agent_2017/Agent%202017.mp4
 
@@ -33,11 +36,26 @@ https://archive.org/download/AwakeningTheZodiac2017/Awakening%20the%20Zodiac%202
 #EXTINF:-1 tvg-logo="http://www.mongrelmedia.com/MongrelMedia/files/04/0411c9ac-89a8-4ad8-a476-989284573e57.jpg" group-title="MOVIES",Black Site Delta (2017) [AR-Subs]
 https://archive.org/download/BlackSiteDelta2017/Black%20Site%20Delta%202017.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbH2o4g.jpg" group-title="MOVIES",Downsizing (2017)
+https://bobmovies.net/hl/Downsizing.2017.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/fifty-shades-darker-2017/large_fifty_shades_darker_ver2.jpg" group-title="MOVIES",Fifty Shades Darker (2017)
 https://archive.org/download/FiftyShadesDarker2017720pYTS.AG/Fifty.Shades.Darker.2017.720p.BluRay.x264-[YTS.AG].mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y7xZWra.jpg" group-title="MOVIES",Geostorm (2017)
+https://bobmovies.net/hl/Geostorm.2017HDRip.m3u8
+
 #EXTINF:-1 tvg-logo="https://i1.wp.com/tiffanyyong.com/wp-content/uploads/2017/04/Gifted-SG-Poster.jpg " group-title="MOVIES",Gifted (2017)
 https://ia601504.us.archive.org/19/items/Family1960196003/Family_1960-196003.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/llO5A6x.jpg" group-title="MOVIES",It (2017)
+https://bobmovies.net/hl/IT.2017.EBRip.m3u8
+
+#EXTINF:-1 tvg-logo="https://usercontent2.hubstatic.com/13788815.jpg" group-title="MOVIES",Justice League (2017)
+https://bobmovies.net/hl/Justice.League.2017_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/lGa2sK2LdcHQjasYyukl3P2nras.jpg" group-title="MOVIES",Justice League Dark (2017)
+https://bobmovies.net/hl/Justice_League_Dark_2017_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgbox.com/CEFrgVi9.jpg" group-title="MOVIES",King Arthur - Legend of the Sword (2017)
 https://archive.org/download/KingArthurLegendOfTheSword2017720pBRripX265HEVC10bitPoOlLa/King%20Arthur%20Legend%20of%20the%20Sword%202017%20720p%20BRrip%20x265%20HEVC%2010bit%20PoOlLa.mp4
@@ -51,14 +69,23 @@ https://archive.org/download/Life2017/Life%202017.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/Logan_2017_poster.jpg" group-title="MOVIES",Logan (2017) [AR-Subs]
 https://archive.org/download/Logan2017/Logan%202017.mp4
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Cqv8yKp8L._RI_.jpg" group-title="MOVIES",Only the Brave (2017)
+https://bobmovies.online/hl/Only.the.Brave.2017.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Kcxcs5O7vj8/movieposter.jpg" group-title="MOVIES",T2 Trainspotting (2017)
 https://archive.org/download/T2.Trainspotting.2017.1080p.BluRay.AVC.DTSHD.MA.5.1FGTrarbg.to/BDMV/STREAM/00001.mp4
 
 #EXTINF:-1 tvg-logo="https://assets.voxcinemas.com/posters/P_HO00004718.jpg" group-title="MOVIES",The Big Sick (2017) [Dual-EN]
 https://ia601502.us.archive.org/33/items/chayoterodance_Track066/chayoterodance_Track066.mp4?CONEXION?null=?mkv
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VnIIyjTDlYU/movieposter.jpg" group-title="MOVIES",The Shape of Water (2017)
+https://bobmovies.net/hl/The.Shape.of.Water.2017.m3u8
+
 #EXTINF:-1 tvg-logo="http://horrornews.net/wp-content/uploads/2016/12/The-snare-2017-movie-poster.jpg" group-title="MOVIES",The Snare (2017)
 https://archive.org/download/TheSnare2017/The%20Snare%20(2017).mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg" group-title="MOVIES",Thor: Ragnarok (2017)
+https://bobmovies.net/hl/Thor.Ragnarok.2017.web.m3u8
 
 #EXTINF:-1 tvg-logo="https://myegy.tv/files/img/content/3/120/1494046678.original.jpg" group-title="MOVIES",xXx - Return of Xander Cage (2017) [Dual-ES]
 https://archive.org/download/Xxx.return.of.xander.cage1080pDualLat/Xxx.return.of.xander.cage%201080p-dual-lat.mp4
@@ -72,7 +99,7 @@ http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/31%20%282016%29%20Ingl%c3%a
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71TCRM916WL._AC_UL320_SR224%2C320_.jpg" group-title="MOVIES",48 Hours to Live (2016)
 https://archive.org/download/48HoursToLive2016WatchOnlineFullMovieWatchOnlinePRO/48%20Hours%20to%20Live%202016%20Watch%20Online%20Full%20Movie%20%20%20WatchOnlinePRO.mp4
 
-#EXTINF:-1 tvg-logo="http://milversite.me/slike/All-the-Way_a54b4c90.jpg" group-title="MOVIES",All The Way (2016)*
+#EXTINF:-1 tvg-logo="http://milversite.me/slike/All-the-Way_a54b4c90.jpg" group-title="MOVIES",All The Way (2016)
 https://archive.org/download/AllTheWay20161080pYTS.AG/All.The.Way.2016.1080p.BluRay.x264-[YTS.AG].mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Allied_%28film%29.png/220px-Allied_%28film%29.png" group-title="MOVIES",Allied (2016) [Dual-EN]
@@ -87,7 +114,7 @@ http://dl2.downloado.site/dl2/Movie/Almost.Christmas.2016.720p.ShAaNiG-%5BDownlo
 #EXTINF:-1 tvg-logo="https://zapodaj.net/images/c25c2d5584bf4.jpg" group-title="MOVIES",Angry Birds (2016) [Dual-ES]
 https://archive.org/download/A001.2016.1080pDualLat_201608/A-001-.2016.1080p-dual-lat.mp4
 
-#EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="MOVIES",Bad Santa 2 (2016)*
+#EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="MOVIES",Bad Santa 2 (2016)
 https://archive.org/download/BadSanta22016UNRATED1080pRemux/Bad%20Santa%202%20(2016)%20UNRATED%201080p%20Remux.mp4
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/teaser-trailer.com/wp-content/uploads/Colossal-new-poster-1.jpg" group-title="MOVIES",Colossal (2016)
@@ -116,6 +143,9 @@ https://archive.org/download/RulesDontApply20161080pRemux/Rules%20Dont%20Apply%2
 
 #EXTINF:-1 tvg-logo="https://horrorpediadotcom.files.wordpress.com/2016/11/the-dark-tapes-found-footage-horror-2017.png?w=420&h=540" group-title="MOVIES",The Dark Tapes (2016) [ES-Subs]
 https://ia801603.us.archive.org/20/items/02052017AQCMRAQC020517/02052017AQC.mp4
+
+#EXTINF:-1 tvg-logo="https://d2a0bnlkc0czvp.cloudfront.net/posters/original/p12669880_p_v8_aa.jpg" group-title="MOVIES",The Founder (2016)
+https://bobmovies.net/hl/The_Founder_2016_360p.m3u8
 
 #EXTINF:-1 tvg-logo="http://orig02.deviantart.net/0fd5/f/2016/164/a/7/suicide_squad__2016____poster_6_by_camw1n-da5djpl.jpg" group-title="MOVIES",Suicide Squad (2016) [AR-Subs]
 https://archive.org/download/Suicide.Squad.2016.EXTENDED.1080p.BluRay.akoam.com/Suicide.Squad.2016.EXTENDED.1080p.BluRay.akoam.com.mp4
@@ -219,6 +249,9 @@ https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Hercules_%282014_film%29.jpg" group-title="MOVIES",Hercules (2014)
 https://archive.org/download/Hercules.2014.720p.BluRay.x264.YIFY/Hercules.2014.720p.BluRay.x264.YIFY.mp4
 
+#EXTINF:-1 tvg-logo="https://images.pyramidshop.com/images/_popup/PP33496-Interstellar-Ice-Walk.jpg" group-title="MOVIES",Interstellar (2014)
+https://bobmovies.net/hl/Interstellar_2014.m3u8
+
 #EXTINF:-1 tvg-logo="http://img.movieboom.biz/movie/36786.jpg" group-title="MOVIES",Madea's Neighbors from Hell (2014)
 http://www.deadlyblogger.com/NewRelease/fromhell2014.mp4
 
@@ -284,6 +317,9 @@ https://archive.org/download/WellNeverHaveParis2014720p/We%27ll%20Never%20Have%2
 
 #EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid14751.jpg" group-title="MOVIES",While We're Young (2014)
 https://archive.org/download/While.Were.Young.2014.1080p.BluRay.x264.YIFY/While.Were.Young.2014.1080p.BluRay.x264.YIFY.mp4
+
+#EXTINF:-1 tvg-logo="https://mossislandsounds.files.wordpress.com/2015/03/whiplash-poster.jpg" group-title="MOVIES",Whiplash (2014)
+https://bobmovies.net/hl/Whiplash_2014_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://dg7kra6zb39sn.cloudfront.net/media/spotlight/page/poster-50932b1e-abf0-4f17-8e1a-357fb191953f.jpg" group-title="MOVIES",12 Years a Slave (2013)
 http://www.deadlyblogger.com/NewRelease/12slave.mp4
@@ -477,6 +513,9 @@ http://www.deadlyblogger.com/NewRelease/themort1.mp4
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/horrormovies/images/1/19/Purge_Poster.jpg" group-title="MOVIES",The Purge (2013)
 http://www.deadlyblogger.com/NewRelease/purge.mp4
 
+#EXTINF:-1 tvg-logo="http://color-of-cinema.cocolog-nifty.com/photos/uncategorized/2014/02/16/mitty1.jpg" group-title="MOVIES",The Secret Life of Walter Mitty (2013)
+https://bobmovies.net/hl/The.Secret.Life.of.Walter.Mitty.2013new.m3u8
+
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51qmsRxACxL.jpg" group-title="MOVIES",The Starving Games (2013)
 http://www.deadlyblogger.com/NewRelease/starving2013.mp4
 
@@ -663,6 +702,9 @@ http://www.deadlyblogger.com/NewRelease/hottub2010.mp4
 #EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/i-spit-on-your-grave-2010/large_7hA8FfUAwBJut4MSIhR6eCF8li7.jpg" group-title="MOVIES",I Spit on Your Grave (2010)
 http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/I%20Spit%20On%20Your%20Grave%20%282010%29%20Dual/I%20Spit%20On%20Your%20Grave%20%282010%29Dual%20ripeada.mkv
 
+#EXTINF:-1 tvg-logo="https://mindreels.files.wordpress.com/2015/11/inception-movie-poster-2010-1020547300.jpg" group-title="MOVIES",Inception (2010)
+https://bobmovies.net/hl/Inception_2010_360p.m3u8
+
 #EXTINF:-1 tvg-logo="https://zuts.files.wordpress.com/2013/11/insidious-movie-poster.jpg" group-title="MOVIES",Insidious (2010)
 http://www.deadlyblogger.com/NewRelease/insidious1.mp4
 
@@ -783,6 +825,9 @@ http://www.deadlyblogger.com/NewRelease/origin.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/1200px-Big_buck_bunny_poster_big.jpg" group-title="MOVIES",Big Buck Bunny (2008)
 https://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4
 
+#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/800/G/Gran-Torino-movie-poster.jpg" group-title="MOVIES",Gran Torino (2008)
+https://bobmovies.net/hl/Gran_Torino_2008_720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/8143uwZE6LL._SY445_.jpg" group-title="MOVIES",Ip Man (2008)
 https://archive.org/download/IPMANONE/IP%20MAN%20ONE.mp4
 
@@ -881,6 +926,9 @@ http://www.deadlyblogger.com/NewRelease/bourne3.mp4
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/jerome_bixby_s_the_man_from_earth-512181758-large.jpg" group-title="MOVIES",The Man from Earth (2007)
 https://archive.org/download/The.Man.From.Earth.2007.720p.BRrip.x265.10bit.PoOlLa/The.Man.From.Earth.2007.720p.BRrip.x265.10bit.PoOlLa.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.movieweb.com/img.teasers.posters/FIqd2svt2UFcts_358_a/The-Prestige.jpg" group-title="MOVIES",There Will be Blood (2007)
+https://bobmovies.net/hl/The_Prestige_2006_360p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Transformers07.jpg" group-title="MOVIES",Transformers (2007)
 http://www.deadlyblogger.com/NewRelease/transformers1.mp4
@@ -1034,6 +1082,9 @@ https://archive.org/download/Harry.Potter.The.Ultimate.Collection.Pack.20012011.
 
 #EXTINF:-1 tvg-logo="http://www.iceposter.com/thumbs/MOV_ccc9d688_b.jpg" group-title="MOVIES",Hellboy (2004)
 https://archive.org/download/Hellboy2004DirectorsCut1080pX26510bitJoy/Hellboy%202004%20Directors%20Cut%20(1080p%20x265%2010bit%20Joy).mp4
+
+#EXTINF:-1 tvg-logo="https://markb4.files.wordpress.com/2015/01/howlsmovingcastle.jpg" group-title="MOVIES",Howl's Moving Castle (2004)
+https://bobmovies.net/hl/Howls_Moving_Castle_2004_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Movie_poster_i_robot.jpg" group-title="MOVIES",I Robot (2004)
 http://www.deadlyblogger.com/NewRelease/irobot.mp4
