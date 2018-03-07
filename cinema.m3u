@@ -6,7 +6,7 @@ http://149.56.23.7:20082/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free VOD
 http://149.56.23.7:20082/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Feb.06.2018
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Mar.07.2018
 http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -29,9 +29,6 @@ http://www.cinevall.com/videos/annabelle_2.m4v
 
 #EXTINF:-1 tvg-logo="http://horrorbuzz.com/wp-content/uploads/2017/05/AwakeningTheZodiac_Poster.jpg" group-title="MOVIES",Awakening the Zodiac (2017) [AR-Subs]
 https://archive.org/download/AwakeningTheZodiac2017/Awakening%20the%20Zodiac%202017.mp4
-
-#EXTINF:-1 tvg-logo="http://legionofleia.com/wp-content/uploads/screen-shot-2017-04-19-at-9-32-34-am-copy.jpg" group-title="MOVIES",Baywatch (2017)
-http://dl.my-film.in/s1/Movie/Baywatch.2017/Baywatch.2017.UNRATED.720p.MkvCage-[My-Film].mkv
 
 #EXTINF:-1 tvg-logo="http://www.mongrelmedia.com/MongrelMedia/files/04/0411c9ac-89a8-4ad8-a476-989284573e57.jpg" group-title="MOVIES",Black Site Delta (2017) [AR-Subs]
 https://archive.org/download/BlackSiteDelta2017/Black%20Site%20Delta%202017.mp4
