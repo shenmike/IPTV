@@ -2958,8 +2958,8 @@ http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rpcradio.com/images/a/logo-rpcradio.png" group-title="PANAMA",RPC Radio
 http://cdnlive.medcom.com.pa/rpcradio/source/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.rpctv.com/en_directo/RPC-TV-Linea_MEDDIR20131018_0001_54.jpg" group-title="PANAMA",RPC TV
-http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.rpctv.com/en_directo/RPC-TV-Linea_MEDDIR20131018_0001_54.jpg" group-title="PANAMA",RPC TV (New!)
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sertv.gob.pa/images/NewWeb/logos/logo-sertv-portal.png" group-title="PANAMA",SerTV
 http://162.213.123.181:1935/sertv/live/playlist.m3u8
@@ -2969,6 +2969,9 @@ http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/ch
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.telemetro.com/radio/Especial-Telemetro-Radio_MEDDIR20160128_0004_47.jpg" group-title="PANAMA",Telemetro Radio
 http://cdnlive.medcom.com.pa/tmradio/source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/1200px-Logo_tvmax.png" group-title="PANAMA",TVMax
+https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/JkOGNqYTE65j3KOwuEDptSwC-gD1MT1M/cn/575964e5c7f148a5beb94b728e2ec6a4.m3u8?oosm=1&_=bil9qo
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/TVN_Panama.png" group-title="PANAMA",TVN
 https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/342e43a0bc384c2f8f81652fa15f3949.m3u8?oosm=1
