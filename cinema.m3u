@@ -6,7 +6,7 @@ http://149.56.23.7:20082/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free VOD
 http://149.56.23.7:20082/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Mar.07.2018
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Mar.19.2018
 http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -26,6 +26,12 @@ https://ia601505.us.archive.org/27/items/Cheverefans0022017.mkv/Cheverefans%2000
 
 #EXTINF:-1 tvg-logo="https://blogs-images.forbes.com/scottmendelson/files/2017/06/ANNABELLE_CREATION_POSTER-1200x1778.jpg" group-title="MOVIES",Annabelle - Creation (2017) [ES-Subs]
 http://www.cinevall.com/videos/annabelle_2.m4v
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Coco_%282017_film%29_poster.jpg" group-title="MOVIES",Coco (2017)
+https://bobmovies.net/hl/Coco.2017.DVDScr_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kX7BO3lLQW4/Wkl9yowVGzI/AAAAAAABEbA/QIuQuKjgM8wqD3Gcz9SugUwbXwbDnMm8gCLcBGAs/s1600/DarkestHourPoster.jpg" group-title="MOVIES",Darkest Hour (2017)
+https://bobmovies.net/hl/Darkest.Hour.2017.WEB-DL.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbH2o4g.jpg" group-title="MOVIES",Downsizing (2017)
 https://bobmovies.net/hl/Downsizing.2017.m3u8
@@ -566,6 +572,9 @@ http://www.deadlyblogger.com/NewRelease/kingpaper.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jrTWebJgJz9H4V7EuErgD5BywMb.jpg" group-title="MOVIES",Leap - Rise of the Beast (2011)
 https://archive.org/download/LeapRiseOfTheBeast2011FULLMOVIE/Leap_%20Rise%20of%20the%20Beast%20(2011)%20FULL%20MOVIE.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Moneyball_Poster.jpg/220px-Moneyball_Poster.jpg" group-title="MOVIES",Moneyball (2011)
+https://bobmovies.net/hl/Moneyball.2011_360p.m3u8
 
 #EXTINF:-1 tvg-logo="https://joelamoroney.files.wordpress.com/2011/04/paul-movie-poster2.jpg" group-title="MOVIES",Paul (2011)
 https://archive.org/download/Scarface.1983.1080p.BRrip.x264.YIFY/Paul.2011.extended.720p.BrRip.x264.YIFY.mp4
