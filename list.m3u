@@ -522,6 +522,9 @@ http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://watchmobiletv.com/assets/thumbs/CANADA_TAMILS_TV.png" group-title="CANADA",Canada Tamils TV
 http://live.streamjo.com:1935/cctv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ctvm.info/wp-content/uploads/2016/10/TQ-logoCorpoRGB.jpg" group-title="CANADA",Tele-Quebec
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AMYIUUl.png" group-title="CANADA",The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
@@ -3381,6 +3384,9 @@ rtmp://rtcg2.videostreaming.rs/rtcg/rtcg.2.stream
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag/256/Bulgaria-icon.png" group-title="LABEL",~ Bulgaria TV ~
 http://www.lengua.com/anthems/Bulgaria.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live-tv-channels.net/pt-data/uploads/logo/bg-100-auto-moto-tv.jpg" group-title="BULGARIA",100% Automoto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logos.kodibg.org/citytv.png" group-title="BULGARIA",City TV
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 
@@ -4436,6 +4442,9 @@ http://85.132.71.6/turk/medeniyyet/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.giniko.com/logos/190x110/404.png" group-title="AZERBAIJAN",Minika Cocuk
 http://85.132.71.6/turk/minika_cocuk/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.myvideo.az/v3_imgs/tv/tv_muztv_100.jpg" group-title="AZERBAIJAN",MUZ TV
+http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://baku.ws/uploads/posts/2015-07/1435986886_space_tv_logo_020715.jpg" group-title="AZERBAIJAN",Space TV
 http://85.132.71.6/iptv_space/index.m3u8
