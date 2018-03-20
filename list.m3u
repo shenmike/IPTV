@@ -6,7 +6,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free IPTV
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Mar.13.2018
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Mar.19.2018
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -30,17 +30,11 @@ http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="WORLD NEWS",CGTN (Opt-2)
 http://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EP482zT.png" group-title="WORLD NEWS",Channel NewsAsia
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="WORLD NEWS",Deutsche Welle
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="WORLD NEWS",France 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/78.jpg" group-title="WORLD NEWS",i24news
-http://stream-13.dc3.dailymotion.com/05/dm/3/x29atae/live-4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="WORLD NEWS",NHK World
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
@@ -165,17 +159,11 @@ http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AgddyCM.png" group-title="USA",Channel 7
 http://radio.7chan.org:8000/CH7
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K03Eq0Z.png" group-title="USA",Classic Arts Showcase (Off)
-http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.graytvinc.com/images/810*454/cnn+logo%200626.jpg" group-title="USA",CNN
-https://5790d294af2dc.streamlock.net/Livenewson/Livenewson32/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.graytvinc.com/images/810*454/cnn+logo%200626.jpg" group-title="USA",CNN (New!)
+https://5790d294af2dc.streamlock.net/Livenewson/Livenewson85er4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sbgi.net/wp-content/uploads/2015/11/comet-logo.jpg" group-title="USA",Comet TV (Geo)
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6cEdpoR.png" group-title="USA",CONtv
-https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CrgCm3j0IcKst14mjtywvygTDrQWvVeEwY5oa3Wjfrt183fbbE6ZCLFwtBq7SfVI7YD43-gDpk6C9HtFcjDJ9M-07fbycz88vAvXjBAU9-RzoNjEBvllzGftomLoyVBeUo3cMJn8RLDe8_D9eeIg8z5tuGEt-ZcuQgYPdyPbMF4Wx_GCZAGIKzE4TUlJqjmPgN6wH9FN0taggDlPQVvyTIdjAeUNhO0m5x7Cl65Kp5oPbTYDJTZsfyoCrfcKilgYBRJCRjlHLfPM7Nm9MjawablsNyNP9SF_WsqszDymY99Ze7wHDM7MwMuAlHKcfA5NevUKRMVPK2yV5nCQ7Rt1gwcuhtFmiJ7yuvq64WJrKlWnRKv5u-mIRPpoZBmhL4qHWOG5qGSrklqZ4T-fy1keXJxTj7xwPXVR94GjEhCyv1Ib4vCEo0qQHkaJampuGgzsr0Y2lYwDxAyetb8.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://moziru.com/images/singer-clipart-country-8.jpg" group-title="USA",CountryMusic4U
 http://151.80.20.150:1935/countrymusic4u/countrymusic4u/playlist.m3u8
@@ -201,17 +189,11 @@ http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media-exp2.licdn.com/mpr/mpr/AAEAAQAAAAAAAAdvAAAAJDk5YzBhMGY2LWZiOWItNDc1My1iNzVlLTlhMDg0ODNhY2M5Yw.png" group-title="USA",Evine Live
 http://shophqlivehls-i.akamaihd.net/hls/live/217490/onair/layer1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VYzKMAl.png" group-title="USA",Fail Army
-https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CsUC9E3QmR30vHBG9-NHY_KdfsfTuUMQlhZFPfC2DJqihWdj_HfsVOs2pJNexLZ9kNqjXbvgEdEssrq-NvoEioApX7Gr5-ND1rK_3KQwPalWPBizuEeJ_jXspk59r3GjAIzeK43ICfbLlzCntDe-yBsaNcZko6u8dII8hoViSukrgOwhYmG9zM7Kbzrf4nNt4rcfEDwJGBAQ0FqCsCtqWlbcZEn-hqLNHUNF5kz74UTupIdU419I5UxUaV7LhS-yp0XP8dLoJgRLB-w5kr0iY2sTEGUTFj2KKlgL53yqfcWq_2_nuqe3r-h1MLvSUUpS4ShU3PCZJ-I3qSfT-WkY4tEkV2yNwgQE8HApamWbPt9YgUr7dO4-Luy6bCbvuUiPXWQu0L60pTQzrqYC0GT9Hr0t-IFdr7vVaCMjumTmcw0PjbqaBX7TUBIQBce9CFpPtyg5flBktdxGMRoM48kXasci_W_6mWi6.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EvfdMSA.jpg" group-title="USA",Fox Business Network
 http://fbntve-i.akamaihd.net/hls/live/200667/fbntve/HD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MHcgYBr.png" group-title="USA",Fox News Channel (No Audio)
 http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cYXoeB0.png" group-title="USA",Fox News Radio (Off)
-http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PH1Gg4p.png" group-title="USA",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
@@ -255,7 +237,7 @@ http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/COQM8bM.png" group-title="USA",Kool TV
 http://173.199.158.79:1935/roku/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fi68GxG.png" group-title="USA",Laurel TV (Off)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fi68GxG.png" group-title="USA",Laurel TV
 https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HuFEXXs.png" group-title="USA",Miami TV
