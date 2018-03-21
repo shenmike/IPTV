@@ -2811,16 +2811,19 @@ http://qs1.distream.net:2112/tf_str/futu/chunklist_w1961345922.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png" group-title="DOMINICAN REP",Telemedios Dominicanos Canal 25
 http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" group-title="DOMINICAN REP",Telemicro Canal 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" group-title="DOMINICAN REP",Telemicro Canal 5 (Opt-1)
 http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" group-title="DOMINICAN REP",Telemicro Canal 5*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" group-title="DOMINICAN REP",Telemicro Canal 5  (Opt-2)
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" group-title="DOMINICAN REP",Telemicro Canal 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" group-title="DOMINICAN REP",Telemicro Canal 5
 http://api.new.livestream.com/accounts/736348/events/5522678/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mekstream.com/clients/telesistema/telesistema_poster.png" group-title="DOMINICAN REP",Telesistema Canal 11 (New!)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2017/09/teleradio_norte_logo.jpg" group-title="DOMINICAN REP",Teleradio Norte (New!)
+http://cm.hostlagarto.com:8081/Teleradionorte/TeleradionorteHD.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mekstream.com/clients/telesistema/telesistema_poster.png" group-title="DOMINICAN REP",Telesistema Canal 11
 http://69.64.69.92:1935/hits-tv-ch11app/studio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP",Telenord Canal 8
@@ -2877,11 +2880,8 @@ http://www.lengua.com/anthems/PuertoRico.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dominicanchannels.net/wp-content/uploads/2013/07/acs.jpg" group-title="PUERTO RICO",ACS Network
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-6yYNELU2luw/Ve4b4VQ6DJI/AAAAAAAAx7Y/YAEejFNDPMk/s1600/60%2Ba%25C3%25B1os%2BWAPA%2BTV%2BLOGO.png" group-title="PUERTO RICO",WAPA TV
-http://dcunilive30-lh.akamaihd.net/i/dclive_1@535532/index_150_av-p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://noticiasprtv.com/wp-content/uploads/2016/09/WIPR-TV-logo-png.png" group-title="PUERTO RICO",WIPR TV
-http://api.new.livestream.com/accounts/16550960/events/4589741/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-6yYNELU2luw/Ve4b4VQ6DJI/AAAAAAAAx7Y/YAEejFNDPMk/s1600/60%2Ba%25C3%25B1os%2BWAPA%2BTV%2BLOGO.png" group-title="PUERTO RICO",WAPA TV (New!)
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535231/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/u3-0ZnHM4GY/hqdefault.jpg" group-title="PUERTO RICO",WORO-TV Teleoro Canal 13
 http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
