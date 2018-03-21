@@ -507,7 +507,7 @@ http://stream.canalsavoir.tv/livestream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbc.ca/mediacentre/content/images/News_header-750x360.jpg" group-title="CANADA",CBC News
 http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UyQ9pH4.png" group-title="CANADA",CHCH (New!)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UyQ9pH4.png" group-title="CANADA",CHCH
 https://playback.bcovlive.io/de75f0915ed24d95b904857ce535ac39/us-west-2/5644964886001/profile_1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HaIKVj0.png" group-title="CANADA",CPAC
@@ -534,9 +534,6 @@ https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chu
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AMYIUUl.png" group-title="CANADA",The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c3/TNA_Wrestling_Logo.png" group-title="CANADA",TNA Wrestling
-https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CtwC4Z_y2W4Q39nwoprV9DO1RrK7TgMh_XpqtCl2Mv8IPrj4a37XVfdnG7HYHNaMx-dOB7jSThKB47A7ZQrTtcKxKo2lvt9tymeiSHERgNA8ygwiG7IwomNaa_MvXh61nKOZsnCzjN9xSq5CEuiuTo2UzzktLhiHDl_Ob9Zv9gN9NdGvUQOQ0IMpnH4nc7F35mF2mtleCn1kPZcCmCZX3AqrYrMsvxTGgNMs7fqSWDrcp1JPOdk8a4WfXkuwFgMN4KECjHutRTf4otCL6GAJrK7oFjISP9IeMRyqznYhv3pLdKzwTRe1m6HxBpfjJ-jztSEWfbj5v5dcy3Q1js-fq48rrAruqzRZo2A92RRi7TQYQf4bph6LVZwsA5_6vkatL-M-dfI7Ojc0ZGGRLiH2tLgXG_xY8cHeTi03W5r6vLAVdwT74d1mqwS0MUDlOWrQmYaaAyIaoJLG1Xo9bVAHEhBegjZ20v8zv8_UcfAN9m1PGgyi1wInM_vImFEgOto.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/jeopardyhistory/images/3/32/Cjon_ntv_st_john.png" group-title="CANADA",NTV Newfoundland
 http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
 
@@ -545,12 +542,6 @@ http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PKF0ejC.png" group-title="UK",Arise News
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tpqKLRl.jpg" group-title="UK",AXN
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/AXN_HD/AXN_HD_800.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BQL23Df.jpg" group-title="UK",BT Sport
-http://163.172.38.45:8081/btsp/sp1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cartoonnetwork.com/static/images/global/ogLogo.png" group-title="UK",Cartoon Network
 http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
@@ -611,9 +602,6 @@ https://secure-streams.akamaized.net/rt-uk/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P8xM9SB.jpg" group-title="UK",Sony BBC Earth
-https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_BBC_Earth_HD_English/Sony_BBC_Earth_HD_English_800.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Ireland-01.png" group-title="LABEL",~ Ireland TV ~
 http://www.lengua.com/anthems/Ireland.mp3
