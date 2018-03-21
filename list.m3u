@@ -2304,7 +2304,7 @@ http://ar.watcha.live/ch4/hi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/552133013488685056/_YL6wRw3.jpeg" group-title="ARGENTINA",TyC Sports (Off)
 https://vivoplay-i.akamaihd.net/hls/live/579609/tyc/master1000k.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/952877982976217089/ITgyKDNQ_400x400.jpg" group-title="ARGENTINA",Urban 106.1 FM Pehuajo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Pdw6q6X.jpg" group-title="ARGENTINA",Urban 106.1 FM Pehuajo
 http://ar.solumedia.com.ar:1935/2/myStream/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/cl.png" group-title="LABEL",~ Chile TV ~
@@ -2415,10 +2415,10 @@ http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://estaticos.tvn.cl/skins/tvnkids/201611211350/gfx/redes-sociales.png" group-title="CHILE",TVN Kids
 http://cl-a3-p-e-oi1.cdn.mdstrm.com/live-stream/591f607e06b52d200a6066ea/playout/master.m3u8?es=cl-a3-p-e-oi1.cdn.mdstrm.com&ote=1504726523211&ot=3K9hbeMjQIQ3aUB2PDAtqA&proto=http
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Canal_13_Chile_%282005-2010%29.svg/120px-Canal_13_Chile_%282005-2010%29.svg.png" group-title="CHILE",UC13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Canal_13_Chile_%282005-2010%29.svg/120px-Canal_13_Chile_%282005-2010%29.svg.png" group-title="CHILE",UC13 (Opt-1)
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Canal_13_Chile_%282005-2010%29.svg/120px-Canal_13_Chile_%282005-2010%29.svg.png" group-title="CHILE",UC13*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Canal_13_Chile_%282005-2010%29.svg/120px-Canal_13_Chile_%282005-2010%29.svg.png" group-title="CHILE",UC13 (Opt-2)
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_07/large_ucv3.png.d25e1cef69d2d0ad5a3b0efdb082f9a8.png" group-title="CHILE",UCV 3
@@ -2427,7 +2427,7 @@ http://movilstream.digitalproserver.com/ucvtv2/ucvtv2vivo/livestream1/chunklist.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uestv.cl/sites/all/themes/uestv/images/logo.png" group-title="CHILE",UESTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.novasur.cl/sites/default/files/web_umag_tv.png" group-title="CHILE", UMAG TV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2daf50_fbcac3e81cb04000a0a6ca2702f72b22~mv2.jpg" group-title="CHILE", UMAG TV
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalvtv.cl/web/wp-content/uploads/2015/08/canalvtv_transparente_ch.png" group-title="CHILE",VTV Aconcagua 
@@ -2472,7 +2472,7 @@ http://181.198.10.23:1935/live2/smil:teradek.smil/chunklist_w151492058_b1024000_
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Colombia-01.png" group-title="LABEL",~ Colombia TV ~
 http://www.lengua.com/anthems/Colombia.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tatacabello.com/wp-content/uploads/2016/04/cablenoticias.png" group-title="COLOMBIA",Cablenoticias
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_5692_7_10574.png" group-title="COLOMBIA",Cablenoticias
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV.png" group-title="COLOMBIA",Cali TV
@@ -2487,7 +2487,7 @@ https://streaming.logicideas.media/canal13live/smil:live2.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/co_canal-14-cali_m.png" group-title="COLOMBIA",Canal 14
 http://181.143.238.252/live/livestream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.maxmediasa.co/images/distribucion/logo_canal_antiestres.png" group-title="COLOMBIA",Canal Antiestres
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://waodeveloper.com/wp-content/uploads/2018/02/canalantiestres.jpg" group-title="COLOMBIA",Canal Antiestres
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Canal_Capital_%28Bogotá%29_logo.svg/1200px-Canal_Capital_%28Bogotá%29_logo.svg.png" group-title="COLOMBIA",Canal Capital
@@ -2568,7 +2568,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MIOTV/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://industriamusical.es/wp-content/uploads/2014/09/Tigo-Music.png" group-title="COLOMBIA",Tigo Music
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png" group-title="COLOMBIA",Trendy Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Trendy_Channel_-_Logo.png" group-title="COLOMBIA",Trendy Channel
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sintonizarmedios.com/wp-content/uploads/2015/03/logo_tvagro.jpg" group-title="COLOMBIA",TV Agro
@@ -2601,10 +2601,10 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvperu.gob.pe/sites/default/files/styles/blog_704_328/public/Nota%20de%20prensa%201%20-%20Logo%20Canal%20IPe.png" group-title="PERU",Canal IPe
 http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rsmas.pe/wp-content/uploads/2015/06/1z2murt.jpg" group-title="PERU",Capital TV (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.paginasiete.bo/u/fotografias/m/2017/8/22/f999x666-174824_269889_36.jpg" group-title="PERU",Capital TV (Opt-1)
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rsmas.pe/wp-content/uploads/2015/06/1z2murt.jpg" group-title="PERU",Capital TV (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.paginasiete.bo/u/fotografias/m/2017/8/22/f999x666-174824_269889_36.jpg" group-title="PERU",Capital TV (Opt-2)
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0010&mode=12
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fulltelevisiononline.com/wp-content/uploads/2016/06/CTC_TELEVISION.png" group-title="PERU",CTC TV Cusco
@@ -2676,7 +2676,7 @@ http://70.36.100.38:1935/live/canal13_hq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="PARAGUAY",SNT
 http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.okparaguay.com/wp-content/uploads/2016/06/Logo_telefuturo.jpg" group-title="PARAGUAY",Telefuturo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TUmxtZA.jpg" group-title="PARAGUAY",Telefuturo
 http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.paraguay.com/photos/images/000/124/527/regular_unica.jpg.jpg" group-title="PARAGUAY",Unicanal
@@ -2760,7 +2760,7 @@ https://api.new.livestream.com/accounts/15754920/events/4458460/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/6cf9e5e41c7edc57b6b7125cb0c3528f.jpeg" group-title="DOMINICAN REP",CDN SportsMax
 http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.colorvision.com.do/wp-content/uploads/2014/12/logo.png" group-title="DOMINICAN REP",Color Vision Canal 9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.colorvision.com.do/wp-content/uploads/2017/10/cropped-cropped-logoNew.png" group-title="DOMINICAN REP",Color Vision Canal 9
 http://ss6.domint.net:2102/cvh_str/colorvisionhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.luperondigital.com/wp-content/uploads/2017/01/digital-15-vivo-Canales-Dominicanos.jpg" group-title="DOMINICAN REP",Digital 15
@@ -2823,7 +2823,7 @@ http://api.new.livestream.com/accounts/736348/events/5522678/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2017/09/teleradio_norte_logo.jpg" group-title="DOMINICAN REP",Teleradio Norte (New!)
 http://cm.hostlagarto.com:8081/Teleradionorte/TeleradionorteHD.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mekstream.com/clients/telesistema/telesistema_poster.png" group-title="DOMINICAN REP",Telesistema Canal 11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="DOMINICAN REP",Telesistema Canal 11
 http://69.64.69.92:1935/hits-tv-ch11app/studio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP",Telenord Canal 8
@@ -2919,7 +2919,7 @@ http://www.lengua.com/anthems/Panama.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.wixstatic.com/media/8e49c2_81abefc1f065440fb44306391fe6f9a3%7Emv2.png" group-title="PANAMA",COS
 http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.cableondasports.com/site/assets/files/25027/cos-fc-cableondasports.226x90.jpg" group-title="PANAMA",COS FC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos-fc.png" group-title="PANAMA",COS FC
 http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ecotvpanama.com/site/templates/images/cos-generic.jpg" group-title="PANAMA",Eco TV
@@ -3033,7 +3033,7 @@ http://www.lengua.com/anthems/Bolivia.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/R/red-atb-bolivia-logo-2ABBEC408E-seeklogo.com.gif" group-title="BOLIVIA",ATB
 http://stmv1.questreaming.com/atb/atb/playlist.m3u8?wowzasessionid=658130495
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.boliviatv.bo/sitio/images/icons/logo_main.png" group-title="BOLIVIA",Bolivia TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.paginasiete.bo/u/fotografias/m/2017/8/22/f999x666-174824_269889_36.jpg" group-title="BOLIVIA",Bolivia TV
 http://api.new.livestream.com/accounts/10468276/events/3485826/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Red_pat_new.jpg" group-title="BOLIVIA",PAT
