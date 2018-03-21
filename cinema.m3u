@@ -6,7 +6,7 @@ http://149.56.23.7:20082/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free VOD
 http://149.56.23.7:20082/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Mar.19.2018
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Mar.21.2018
 http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
@@ -17,6 +17,9 @@ http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VA80lB.jpg" group-title="MOVIES",Hellraiser: Judgment (2018)
 https://bobmovies.net/hl/Hellraiser.Judgment.2018.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.comingsoon.net//images//2018/poster_91394_1517791240.jpg" group-title="MOVIES",The Cloverfield Paradox (2018)
+https://bobmovies.net/hl/the.cloverfield.paradox.2018.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/05/Alien-Covenant-2.jpg" group-title="MOVIES",Alien - Covenant (2017)
 https://ia601505.us.archive.org/27/items/Cheverefans0022017.mkv/Cheverefans%200022017.mkv.mp4
@@ -492,6 +495,9 @@ http://www.deadlyblogger.com/NewRelease/white.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91ykiz8%2BVsL._SY445_.jpg" group-title="MOVIES",World War Z (2013)
 http://www.deadlyblogger.com/NewRelease/world.mp4
 
+#EXTINF:-1 tvg-logo="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_9d007705cbde5c3bd8fe93967be3c876d16e3da0ca0b34acdb1aabe6ea5465a5.jpg" group-title="MOVIES",Abraham Lincoln Vampire Hunter (2012)
+https://bobmovies.net/hl/Abraham.Lincoln.Vampire.Hunter.2012new_360p.m3u8
+
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-fDUzigyzasw/UKx3OM2uFjI/AAAAAAAAA2M/t_uAUBujsck/s1600/att_poster_v4.jpg" group-title="MOVIES",After the Tribulation (2012)
 https://archive.org/download/AfterTheTribulationFullMovieAlexJones/After%20the%20Tribulation%20(Full%20Movie)%20-%20Alex%20Jones.mp4
 
@@ -524,6 +530,9 @@ https://archive.org/download/Kiks.PkJamesBondLiveAndLetDie19731080pBRripX264/[Ki
 
 #EXTINF:-1 tvg-logo="https://profratigan.files.wordpress.com/2013/04/spring-breakers.jpg" group-title="MOVIES",Spring Breakers (2012)
 http://www.deadlyblogger.com/NewRelease/springbreakers.mp4
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/transcripts/images/3/37/Ted_31_5_promo_4c_2f-2.jpg" group-title="MOVIES",Ted (2012)
+https://bobmovies.net/hl/Ted.2012_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://pre00.deviantart.net/3999/th/pre/i/2012/021/4/7/the_bourne_legacy_by_aaronrandall-d4n5tdb.jpg" group-title="MOVIES",The Bourne Legacy (2012)
 http://www.deadlyblogger.com/NewRelease/bourne4.mp4
@@ -695,6 +704,9 @@ https://archive.org/download/TheSocialNetwork2010720pBrRipX264700MBYIFY/The%20So
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-mt9g-qXYEMo/UTjpXwiJ8PI/AAAAAAAABj0/nIggP1gzysc/s1600/unstoppable+poster.jpg" group-title="MOVIES",Unstoppable (2010)
 http://www.deadlyblogger.com/NewRelease/unstoppable.mp4
+
+#EXTINF:-1 tvg-logo="https://www.schnittberichte.com/pics/titel/4000/4620_230.jpg" group-title="MOVIES",Unthinkable (2010)
+https://bobmovies.net/hl/Unthinkable.2010_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/ChistmasCarol2009-Poster.jpg" group-title="MOVIES",A Christmas Carol (2009)
 http://www.deadlyblogger.com/NewRelease/acc2009.mp4
@@ -1158,6 +1170,9 @@ https://archive.org/download/Kiks.PkJamesBondLiveAndLetDie19731080pBRripX264/[Ki
 #EXTINF:-1 tvg-logo="https://badmoviemarathon.files.wordpress.com/2014/12/blade-ii.jpg" group-title="MOVIES",Blade II (2002)
 http://www.deadlyblogger.com/NewRelease/blade2.mp4
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51X113VG02L._SY445_.jpg" group-title="MOVIES",Dragon Ball Z: Fusion - Last Saiyan (2002)
+https://archive.org/download/DragonBallZFusionTheLastSaiyanVHS/Dragon%20Ball%20Z%20Fusion%20The%20Last%20Saiyan%20VHS.mp4
+
 #EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/friday-after-next-2002/large_ijDBXWelVp6fGFbmiVhazT5uxP0.jpg" group-title="MOVIES",Friday After Next (2002)
 http://www.deadlyblogger.com/NewRelease/friday3.mp4
 
@@ -1290,6 +1305,9 @@ http://www.deadlyblogger.com/NewRelease/deep1999.mp4
 #EXTINF:-1 tvg-logo="https://www.movieposter.com/posters/archive/main/148/MPW-74241" group-title="MOVIES",Jawbreaker (1999)
 http://www.deadlyblogger.com/NewRelease/jawbreaker.mp4
 
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/pokmon-the-movie-2000-pokmon-the-power-of-one.20955.jpg" group-title="MOVIES",Pokemon: The Movie 2000 (1999)
+https://archive.org/download/PokemonMovie2000WGN10222006/Pokemon%20the%20Movie%202000%20WGN%2010.22.06.mp4
+
 #EXTINF:-1 tvg-logo="http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/512/movie-alt.png" group-title="MOVIES",The Devil's Feast (1999)
 https://archive.org/download/The_Devils_Feast/the_devils_feast_512kb.mp4
 
@@ -1337,6 +1355,12 @@ https://archive.org/download/CousinBette1998DVDRipiwanttobelieveinaj/Cousin%20Be
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Fallen_film_poster.jpg" group-title="MOVIES",Fallen (1998)
 http://www.deadlyblogger.com/NewRelease/fallen2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/74/28/3e/74283e0ebca2dfca4ab33d2e9a460246.jpg" group-title="MOVIES",Pokemon: The First Movie (1998)
+https://archive.org/download/PKMNFirstMovie1080i/Pokemon.The.First.Movie.Mewtwo.Strikes.Back.1999.1080i.HDTV.MPEG2-NOGRP.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Scooby-doo-on-zombie-island.jpg/220px-Scooby-doo-on-zombie-island.jpg" group-title="MOVIES",Scooby-Doo on Zombie Island (1998)
+https://archive.org/download/ScoobyDooOnZombieIslandPart2FullLegth/Scooby%20Doo%20on%20Zombie%20Island%20Part%202%20full%20legth.mp4
 
 #EXTINF:-1 tvg-logo="https://pxhst.co/avaxhome/bf/a9/002ea9bf.jpeg" group-title="MOVIES",Small Soldiers (1998)
 https://archive.org/download/SmallSoldiers19981080pHevcVeronesiumbServerEncoding/Small%20Soldiers%20%281998%29%201080p%20Hevc%20%28Veronesiumb%20%20Server%20Encoding%29.mp4
@@ -2675,6 +2699,9 @@ https://archive.org/download/doa_1949/doa_1949_512kb.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Samson_and_Delilah_original_1949_poster.JPG/220px-Samson_and_Delilah_original_1949_poster.JPG" group-title="MOVIES",Samson and Delilah (1949)
 https://archive.org/download/AntonyHamiltonSamsonDelilahFullMovie/Antony%20Hamilton%20Samson%20&%20Delilah%20Full%20Movie.mp4
+
+#EXTINF:-1 tvg-logo="http://monsterhuntermoviereviews.com/wp-content/uploads/2013/07/Adventures-of-Ichabod-and-Mr.-Toad-DVD-Cover.jpg" group-title="MOVIES",The Adventures of Ichabod and Mr. Toad (1949)
+https://archive.org/download/TheLegendOfSleepyHollow_201602/The%20Legend%20Of%20Sleepy%20Hollow.mp4
 
 #EXTINF:-1 tvg-logo="http://www.aveleyman.com/Gallery/DVD/52021e1d-7ce3-4124-bdbd-13cd7c59c4eb.jpg" group-title="MOVIES",The Adventures of Jane (1949)
 https://archive.org/download/TheAdventuresOfJane1949/The%20Adventures%20of%20Jane%201949.mp4
