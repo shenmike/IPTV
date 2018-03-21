@@ -2321,22 +2321,22 @@ http://ragnaroktv.com/hls_live/kr/NATGEOKIDS_MX_HD/MzY0NbA0MzYxtgAA/natgeo_kids_
 #EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572692894-Imagen.png" group-title="LATINO PREMIUM",NatGeo MX HD
 http://ragnaroktv.com/hls_live/kr/NATGEO_MX_HD/MzY0NbA0MzYxtgAA/natgeo_mx.m3u8
 	
-#EXTINF:-1 tvg-logo="" group-title="LATINO PREMIUM",The Film Zone
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Filmzone2016.png/revision/latest?cb=20161028185024" group-title="LATINO PREMIUM",The Film Zone
 http://ragnaroktv.com/hls_live/kr/THE_FILM_ZONE_HD/MzY0NbA0MzYxtgAA/fxm.m3u8
 	
-#EXTINF:-1 tvg-logo="" group-title="LATINO PREMIUM",AE HD
+#EXTINF:-1 tvg-logo="https://imgur.com/yA8JpT1.png" group-title="LATINO PREMIUM",A+E HD
 http://ragnaroktv.com/hls_live/kr/AE_MUNDO_HD/MzY0NbA0MzYxtgAA/aehd.m3u8
 	
-#EXTINF:-1 tvg-logo="" group-title="LATINO PREMIUM",Caracol
+#EXTINF:-1 tvg-logo="http://www.todocanales.net/wp-content/uploads/2015/11/caracol-263x300-263x300.jpg" group-title="LATINO PREMIUM",Caracol
 http://ragnaroktv.com/hls_live/kr/CARACOL_HD/MzY0NbA0MzYxtgAA/caracol.m3u8
 	
-#EXTINF:-1 tvg-logo="" group-title="LATINO PREMIUM",GOLDEN PREMIER HD
+#EXTINF:-1 tvg-logo="http://www.ipuntotv.com/IMAGES/Golden-Premier-logo.png" group-title="LATINO PREMIUM",GOLDEN PREMIER HD
 http://ragnaroktv.com/hls_live/kr/GOLDEN_PREMIER_HD/MzY0NbA0MzYxtgAA/goldp.m3u8
 	
-#EXTINF:-1 tvg-logo="" group-title="LATINO PREMIUM",Fox Cinema
+#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_02/large.fox-cinema-blanco.png.8267a80d9cea1d104e0a5269171d158b.png" group-title="LATINO PREMIUM",Fox Cinema
 http://ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD/MzY0NbA0MzYxtgAA/f0x_cinema.m3u8
 	
-#EXTINF:-1 tvg-logo="" group-title="LATINO PREMIUM",Fox Series
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nNGKnmo.png" group-title="LATINO PREMIUM",Fox Series
 http://ragnaroktv.com/hls_live/kr/FOX1_HD/MzY0NbA0MzYxtgAA/f0x_series.m3u8
 
 #EXTINF:-1 tvg-logo="http://topqmedoc.com/wp-content/uploads/2014/11/Mexico-01.png" group-title="LABEL",~ Mexico TV ~
