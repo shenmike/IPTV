@@ -5043,7 +5043,7 @@ http://www.lengua.com/anthems/Oman.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.earthtvnet.com/wp-content/uploads/2016/10/Oman-TV-new.png" group-title="OMAN",Oman TV
 http://38.96.148.30:1935/live/omantv1//playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="NjLaSGghGkI7eCHfks4xmd4RWx09a3WsgCLcBGAs/s320/oman-mubasher-tv-on-nilesat-2017-2018.jpg" group-title="OMAN",Oman Mubasher
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-vBvxLBX5IIk/Wf74wmodGZI/AAAAAAAAAHg/NjLaSGghGkI7eCHfks4xmd4RWx09a3WsgCLcBGAs/s320/oman-mubasher-tv-on-nilesat-2017-2018.jpg" group-title="OMAN",Oman Mubasher
 http://38.96.148.30:1935/live/omantv3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starsofscience.com/sites/default/files/oman_tv.jpg" group-title="OMAN",Oman Documentary
