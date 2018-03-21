@@ -4782,7 +4782,7 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png" group-title="ARABIC NEWS",BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Cgtn.jpg" group-title="ARABIC NEWS",CGTN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png" group-title="ARABIC NEWS",CGTN
 http://live.cgtn.com/1000a/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="ARABIC NEWS",Deutsche Welle
@@ -4827,7 +4827,7 @@ http://www.lengua.com/anthems/Syria.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/arab_news_network.jpg" group-title="SYRIA",ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.daynewsonline.com/wp-content/uploads/2017/01/sama-tv-live.jpg" group-title="SYRIA",Sama TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Sama_TV_Logo.png" group-title="SYRIA",Sama TV
 http://sama-tv.net:1935/live/samatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.3arablive.com/wp-content/uploads/2015/09/syria-drama.jpg" group-title="SYRIA",Syria Drama
@@ -4848,7 +4848,7 @@ http://www.lengua.com/anthems/Jordan.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/2uer4go.jpg" group-title="JORDAN",Al Taghier
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://joinstreams.tv/wp-content/uploads/2016/10/Amen-FM-270x200.jpg" group-title="JORDAN",Amen FM 89.5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jordantimes.com/sites/default/files/styles/news_inner/public/3Amen%20FM.jpg" group-title="JORDAN",Amen FM 89.5
 http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.semsem.tv/images/logo2.png" group-title="JORDAN",Semsem
@@ -4860,7 +4860,7 @@ http://199.167.151.237:1935/live/sp15_47.stream/gmswf.m3u8
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Palestine-01.png" group-title="LABEL",~ Palestine TV ~
 http://users.atw.hu/szbszig/palestine.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.idfblog.com/hamas/files/2012/01/Al-Aqsa-TV.png" group-title="PALESTINE",Al Aqsa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.alarabiya.net/e0/0d/640x392_21049_250531.png" group-title="PALESTINE",Al Aqsa
 http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/al_quds_tv_palestine_channel_live_online_free_arabic_channel.JPG" group-title="PALESTINE",Al Quds TV
@@ -4878,7 +4878,7 @@ http://149.255.37.212:1935/live/alghadeer/chunklist_w1787991045.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/al_rasheed_tv_iraq_arabic_live_online_free_arabic_channel.png" group-title="IRAQ",Al Rasheed
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.awdnews.com/images/alshrkia-1_1_a5b3a.jpg" group-title="IRAQ",Al Sharqiya
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/Alsharquiya_tv.jpg" group-title="IRAQ",Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-DiN0PHymkxk/UjqtR-oQY6I/AAAAAAAACGQ/mhgOj-8Lrn0/w1200-h630-p-k-no-nu/alsharqiya+news+live+tv.png" group-title="IRAQ",Sharqiya News
@@ -4962,7 +4962,7 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uaeinteract.com/news/article_pics/uae-67398.jpg" group-title="UAE",Abu Dhabi TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Al_Aan_TV_Logo.png" group-title="UAE",Al Aan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Al_Aan_TV_Logo.png" group-title="UAE",Al Aan
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_788x442.jpg" group-title="UAE",Al Arabiya
@@ -5001,7 +5001,7 @@ http://www.lengua.com/anthems/Qatar.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.watchallchannels.com/wp-content/uploads/2015/02/Aljazeera-arabic.jpg" group-title="QATAR",Al Jazeera
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livestreamyoutube.com/wp-content/uploads/2016/05/aljaziretv.jpg" group-title="QATAR",Al Jazeera Mubasher
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://foc.afteegypt.org/wp-content/uploads/2015/12/jscmb.png" group-title="QATAR",Al Jazeera Mubasher
 http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="QATAR",Al Jazeera Documentary
@@ -5040,16 +5040,16 @@ https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.wpclipart.com/flags/country_code_buttons/.cache/om_Oman.png" group-title="LABEL",~ Oman TV ~
 http://www.lengua.com/anthems/Oman.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part.gov.om/part/english/images/omantv_general.png" group-title="OMAN",Oman TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.earthtvnet.com/wp-content/uploads/2016/10/Oman-TV-new.png" group-title="OMAN",Oman TV
 http://38.96.148.30:1935/live/omantv1//playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part.gov.om/part/english/images/oman_live.png" group-title="OMAN",Oman Mubasher
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="NjLaSGghGkI7eCHfks4xmd4RWx09a3WsgCLcBGAs/s320/oman-mubasher-tv-on-nilesat-2017-2018.jpg" group-title="OMAN",Oman Mubasher
 http://38.96.148.30:1935/live/omantv3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part.gov.om/part/english/images/cultural.png" group-title="OMAN",Oman Documentary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starsofscience.com/sites/default/files/oman_tv.jpg" group-title="OMAN",Oman Documentary
 http://38.96.148.30:1935/live/omantv4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-yCEXwQgArD8/VqpC50OgSaI/AAAAAAAAAMw/rCuOnftELJ4/s1600/omansportstv.png" group-title="OMAN",Oman Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.muhtwa.com/wp-content/uploads/قناة-عمان-الرياضية.-479x300.jpg" group-title="OMAN",Oman Sports
 http://38.96.148.30:1935/live/omantv2//playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kr.seaicons.com/wp-content/uploads/2016/03/Yemen-icon.png" group-title="LABEL",~ Yemen TV ~
