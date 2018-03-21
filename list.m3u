@@ -1995,6 +1995,350 @@ https://ssh101.com/m3u8/dyn/unonuevo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="LATINO",Univision (Opt-2)
 http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
 
+#EXTINF:-1 tvg-logo="https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png" group-title="LABEL",~ Latino Premium TV ~
+http://50.7.56.2:8016
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/03/TNT_Logo.png" group-title="LATINO PREMIUM",TNT HD
+http://ragnaroktv.com/hls_live/kr/TNT_HD/MzY0NbA0MzYxtgAA/tnt.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487099902532-Imagen.png" group-title="LATINO PREMIUM",Studio Universal
+http://ragnaroktv.com/hls_live/kr/STUDIO_UNIVERSAL/MzY0NbA0MzYxtgAA/stdio_univ.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471901230151-Imagen.png" group-title="LATINO PREMIUM",Space HD
+http://ragnaroktv.com/hls_live/kr/SPACE_HD/MzY0NbA0MzYxtgAA/space.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471901933899-Imagen.png" group-title="LATINO PREMIUM",AMC HD
+http://ragnaroktv.com/hls_live/kr/AMC_HD/MzY0NbA0MzYxtgAA/amc.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487024510541-Imagen.png" group-title="LATINO PREMIUM",CINEMAX
+http://ragnaroktv.com/hls_live/kr/CINEMAX/MzY0NbA0MzYxtgAA/c1nemax.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581305400-Imagen.png" group-title="LATINO PREMIUM",GOLDEN HD
+http://ragnaroktv.com/hls_live/kr/GOLDEN_HD/MzY0NbA0MzYxtgAA/golden.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471903283991-Imagen.png" group-title="LATINO PREMIUM",MULTIPREMIER
+http://ragnaroktv.com/hls_live/kr/MULTIPREMIER/MzY0NbA0MzYxtgAA/multipremier.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471903394359-Imagen.png" group-title="LATINO PREMIUM",CINE LATINO
+http://ragnaroktv.com/hls_live/kr/CINELATINO/MzY0NbA0MzYxtgAA/cinelatino.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498580335989-Imagen.png" group-title="LATINO PREMIUM",CINECANAL HD
+http://ragnaroktv.com/hls_live/kr/CINECANAL_HD/MzY0NbA0MzYxtgAA/cinecanal.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471903766643-Imagen.png" group-title="LATINO PREMIUM",CINEMA DINAMITA
+http://ragnaroktv.com/hls_live/kr/CINEMA_DINAMITA/MzY0NbA0MzYxtgAA/cinema_dinamita.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498580395733-Imagen.png" group-title="LATINO PREMIUM",PARAMOUNT HD
+http://ragnaroktv.com/hls_live/kr/PARAMOUNT_HD/MzY0NbA0MzYxtgAA/param.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471986058450-Imagen.png" group-title="LATINO PREMIUM",TBS HD
+http://ragnaroktv.com/hls_live/kr/TBS_HD/MzY0NbA0MzYxtgAA/tbs.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487887162711-Imagen.png" group-title="LATINO PREMIUM",EURO CHANNEL
+http://ragnaroktv.com/hls_live/kr/EUROCHANNEL/MzY0NbA0MzYxtgAA/eurochannel.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487099996739-Imagen.png" group-title="LATINO PREMIUM",DEPELICULA
+http://ragnaroktv.com/hls_live/kr/DEPELICULA/MzY0NbA0MzYxtgAA/depelicula.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473787057771-Imagen.png" group-title="LATINO PREMIUM",ISAT
+http://ragnaroktv.com/hls_live/kr/ISAT/MzY0NbA0MzYxtgAA/isat.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473877797392-Imagen.png" group-title="LATINO PREMIUM",TCM
+http://ragnaroktv.com/hls_live/kr/TCM/MzY0NbA0MzYxtgAA/tcm.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573587778-Imagen.png" group-title="LATINO PREMIUM",FOX SPORTS HD
+http://ragnaroktv.com/hls_live/kr/FOX_SPORTS_HD/MzY0NbA0MzYxtgAA/foxsports.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573629563-Imagen.png" group-title="LATINO PREMIUM",FOX SPORTS2 HD
+http://ragnaroktv.com/hls_live/kr/FOX_SPORTS2_HD/MzY0NbA0MzYxtgAA/foxsports2.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573876718-Imagen.png" group-title="LATINO PREMIUM",FOX SPORTS3 HD
+http://ragnaroktv.com/hls_live/kr/FOX_SPORTS3_HD/MzY0NbA0MzYxtgAA/foxsports3.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498578654908-Imagen.png" group-title="LATINO PREMIUM",WIN SPORTS HD
+http://ragnaroktv.com/hls_live/kr/WINSPORTS_HD/MzY0NbA0MzYxtgAA/winsports.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472073265704-Imagen.png" group-title="LATINO PREMIUM",CLARO SPORTS Colombia
+http://ragnaroktv.com/hls_live/kr/CLARO_SPORTS_COL_HD/MzY0NbA0MzYxtgAA/clspoco.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573482363-Imagen.png" group-title="LATINO PREMIUM",ESPN HD
+http://ragnaroktv.com/hls_live/kr/ESPN_HD/MzY0NbA0MzYxtgAA/espn.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573513719-Imagen.png" group-title="LATINO PREMIUM",ESPN 2 HD
+http://ragnaroktv.com/hls_live/kr/ESPN_2_HD/MzY0NbA0MzYxtgAA/espn2.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573545513-Imagen.png" group-title="LATINO PREMIUM",ESPN 3 HD
+http://ragnaroktv.com/hls_live/kr/ESPN_3_HD/MzY0NbA0MzYxtgAA/espn3_kr.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573434219-Imagen.png" group-title="LATINO PREMIUM",ESPN + HD
+http://ragnaroktv.com/hls_live/kr/ESPN_PLUS_HD/MzY0NbA0MzYxtgAA/espn_plus.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473788260677-Imagen.png" group-title="LATINO PREMIUM",GOLF CHANNEL HD
+http://ragnaroktv.com/hls_live/kr/GOLF_CHANNEL_HD/MzY0NbA0MzYxtgAA/golfchannel.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471985648368-Imagen.png" group-title="LATINO PREMIUM",WARNER HD
+http://ragnaroktv.com/hls_live/kr/WARNER_HD/MzY0NbA0MzYxtgAA/warner.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471985711231-Imagen.png" group-title="LATINO PREMIUM",AXN HD
+http://ragnaroktv.com/hls_live/kr/AXN_HD/MzY0NbA0MzYxtgAA/axn.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487089143442-Imagen.png" group-title="LATINO PREMIUM",SONY HD
+http://ragnaroktv.com/hls_live/kr/SONY_HD/MzY0NbA0MzYxtgAA/sony.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498579684862-Imagen.png" group-title="LATINO PREMIUM",FOX HD
+http://ragnaroktv.com/hls_live/kr/FOX_HD/MzY0NbA0MzYxtgAA/f0x.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498579731673-Imagen.png" group-title="LATINO PREMIUM",UNIVERSAL CHANNEL
+http://ragnaroktv.com/hls_live/kr/UNIVERSAL_CHANNEL/MzY0NbA0MzYxtgAA/univers.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498579768608-Imagen.png" group-title="LATINO PREMIUM",FX HD
+http://ragnaroktv.com/hls_live/kr/FX_HD/MzY0NbA0MzYxtgAA/fx.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498579819006-Imagen.png" group-title="LATINO PREMIUM",FOX LIFE HD
+http://ragnaroktv.com/hls_live/kr/FOX_LIFE_HD/MzY0NbA0MzYxtgAA/f0xlife.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498579907239-Imagen.png" group-title="LATINO PREMIUM",TNT SERIES HD
+http://ragnaroktv.com/hls_live/kr/TNT_SERIES_HD/MzY0NbA0MzYxtgAA/tnt_ser.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498580040425-Imagen.png" group-title="LATINO PREMIUM",COMEDY CENTRAL HD
+http://ragnaroktv.com/hls_live/kr/COMEDY_CENTRAL_HD/MzY0NbA0MzYxtgAA/cc.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573157993-Imagen.png" group-title="LATINO PREMIUM",TRU TV HD
+http://ragnaroktv.com/hls_live/kr/TRU_TV_HD/MzY0NbA0MzYxtgAA/trutv_hd.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506377479689-Imagen.jpg" group-title="LATINO PREMIUM",ID_HD
+http://ragnaroktv.com/hls_live/kr/ID_HD/MzY0NbA0MzYxtgAA/idhd.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1486494802721-Imagen.png" group-title="LATINO PREMIUM",MTV HD
+http://ragnaroktv.com/hls_live/kr/MTV_HD/MzY0NbA0MzYxtgAA/mtvhd.m3u8
+	
+ 
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498580515540-Imagen.png" group-title="LATINO PREMIUM",MTV_LIVE_HD
+http://ragnaroktv.com/hls_live/kr/MTV_LIVE_HD/MzY0NbA0MzYxtgAA/mtvl1ve.m3u8
+	
+ 
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487887355106-Imagen.png" group-title="LATINO PREMIUM",VH1
+http://ragnaroktv.com/hls_live/kr/VH1/MzY0NbA0MzYxtgAA/vh1.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498580474752-Imagen.png" group-title="LATINO PREMIUM",VH1 HD
+http://ragnaroktv.com/hls_live/kr/VH1_HD/MzY0NbA0MzYxtgAA/vh1hd.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473872881661-Imagen.png" group-title="LATINO PREMIUM",VH1 CLASSIC
+http://ragnaroktv.com/hls_live/kr/VH1_CLASSIC/MzY0NbA0MzYxtgAA/vh1class.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473788338549-Imagen.png" group-title="LATINO PREMIUM",MTV HITS
+http://ragnaroktv.com/hls_live/kr/MTV_HITS/MzY0NbA0MzYxtgAA/mtvh.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572033287-Imagen.png" group-title="LATINO PREMIUM",DISCOVERY KIDS HD
+http://ragnaroktv.com/hls_live/kr/DISCOVERY_KIDS_HD/MzY0NbA0MzYxtgAA/disc_kids.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487886922885-Imagen.png" group-title="LATINO PREMIUM",DISNEY XD
+http://ragnaroktv.com/hls_live/kr/DISNEY_XD/MzY0NbA0MzYxtgAA/d1sneyxd.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572092429-Imagen.png" group-title="LATINO PREMIUM",CARTOON NETWORK HD
+http://ragnaroktv.com/hls_live/kr/CARTOON_NETWORK_HD/MzY0NbA0MzYxtgAA/cart_net.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581955384-Imagen.png" group-title="LATINO PREMIUM",DISNEY HD
+http://ragnaroktv.com/hls_live/kr/DISNEY_HD/MzY0NbA0MzYxtgAA/d1sney.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471985041439-Imagen.png" group-title="LATINO PREMIUM",DISNEY JR
+http://ragnaroktv.com/hls_live/kr/DISNEY_JR/MzY0NbA0MzYxtgAA/d1sneyjr.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506377273876-Imagen.jpg" group-title="LATINO PREMIUM",NICKELODEON HD
+http://ragnaroktv.com/hls_live/kr/NICKELODEON_HD/MzY0NbA0MzYxtgAA/nick.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572234457-Imagen.png" group-title="LATINO PREMIUM",BOOMERANG
+http://ragnaroktv.com/hls_live/kr/BOOMERANG/MzY0NbA0MzYxtgAA/boomerang.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472055414268-Imagen.png" group-title="LATINO PREMIUM",TOONCAST
+http://ragnaroktv.com/hls_live/kr/TOONCAST/MzY0NbA0MzYxtgAA/tooncast.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1505316301766-Imagen.jpg" group-title="LATINO PREMIUM",NATGEO KIDS HD
+http://ragnaroktv.com/hls_live/kr/NATGEO_KIDS_HD/MzY0NbA0MzYxtgAA/natgeo_kids.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581038497-Imagen.png" group-title="LATINO PREMIUM",NICK 2 HD
+http://ragnaroktv.com/hls_live/kr/NICK_2_HD/MzY0NbA0MzYxtgAA/nick2.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573359026-Imagen.png" group-title="LATINO PREMIUM",CABLENOTICIAS HD
+http://ragnaroktv.com/hls_live/kr/CABLENOTICIAS_HD/MzY0NbA0MzYxtgAA/cablenoticias.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506377651117-Imagen.jpg" group-title="LATINO PREMIUM",CNN ESPANOL
+http://ragnaroktv.com/hls_live/kr/CNN_ESPANOL/MzY0NbA0MzYxtgAA/cnnee.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572820434-Imagen.png" group-title="LATINO PREMIUM",DISCOVERY HOME HEALTH HD
+http://ragnaroktv.com/hls_live/kr/DISCOVERY_HOME_HEALTH_HD/MzY0NbA0MzYxtgAA/disc_hh.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572897642-Imagen.png" group-title="LATINO PREMIUM",GOURMET HD
+http://ragnaroktv.com/hls_live/kr/GOURMET_HD/MzY0NbA0MzYxtgAA/elgourmet.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487886990303-Imagen.png" group-title="LATINO PREMIUM",E ENTERTAINMET
+http://ragnaroktv.com/hls_live/kr/E/MzY0NbA0MzYxtgAA/e_ent.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506444993104-Imagen.jpg" group-title="LATINO PREMIUM",ESTRELLAS HD
+http://ragnaroktv.com/hls_live/kr/CANAL_DE_LAS_ESTRELLAS/MzY0NbA0MzYxtgAA/estrellas_latam.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487090234349-Imagen.png" group-title="LATINO PREMIUM",RCN TELENOVELAS
+http://ragnaroktv.com/hls_live/kr/RCN_TELENOVELAS/MzY0NbA0MzYxtgAA/rcn_tln.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472051505187-Imagen.png" group-title="LATINO PREMIUM",TELEMUNDO
+http://ragnaroktv.com/hls_live/kr/TELEMUNDO/MzY0NbA0MzYxtgAA/telemun_int.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472055576209-Imagen.png" group-title="LATINO PREMIUM",UNICABLE
+http://ragnaroktv.com/hls_live/kr/UNICABLE/MzY0NbA0MzYxtgAA/unicable.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1499787235006-Imagen.jpg" group-title="LATINO PREMIUM",VEPLUS TV
+http://ragnaroktv.com/hls_live/kr/VEPLUSTV/MzY0NbA0MzYxtgAA/veplus.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472051831335-Imagen.png" group-title="LATINO PREMIUM",PASIONES HD
+http://ragnaroktv.com/hls_live/kr/PASIONES_HD/MzY0NbA0MzYxtgAA/pasiones.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581207166-Imagen.png" group-title="LATINO PREMIUM",AZMUNDO HD
+http://ragnaroktv.com/hls_live/kr/AZMUNDO_HD/MzY0NbA0MzYxtgAA/azmundo.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581240996-Imagen.png" group-title="LATINO PREMIUM",AZCORAZON HD
+http://ragnaroktv.com/hls_live/kr/AZCORAZON_HD/MzY0NbA0MzYxtgAA/azcorazon.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472056833591-Imagen.png" group-title="LATINO PREMIUM",TVE
+http://ragnaroktv.com/hls_live/kr/TVE/MzY0NbA0MzYxtgAA/tve.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487887735895-Imagen.png" group-title="LATINO PREMIUM",RAI
+http://ragnaroktv.com/hls_live/kr/RAI/MzY0NbA0MzYxtgAA/rai.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1487887785942-Imagen.png" group-title="LATINO PREMIUM",TV5
+http://ragnaroktv.com/hls_live/kr/TV5/MzY0NbA0MzYxtgAA/tv5.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507136423580-Imagen.jpg" group-title="LATINO PREMIUM",DW
+http://ragnaroktv.com/hls_live/kr/DW/MzY0NbA0MzYxtgAA/dw.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472057666622-Imagen.png" group-title="LATINO PREMIUM",ANTENA3
+http://ragnaroktv.com/hls_live/kr/ANTENA3/MzY0NbA0MzYxtgAA/antena3.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1503518542263-Imagen.jpg" group-title="LATINO PREMIUM",CARACOL HD
+http://ragnaroktv.com/hls_live/kr/CARACOL_INT/MzY0NbA0MzYxtgAA/caracol_int.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572442553-Imagen.png" group-title="LATINO PREMIUM",DISCOVERY WORLD HD
+http://ragnaroktv.com/hls_live/kr/DISCOVERY_WORLD_HD/MzY0NbA0MzYxtgAA/world.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506377601533-Imagen.jpg" group-title="LATINO PREMIUM",DISCOVERY CHANNEL HD
+http://ragnaroktv.com/hls_live/kr/DISCOVERY_CHANNEL_HD/MzY0NbA0MzYxtgAA/discovery_channel_hd.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506719700577-Imagen.jpg" group-title="LATINO PREMIUM",DISCOVERY THEATER HD
+http://ragnaroktv.com/hls_live/kr/DISCOVERY_THEATER_HD/MzY0NbA0MzYxtgAA/theater.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472055485257-Imagen.png" group-title="LATINO PREMIUM",DISCOVERY CIVILIZATION
+http://ragnaroktv.com/hls_live/kr/DISCOVERY_CIVILIZATION/MzY0NbA0MzYxtgAA/disc_civil.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1473875960218-Imagen.png" group-title="LATINO PREMIUM",DISCOVERY SCIENCE
+http://ragnaroktv.com/hls_live/kr/DISCOVERY_SCIENCE/MzY0NbA0MzYxtgAA/disc_science.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506719725365-Imagen.jpg" group-title="LATINO PREMIUM",ANIMAL PLANET HD
+http://ragnaroktv.com/hls_live/kr/ANIMAL_PLANET_HD/MzY0NbA0MzYxtgAA/anim_planet.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572566456-Imagen.png" group-title="LATINO PREMIUM",HISTORY CHANNEL HD
+http://ragnaroktv.com/hls_live/kr/HISTORY_CHANNEL_HD/MzY0NbA0MzYxtgAA/history.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471987397952-Imagen.png" group-title="LATINO PREMIUM",H2
+http://ragnaroktv.com/hls_live/kr/H2/MzY0NbA0MzYxtgAA/h2.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572692894-Imagen.png" group-title="LATINO PREMIUM",NATGEO HD
+http://ragnaroktv.com/hls_live/kr/NATGEO_HD/MzY0NbA0MzYxtgAA/natgeo.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471987463321-Imagen.png" group-title="LATINO PREMIUM",DISCOVERY TURBO
+http://ragnaroktv.com/hls_live/kr/DISCOVERY_TURBO/MzY0NbA0MzYxtgAA/disc_turbo.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1506719795345-Imagen.jpg" group-title="LATINO PREMIUM",TLC HD
+http://ragnaroktv.com/hls_live/kr/TLC_HD/MzY0NbA0MzYxtgAA/tlc.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1505167635321-Imagen.png" group-title="LATINO PREMIUM",CANAL UNO HD
+http://ragnaroktv.com/hls_live/kr/CANAL_UNO_HD/MzY0NbA0MzYxtgAA/uno.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471991450604-Imagen.png" group-title="LATINO PREMIUM",CITY TV
+http://ragnaroktv.com/hls_live/kr/CITY_TV/MzY0NbA0MzYxtgAA/citytv.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1472074964273-Imagen.png" group-title="LATINO PREMIUM",CONCERT CHANNEL HD
+http://ragnaroktv.com/hls_live/kr/CONCERT_CHANNEL_HD/MzY0NbA0MzYxtgAA/concert.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581162485-Imagen.png" group-title="LATINO PREMIUM",HOLA TV HD
+http://ragnaroktv.com/hls_live/kr/HOLA_TV_HD/MzY0NbA0MzYxtgAA/hola.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581272504-Imagen.png" group-title="LATINO PREMIUM",SUNDANCE HD
+http://ragnaroktv.com/hls_live/kr/SUNDANCE_HD/MzY0NbA0MzYxtgAA/sundance.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581359710-Imagen.png" group-title="LATINO PREMIUM",DHE HD
+http://ragnaroktv.com/hls_live/kr/DHE_HD/MzY0NbA0MzYxtgAA/dhe.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1505946140111-Imagen.jpg" group-title="LATINO PREMIUM",HBO HD SUB
+http://ragnaroktv.com/hls_live/kr/HBO_HD_SUB/MzY0NbA0MzYxtgAA/hbohd_sub.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1508876420732-Imagen.jpg" group-title="LATINO PREMIUM",HBO 2 HD
+http://ragnaroktv.com/hls_live/kr/HBO_2_HD/MzY0NbA0MzYxtgAA/hb02.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1508876486946-Imagen.jpg" group-title="LATINO PREMIUM",HBO FAMILY HD
+http://ragnaroktv.com/hls_live/kr/HBO_FAMILY_HD/MzY0NbA0MzYxtgAA/hb0fam.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147061098-Imagen.jpg" group-title="LATINO PREMIUM",HBO PLUS HD
+http://ragnaroktv.com/hls_live/kr/HBO_PLUS_HD/MzY0NbA0MzYxtgAA/hboplus.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1508876539813-Imagen.jpg" group-title="LATINO PREMIUM",HBO SIGNATURE HD
+http://ragnaroktv.com/hls_live/kr/HBO_SIGNATURE_HD/MzY0NbA0MzYxtgAA/hbosign.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1508876603797-Imagen.jpg" group-title="LATINO PREMIUM",MAX PRIME HD
+http://ragnaroktv.com/hls_live/kr/MAX_PRIME_HD/MzY0NbA0MzYxtgAA/m4x_prime.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1508876345319-Imagen.jpg" group-title="LATINO PREMIUM",MAX UP HD
+http://ragnaroktv.com/hls_live/kr/MAX_UP_HD/MzY0NbA0MzYxtgAA/m4xup.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147780331-Imagen.jpg" group-title="LATINO PREMIUM",FOX CINEMA HD
+http://ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD_SUB/MzY0NbA0MzYxtgAA/f0x_cinema_sub.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147558092-Imagen.jpg" group-title="LATINO PREMIUM",FOX ACTION MX
+http://ragnaroktv.com/hls_live/kr/FOX_ACTION_MEXICO_HD/MzY0NbA0MzYxtgAA/fox_action_mx.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147558092-Imagen.jpg" group-title="LATINO PREMIUM",FOXACTION HD
+http://ragnaroktv.com/hls_live/kr/FOXACTION_HD/MzY0NbA0MzYxtgAA/foxaction.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147201257-Imagen.jpg" group-title="LATINO PREMIUM",FOXMOVIES HD
+http://ragnaroktv.com/hls_live/kr/FOXMOVIES_HD/MzY0NbA0MzYxtgAA/f0x_movies.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147589162-Imagen.jpg" group-title="LATINO PREMIUM",FOX CLASSICS HD
+http://ragnaroktv.com/hls_live/kr/FOX_CLASSICS_HD/MzY0NbA0MzYxtgAA/f0x_classics.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147642766-Imagen.jpg" group-title="LATINO PREMIUM",FOX COMEDY HD
+http://ragnaroktv.com/hls_live/kr/FOX_COMEDY_HD/MzY0NbA0MzYxtgAA/f0x_comedy.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1507147328276-Imagen.jpg" group-title="LATINO PREMIUM",FOXFAMILY HD
+http://ragnaroktv.com/hls_live/kr/FOXFAMILY_HD/MzY0NbA0MzYxtgAA/f0x_family.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573629563-Imagen.png" group-title="LATINO PREMIUM",FOX Sports 2 MX HD
+http://ragnaroktv.com/hls_live/kr/FOXSP2_MX_HD/MzY0NbA0MzYxtgAA/f0xsports2mx.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498573587778-Imagen.png" group-title="LATINO PREMIUM",Fox Sports MX HD
+http://ragnaroktv.com/hls_live/kr/FOXSP1_MX_HD/MzY0NbA0MzYxtgAA/f0xsportsmx.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1505316301766-Imagen.jpg" group-title="LATINO PREMIUM",Nat geo KIDS MX
+http://ragnaroktv.com/hls_live/kr/NATGEOKIDS_MX_HD/MzY0NbA0MzYxtgAA/natgeo_kids_mx.m3u8
+	
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1498572692894-Imagen.png" group-title="LATINO PREMIUM",NatGeo MX HD
+http://ragnaroktv.com/hls_live/kr/NATGEO_MX_HD/MzY0NbA0MzYxtgAA/natgeo_mx.m3u8
+	
+#EXTINF:-1 tvg-logo="" group-title="LATINO PREMIUM",The Film Zone
+http://ragnaroktv.com/hls_live/kr/THE_FILM_ZONE_HD/MzY0NbA0MzYxtgAA/fxm.m3u8
+	
+#EXTINF:-1 tvg-logo="" group-title="LATINO PREMIUM",AE HD
+http://ragnaroktv.com/hls_live/kr/AE_MUNDO_HD/MzY0NbA0MzYxtgAA/aehd.m3u8
+	
+#EXTINF:-1 tvg-logo="" group-title="LATINO PREMIUM",Caracol
+http://ragnaroktv.com/hls_live/kr/CARACOL_HD/MzY0NbA0MzYxtgAA/caracol.m3u8
+	
+#EXTINF:-1 tvg-logo="" group-title="LATINO PREMIUM",GOLDEN PREMIER HD
+http://ragnaroktv.com/hls_live/kr/GOLDEN_PREMIER_HD/MzY0NbA0MzYxtgAA/goldp.m3u8
+	
+#EXTINF:-1 tvg-logo="" group-title="LATINO PREMIUM",Fox Cinema
+http://ragnaroktv.com/hls_live/kr/FOX_CINEMA_HD/MzY0NbA0MzYxtgAA/f0x_cinema.m3u8
+	
+#EXTINF:-1 tvg-logo="" group-title="LATINO PREMIUM",Fox Series
+http://ragnaroktv.com/hls_live/kr/FOX1_HD/MzY0NbA0MzYxtgAA/f0x_series.m3u8
+
 #EXTINF:-1 tvg-logo="http://topqmedoc.com/wp-content/uploads/2014/11/Mexico-01.png" group-title="LABEL",~ Mexico TV ~
 http://www.lengua.com/anthems/Mexico.mp3
 
