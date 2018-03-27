@@ -2025,6 +2025,9 @@ http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IYAUy9V.png" group-title="LATINO",Locomotion TV
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/0nU2hnl.png" group-title="LATINO",Los Simpsons 24/7
+https://59583158c050f.streamlock.net/7186/7186/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/cinefilia/las-25-curiosidades-de-los-simpson-que-no-conocias/31602553-1-esl-ES/Las-25-curiosidades-de-Los-Simpson-que-no-conocias_landscape.jpg" group-title="LATINO",Los Simpson VOD
 https://goo.gl/PWd25F
 
@@ -2316,8 +2319,8 @@ http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hWMFLTh.png" group-title="ARGENTINA",Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tp4oYpJ.png" group-title="ARGENTINA",Pakapaka
-http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tp4oYpJ.png" group-title="ARGENTINA",Pakapaka (New!)
+http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-pkpk/_definst_/live/stream1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TAtCcM0.png" group-title="ARGENTINA",Power HD
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
@@ -2937,8 +2940,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/pr.png" group-title="LABEL",~ Puerto Rico TV ~
 http://www.lengua.com/anthems/PuertoRico.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dominicanchannels.net/wp-content/uploads/2013/07/acs.jpg" group-title="PUERTO RICO",ACS Network
-http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dominicanchannels.net/wp-content/uploads/2013/07/acs.jpg" group-title="PUERTO RICO",ACS Network (New!)
+http://us1.edge.grupoz.cl/acsnetwork/live/chunklist_w1826949676.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-6yYNELU2luw/Ve4b4VQ6DJI/AAAAAAAAx7Y/YAEejFNDPMk/s1600/60%2Ba%25C3%25B1os%2BWAPA%2BTV%2BLOGO.png" group-title="PUERTO RICO",WAPA TV (New!)
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535231/master.m3u8
