@@ -2013,8 +2013,8 @@ http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="LATINO",Deutsche Welle
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gamba.fm/wp/wp-content/uploads/2017/09/Futurama.jpg" group-title="LATINO",Futurama VOD
-https://goo.gl/DZSUJc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gamba.fm/wp/wp-content/uploads/2017/09/Futurama.jpg" group-title="LATINO",Futurama VOD (New!)
+http://tecnotv.xyz/futurama.php
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lnRYeBB.png" group-title="LATINO",HispanTV
 http://107.189.40.49:1935/live/hispantv/playlist.m3u8
@@ -2028,8 +2028,8 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0nU2hnl.png" group-title="LATINO",Los Simpsons 24/7
 https://59583158c050f.streamlock.net/7186/7186/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/cinefilia/las-25-curiosidades-de-los-simpson-que-no-conocias/31602553-1-esl-ES/Las-25-curiosidades-de-Los-Simpson-que-no-conocias_landscape.jpg" group-title="LATINO",Los Simpson VOD
-https://goo.gl/PWd25F
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/cinefilia/las-25-curiosidades-de-los-simpson-que-no-conocias/31602553-1-esl-ES/Las-25-curiosidades-de-Los-Simpson-que-no-conocias_landscape.jpg" group-title="LATINO",Los Simpson VOD (New!)
+http://tecnotv.xyz/simpson.php
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K52brqr.png" group-title="LATINO",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
